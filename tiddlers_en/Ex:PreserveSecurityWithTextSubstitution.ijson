@@ -1,5 +1,5 @@
 {
-  "title": _("Ex:PreserveSecurityWithTextSubstitution"),
+  "title": "Ex:PreserveSecurityWithTextSubstitution",
   "complete": "",
   "created": "20210207223713616",
   "length": "s",
@@ -7,5 +7,6 @@
   "origin": "Text Substitution",
   "tags": "Exercise",
   "type": "text/vnd.tiddlywiki",
-  "text": _("Change the filter in [[Ex:BypassSecurityWithTextSubstitution]] so that it is not vulnerable to this kind of manipulation. (Of course, the user could still just edit the tiddler and remove the authentication altogether. TiddlyWiki is not a suitable environment when users need to have limited access.)")
+  "text": _("Change the filter in [[Ex:BypassSecurityWithTextSubstitution]] so that it is not vulnerable to this kind of manipulation. (Of course, the user could still just edit the tiddler and remove the authentication altogether. TiddlyWiki is not a suitable environment when users need to have limited access.)"),
+  "human_title": _("Ex:PreserveSecurityWithTextSubstitution")
 }

@@ -1,5 +1,5 @@
 {
-  "title": _("Ta:20210107184506733"),
+  "title": "Ta:20210107184506733",
   "answer": "When the tiddler is being rendered as part of the sidebar.",
   "created": "20210107184507891",
   "modified": "20210418141629203",
@@ -7,5 +7,6 @@
   "qtype": "rememberq",
   "question": "In what common context is the `currentTiddler` variable not defined at all?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki"
+  "type": "text/vnd.tiddlywiki",
+  "human_title": _("Ta:20210107184506733")
 }

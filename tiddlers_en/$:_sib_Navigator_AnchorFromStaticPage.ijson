@@ -1,8 +1,9 @@
 {
-  "title": _("$:/sib/Navigator/AnchorFromStaticPage"),
+  "title": "$:/sib/Navigator/AnchorFromStaticPage",
   "created": "20210819150338912",
   "modified": "20210819205654231",
   "tags": "",
   "type": "text/vnd.tiddlywiki",
-  "text": _("<a href={{{ [all[current]encodeuri[]search-replace[/],[%2F]search-replace[:],[%3A]addprefix[https://groktiddlywiki.com/read/#]] }}}>the wiki version of this page</a>")
+  "text": _("<a href={{{ [all[current]encodeuri[]search-replace[/],[%2F]search-replace[:],[%3A]addprefix[https://groktiddlywiki.com/read/#]] }}}>the wiki version of this page</a>"),
+  "human_title": _("$:/sib/Navigator/AnchorFromStaticPage")
 }

@@ -1,10 +1,11 @@
 {
-  "title": _("Ex:EisVariable"),
+  "title": "Ex:EisVariable",
   "created": "20200603201028095",
   "length": "s",
   "modified": "20210130174406407",
   "origin": "Variables",
   "tags": "Exercise",
   "type": "text/vnd.tiddlywiki",
-  "text": _("In the tiddler above, define a second variable called `eis` with the value `Employee Information System`, and replace all references to the EIS or Employee Information System with the value of the `eis` variable. Make sure the disclaimer still shows up correctly.")
+  "text": _("In the tiddler above, define a second variable called `eis` with the value `Employee Information System`, and replace all references to the EIS or Employee Information System with the value of the `eis` variable. Make sure the disclaimer still shows up correctly."),
+  "human_title": _("Ex:EisVariable")
 }

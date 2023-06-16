@@ -1,8 +1,9 @@
 {
-  "title": _("Sn:JaneDoeJournalStart"),
+  "title": "Sn:JaneDoeJournalStart",
   "created": "20210116192522661",
   "modified": "20210123173018341",
   "tags": "",
   "type": "text/vnd.tiddlywiki",
-  "text": _("!! Journal\n\nJaneDoe welcomed me to the company and helped me set up my computer and employee profile.")
+  "text": _("!! Journal\n\nJaneDoe welcomed me to the company and helped me set up my computer and employee profile."),
+  "human_title": _("Sn:JaneDoeJournalStart")
 }

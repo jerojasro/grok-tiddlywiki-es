@@ -1,5 +1,5 @@
 {
-  "title": _("Ta:20210130223903147"),
+  "title": "Ta:20210130223903147",
   "answer": "Writing the notes prompts you to think about the information more deeply, so you are more likely to remember it without needing the notes in the future.",
   "created": "20210130223904258",
   "modified": "20210409141407324",
@@ -7,5 +7,6 @@
   "qtype": "rememberq",
   "question": "Explain how notes help you //integrate// information (one of their three functions).",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki"
+  "type": "text/vnd.tiddlywiki",
+  "human_title": _("Ta:20210130223903147")
 }

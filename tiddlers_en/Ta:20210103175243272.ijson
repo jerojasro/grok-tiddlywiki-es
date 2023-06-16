@@ -1,5 +1,5 @@
 {
-  "title": _("Ta:20210103175243272"),
+  "title": "Ta:20210103175243272",
   "answer": "`[img [https://example.com/image.png]]`",
   "created": "20210103175244683",
   "modified": "20210410185254067",
@@ -7,5 +7,6 @@
   "qtype": "rememberq",
   "question": "What wikitext syntax would you use to display an image hosted on the web at `https://example.com/image.png` within a tiddler in your wiki? (Do not make the image itself a tiddler in your wiki.)",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki"
+  "type": "text/vnd.tiddlywiki",
+  "human_title": _("Ta:20210103175243272")
 }

@@ -1,8 +1,9 @@
 {
-  "title": _("Sn:MacroCallTransclusion"),
+  "title": "Sn:MacroCallTransclusion",
   "created": "20210818205917912",
   "modified": "20210818210256048",
   "tags": "",
   "type": "text/vnd.tiddlywiki",
-  "text": _("\\define partial-name(suffix) Tiddler $suffix$\n\n{{{ [<partial-name \"Forty-Two\">] }}}")
+  "text": _("\\define partial-name(suffix) Tiddler $suffix$\n\n{{{ [<partial-name \"Forty-Two\">] }}}"),
+  "human_title": _("Sn:MacroCallTransclusion")
 }

@@ -1,5 +1,5 @@
 {
-  "title": _("Ta:20201229151146289"),
+  "title": "Ta:20201229151146289",
   "answer": "By dragging and dropping them on the //Open// tab of the sidebar.",
   "created": "20201229151149028",
   "modified": "20210409125129381",
@@ -7,5 +7,6 @@
   "qtype": "rememberq",
   "question": "How can you reorder the tiddlers currently displayed in the story river?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki"
+  "type": "text/vnd.tiddlywiki",
+  "human_title": _("Ta:20201229151146289")
 }

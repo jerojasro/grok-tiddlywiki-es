@@ -1,5 +1,5 @@
 {
-  "title": _("Ta:20201231183815120"),
+  "title": "Ta:20201231183815120",
   "answer": "`<$macrocall $name=\"showRedText\" text={{!!warning}}/>`",
   "created": "20201231183816473",
   "modified": "20210409201602515",
@@ -7,5 +7,6 @@
   "qtype": "rememberq",
   "question": "What wikitext syntax would you use to call a macro named `showRedText` with a parameter `text` set to the value of the `warning` field of the current tiddler?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki"
+  "type": "text/vnd.tiddlywiki",
+  "human_title": _("Ta:20201231183815120")
 }

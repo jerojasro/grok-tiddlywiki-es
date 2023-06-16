@@ -1,5 +1,5 @@
 {
-  "title": _("Ta:20210107233516001"),
+  "title": "Ta:20210107233516001",
   "answer": "`<$edit-text tag=\"input\" tiddler=<<describedTiddler>> field=\"description\"/>`",
   "created": "20210107233530534",
   "modified": "20210418161002485",
@@ -7,5 +7,6 @@
   "qtype": "rememberq",
   "question": "Write wikitext to display a single-line textbox which is bound to the `description` field of the tiddler whose name is stored in the `describedTiddler` variable.",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki"
+  "type": "text/vnd.tiddlywiki",
+  "human_title": _("Ta:20210107233516001")
 }

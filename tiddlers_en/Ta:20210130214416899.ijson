@@ -1,5 +1,5 @@
 {
-  "title": _("Ta:20210130214416899"),
+  "title": "Ta:20210130214416899",
   "answer": "A tag pill.",
   "created": "20210130214417669",
   "modified": "20210409020147458",
@@ -7,5 +7,6 @@
   "qtype": "rememberq",
   "question": "What is the colored ellipse around a tag's name in TiddlyWiki called?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki"
+  "type": "text/vnd.tiddlywiki",
+  "human_title": _("Ta:20210130214416899")
 }

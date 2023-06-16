@@ -1,8 +1,9 @@
 {
-  "title": _("Sn:ConceptTabs"),
+  "title": "Sn:ConceptTabs",
   "created": "20210103172939715",
   "modified": "20210410185433235",
   "tags": "",
   "type": "text/vnd.tiddlywiki",
-  "text": _("<<tabs \"[all[shadows+tiddlers]tag[Concept]]\" \"Tiddlers\">>")
+  "text": _("<<tabs \"[all[shadows+tiddlers]tag[Concept]]\" \"Tiddlers\">>"),
+  "human_title": _("Sn:ConceptTabs")
 }

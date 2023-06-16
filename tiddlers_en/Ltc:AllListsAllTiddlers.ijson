@@ -1,9 +1,10 @@
 {
-  "title": _("Ltc:AllListsAllTiddlers"),
+  "title": "Ltc:AllListsAllTiddlers",
   "created": "20210131163920553",
   "description": "all of your tiddlers",
   "modified": "20210409123355214",
   "tags": "Lie",
   "type": "text/vnd.tiddlywiki",
-  "text": _("Actually, neither [[System Tiddlers]] nor [[Shadow Tiddlers]] -- which in a small wiki will be //most// of the tiddlers -- appear in the ''All'' list. But those won't contain any of your content unless you intentionally put it into such tiddlers, so you don't need to worry about them for now.")
+  "text": _("Actually, neither [[System Tiddlers]] nor [[Shadow Tiddlers]] -- which in a small wiki will be //most// of the tiddlers -- appear in the ''All'' list. But those won't contain any of your content unless you intentionally put it into such tiddlers, so you don't need to worry about them for now."),
+  "human_title": _("Ltc:AllListsAllTiddlers")
 }

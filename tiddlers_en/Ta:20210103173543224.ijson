@@ -1,5 +1,5 @@
 {
-  "title": _("Ta:20210103173543224"),
+  "title": "Ta:20210103173543224",
   "answer": "`tabs`",
   "created": "20210103173544313",
   "modified": "20210410192054782",
@@ -7,5 +7,6 @@
   "qtype": "rememberq",
   "question": "What built-in macro allows you to create a set of tabs, like those in the sidebar?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki"
+  "type": "text/vnd.tiddlywiki",
+  "human_title": _("Ta:20210103173543224")
 }

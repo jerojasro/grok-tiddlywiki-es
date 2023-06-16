@@ -1,8 +1,9 @@
 {
-  "title": _("Ex:MainSearchBoxBinding/answer"),
+  "title": "Ex:MainSearchBoxBinding/answer",
   "created": "20210107235020864",
   "modified": "20210418160148065",
   "tags": "Answer",
   "type": "text/vnd.tiddlywiki",
-  "text": _("The answer is the `text` field of `$:/temp/search`. (You may also have found `$:/temp/search/input`, which is an auxiliary tiddler used for the `keyboard-driven-input` that handles the autocomplete functions of the search box, and often contains the same text.)\n\nThe easiest way to find this answer is to type a weird word in the search box that you won't find anywhere else (e.g., `oobleckblargle`), then open up Advanced Search and search for the same word on the `System` tab. The tiddler will appear in the list.")
+  "text": _("The answer is the `text` field of `$:/temp/search`. (You may also have found `$:/temp/search/input`, which is an auxiliary tiddler used for the `keyboard-driven-input` that handles the autocomplete functions of the search box, and often contains the same text.)\n\nThe easiest way to find this answer is to type a weird word in the search box that you won't find anywhere else (e.g., `oobleckblargle`), then open up Advanced Search and search for the same word on the `System` tab. The tiddler will appear in the list."),
+  "human_title": _("Ex:MainSearchBoxBinding/answer")
 }

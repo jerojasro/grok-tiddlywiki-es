@@ -1,8 +1,9 @@
 {
-  "title": _("Sn:WidgetLink"),
+  "title": "Sn:WidgetLink",
   "created": "20210116201351228",
   "modified": "20210116201329418",
   "tags": "",
   "type": "text/vnd.tiddlywiki",
-  "text": _("<$link to=\"Filters\">a link to the Filters section</$link>")
+  "text": _("<$link to=\"Filters\">a link to the Filters section</$link>"),
+  "human_title": _("Sn:WidgetLink")
 }

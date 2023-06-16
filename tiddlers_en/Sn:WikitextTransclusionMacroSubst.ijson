@@ -1,8 +1,9 @@
 {
-  "title": _("Sn:WikitextTransclusionMacroSubst"),
+  "title": "Sn:WikitextTransclusionMacroSubst",
   "created": "20210314125642771",
   "modified": "20210314125531595",
   "tags": "",
   "type": "text/vnd.tiddlywiki",
-  "text": _("\\define mymacro(myName) Hi $myName$!\n\n<<mymacro Soren>>")
+  "text": _("\\define mymacro(myName) Hi $myName$!\n\n<<mymacro Soren>>"),
+  "human_title": _("Sn:WikitextTransclusionMacroSubst")
 }

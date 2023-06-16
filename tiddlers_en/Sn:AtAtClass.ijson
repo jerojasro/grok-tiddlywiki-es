@@ -1,8 +1,9 @@
 {
-  "title": _("Sn:AtAtClass"),
+  "title": "Sn:AtAtClass",
   "created": "20210116213810262",
   "modified": "20210116213859544",
   "tags": "",
   "type": "text/vnd.tiddlywiki",
-  "text": _("<style>\n.my-funny-class {\n  background-color: blue;\n  color: yellow;\n  font-size: 150%;\n  border: 3px dotted orange;\n  text-align: right;\n}\n</style>\n\n@@.my-funny-class\nHere is some funny-looking text.\n@@")
+  "text": _("<style>\n.my-funny-class {\n  background-color: blue;\n  color: yellow;\n  font-size: 150%;\n  border: 3px dotted orange;\n  text-align: right;\n}\n</style>\n\n@@.my-funny-class\nHere is some funny-looking text.\n@@"),
+  "human_title": _("Sn:AtAtClass")
 }

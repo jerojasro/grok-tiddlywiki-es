@@ -1,5 +1,5 @@
 {
-  "title": _("Ex:NamingOldNotes"),
+  "title": "Ex:NamingOldNotes",
   "complete": "",
   "created": "20200603181434311",
   "length": "m",
@@ -7,5 +7,6 @@
   "origin": "Tiddler Titles",
   "tags": "Exercise",
   "type": "text/vnd.tiddlywiki",
-  "text": _("Dig up some old notes you've written for yourself, in any format, and identify:\n\n* How you would divide them into tiddlers (we'll talk more about this later, but you know enough to take a crack at it now).\n* What you would title each of those tiddlers.")
+  "text": _("Dig up some old notes you've written for yourself, in any format, and identify:\n\n* How you would divide them into tiddlers (we'll talk more about this later, but you know enough to take a crack at it now).\n* What you would title each of those tiddlers."),
+  "human_title": _("Ex:NamingOldNotes")
 }

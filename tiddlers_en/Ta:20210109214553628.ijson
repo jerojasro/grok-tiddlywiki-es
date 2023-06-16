@@ -1,5 +1,5 @@
 {
-  "title": _("Ta:20210109214553628"),
+  "title": "Ta:20210109214553628",
   "answer": "`<$button actions=<<myactions>>>Act</$button>`",
   "created": "20210109214554641",
   "modified": "20210418162322397",
@@ -7,5 +7,6 @@
   "qtype": "rememberq",
   "question": "Given a macro called `myactions` with no parameters that generates some action widgets, write wikitext for a button labeled //Act// that triggers those action widgets.",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki"
+  "type": "text/vnd.tiddlywiki",
+  "human_title": _("Ta:20210109214553628")
 }

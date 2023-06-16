@@ -1,5 +1,5 @@
 {
-  "title": _("Ta:20210117001839027"),
+  "title": "Ta:20210117001839027",
   "answer": "Continue periodically reviewing the takeaways by opening the book and clicking on the review banner.",
   "created": "20210117001840527",
   "modified": "20210504013630914",
@@ -7,5 +7,6 @@
   "qtype": "rememberq",
   "question": "If you need to take a break from learning TiddlyWiki, what should you do to avoid forgetting what you've learned in //Grok TiddlyWiki//?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki"
+  "type": "text/vnd.tiddlywiki",
+  "human_title": _("Ta:20210117001839027")
 }

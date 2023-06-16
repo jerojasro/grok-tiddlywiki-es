@@ -1,5 +1,5 @@
 {
-  "title": _("Ta:20210103184459909"),
+  "title": "Ta:20210103184459909",
   "answer": "Set its //Type// to `application/x-tiddler-dictionary`.",
   "created": "20210103184501081",
   "leechignores": "1",
@@ -8,5 +8,6 @@
   "qtype": "rememberq",
   "question": "How do you mark a tiddler as a data tiddler of the TiddlyWiki dictionary type?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki"
+  "type": "text/vnd.tiddlywiki",
+  "human_title": _("Ta:20210103184459909")
 }

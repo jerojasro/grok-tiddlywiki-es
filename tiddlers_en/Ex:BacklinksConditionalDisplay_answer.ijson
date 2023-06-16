@@ -1,8 +1,9 @@
 {
-  "title": _("Ex:BacklinksConditionalDisplay/answer"),
+  "title": "Ex:BacklinksConditionalDisplay/answer",
   "created": "20210207214655751",
   "modified": "20210207215748750",
   "tags": "Answer",
   "type": "text/vnd.tiddlywiki",
-  "text": _("The portion that needs to be wrapped in a `$list` widget is the part that calls the macros -- trying to wrap the macros won't end well because [[pragmas have to be the first thing in their tiddler|Ex:MacroPosition/answer]].\n\n```html\n<$list filter=\"[all[current]links[]] [all[current]backlinks[]] +[first[]]\" variable=_>\n\t<!-- begin part that was already there -->\n\t<div class=\"sib-link-display\">\n\t\t<<linkDisplay \"Links\" \"links[]\" \"sib-links\">>\n\t\t<<linkDisplay \"Backlinks\" \"backlinks[]\" \"sib-backlinks\">>\n\t</div>\n\t<!-- end part that was already there -->\n</$list>\n```")
+  "text": _("The portion that needs to be wrapped in a `$list` widget is the part that calls the macros -- trying to wrap the macros won't end well because [[pragmas have to be the first thing in their tiddler|Ex:MacroPosition/answer]].\n\n```html\n<$list filter=\"[all[current]links[]] [all[current]backlinks[]] +[first[]]\" variable=_>\n\t<!-- begin part that was already there -->\n\t<div class=\"sib-link-display\">\n\t\t<<linkDisplay \"Links\" \"links[]\" \"sib-links\">>\n\t\t<<linkDisplay \"Backlinks\" \"backlinks[]\" \"sib-backlinks\">>\n\t</div>\n\t<!-- end part that was already there -->\n</$list>\n```"),
+  "human_title": _("Ex:BacklinksConditionalDisplay/answer")
 }

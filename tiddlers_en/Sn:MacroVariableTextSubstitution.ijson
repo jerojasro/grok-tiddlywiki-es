@@ -1,8 +1,9 @@
 {
-  "title": _("Sn:MacroVariableTextSubstitution"),
+  "title": "Sn:MacroVariableTextSubstitution",
   "created": "20210314124816942",
   "modified": "20210314125559561",
   "tags": "",
   "type": "text/vnd.tiddlywiki",
-  "text": _("\\define wikipediaLink() https://en.wikipedia.org/wiki/$(articleName)$\n\n<$set name=\"articleName\" value=\"TiddlyWiki\">\n  <<wikipediaLink>>\n</$set>")
+  "text": _("\\define wikipediaLink() https://en.wikipedia.org/wiki/$(articleName)$\n\n<$set name=\"articleName\" value=\"TiddlyWiki\">\n  <<wikipediaLink>>\n</$set>"),
+  "human_title": _("Sn:MacroVariableTextSubstitution")
 }

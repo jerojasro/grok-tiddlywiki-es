@@ -1,8 +1,9 @@
 {
-  "title": _("Sn:HtmlHtmlList"),
+  "title": "Sn:HtmlHtmlList",
   "created": "20210116193403174",
   "modified": "20210116193313361",
   "tags": "",
   "type": "text/vnd.tiddlywiki",
-  "text": _("<ul>\n  <li>Item 1</li>\n  <li>Item 2</li>\n</ul>")
+  "text": _("<ul>\n  <li>Item 1</li>\n  <li>Item 2</li>\n</ul>"),
+  "human_title": _("Sn:HtmlHtmlList")
 }

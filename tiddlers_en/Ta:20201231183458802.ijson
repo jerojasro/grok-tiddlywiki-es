@@ -1,5 +1,5 @@
 {
-  "title": _("Ta:20201231183458802"),
+  "title": "Ta:20201231183458802",
   "answer": "`{{Book 2!!author}}`",
   "created": "20201231183501395",
   "modified": "20210409201550297",
@@ -7,5 +7,6 @@
   "qtype": "rememberq",
   "question": "What wikitext syntax would you use to transclude the contents of the `author` field of the `Book 2` tiddler?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki"
+  "type": "text/vnd.tiddlywiki",
+  "human_title": _("Ta:20201231183458802")
 }

@@ -1,8 +1,9 @@
 {
-  "title": _("Sn:DirectAngleBrace"),
+  "title": "Sn:DirectAngleBrace",
   "created": "20210120032534130",
   "modified": "20210120032639775",
   "tags": "",
   "type": "text/vnd.tiddlywiki",
-  "text": _("{{{ [[abc]addsuffix[def]] }}}\n\n<$set name=\"myVariable\" value=\"abc\">\n\t{{{ [<myVariable>addsuffix[def]] }}}\n</$set>")
+  "text": _("{{{ [[abc]addsuffix[def]] }}}\n\n<$set name=\"myVariable\" value=\"abc\">\n\t{{{ [<myVariable>addsuffix[def]] }}}\n</$set>"),
+  "human_title": _("Sn:DirectAngleBrace")
 }

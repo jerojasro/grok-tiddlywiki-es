@@ -1,7 +1,8 @@
 {
-  "title": _("$:/config/sobjornstad/GrokTiddlyWiki/ExerciseBrowserState"),
+  "title": "$:/config/sobjornstad/GrokTiddlyWiki/ExerciseBrowserState",
   "complete": ".*",
   "created": "20210408142624562",
   "modified": "20210408142547720",
-  "type": "text/vnd.tiddlywiki"
+  "type": "text/vnd.tiddlywiki",
+  "human_title": _("$:/config/sobjornstad/GrokTiddlyWiki/ExerciseBrowserState")
 }

@@ -1,5 +1,5 @@
 {
-  "title": _("Ta:20210130004950978"),
+  "title": "Ta:20210130004950978",
   "answer": "Include a macro within the template.",
   "created": "20210130004952424",
   "modified": "20210410143318583",
@@ -7,5 +7,6 @@
   "qtype": "rememberq",
   "question": "How can you use text substitution with a template?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki"
+  "type": "text/vnd.tiddlywiki",
+  "human_title": _("Ta:20210130004950978")
 }

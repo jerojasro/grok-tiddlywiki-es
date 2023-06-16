@@ -1,8 +1,9 @@
 {
-  "title": _("$:/plugins/sobjornstad/GrokTiddlyWiki/copyright"),
+  "title": "$:/plugins/sobjornstad/GrokTiddlyWiki/copyright",
   "created": "20210131153434996",
   "modified": "20210131153336667",
   "tags": "",
   "type": "text/vnd.tiddlywiki",
-  "text": _("{{Copyright}}\n")
+  "text": _("{{Copyright}}\n"),
+  "human_title": _("$:/plugins/sobjornstad/GrokTiddlyWiki/copyright")
 }

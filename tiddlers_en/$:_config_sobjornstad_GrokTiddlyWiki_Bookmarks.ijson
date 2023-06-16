@@ -1,6 +1,7 @@
 {
-  "title": _("$:/config/sobjornstad/GrokTiddlyWiki/Bookmarks"),
+  "title": "$:/config/sobjornstad/GrokTiddlyWiki/Bookmarks",
   "created": "20210320201232026",
   "modified": "20210818005526890",
-  "type": "text/vnd.tiddlywiki"
+  "type": "text/vnd.tiddlywiki",
+  "human_title": _("$:/config/sobjornstad/GrokTiddlyWiki/Bookmarks")
 }

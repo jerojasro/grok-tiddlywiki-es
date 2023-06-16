@@ -1,5 +1,5 @@
 {
-  "title": _("Tips and Tricks"),
+  "title": "Tips and Tricks",
   "caption": "7: Tips and Tricks",
   "created": "20210120034644865",
   "description": "In which we explore some widgets, tips, tricks, and hacks that will serve you well on the rest of your TiddlyWiki journey.",
@@ -8,5 +8,6 @@
   "parent": "Outline",
   "tags": "Chapter",
   "type": "text/vnd.tiddlywiki",
-  "text": _("In this chapter, we'll explore a handful of additional widgets and techniques that may be useful on your TiddlyWiki journey.\n\n!! In this chapter\n\n{{||ChapterOutlineTemplate}}")
+  "text": _("In this chapter, we'll explore a handful of additional widgets and techniques that may be useful on your TiddlyWiki journey.\n\n!! In this chapter\n\n{{||ChapterOutlineTemplate}}"),
+  "human_title": _("Tips and Tricks")
 }

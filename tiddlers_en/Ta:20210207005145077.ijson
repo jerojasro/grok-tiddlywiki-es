@@ -1,5 +1,5 @@
 {
-  "title": _("Ta:20210207005145077"),
+  "title": "Ta:20210207005145077",
   "answer": "12:00 noon.",
   "created": "20210207005146102",
   "modified": "20210502162348732",
@@ -7,5 +7,6 @@
   "qtype": "rememberq",
   "question": "What time should you set a TiddlyWiki timestamp to if you care only about the date?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki"
+  "type": "text/vnd.tiddlywiki",
+  "human_title": _("Ta:20210207005145077")
 }

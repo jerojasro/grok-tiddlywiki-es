@@ -1,10 +1,11 @@
 {
-  "title": _("Ta:20210207032540788"),
+  "title": "Ta:20210207032540788",
   "created": "20210207032541862",
   "modified": "20210418165557425",
   "origin": "Hiding and Showing Things",
   "qtype": "remembercz",
   "question": "The `$reveal` widget displays its contents only if a specified {c1::field} matches a {c1::value}.",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki"
+  "type": "text/vnd.tiddlywiki",
+  "human_title": _("Ta:20210207032540788")
 }

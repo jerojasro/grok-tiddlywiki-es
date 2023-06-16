@@ -1,5 +1,5 @@
 {
-  "title": _("Ta:20201229040301820"),
+  "title": "Ta:20201229040301820",
   "answer": "Click the info button on the tiddler's view toolbar, then the //Fields// tab.",
   "created": "20201229040303487",
   "modified": "20211129232258577",
@@ -7,5 +7,6 @@
   "qtype": "rememberq",
   "question": "When viewing a tiddler, where can you look to find a list of its fields in stock TiddlyWiki?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki"
+  "type": "text/vnd.tiddlywiki",
+  "human_title": _("Ta:20201229040301820")
 }

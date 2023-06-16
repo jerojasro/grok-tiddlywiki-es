@@ -1,10 +1,11 @@
 {
-  "title": _("Ex:RedTagsFilter"),
+  "title": "Ex:RedTagsFilter",
   "created": "20200608014521722",
   "length": "m",
   "modified": "20210130174558529",
   "origin": "Classifying Tags",
   "tags": "Exercise",
   "type": "text/vnd.tiddlywiki",
-  "text": _("Write a filter to find all tiddlers tagged with red tags. Make sure you figure out [[Ex:TagMetadataStorage]] first, or you won't have much luck.\n\n//Hint//: Review the //Tags// section of [[Common Filter Operators]].")
+  "text": _("Write a filter to find all tiddlers tagged with red tags. Make sure you figure out [[Ex:TagMetadataStorage]] first, or you won't have much luck.\n\n//Hint//: Review the //Tags// section of [[Common Filter Operators]]."),
+  "human_title": _("Ex:RedTagsFilter")
 }

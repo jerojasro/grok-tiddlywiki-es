@@ -1,8 +1,9 @@
 {
-  "title": _("Sn:RubberDuckingCorrected"),
+  "title": "Sn:RubberDuckingCorrected",
   "created": "20210121000836750",
   "modified": "20210606031228949",
   "tags": "",
   "type": "text/vnd.tiddlywiki",
-  "text": _("<$list filter=\"[all[tiddlers+shadows]tag[Section]field:parent[Filtering and Formatting]get[description]sort[]]\">\n  <<currentTiddler>><br>\n</$list>")
+  "text": _("<$list filter=\"[all[tiddlers+shadows]tag[Section]field:parent[Filtering and Formatting]get[description]sort[]]\">\n  <<currentTiddler>><br>\n</$list>"),
+  "human_title": _("Sn:RubberDuckingCorrected")
 }

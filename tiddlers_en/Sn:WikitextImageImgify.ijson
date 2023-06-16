@@ -1,8 +1,9 @@
 {
-  "title": _("Sn:WikitextImageImgify"),
+  "title": "Sn:WikitextImageImgify",
   "created": "20210131153332007",
   "modified": "20210131153447948",
   "tags": "",
   "type": "text/vnd.tiddlywiki",
-  "text": _("[img height=50 [anki-config-screenshot.png]]")
+  "text": _("[img height=50 [anki-config-screenshot.png]]"),
+  "human_title": _("Sn:WikitextImageImgify")
 }

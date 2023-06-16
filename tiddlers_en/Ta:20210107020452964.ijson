@@ -1,5 +1,5 @@
 {
-  "title": _("Ta:20210107020452964"),
+  "title": "Ta:20210107020452964",
   "answer": "Add a transclusion of that template to the ViewTemplate.",
   "created": "20210107020454241",
   "modified": "20210418140308452",
@@ -7,5 +7,6 @@
   "qtype": "rememberq",
   "question": "What mechanism would you likely use to display some template on all tiddlers?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki"
+  "type": "text/vnd.tiddlywiki",
+  "human_title": _("Ta:20210107020452964")
 }

@@ -1,8 +1,9 @@
 {
-  "title": _("Sn:InitialAardvarkWikipediaLink"),
+  "title": "Sn:InitialAardvarkWikipediaLink",
   "created": "20210116203723828",
   "modified": "20210117010022389",
   "tags": "",
   "type": "text/vnd.tiddlywiki",
-  "text": _("\\define wikipediaLink(articleName)\nhttps://en.wikipedia.org/wiki/$articleName$\n\\end\n\n<<wikipediaLink Aardvark>>")
+  "text": _("\\define wikipediaLink(articleName)\nhttps://en.wikipedia.org/wiki/$articleName$\n\\end\n\n<<wikipediaLink Aardvark>>"),
+  "human_title": _("Sn:InitialAardvarkWikipediaLink")
 }

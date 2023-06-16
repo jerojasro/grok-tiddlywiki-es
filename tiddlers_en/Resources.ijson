@@ -1,5 +1,5 @@
 {
-  "title": _("Resources"),
+  "title": "Resources",
   "caption": "Resources",
   "created": "20200822204446698",
   "description": "In which we discuss other places you can learn about TiddlyWiki, talk to others who use TiddlyWiki, and see examples of TiddlyWiki in action.",
@@ -8,5 +8,6 @@
   "parent": "Outline",
   "tags": "Chapter",
   "type": "text/vnd.tiddlywiki",
-  "text": _("{{||ChapterOutlineTemplate}}")
+  "text": _("{{||ChapterOutlineTemplate}}"),
+  "human_title": _("Resources")
 }

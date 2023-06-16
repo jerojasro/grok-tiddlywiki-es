@@ -1,5 +1,5 @@
 {
-  "title": _("Ex:CloseAndReopen"),
+  "title": "Ex:CloseAndReopen",
   "complete": "",
   "created": "20201229033852084",
   "length": "s",
@@ -7,5 +7,6 @@
   "origin": "Journal Tiddlers",
   "tags": "Exercise",
   "type": "text/vnd.tiddlywiki",
-  "text": _("Close your new journal tiddler and open it again.")
+  "text": _("Close your new journal tiddler and open it again."),
+  "human_title": _("Ex:CloseAndReopen")
 }

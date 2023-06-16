@@ -1,5 +1,5 @@
 {
-  "title": _("Ta:20210110165952850"),
+  "title": "Ta:20210110165952850",
   "answer": "The //Tools// tab (check or uncheck items to control their placement on the toolbar).",
   "created": "20210110165954329",
   "modified": "20210408174605138",
@@ -7,5 +7,6 @@
   "qtype": "rememberq",
   "question": "Where in the sidebar can you choose which tools appear on the page toolbar?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki"
+  "type": "text/vnd.tiddlywiki",
+  "human_title": _("Ta:20210110165952850")
 }

@@ -1,8 +1,9 @@
 {
-  "title": _("Sn:BlockInlineComparison"),
+  "title": "Sn:BlockInlineComparison",
   "created": "20210116172454679",
   "modified": "20210410142121440",
   "tags": "",
   "type": "text/vnd.tiddlywiki",
-  "text": _("<div style=\"background-color: red;\">Element 1</div>\n<div style=\"background-color: yellow;\">Element 2</div>\n\n<hr>\n\n<span style=\"background-color: red;\">Element 1</span>\n<span style=\"background-color: yellow;\">Element 2</span>")
+  "text": _("<div style=\"background-color: red;\">Element 1</div>\n<div style=\"background-color: yellow;\">Element 2</div>\n\n<hr>\n\n<span style=\"background-color: red;\">Element 1</span>\n<span style=\"background-color: yellow;\">Element 2</span>"),
+  "human_title": _("Sn:BlockInlineComparison")
 }

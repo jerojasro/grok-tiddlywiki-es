@@ -1,8 +1,9 @@
 {
-  "title": _("Sn:QuoteWithinQuotesMacro"),
+  "title": "Sn:QuoteWithinQuotesMacro",
   "created": "20210116204322898",
   "modified": "20210116204619105",
   "tags": "",
   "type": "text/vnd.tiddlywiki",
-  "text": _("\\define wikipediaLink(articleName, linkText)\n[[$linkText$|https://en.wikipedia.org/wiki/$articleName$]]\n\\end\n\n<<wikipediaLink Aardvark \"What is an \"aardvark\"?\">>")
+  "text": _("\\define wikipediaLink(articleName, linkText)\n[[$linkText$|https://en.wikipedia.org/wiki/$articleName$]]\n\\end\n\n<<wikipediaLink Aardvark \"What is an \"aardvark\"?\">>"),
+  "human_title": _("Sn:QuoteWithinQuotesMacro")
 }

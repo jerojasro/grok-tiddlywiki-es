@@ -1,5 +1,5 @@
 {
-  "title": _("Ta:20210207014142455"),
+  "title": "Ta:20210207014142455",
   "answer": "Check if the current tiddler is a draft tiddler, and if it is change the current tiddler to the tiddler the draft is of.",
   "created": "20210207014143636",
   "modified": "20210418163731056",
@@ -7,5 +7,6 @@
   "qtype": "rememberq",
   "question": "What pattern can be used to allow logic depending on the name of the current tiddler to function in a side-by-side preview?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki"
+  "type": "text/vnd.tiddlywiki",
+  "human_title": _("Ta:20210207014142455")
 }

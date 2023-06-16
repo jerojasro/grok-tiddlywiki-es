@@ -1,10 +1,11 @@
 {
-  "title": _("Ex:CreatedNowButton"),
+  "title": "Ex:CreatedNowButton",
   "created": "20210207180055632",
   "length": "m",
   "modified": "20210207180032241",
   "origin": "Working with Dates",
   "tags": "Exercise",
   "type": "text/vnd.tiddlywiki",
-  "text": _("Make a button labeled //Created Now// that resets the `created` date of the current tiddler to the current time. Place the button on a template, or simply on a test tiddler, and try resetting the created time of the tiddler.")
+  "text": _("Make a button labeled //Created Now// that resets the `created` date of the current tiddler to the current time. Place the button on a template, or simply on a test tiddler, and try resetting the created time of the tiddler."),
+  "human_title": _("Ex:CreatedNowButton")
 }

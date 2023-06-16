@@ -1,8 +1,9 @@
 {
-  "title": _("Ex:CarItems/answer"),
+  "title": "Ex:CarItems/answer",
   "created": "20210206151218118",
   "modified": "20210606143443369",
   "tags": "Answer",
   "type": "text/vnd.tiddlywiki",
-  "text": _("Each item should most likely state that it belongs in your car because this mechanism is less fussy: you don't have to manually update the car tiddler when you add a new item to your car, and you can say that an item belongs in multiple locations by editing only the item.")
+  "text": _("Each item should most likely state that it belongs in your car because this mechanism is less fussy: you don't have to manually update the car tiddler when you add a new item to your car, and you can say that an item belongs in multiple locations by editing only the item."),
+  "human_title": _("Ex:CarItems/answer")
 }

@@ -1,5 +1,5 @@
 {
-  "title": _("Ta:20201231002107146"),
+  "title": "Ta:20201231002107146",
   "answer": "The names of widget elements begin with a dollar sign (`$`), like `<$list>` or `<$link>`.",
   "created": "20201231002109497",
   "modified": "20210521202545528",
@@ -7,5 +7,6 @@
   "qtype": "rememberq",
   "question": "How can widgets be distinguished from HTML tags in wikitext?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki"
+  "type": "text/vnd.tiddlywiki",
+  "human_title": _("Ta:20201231002107146")
 }

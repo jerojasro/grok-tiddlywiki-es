@@ -1,5 +1,5 @@
 {
-  "title": _("Ta:20210109225754963"),
+  "title": "Ta:20210109225754963",
   "answer": "`@@.my-favorite-class` at the start of the block, and `@@` at the end.",
   "created": "20210109225756671",
   "modified": "20210502163250430",
@@ -7,5 +7,6 @@
   "qtype": "rememberq",
   "question": "What wikitext syntax can you use to apply the class `my-favorite-class` to a block of wikitext?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki"
+  "type": "text/vnd.tiddlywiki",
+  "human_title": _("Ta:20210109225754963")
 }

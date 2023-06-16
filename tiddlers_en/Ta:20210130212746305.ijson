@@ -1,10 +1,11 @@
 {
-  "title": _("Ta:20210130212746305"),
+  "title": "Ta:20210130212746305",
   "created": "20210130212747987",
   "modified": "20210418131804163",
   "origin": "Tiddler Titles",
   "qtype": "remembercz",
   "question": "A knowledge tiddler should be focused on a single {idea}.",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki"
+  "type": "text/vnd.tiddlywiki",
+  "human_title": _("Ta:20210130212746305")
 }

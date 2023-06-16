@@ -1,5 +1,5 @@
 {
-  "title": _("Ta:20201231001601903"),
+  "title": "Ta:20201231001601903",
   "answer": "They are treated the same as a single space.",
   "created": "20201231001603282",
   "modified": "20210409171726531",
@@ -7,5 +7,6 @@
   "qtype": "rememberq",
   "question": "In HTML, what special thing happens if you put multiple spaces or newlines in a row?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki"
+  "type": "text/vnd.tiddlywiki",
+  "human_title": _("Ta:20201231001601903")
 }

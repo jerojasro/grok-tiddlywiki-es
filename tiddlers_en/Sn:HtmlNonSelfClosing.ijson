@@ -1,8 +1,9 @@
 {
-  "title": _("Sn:HtmlNonSelfClosing"),
+  "title": "Sn:HtmlNonSelfClosing",
   "created": "20210116193523597",
   "modified": "20210116193433781",
   "tags": "",
   "type": "text/vnd.tiddlywiki",
-  "text": _("<ul>\n  <li>Item 1</li>\n  <li></li>\n</ul>")
+  "text": _("<ul>\n  <li>Item 1</li>\n  <li></li>\n</ul>"),
+  "human_title": _("Sn:HtmlNonSelfClosing")
 }

@@ -1,5 +1,5 @@
 {
-  "title": _("Ex:ContactInformationPicture"),
+  "title": "Ex:ContactInformationPicture",
   "complete": "",
   "created": "20210130041146429",
   "length": "M",
@@ -7,5 +7,6 @@
   "origin": "Images and Attachments",
   "tags": "Exercise",
   "type": "text/vnd.tiddlywiki",
-  "text": _("Edit the ContactInformationTemplate so that it tries to include a picture for each contact. If the tiddler name is, for example, `JaneDoe`, and there is a tiddler called `JaneDoe/Picture`, Jane's picture, at most 300 pixels wide, should appear at the top of the tiddler. No error should be displayed if such a picture doesn't exist (//hint//: a filter operator called `is[tiddler]` will come in handy).\n\nAdd an image for one of your contacts and confirm that everything displays as expected for contacts that have a picture and for contacts that do not.")
+  "text": _("Edit the ContactInformationTemplate so that it tries to include a picture for each contact. If the tiddler name is, for example, `JaneDoe`, and there is a tiddler called `JaneDoe/Picture`, Jane's picture, at most 300 pixels wide, should appear at the top of the tiddler. No error should be displayed if such a picture doesn't exist (//hint//: a filter operator called `is[tiddler]` will come in handy).\n\nAdd an image for one of your contacts and confirm that everything displays as expected for contacts that have a picture and for contacts that do not."),
+  "human_title": _("Ex:ContactInformationPicture")
 }

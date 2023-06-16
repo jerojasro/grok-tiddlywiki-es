@@ -1,5 +1,5 @@
 {
-  "title": _("Ex:ContactListNoPhoneExclusion"),
+  "title": "Ex:ContactListNoPhoneExclusion",
   "complete": "",
   "created": "20200603192656839",
   "length": "m",
@@ -7,5 +7,6 @@
   "origin": "Your First Dynamic List",
   "tags": "Exercise",
   "type": "text/vnd.tiddlywiki",
-  "text": _("Modify the `ContactList` so that contacts with no phone number are excluded.")
+  "text": _("Modify the `ContactList` so that contacts with no phone number are excluded."),
+  "human_title": _("Ex:ContactListNoPhoneExclusion")
 }

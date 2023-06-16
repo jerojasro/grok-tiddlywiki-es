@@ -1,5 +1,5 @@
 {
-  "title": _("Ta:20210109213621592"),
+  "title": "Ta:20210109213621592",
   "answer": "`tm-new-tiddler`",
   "created": "20210109213622593",
   "modified": "20210418161914310",
@@ -7,5 +7,6 @@
   "qtype": "rememberq",
   "question": "What message creates a new tiddler and opens it for editing in the story river?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki"
+  "type": "text/vnd.tiddlywiki",
+  "human_title": _("Ta:20210109213621592")
 }

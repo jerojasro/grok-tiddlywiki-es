@@ -1,5 +1,5 @@
 {
-  "title": _("Ta:20210103192035897"),
+  "title": "Ta:20210103192035897",
   "answer": "A plugin tiddler (`$:/core`, specifically).",
   "created": "20210103192037268",
   "modified": "20210418133432647",
@@ -7,5 +7,6 @@
   "qtype": "rememberq",
   "question": "TiddlyWiki's core code is contained in what type of single tiddler?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki"
+  "type": "text/vnd.tiddlywiki",
+  "human_title": _("Ta:20210103192035897")
 }

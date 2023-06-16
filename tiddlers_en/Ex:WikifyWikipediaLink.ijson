@@ -1,10 +1,11 @@
 {
-  "title": _("Ex:WikifyWikipediaLink"),
+  "title": "Ex:WikifyWikipediaLink",
   "created": "20210208004244560",
   "length": "s",
   "modified": "20210327153305118",
   "origin": "Wikification",
   "tags": "Exercise",
   "type": "text/vnd.tiddlywiki",
-  "text": _("Add the following snippet to a new tiddler:\n\n```html\n\\define wikipediaLink(articleName)\nhttps://en.wikipedia.org/wiki/$articleName$\n\\end\n\n<$macrocall $name=\"wikipediaLink\" articleName={{!!wikipedia-article}}/>\n```\n\nAlter this snippet so the contents of the `wikipedia-article` field on the current tiddler can be a transclusion of a different tiddler field. (As it stands, the transclusion will render, but not as part of a link, since the transclusion within the `wikipedia-article` field is only seen //after// being returned from the macro.)")
+  "text": _("Add the following snippet to a new tiddler:\n\n```html\n\\define wikipediaLink(articleName)\nhttps://en.wikipedia.org/wiki/$articleName$\n\\end\n\n<$macrocall $name=\"wikipediaLink\" articleName={{!!wikipedia-article}}/>\n```\n\nAlter this snippet so the contents of the `wikipedia-article` field on the current tiddler can be a transclusion of a different tiddler field. (As it stands, the transclusion will render, but not as part of a link, since the transclusion within the `wikipedia-article` field is only seen //after// being returned from the macro.)"),
+  "human_title": _("Ex:WikifyWikipediaLink")
 }

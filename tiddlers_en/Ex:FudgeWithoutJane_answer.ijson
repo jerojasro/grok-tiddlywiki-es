@@ -1,8 +1,9 @@
 {
-  "title": _("Ex:FudgeWithoutJane/answer"),
+  "title": "Ex:FudgeWithoutJane/answer",
   "created": "20200716022842367",
   "modified": "20210410181030475",
   "tags": "Answer",
   "type": "text/vnd.tiddlywiki",
-  "text": _("```\n[search[fudge]] -[contains:participants[JaneDoe]]\n```")
+  "text": _("```\n[search[fudge]] -[contains:participants[JaneDoe]]\n```"),
+  "human_title": _("Ex:FudgeWithoutJane/answer")
 }

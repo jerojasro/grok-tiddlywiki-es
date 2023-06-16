@@ -1,8 +1,9 @@
 {
-  "title": _("Sn:JournalStartingText"),
+  "title": "Sn:JournalStartingText",
   "created": "20210116011333187",
   "modified": "20210124182922088",
   "tags": "",
   "type": "text/vnd.tiddlywiki",
-  "text": _("!! Goals for the day\n\n* Goal 1\n* Goal 2\n* Goal 3\n\n!! Scheduled events\n\n!! Journal")
+  "text": _("!! Goals for the day\n\n* Goal 1\n* Goal 2\n* Goal 3\n\n!! Scheduled events\n\n!! Journal"),
+  "human_title": _("Sn:JournalStartingText")
 }

@@ -1,8 +1,9 @@
 {
-  "title": _("Ex:CaptionsByTag/answer"),
+  "title": "Ex:CaptionsByTag/answer",
   "created": "20200718221130421",
   "modified": "20200718221132771",
   "tags": "Answer",
   "type": "text/vnd.tiddlywiki",
-  "text": _("```html\n<$edit-text tiddler=\"$:/temp/captionbytag\" tag=\"input\" default=\"\"/>\n\n<table>\n  <tr>\n    <th>Tiddler</th>\n    <th>Caption</th>\n  </tr>\n  <$list filter=\"[tag{$:/temp/captionbytag}]\">\n  <tr>\n    <td>{{!!title}}</td>\n    <td>{{!!caption}}</td>\n  </tr>\n  </$list>\n</table>\n```")
+  "text": _("```html\n<$edit-text tiddler=\"$:/temp/captionbytag\" tag=\"input\" default=\"\"/>\n\n<table>\n  <tr>\n    <th>Tiddler</th>\n    <th>Caption</th>\n  </tr>\n  <$list filter=\"[tag{$:/temp/captionbytag}]\">\n  <tr>\n    <td>{{!!title}}</td>\n    <td>{{!!caption}}</td>\n  </tr>\n  </$list>\n</table>\n```"),
+  "human_title": _("Ex:CaptionsByTag/answer")
 }

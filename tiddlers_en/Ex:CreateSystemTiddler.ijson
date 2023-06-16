@@ -1,10 +1,11 @@
 {
-  "title": _("Ex:CreateSystemTiddler"),
+  "title": "Ex:CreateSystemTiddler",
   "created": "20210103191056359",
   "length": "s",
   "modified": "20210130174348070",
   "origin": "System Tiddlers",
   "tags": "Exercise",
   "type": "text/vnd.tiddlywiki",
-  "text": _("Create a new system tiddler, then close it and go locate it again.")
+  "text": _("Create a new system tiddler, then close it and go locate it again."),
+  "human_title": _("Ex:CreateSystemTiddler")
 }

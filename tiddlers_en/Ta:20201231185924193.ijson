@@ -1,5 +1,5 @@
 {
-  "title": _("Ta:20201231185924193"),
+  "title": "Ta:20201231185924193",
   "answer": "Transclude it, setting the current tiddler to a tiddler other than the template tiddler.",
   "created": "20201231185926952",
   "modified": "20210409212731076",
@@ -7,5 +7,6 @@
   "qtype": "rememberq",
   "question": "A tiddler is being used as a //template// when you do what with it?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki"
+  "type": "text/vnd.tiddlywiki",
+  "human_title": _("Ta:20201231185924193")
 }

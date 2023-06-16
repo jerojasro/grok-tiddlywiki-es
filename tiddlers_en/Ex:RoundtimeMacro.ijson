@@ -1,10 +1,11 @@
 {
-  "title": _("Ex:RoundtimeMacro"),
+  "title": "Ex:RoundtimeMacro",
   "created": "20200822194847240",
   "length": "M",
   "modified": "20210130174601176",
   "origin": "JavaScript Macros",
   "tags": "Exercise",
   "type": "text/vnd.tiddlywiki",
-  "text": _("Create a JavaScript macro called `roundtime` that rounds a TiddlyWiki-formatted timestamp to the nearest 15 minutes.")
+  "text": _("Create a JavaScript macro called `roundtime` that rounds a TiddlyWiki-formatted timestamp to the nearest 15 minutes."),
+  "human_title": _("Ex:RoundtimeMacro")
 }

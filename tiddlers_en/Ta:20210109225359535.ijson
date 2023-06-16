@@ -1,5 +1,5 @@
 {
-  "title": _("Ta:20210109225359535"),
+  "title": "Ta:20210109225359535",
   "answer": "You must save and reload the wiki for JavaScript changes to take effect.",
   "created": "20210109225400637",
   "modified": "20210502163016382",
@@ -7,5 +7,6 @@
   "qtype": "rememberq",
   "question": "If you change a JavaScript macro and the changes do not seem to be applying, what did you most likely forget?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki"
+  "type": "text/vnd.tiddlywiki",
+  "human_title": _("Ta:20210109225359535")
 }

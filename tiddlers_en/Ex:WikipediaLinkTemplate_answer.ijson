@@ -1,8 +1,9 @@
 {
-  "title": _("Ex:WikipediaLinkTemplate/answer"),
+  "title": "Ex:WikipediaLinkTemplate/answer",
   "created": "20201122165936723",
   "modified": "20201122165910736",
   "tags": "Answer",
   "type": "text/vnd.tiddlywiki",
-  "text": _("First, create a tiddler called `WikipediaMetadata` and set its `url` field to `https://en.wikipedia.org/wiki/`. (You could also make a tiddler containing only the URL, in the `text` field, and create other tiddlers if you needed to maintain other information about Wikipedia; it's up to you what makes the most sense.)\n\nThen in `WikipediaLinkTemplate`:\n\n```html\n<a class=\"tc-tiddlylink-external\" href={{{ [{WikipediaMetadata!!url}addsuffix<articleName>] }}}><<articleName>></a>\n```\n\nAnd to use this tiddler:\n\n```html\n<$set name=\"articleName\" value=\"Aardvark\">\n  {{WikipediaLinkTemplate}}\n</$set>\n```\n\nNotice that treating the `WikipediaLinkTemplate` as a template by placing `||` prior to its name in the transclusion is not necessary, as it does not access any of the fields of the current tiddler.")
+  "text": _("First, create a tiddler called `WikipediaMetadata` and set its `url` field to `https://en.wikipedia.org/wiki/`. (You could also make a tiddler containing only the URL, in the `text` field, and create other tiddlers if you needed to maintain other information about Wikipedia; it's up to you what makes the most sense.)\n\nThen in `WikipediaLinkTemplate`:\n\n```html\n<a class=\"tc-tiddlylink-external\" href={{{ [{WikipediaMetadata!!url}addsuffix<articleName>] }}}><<articleName>></a>\n```\n\nAnd to use this tiddler:\n\n```html\n<$set name=\"articleName\" value=\"Aardvark\">\n  {{WikipediaLinkTemplate}}\n</$set>\n```\n\nNotice that treating the `WikipediaLinkTemplate` as a template by placing `||` prior to its name in the transclusion is not necessary, as it does not access any of the fields of the current tiddler."),
+  "human_title": _("Ex:WikipediaLinkTemplate/answer")
 }

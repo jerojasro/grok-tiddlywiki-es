@@ -1,5 +1,5 @@
 {
-  "title": _("Ta:20210103191737048"),
+  "title": "Ta:20210103191737048",
   "answer": "Drag and drop a link to the plugin tiddler from the plugin's demo/documentation wiki into your wiki.",
   "created": "20210103191740220",
   "modified": "20210418133417746",
@@ -7,5 +7,6 @@
   "qtype": "rememberq",
   "question": "What is the most common way to install a plugin in TiddlyWiki?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki"
+  "type": "text/vnd.tiddlywiki",
+  "human_title": _("Ta:20210103191737048")
 }

@@ -1,5 +1,5 @@
 {
-  "title": _("Ta:20210109231032557"),
+  "title": "Ta:20210109231032557",
   "answer": "It is a tiddler list where each element is automatically prefixed with the title of your plugin (e.g., `$:/plugins/alice/myplugin/`).",
   "created": "20210109231033412",
   "modified": "20210502163557713",
@@ -7,5 +7,6 @@
   "qtype": "rememberq",
   "question": "What is unusual about the `list` field in a `plugin.info` file?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki"
+  "type": "text/vnd.tiddlywiki",
+  "human_title": _("Ta:20210109231032557")
 }

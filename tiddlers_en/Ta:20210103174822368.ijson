@@ -1,5 +1,5 @@
 {
-  "title": _("Ta:20210103174822368"),
+  "title": "Ta:20210103174822368",
   "answer": "Transclude the image tiddler, like `{{image.png}}`.",
   "created": "20210103174824402",
   "modified": "20210410185214582",
@@ -7,5 +7,6 @@
   "qtype": "rememberq",
   "question": "How can you quickly display an image that is part of your wiki within another tiddler if you don't need to adjust its size or other parameters?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki"
+  "type": "text/vnd.tiddlywiki",
+  "human_title": _("Ta:20210103174822368")
 }

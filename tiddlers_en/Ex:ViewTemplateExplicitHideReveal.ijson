@@ -1,10 +1,11 @@
 {
-  "title": _("Ex:ViewTemplateExplicitHideReveal"),
+  "title": "Ex:ViewTemplateExplicitHideReveal",
   "created": "20210207214347738",
   "length": "m",
   "modified": "20210207214506421",
   "origin": "Hiding and Showing Things",
   "tags": "Exercise",
   "type": "text/vnd.tiddlywiki",
-  "text": _("Repeat the [[previous exercise|Ex:ViewTemplateExplicitHide]], but use a `$reveal` widget instead of a `$list` widget.")
+  "text": _("Repeat the [[previous exercise|Ex:ViewTemplateExplicitHide]], but use a `$reveal` widget instead of a `$list` widget."),
+  "human_title": _("Ex:ViewTemplateExplicitHideReveal")
 }

@@ -1,8 +1,9 @@
 {
-  "title": _("Ex:ViewsOnSidebar/answer"),
+  "title": "Ex:ViewsOnSidebar/answer",
   "created": "20200718044652683",
   "modified": "20210418141317095",
   "tags": "Answer",
   "type": "text/vnd.tiddlywiki",
-  "text": _("Tag the tiddler with `$:/tags/SideBar`, then set its `list-before` field to `$:/core/ui/SideBar/Tools`, or its `list-after` field to `$:/core/ui/SideBar/Recent`.\n\nYou can find what tag to use by poking around in `$:/tags` and seeing what looks promising, or by searching for one of the other tabs (e.g., `Recent`) in the ''Shadows'' tab of Advanced Search, finding the shadow tiddler that handles that tab, and seeing what it's tagged.")
+  "text": _("Tag the tiddler with `$:/tags/SideBar`, then set its `list-before` field to `$:/core/ui/SideBar/Tools`, or its `list-after` field to `$:/core/ui/SideBar/Recent`.\n\nYou can find what tag to use by poking around in `$:/tags` and seeing what looks promising, or by searching for one of the other tabs (e.g., `Recent`) in the ''Shadows'' tab of Advanced Search, finding the shadow tiddler that handles that tab, and seeing what it's tagged."),
+  "human_title": _("Ex:ViewsOnSidebar/answer")
 }

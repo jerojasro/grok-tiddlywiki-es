@@ -1,5 +1,5 @@
 {
-  "title": _("Ta:20201231185712575"),
+  "title": "Ta:20201231185712575",
   "answer": "Nothing. The `||` causes TiddlyWiki to keep the current tiddler as `ContactList` while processing the transclusion.",
   "created": "20201231185715775",
   "modified": "20210418131906206",
@@ -7,5 +7,6 @@
   "qtype": "rememberq",
   "question": "What happens to the current tiddler while TiddlyWiki reads the transclusion `{{||JaneDoe}}` within the tiddler `ContactList`?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki"
+  "type": "text/vnd.tiddlywiki",
+  "human_title": _("Ta:20201231185712575")
 }

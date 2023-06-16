@@ -1,8 +1,9 @@
 {
-  "title": _("Sn:BoldfaceTemplate"),
+  "title": "Sn:BoldfaceTemplate",
   "created": "20210131144834836",
   "modified": "20210131144753826",
   "tags": "",
   "type": "text/vnd.tiddlywiki",
-  "text": _("<strong><$transclude mode=\"block\"/></strong>")
+  "text": _("<strong><$transclude mode=\"block\"/></strong>"),
+  "human_title": _("Sn:BoldfaceTemplate")
 }

@@ -1,5 +1,5 @@
 {
-  "title": _("Ta:20201231004651266"),
+  "title": "Ta:20201231004651266",
   "answer": "If you have to change the value, you only have to change it in one place.",
   "created": "20201231004654224",
   "modified": "20210418131901487",
@@ -7,5 +7,6 @@
   "qtype": "rememberq",
   "question": "What is the primary benefit of shortening repetitive wikitext using variables or macros, compared to copying and pasting the wikitext?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki"
+  "type": "text/vnd.tiddlywiki",
+  "human_title": _("Ta:20201231004651266")
 }

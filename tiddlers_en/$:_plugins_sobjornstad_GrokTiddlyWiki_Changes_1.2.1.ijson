@@ -1,5 +1,5 @@
 {
-  "title": _("$:/plugins/sobjornstad/GrokTiddlyWiki/Changes/1.2.1"),
+  "title": "$:/plugins/sobjornstad/GrokTiddlyWiki/Changes/1.2.1",
   "commit": "ed11ebdec45668fe3750eb011aa777369ef2a67a",
   "created": "20211129232645958",
   "date": "202111291200",
@@ -8,5 +8,6 @@
   "tags": "",
   "type": "text/vnd.tiddlywiki",
   "version": "1.2.1",
-  "text": _("* Fixed the Takeaway Export List showing an ID of \u201cPreview\u201d for all takeaways under certain circumstances, resulting in broken syncing to Anki.\n* Fixed several typos and minor wording mistakes.\n")
+  "text": _("* Fixed the Takeaway Export List showing an ID of \u201cPreview\u201d for all takeaways under certain circumstances, resulting in broken syncing to Anki.\n* Fixed several typos and minor wording mistakes.\n"),
+  "human_title": _("$:/plugins/sobjornstad/GrokTiddlyWiki/Changes/1.2.1")
 }

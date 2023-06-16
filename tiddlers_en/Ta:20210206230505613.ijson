@@ -1,5 +1,5 @@
 {
-  "title": _("Ta:20210206230505613"),
+  "title": "Ta:20210206230505613",
   "answer": "The `$vars` widget.",
   "created": "20210206230506555",
   "modified": "20210512023550236",
@@ -7,5 +7,6 @@
   "qtype": "rememberq",
   "question": "What widget allows you to collapse the setting of multiple variables into a single widget?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki"
+  "type": "text/vnd.tiddlywiki",
+  "human_title": _("Ta:20210206230505613")
 }

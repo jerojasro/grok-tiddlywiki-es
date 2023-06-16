@@ -1,8 +1,9 @@
 {
-  "title": _("Ex:ViewTemplateExplicitHide/answer"),
+  "title": "Ex:ViewTemplateExplicitHide/answer",
   "created": "20210207214430861",
   "modified": "20210207214334658",
   "tags": "Answer",
   "type": "text/vnd.tiddlywiki",
-  "text": _("```html\n<$list filter=\"[all[current]!hide-contactinfo[yes]]\">\n\t\u2026the rest of the template\n</$list>\n```\n")
+  "text": _("```html\n<$list filter=\"[all[current]!hide-contactinfo[yes]]\">\n\t\u2026the rest of the template\n</$list>\n```\n"),
+  "human_title": _("Ex:ViewTemplateExplicitHide/answer")
 }

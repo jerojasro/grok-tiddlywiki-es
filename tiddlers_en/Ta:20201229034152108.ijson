@@ -1,5 +1,5 @@
 {
-  "title": _("Ta:20201229034152108"),
+  "title": "Ta:20201229034152108",
   "answer": "Control+Enter",
   "created": "20201229034153231",
   "modified": "20210502173957172",
@@ -7,5 +7,6 @@
   "qtype": "rememberq",
   "question": "What editor keyboard shortcut saves the changes to a tiddler and exits edit mode?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki"
+  "type": "text/vnd.tiddlywiki",
+  "human_title": _("Ta:20201229034152108")
 }

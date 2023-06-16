@@ -1,5 +1,5 @@
 {
-  "title": _("Ta:20210208023320983"),
+  "title": "Ta:20210208023320983",
   "answer": "(any situation that involves using a template in multiple places, where the template refers to a single tiddler storing state which should differ between uses of the template)",
   "created": "20210208023322067",
   "modified": "20210502162614372",
@@ -7,5 +7,6 @@
   "qtype": "rememberq",
   "question": "Describe a situation in which you would need to use the `qualify` macro (try to pick a new one).",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki"
+  "type": "text/vnd.tiddlywiki",
+  "human_title": _("Ta:20210208023320983")
 }

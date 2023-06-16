@@ -1,8 +1,9 @@
 {
-  "title": _("Sn:TicketLinkMacro"),
+  "title": "Sn:TicketLinkMacro",
   "created": "20210116210221048",
   "modified": "20210116210131168",
   "tags": "",
   "type": "text/vnd.tiddlywiki",
-  "text": _("\\define ticketLink(ticketId)\n[[Ticket #$ticketId$|https://tix.example.com/ticket/$ticketId$]]\n\\end\n\n<<ticketLink 245188>>")
+  "text": _("\\define ticketLink(ticketId)\n[[Ticket #$ticketId$|https://tix.example.com/ticket/$ticketId$]]\n\\end\n\n<<ticketLink 245188>>"),
+  "human_title": _("Sn:TicketLinkMacro")
 }

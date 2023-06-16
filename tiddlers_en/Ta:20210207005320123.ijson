@@ -1,5 +1,5 @@
 {
-  "title": _("Ta:20210207005320123"),
+  "title": "Ta:20210207005320123",
   "answer": "`<$view field=\"modified\" format=\"date\" template=\"YYYY\"/>`",
   "created": "20210207005321950",
   "modified": "20210502162403716",
@@ -7,5 +7,6 @@
   "qtype": "rememberq",
   "question": "Write a `$view` widget to display the four-digit year in which the current tiddler was last modified.",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki"
+  "type": "text/vnd.tiddlywiki",
+  "human_title": _("Ta:20210207005320123")
 }

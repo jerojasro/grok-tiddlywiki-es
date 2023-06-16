@@ -1,5 +1,5 @@
 {
-  "title": _("Ta:20210109214406987"),
+  "title": "Ta:20210109214406987",
   "answer": "The widget will never do anything at all.",
   "created": "20210109214410344",
   "modified": "20210418162309444",
@@ -7,5 +7,6 @@
   "qtype": "rememberq",
   "question": "What happens if you put an action widget in a tiddler by itself, rather than within a triggering widget?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki"
+  "type": "text/vnd.tiddlywiki",
+  "human_title": _("Ta:20210109214406987")
 }

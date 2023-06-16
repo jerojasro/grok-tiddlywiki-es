@@ -1,10 +1,11 @@
 {
-  "title": _("Ex:FudgeWithoutJane"),
+  "title": "Ex:FudgeWithoutJane",
   "created": "20200716022808142",
   "length": "s",
   "modified": "20210130174424856",
   "origin": "Multi-Run Filters",
   "tags": "Exercise",
   "type": "text/vnd.tiddlywiki",
-  "text": _("Write a filter to find all tiddlers mentioning fudge that don't list Jane as a participant. Use two filter runs.")
+  "text": _("Write a filter to find all tiddlers mentioning fudge that don't list Jane as a participant. Use two filter runs."),
+  "human_title": _("Ex:FudgeWithoutJane")
 }

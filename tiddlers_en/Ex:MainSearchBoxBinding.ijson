@@ -1,10 +1,11 @@
 {
-  "title": _("Ex:MainSearchBoxBinding"),
+  "title": "Ex:MainSearchBoxBinding",
   "created": "20210107234956443",
   "length": "m",
   "modified": "20210130174511358",
   "origin": "Buttons and Input Widgets",
   "tags": "Exercise",
   "type": "text/vnd.tiddlywiki",
-  "text": _("Figure out what tiddler and field the main search box in the sidebar is bound to.")
+  "text": _("Figure out what tiddler and field the main search box in the sidebar is bound to."),
+  "human_title": _("Ex:MainSearchBoxBinding")
 }

@@ -1,5 +1,5 @@
 {
-  "title": _("Ta:20210120232711407"),
+  "title": "Ta:20210120232711407",
   "answer": "Step away from the computer for a few minutes.",
   "created": "20210120232712727",
   "modified": "20210409174804924",
@@ -7,5 +7,6 @@
   "qtype": "rememberq",
   "question": "If you become frustrated at a TiddlyWiki problem, what is the fastest way to get back on track?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki"
+  "type": "text/vnd.tiddlywiki",
+  "human_title": _("Ta:20210120232711407")
 }

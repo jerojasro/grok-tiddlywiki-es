@@ -1,8 +1,9 @@
 {
-  "title": _("Sn:WikitextTableReference"),
+  "title": "Sn:WikitextTableReference",
   "created": "20210131144255671",
   "modified": "20210131144206831",
   "tags": "",
   "type": "text/vnd.tiddlywiki",
-  "text": _("|!Number|!A|!B|!C|\n|1|A1|B1|C1|\n|2|A2|B2|C2|\n|3|A3|B3|C3|")
+  "text": _("|!Number|!A|!B|!C|\n|1|A1|B1|C1|\n|2|A2|B2|C2|\n|3|A3|B3|C3|"),
+  "human_title": _("Sn:WikitextTableReference")
 }

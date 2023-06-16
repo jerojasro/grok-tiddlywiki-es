@@ -1,9 +1,10 @@
 {
-  "title": _("Ex:TocInternalExternalNav/answer"),
+  "title": "Ex:TocInternalExternalNav/answer",
   "created": "20200603195826629",
   "length": "m",
   "modified": "20200603195917940",
   "tags": "Answer",
   "type": "text/vnd.tiddlywiki",
-  "text": _("The difference is that the `internal` version opens internal links within the tabbed display, whereas the `external` version opens them in a separate tiddler in the story river.")
+  "text": _("The difference is that the `internal` version opens internal links within the tabbed display, whereas the `external` version opens them in a separate tiddler in the story river."),
+  "human_title": _("Ex:TocInternalExternalNav/answer")
 }

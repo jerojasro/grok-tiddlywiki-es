@@ -1,5 +1,5 @@
 {
-  "title": _("Appendices"),
+  "title": "Appendices",
   "caption": "Appendices",
   "created": "20200822214752880",
   "description": "In which you can find reference material, lists, acknowledgments, and extended digressions that didn't fit in the main flow of the book, if you're having a particularly boring afternoon.",
@@ -8,5 +8,6 @@
   "parent": "Outline",
   "tags": "Chapter",
   "type": "text/vnd.tiddlywiki",
-  "text": _("{{||ChapterOutlineTemplate}}")
+  "text": _("{{||ChapterOutlineTemplate}}"),
+  "human_title": _("Appendices")
 }

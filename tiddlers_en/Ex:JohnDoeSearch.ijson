@@ -1,10 +1,11 @@
 {
-  "title": _("Ex:JohnDoeSearch"),
+  "title": "Ex:JohnDoeSearch",
   "created": "20200603175748862",
   "length": "m",
   "modified": "20210130174448580",
   "origin": "Searching",
   "tags": "Exercise",
   "type": "text/vnd.tiddlywiki",
-  "text": _("Search for `JohnDoe`. Do you notice anything about the results? What's there, and what's missing?")
+  "text": _("Search for `JohnDoe`. Do you notice anything about the results? What's there, and what's missing?"),
+  "human_title": _("Ex:JohnDoeSearch")
 }

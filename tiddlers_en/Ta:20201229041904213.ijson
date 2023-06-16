@@ -1,5 +1,5 @@
 {
-  "title": _("Ta:20201229041904213"),
+  "title": "Ta:20201229041904213",
   "answer": "A link only records that the tiddlers are //related// in some unexplained way; because the field has a name, it can explain exactly how they are related.",
   "created": "20201229041909709",
   "modified": "20210409024937809",
@@ -7,5 +7,6 @@
   "qtype": "rememberq",
   "question": "Why does listing related tiddlers in a field, such as `participants`, provide more information to TiddlyWiki than linking to them in a tiddler's text?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki"
+  "type": "text/vnd.tiddlywiki",
+  "human_title": _("Ta:20201229041904213")
 }

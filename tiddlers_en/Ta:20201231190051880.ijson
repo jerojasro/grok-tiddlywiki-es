@@ -1,5 +1,5 @@
 {
-  "title": _("Ta:20201231190051880"),
+  "title": "Ta:20201231190051880",
   "answer": "`ContactInformationTemplate` (with `JaneDoe` as the current tiddler)",
   "created": "20201231190053870",
   "modified": "20210409212751159",
@@ -7,5 +7,6 @@
   "qtype": "rememberq",
   "question": "In the wikitext syntax `{{JaneDoe||ContactInformationTemplate}}`, which tiddler is being transcluded?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki"
+  "type": "text/vnd.tiddlywiki",
+  "human_title": _("Ta:20201231190051880")
 }

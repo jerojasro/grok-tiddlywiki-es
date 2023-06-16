@@ -1,5 +1,5 @@
 {
-  "title": _("Ta:20201229040048702"),
+  "title": "Ta:20201229040048702",
   "answer": "Surround it with double square brackets as if linking to it: `[[My Tiddler]]`.",
   "created": "20201229040049863",
   "modified": "20210409024425278",
@@ -7,5 +7,6 @@
   "qtype": "rememberq",
   "question": "How would you place a tiddler named `My Tiddler` in a list field, since it contains a space and tiddlers are separated by spaces in list fields?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki"
+  "type": "text/vnd.tiddlywiki",
+  "human_title": _("Ta:20201229040048702")
 }

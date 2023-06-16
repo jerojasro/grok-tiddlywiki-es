@@ -1,5 +1,5 @@
 {
-  "title": _("Ta:20210120232620760"),
+  "title": "Ta:20210120232620760",
   "answer": "Display the values of the intermediate variables or fields by themselves to check whether they contain what you expect.",
   "created": "20210120232623385",
   "modified": "20210409174751819",
@@ -7,5 +7,6 @@
   "qtype": "rememberq",
   "question": "What technique can you use to trace which part of some complicated wikitext is having a problem, without having to break the wikitext apart into smaller pieces?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki"
+  "type": "text/vnd.tiddlywiki",
+  "human_title": _("Ta:20210120232620760")
 }

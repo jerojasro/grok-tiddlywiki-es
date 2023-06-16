@@ -1,8 +1,9 @@
 {
-  "title": _("Ex:VariableAfterSet/answer"),
+  "title": "Ex:VariableAfterSet/answer",
   "created": "20201121235610144",
   "modified": "20201121235546664",
   "tags": "Answer",
   "type": "text/vnd.tiddlywiki",
-  "text": _("Nothing shows up. After the `</$set>`, it's as if the variable never had a value.")
+  "text": _("Nothing shows up. After the `</$set>`, it's as if the variable never had a value."),
+  "human_title": _("Ex:VariableAfterSet/answer")
 }

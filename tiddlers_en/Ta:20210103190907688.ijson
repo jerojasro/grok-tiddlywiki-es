@@ -1,5 +1,5 @@
 {
-  "title": _("Ta:20210103190907688"),
+  "title": "Ta:20210103190907688",
   "answer": "The ''Explorer'' section of the ''More'' tab.",
   "created": "20210103190910950",
   "modified": "20210418132951811",
@@ -7,5 +7,6 @@
   "qtype": "rememberq",
   "question": "What section of the sidebar is usually the best way to browse for system tiddlers?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki"
+  "type": "text/vnd.tiddlywiki",
+  "human_title": _("Ta:20210103190907688")
 }

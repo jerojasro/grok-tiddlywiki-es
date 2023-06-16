@@ -1,5 +1,5 @@
 {
-  "title": _("Ex:SampleExercise"),
+  "title": "Ex:SampleExercise",
   "complete": "",
   "created": "20210117001316615",
   "length": "m",
@@ -7,5 +7,6 @@
   "origin": "How to Use This Book",
   "tags": "Exercise",
   "type": "text/vnd.tiddlywiki",
-  "text": _("Search the web to find the name of TiddlyWiki's original developer.")
+  "text": _("Search the web to find the name of TiddlyWiki's original developer."),
+  "human_title": _("Ex:SampleExercise")
 }

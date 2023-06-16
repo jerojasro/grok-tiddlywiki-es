@@ -1,8 +1,9 @@
 {
-  "title": _("Sn:TiddlerWidget"),
+  "title": "Sn:TiddlerWidget",
   "created": "20210206211117892",
   "modified": "20210206211016565",
   "tags": "",
   "type": "text/vnd.tiddlywiki",
-  "text": _("<$set name=\"currentTiddler\" value=\"New Current Tiddler\">\n\t<<currentTiddler>>\n</$set>\n\n<$tiddler tiddler=\"New Current Tiddler\">\n\t<<currentTiddler>>\n</$tiddler>")
+  "text": _("<$set name=\"currentTiddler\" value=\"New Current Tiddler\">\n\t<<currentTiddler>>\n</$set>\n\n<$tiddler tiddler=\"New Current Tiddler\">\n\t<<currentTiddler>>\n</$tiddler>"),
+  "human_title": _("Sn:TiddlerWidget")
 }

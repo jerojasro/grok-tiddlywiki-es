@@ -1,5 +1,5 @@
 {
-  "title": _("Ta:20201229034751031"),
+  "title": "Ta:20201229034751031",
   "answer": "If you felt the mention was not relevant in any other context, and you explicitly did not want the notes to appear in connection with that person.",
   "created": "20201229034755780",
   "modified": "20210409024239085",
@@ -7,5 +7,6 @@
   "qtype": "rememberq",
   "question": "Why might you choose //not// to link to a person's contact tiddler in some notes, even if you were mentioning them?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki"
+  "type": "text/vnd.tiddlywiki",
+  "human_title": _("Ta:20201229034751031")
 }

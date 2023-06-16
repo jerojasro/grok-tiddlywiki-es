@@ -1,10 +1,11 @@
 {
-  "title": _("Ex:WikipediaLinkSnippet"),
+  "title": "Ex:WikipediaLinkSnippet",
   "created": "20200718205147878",
   "length": "m",
   "modified": "20210418141853139",
   "origin": "Stamps",
   "tags": "Exercise",
   "type": "text/vnd.tiddlywiki",
-  "text": _("Create a snippet //Link to Wikipedia article// that inserts a call to the `wikipediaLink` global macro. Specifically, it should use the prefix/suffix feature so that if you highlight `Aardvark`, you get `<<wikipediaLink \"Aardvark\" linktext>>`.")
+  "text": _("Create a snippet //Link to Wikipedia article// that inserts a call to the `wikipediaLink` global macro. Specifically, it should use the prefix/suffix feature so that if you highlight `Aardvark`, you get `<<wikipediaLink \"Aardvark\" linktext>>`."),
+  "human_title": _("Ex:WikipediaLinkSnippet")
 }

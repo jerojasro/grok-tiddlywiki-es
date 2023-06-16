@@ -1,5 +1,5 @@
 {
-  "title": _("Ta:20210109232511957"),
+  "title": "Ta:20210109232511957",
   "answer": "The `text` (content) field is stored in a separate file, alongside a `.meta` file containing the other fields.",
   "created": "20210109232512868",
   "modified": "20210502164049691",
@@ -7,5 +7,6 @@
   "qtype": "rememberq",
   "question": "How are tiddlers containing binary data (e.g., images) stored in a folder wiki?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki"
+  "type": "text/vnd.tiddlywiki",
+  "human_title": _("Ta:20210109232511957")
 }

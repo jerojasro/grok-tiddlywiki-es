@@ -1,5 +1,5 @@
 {
-  "title": _("Ta:20210103173848047"),
+  "title": "Ta:20210103173848047",
   "answer": "A tiddler.",
   "created": "20210103173849080",
   "modified": "20210410192113404",
@@ -7,5 +7,6 @@
   "qtype": "rememberq",
   "question": "What TiddlyWiki object populates each tab produced by the `tabs` macro?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki"
+  "type": "text/vnd.tiddlywiki",
+  "human_title": _("Ta:20210103173848047")
 }

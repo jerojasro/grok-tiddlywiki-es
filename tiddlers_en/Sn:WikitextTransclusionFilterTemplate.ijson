@@ -1,8 +1,9 @@
 {
-  "title": _("Sn:WikitextTransclusionFilterTemplate"),
+  "title": "Sn:WikitextTransclusionFilterTemplate",
   "created": "20210131145658933",
   "modified": "20210521201912850",
   "tags": "",
   "type": "text/vnd.tiddlywiki",
-  "text": _("{{{ [all[tiddlers+shadows]tag[Exercise]first[]] || Sn:BoldfaceTemplate }}}")
+  "text": _("{{{ [all[tiddlers+shadows]tag[Exercise]first[]] || Sn:BoldfaceTemplate }}}"),
+  "human_title": _("Sn:WikitextTransclusionFilterTemplate")
 }

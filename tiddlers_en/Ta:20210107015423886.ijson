@@ -1,5 +1,5 @@
 {
-  "title": _("Ta:20210107015423886"),
+  "title": "Ta:20210107015423886",
   "answer": "Use a pragma `\\import [prefix[W]]`.",
   "created": "20210107015425774",
   "modified": "20210418134733750",
@@ -7,5 +7,6 @@
   "qtype": "rememberq",
   "question": "How would you load macros found in all tiddlers that begin with the letter `W` into the context of the current tiddler?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki"
+  "type": "text/vnd.tiddlywiki",
+  "human_title": _("Ta:20210107015423886")
 }

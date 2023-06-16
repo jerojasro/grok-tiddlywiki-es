@@ -1,5 +1,5 @@
 {
-  "title": _("Ta:20210130224008308"),
+  "title": "Ta:20210130224008308",
   "answer": "You run across the notes at a time they are useful, having completely forgotten you took them.",
   "created": "20210130224009549",
   "modified": "20210409141418099",
@@ -7,5 +7,6 @@
   "qtype": "rememberq",
   "question": "Explain how notes can create //serendipity// (one of their three functions).",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki"
+  "type": "text/vnd.tiddlywiki",
+  "human_title": _("Ta:20210130224008308")
 }

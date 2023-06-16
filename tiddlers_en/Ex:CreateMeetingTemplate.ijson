@@ -1,5 +1,5 @@
 {
-  "title": _("Ex:CreateMeetingTemplate"),
+  "title": "Ex:CreateMeetingTemplate",
   "complete": "",
   "created": "20200605153755202",
   "length": "m",
@@ -7,5 +7,6 @@
   "origin": "Templates and the Current Tiddler",
   "tags": "Exercise",
   "type": "text/vnd.tiddlywiki",
-  "text": _("<!--\n<$action-createtiddler $basetitle=<<qualify \"$:/temp/Render\">> $savetitle=\"!!rendering\" text=<<mytext>>/>-->\n\nOur meetings have two fields, `at` and `participants`, which don't show up anywhere on the meeting tiddlers. Create a new template tiddler, `MeetingInformationTemplate`, and add a table something like the following.\n\n{{Sn:MeetingParticipants||MagicSnippet}}\n\nObviously, your version should include the correct information for whichever tiddler the template is being transcluded into. Don't miss the space before the `!` in `Time` and `Participants` in the wikitext, which causes the headings to be right-aligned rather than centered.\n\nTransclude this template at the top of all your meeting tiddlers.")
+  "text": _("<!--\n<$action-createtiddler $basetitle=<<qualify \"$:/temp/Render\">> $savetitle=\"!!rendering\" text=<<mytext>>/>-->\n\nOur meetings have two fields, `at` and `participants`, which don't show up anywhere on the meeting tiddlers. Create a new template tiddler, `MeetingInformationTemplate`, and add a table something like the following.\n\n{{Sn:MeetingParticipants||MagicSnippet}}\n\nObviously, your version should include the correct information for whichever tiddler the template is being transcluded into. Don't miss the space before the `!` in `Time` and `Participants` in the wikitext, which causes the headings to be right-aligned rather than centered.\n\nTransclude this template at the top of all your meeting tiddlers."),
+  "human_title": _("Ex:CreateMeetingTemplate")
 }

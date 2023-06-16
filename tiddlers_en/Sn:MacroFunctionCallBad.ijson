@@ -1,9 +1,10 @@
 {
-  "title": _("Sn:MacroFunctionCallBad"),
+  "title": "Sn:MacroFunctionCallBad",
   "created": "20210818001607196",
   "description": "Macros are not functions",
   "modified": "20210818003451927",
   "tags": "",
   "type": "text/vnd.tiddlywiki",
-  "text": _("\\define test-macro() {{{ [<currentTiddler>get[description]] }}}\n\nThe value of the `description` field of the current tiddler is \"<<test-macro>>\".\n\n<$transclude tiddler=<<test-macro>> field=\"description\"/>")
+  "text": _("\\define test-macro() {{{ [<currentTiddler>get[description]] }}}\n\nThe value of the `description` field of the current tiddler is \"<<test-macro>>\".\n\n<$transclude tiddler=<<test-macro>> field=\"description\"/>"),
+  "human_title": _("Sn:MacroFunctionCallBad")
 }

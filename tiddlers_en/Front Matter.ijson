@@ -1,5 +1,5 @@
 {
-  "title": _("Front Matter"),
+  "title": "Front Matter",
   "caption": "Front Matter",
   "created": "20200605170912534",
   "description": "In which we examine why you would want to use TiddlyWiki, why you would want to learn it from this book, and how the book can teach you TiddlyWiki.",
@@ -8,5 +8,6 @@
   "parent": "Outline",
   "tags": "Chapter",
   "type": "text/vnd.tiddlywiki",
-  "text": _("//Grok TiddlyWiki//\u2019s front matter explains why you should care about TiddlyWiki, why you should care about this book, and how you can best use the book. If that sounds important, read on; if it sounds boring, proceed to the first chapter, [[The Shape of TiddlyWiki|The Shape of TiddlyWiki]].\n\n!! In this chapter\n\n{{||ChapterOutlineTemplate}}")
+  "text": _("//Grok TiddlyWiki//\u2019s front matter explains why you should care about TiddlyWiki, why you should care about this book, and how you can best use the book. If that sounds important, read on; if it sounds boring, proceed to the first chapter, [[The Shape of TiddlyWiki|The Shape of TiddlyWiki]].\n\n!! In this chapter\n\n{{||ChapterOutlineTemplate}}"),
+  "human_title": _("Front Matter")
 }

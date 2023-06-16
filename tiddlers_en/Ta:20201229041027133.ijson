@@ -1,5 +1,5 @@
 {
-  "title": _("Ta:20201229041027133"),
+  "title": "Ta:20201229041027133",
   "answer": "The //excise// button on the edit toolbar.",
   "created": "20201229041029939",
   "modified": "20210409024853859",
@@ -7,5 +7,6 @@
   "qtype": "rememberq",
   "question": "When you are editing a tiddler and realize that a portion of its contents should be split into its own tiddler, what operation would you use?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki"
+  "type": "text/vnd.tiddlywiki",
+  "human_title": _("Ta:20201229041027133")
 }

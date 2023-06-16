@@ -1,8 +1,9 @@
 {
-  "title": _("Sn:NowTimestamp"),
+  "title": "Sn:NowTimestamp",
   "created": "20210207002251317",
   "modified": "20210207002158486",
   "tags": "",
   "type": "text/vnd.tiddlywiki",
-  "text": _("\\define now-timestamp() <<now [UTC]YYYY0MM0DD0hh0mm0ssXXX>>\n\n<<now-timestamp>>")
+  "text": _("\\define now-timestamp() <<now [UTC]YYYY0MM0DD0hh0mm0ssXXX>>\n\n<<now-timestamp>>"),
+  "human_title": _("Sn:NowTimestamp")
 }

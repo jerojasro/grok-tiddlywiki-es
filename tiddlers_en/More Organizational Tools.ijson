@@ -1,5 +1,5 @@
 {
-  "title": _("More Organizational Tools"),
+  "title": "More Organizational Tools",
   "caption": "5: More Organizational Tools",
   "created": "20200607150802909",
   "description": "In which we cover miscellaneous TiddlyWiki features that didn't fit in any of the previous chapters, including images, tabs, and more on filters and tags.",
@@ -8,5 +8,6 @@
   "parent": "Outline",
   "tags": "Chapter",
   "type": "text/vnd.tiddlywiki",
-  "text": _("At this point, we've covered most of the important features of TiddlyWiki. In the next chapter, we'll be exploring how we can use what we've learned to customize TiddlyWiki's interface and behavior. Before that, though, let's look at a few miscellaneous features that we haven't covered yet.\n\n!! In this chapter\n\n{{||ChapterOutlineTemplate}}")
+  "text": _("At this point, we've covered most of the important features of TiddlyWiki. In the next chapter, we'll be exploring how we can use what we've learned to customize TiddlyWiki's interface and behavior. Before that, though, let's look at a few miscellaneous features that we haven't covered yet.\n\n!! In this chapter\n\n{{||ChapterOutlineTemplate}}"),
+  "human_title": _("More Organizational Tools")
 }

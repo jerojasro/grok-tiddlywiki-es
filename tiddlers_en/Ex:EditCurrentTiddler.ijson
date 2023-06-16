@@ -1,10 +1,11 @@
 {
-  "title": _("Ex:EditCurrentTiddler"),
+  "title": "Ex:EditCurrentTiddler",
   "created": "20210107230556451",
   "length": "m",
   "modified": "20210818190539836",
   "origin": "Buttons and Input Widgets",
   "tags": "Exercise",
   "type": "text/vnd.tiddlywiki",
-  "text": _("The `$edit-text` widget can edit any field on any tiddler, so we don't have to use a temporary tiddler if we don't want to. In the example above, we could just update the `userwhoclicked` field directly as the user types.\n\nLook up the documentation for the `$edit-text` widget to learn how to select which field the widget should edit, then change the example to behave accordingly.")
+  "text": _("The `$edit-text` widget can edit any field on any tiddler, so we don't have to use a temporary tiddler if we don't want to. In the example above, we could just update the `userwhoclicked` field directly as the user types.\n\nLook up the documentation for the `$edit-text` widget to learn how to select which field the widget should edit, then change the example to behave accordingly."),
+  "human_title": _("Ex:EditCurrentTiddler")
 }

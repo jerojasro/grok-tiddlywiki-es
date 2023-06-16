@@ -1,8 +1,9 @@
 {
-  "title": _("Ex:WikipediaLinkSnippet/answer"),
+  "title": "Ex:WikipediaLinkSnippet/answer",
   "created": "20200718205253237",
   "modified": "20210418141917530",
   "tags": "Answer",
   "type": "text/vnd.tiddlywiki",
-  "text": _("You need three tiddlers.\n\n* `WikipediaLinkSnippet`: tagged `$:/tags/TextEditor/Snippet` and with a caption `Link to Wikipedia article`. No content.\n* `WikipediaLinkSnippet/prefix`: body text `<<wikipediaLink \"`\n* `WikipediaLinkSnippet/suffix`: body text `\" linktext>>`")
+  "text": _("You need three tiddlers.\n\n* `WikipediaLinkSnippet`: tagged `$:/tags/TextEditor/Snippet` and with a caption `Link to Wikipedia article`. No content.\n* `WikipediaLinkSnippet/prefix`: body text `<<wikipediaLink \"`\n* `WikipediaLinkSnippet/suffix`: body text `\" linktext>>`"),
+  "human_title": _("Ex:WikipediaLinkSnippet/answer")
 }

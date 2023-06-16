@@ -1,5 +1,5 @@
 {
-  "title": _("Ta:20210103174719170"),
+  "title": "Ta:20210103174719170",
   "answer": "Drag and drop it onto the browser window.",
   "created": "20210103174720050",
   "modified": "20210410185212068",
@@ -7,5 +7,6 @@
   "qtype": "rememberq",
   "question": "What is the fastest way to import an image into your TiddlyWiki?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki"
+  "type": "text/vnd.tiddlywiki",
+  "human_title": _("Ta:20210103174719170")
 }

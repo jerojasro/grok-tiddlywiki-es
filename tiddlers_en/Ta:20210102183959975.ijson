@@ -1,5 +1,5 @@
 {
-  "title": _("Ta:20210102183959975"),
+  "title": "Ta:20210102183959975",
   "answer": "The tag manager.",
   "created": "20210102184001422",
   "modified": "20210410175959587",
@@ -7,5 +7,6 @@
   "qtype": "rememberq",
   "question": "What TiddlyWiki tool allows you to customize the colors and icons of tags?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki"
+  "type": "text/vnd.tiddlywiki",
+  "human_title": _("Ta:20210102183959975")
 }

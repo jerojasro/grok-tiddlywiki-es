@@ -1,5 +1,5 @@
 {
-  "title": _("Ta:20210107015521319"),
+  "title": "Ta:20210107015521319",
   "answer": "E.g., automatically generate URLs matching a pattern, display some boilerplate text, perform a series of actions using action widgets",
   "created": "20210107015530781",
   "modified": "20210418134741794",
@@ -7,5 +7,6 @@
   "qtype": "rememberq",
   "question": "Give an example of something you might define a global macro to do (try to pick a new one).",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki"
+  "type": "text/vnd.tiddlywiki",
+  "human_title": _("Ta:20210107015521319")
 }

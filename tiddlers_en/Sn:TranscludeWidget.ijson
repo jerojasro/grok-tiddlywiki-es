@@ -1,9 +1,10 @@
 {
-  "title": _("Sn:TranscludeWidget"),
+  "title": "Sn:TranscludeWidget",
   "created": "20210123194341409",
   "description": "This is a nice wikitext snippet.",
   "modified": "20210206220012176",
   "tags": "",
   "type": "text/vnd.tiddlywiki",
-  "text": _("<$transclude tiddler=<<currentTiddler>> field=\"description\"/>\n\n-----\n\n<$transclude field=\"description\"/>\n\n-----\n\n{{!!description}}")
+  "text": _("<$transclude tiddler=<<currentTiddler>> field=\"description\"/>\n\n-----\n\n<$transclude field=\"description\"/>\n\n-----\n\n{{!!description}}"),
+  "human_title": _("Sn:TranscludeWidget")
 }

@@ -1,5 +1,5 @@
 {
-  "title": _("Ta:20200822212240517"),
+  "title": "Ta:20200822212240517",
   "answer": "`[[My Tiddler]]`",
   "created": "20201229030133218",
   "modified": "20210408180634486",
@@ -7,5 +7,6 @@
   "qtype": "rememberq",
   "question": "What is the wikitext syntax to link to a tiddler called `My Tiddler`?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki"
+  "type": "text/vnd.tiddlywiki",
+  "human_title": _("Ta:20200822212240517")
 }

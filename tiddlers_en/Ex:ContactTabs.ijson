@@ -1,10 +1,11 @@
 {
-  "title": _("Ex:ContactTabs"),
+  "title": "Ex:ContactTabs",
   "created": "20200717223526481",
   "length": "s",
   "modified": "20210130174342014",
   "origin": "Tabs",
   "tags": "Exercise",
   "type": "text/vnd.tiddlywiki",
-  "text": _("Create a set of tabs to show all contacts in the wiki. Take a look through the tabs -- what isn't displaying right, and what might that mean?")
+  "text": _("Create a set of tabs to show all contacts in the wiki. Take a look through the tabs -- what isn't displaying right, and what might that mean?"),
+  "human_title": _("Ex:ContactTabs")
 }

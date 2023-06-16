@@ -1,9 +1,10 @@
 {
-  "title": _("$:/sib/Snippet/TiddlerAsRendered"),
+  "title": "$:/sib/Snippet/TiddlerAsRendered",
   "caption": "{{$:/core/images/preview-open}} Output",
   "created": "20201231195658011",
   "modified": "20210320140633946",
   "tags": "",
   "type": "text/vnd.tiddlywiki",
-  "text": _("{{!!text}}")
+  "text": _("{{!!text}}"),
+  "human_title": _("$:/sib/Snippet/TiddlerAsRendered")
 }

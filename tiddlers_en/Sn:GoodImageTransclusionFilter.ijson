@@ -1,8 +1,9 @@
 {
-  "title": _("Sn:GoodImageTransclusionFilter"),
+  "title": "Sn:GoodImageTransclusionFilter",
   "created": "20210818121930067",
   "modified": "20210818122035251",
   "tags": "",
   "type": "text/vnd.tiddlywiki",
-  "text": _("<$tiddler tiddler=\"Constant strings cannot be combined with transclusions\">\n<$image source={{{ [{!!title}addsuffix[.png]] }}}/>\n</$tiddler>")
+  "text": _("<$tiddler tiddler=\"Constant strings cannot be combined with transclusions\">\n<$image source={{{ [{!!title}addsuffix[.png]] }}}/>\n</$tiddler>"),
+  "human_title": _("Sn:GoodImageTransclusionFilter")
 }

@@ -1,8 +1,9 @@
 {
-  "title": _("Ex:RedATags/answer"),
+  "title": "Ex:RedATags/answer",
   "created": "20200716023335690",
   "modified": "20210418134703851",
   "tags": "Answer",
   "type": "text/vnd.tiddlywiki",
-  "text": _("```\n[is[tiddler]]\n-[prefix[C]color[#ff0000]tagging[]backlinks[]]\n+[!sort[]]\n```\n\nIf you want, you can get away with doing the sort //before// doing the second filter run, as part of the `[is[tiddler]]` run; since the second run only removes items, it won't disturb the order. The pattern shown above is more generally useful, though, since it works even after other ORs and ANDs.")
+  "text": _("```\n[is[tiddler]]\n-[prefix[C]color[#ff0000]tagging[]backlinks[]]\n+[!sort[]]\n```\n\nIf you want, you can get away with doing the sort //before// doing the second filter run, as part of the `[is[tiddler]]` run; since the second run only removes items, it won't disturb the order. The pattern shown above is more generally useful, though, since it works even after other ORs and ANDs."),
+  "human_title": _("Ex:RedATags/answer")
 }

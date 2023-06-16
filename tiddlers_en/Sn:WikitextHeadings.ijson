@@ -1,8 +1,9 @@
 {
-  "title": _("Sn:WikitextHeadings"),
+  "title": "Sn:WikitextHeadings",
   "created": "20210131045414136",
   "modified": "20210131045316298",
   "tags": "",
   "type": "text/vnd.tiddlywiki",
-  "text": _("! Heading 1\n!! Heading 2\n!!! Heading 3\n!!!! Heading 4\n!!!!! Heading 5\n!!!!!! Heading 6")
+  "text": _("! Heading 1\n!! Heading 2\n!!! Heading 3\n!!!! Heading 4\n!!!!! Heading 5\n!!!!!! Heading 6"),
+  "human_title": _("Sn:WikitextHeadings")
 }

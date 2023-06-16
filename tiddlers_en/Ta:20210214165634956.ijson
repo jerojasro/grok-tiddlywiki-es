@@ -1,5 +1,5 @@
 {
-  "title": _("Ta:20210214165634956"),
+  "title": "Ta:20210214165634956",
   "answer": "Purple.",
   "created": "20210214165635960",
   "modified": "20210214172141205",
@@ -7,5 +7,6 @@
   "qtype": "rememberq",
   "question": "What color is a purple cow?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki"
+  "type": "text/vnd.tiddlywiki",
+  "human_title": _("Ta:20210214165634956")
 }

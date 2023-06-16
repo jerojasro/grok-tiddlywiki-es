@@ -1,5 +1,5 @@
 {
-  "title": _("Getting Technical"),
+  "title": "Getting Technical",
   "caption": "8: Getting Technical",
   "created": "20200822193159541",
   "description": "In which software developers and other computer geeks can learn how to extend and interact with TiddlyWiki using JavaScript, CSS, and external programs.",
@@ -8,5 +8,6 @@
   "parent": "Outline",
   "tags": "Chapter",
   "type": "text/vnd.tiddlywiki",
-  "text": _("This chapter differs from the others in the book in that it discusses how TiddlyWiki ''integrates with other technologies'' -- JavaScript, CSS, shell scripts, and so on. You may not have the technical knowledge or previous experience to benefit from some or all of these sections, so they are totally optional and not a necessary part of broad TiddlyWiki expertise, but if some of them look interesting and in line with your other skills, feel free to explore!\n\n!! In this chapter\n\n{{||ChapterOutlineTemplate}}")
+  "text": _("This chapter differs from the others in the book in that it discusses how TiddlyWiki ''integrates with other technologies'' -- JavaScript, CSS, shell scripts, and so on. You may not have the technical knowledge or previous experience to benefit from some or all of these sections, so they are totally optional and not a necessary part of broad TiddlyWiki expertise, but if some of them look interesting and in line with your other skills, feel free to explore!\n\n!! In this chapter\n\n{{||ChapterOutlineTemplate}}"),
+  "human_title": _("Getting Technical")
 }

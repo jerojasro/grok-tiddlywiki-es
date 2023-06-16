@@ -1,10 +1,11 @@
 {
-  "title": _("Ex:SearchExploration"),
+  "title": "Ex:SearchExploration",
   "created": "20200603175700245",
   "length": "s",
   "modified": "20210130174618833",
   "origin": "Searching",
   "tags": "Exercise",
   "type": "text/vnd.tiddlywiki",
-  "text": _("Try searching for a few more tiddlers you've created, both with keywords found in the title and keywords found in the body text.")
+  "text": _("Try searching for a few more tiddlers you've created, both with keywords found in the title and keywords found in the body text."),
+  "human_title": _("Ex:SearchExploration")
 }

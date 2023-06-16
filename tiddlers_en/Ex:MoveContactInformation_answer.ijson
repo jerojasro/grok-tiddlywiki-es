@@ -1,8 +1,9 @@
 {
-  "title": _("Ex:MoveContactInformation/answer"),
+  "title": "Ex:MoveContactInformation/answer",
   "created": "20200718031911364",
   "modified": "20210418135516766",
   "tags": "Answer",
   "type": "text/vnd.tiddlywiki",
-  "text": _("You need to get your `$:/yourname/TiddlerTypeTemplates/Contact` tiddler before $:/core/ui/ViewTemplate/body in the `list` field of [[$:/tags/ViewTemplate]]. The easiest way to do this is to click the tag pill for [[$:/tags/ViewTemplate]] where it appears on your `$:/yourname/TiddlerTypeTemplates/Contact` tiddler and drag and drop the entries into the proper position.\n\nYou could also manually edit the `list` field, or even create a `<<list-links-draggable>>` or `<<list-tagged-draggable>>` macro to reorder the members of the tag.")
+  "text": _("You need to get your `$:/yourname/TiddlerTypeTemplates/Contact` tiddler before $:/core/ui/ViewTemplate/body in the `list` field of [[$:/tags/ViewTemplate]]. The easiest way to do this is to click the tag pill for [[$:/tags/ViewTemplate]] where it appears on your `$:/yourname/TiddlerTypeTemplates/Contact` tiddler and drag and drop the entries into the proper position.\n\nYou could also manually edit the `list` field, or even create a `<<list-links-draggable>>` or `<<list-tagged-draggable>>` macro to reorder the members of the tag."),
+  "human_title": _("Ex:MoveContactInformation/answer")
 }

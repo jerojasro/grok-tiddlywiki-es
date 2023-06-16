@@ -1,5 +1,5 @@
 {
-  "title": _("Ta:20210120232130346"),
+  "title": "Ta:20210120232130346",
   "answer": "Explain in detail to the duck what you are trying to do, in the hopes that this will call attention to your mistake.",
   "created": "20210120232131457",
   "modified": "20210409174734273",
@@ -7,5 +7,6 @@
   "qtype": "rememberq",
   "question": "How can you use a rubber duck to help solve your TiddlyWiki problems?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki"
+  "type": "text/vnd.tiddlywiki",
+  "human_title": _("Ta:20210120232130346")
 }

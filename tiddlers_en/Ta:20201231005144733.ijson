@@ -1,10 +1,11 @@
 {
-  "title": _("Ta:20201231005144733"),
+  "title": "Ta:20201231005144733",
   "created": "20201231005147234",
   "modified": "20210418131841285",
   "origin": "Macros",
   "qtype": "remembercz",
   "question": "Macros, unlike variables, allow you to eliminate repetitive text where each occurrence of the repetitive text has some elements that {are different}.",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki"
+  "type": "text/vnd.tiddlywiki",
+  "human_title": _("Ta:20201231005144733")
 }

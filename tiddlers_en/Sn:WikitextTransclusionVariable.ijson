@@ -1,8 +1,9 @@
 {
-  "title": _("Sn:WikitextTransclusionVariable"),
+  "title": "Sn:WikitextTransclusionVariable",
   "created": "20210131145709035",
   "modified": "20210131145610787",
   "tags": "",
   "type": "text/vnd.tiddlywiki",
-  "text": _("<$set name=\"myvariable\" value=\"Hello!\">\n  <<myvariable>>\n</$set>")
+  "text": _("<$set name=\"myvariable\" value=\"Hello!\">\n  <<myvariable>>\n</$set>"),
+  "human_title": _("Sn:WikitextTransclusionVariable")
 }

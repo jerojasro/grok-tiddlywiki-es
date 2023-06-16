@@ -1,10 +1,11 @@
 {
-  "title": _("Ta:20210116235249040"),
+  "title": "Ta:20210116235249040",
   "created": "20210116235250122",
   "modified": "20210410142823829",
   "origin": "Block Mode and Inline Mode",
   "qtype": "remembercz",
   "question": "In inline mode, elements are stacked {horizontally} (vertical/horizontal).",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki"
+  "type": "text/vnd.tiddlywiki",
+  "human_title": _("Ta:20210116235249040")
 }

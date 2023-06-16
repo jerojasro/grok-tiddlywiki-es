@@ -1,5 +1,5 @@
 {
-  "title": _("Ta:20210107014030925"),
+  "title": "Ta:20210107014030925",
   "answer": "If another, normal, tiddler has the same name as the shadow tiddler.",
   "created": "20210107014032565",
   "modified": "20210418134034916",
@@ -7,5 +7,6 @@
   "qtype": "rememberq",
   "question": "In what circumstances will a shadow tiddler provided by a plugin be ignored?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki"
+  "type": "text/vnd.tiddlywiki",
+  "human_title": _("Ta:20210107014030925")
 }

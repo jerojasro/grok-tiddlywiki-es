@@ -1,5 +1,5 @@
 {
-  "title": _("Filtering and Formatting"),
+  "title": "Filtering and Formatting",
   "caption": "3: Filtering and Formatting",
   "created": "20201125195211013",
   "description": "In which we learn how to use filters to answer questions about our notes, like \u201cWhat are the email addresses of all the people who went to X meeting?\u201d, or \u201cAt what meetings attended by Jane did we discuss X concept?\u201d. We'll also dig into HTML and widgets, which allow us to create tiddlers that use complex formatting and update automatically when other tiddlers are changed.",
@@ -8,5 +8,6 @@
   "parent": "Outline",
   "tags": "Chapter",
   "type": "text/vnd.tiddlywiki",
-  "text": _("One of the things TiddlyWiki does best is selecting tiddlers that match certain criteria and remixing them into different forms. This chapter explores these capabilities in two phases.\n\n# We'll learn how to write ''filters'' to choose tiddlers that match almost any criteria you can think of.\n# We'll take a deeper dive into wikitext by learning the basics of the formatting language ''HTML'' and its TiddlyWiki extensions, which we will continue to use throughout the rest of the book.\n\nAt the end, we'll bring these topics together by creating formatted lists of tiddlers that automatically update to match the results of a filter, and we'll discuss some troubleshooting skills to be used when these features don't work as expected.\n\n!! In this chapter\n\n{{||ChapterOutlineTemplate}}")
+  "text": _("One of the things TiddlyWiki does best is selecting tiddlers that match certain criteria and remixing them into different forms. This chapter explores these capabilities in two phases.\n\n# We'll learn how to write ''filters'' to choose tiddlers that match almost any criteria you can think of.\n# We'll take a deeper dive into wikitext by learning the basics of the formatting language ''HTML'' and its TiddlyWiki extensions, which we will continue to use throughout the rest of the book.\n\nAt the end, we'll bring these topics together by creating formatted lists of tiddlers that automatically update to match the results of a filter, and we'll discuss some troubleshooting skills to be used when these features don't work as expected.\n\n!! In this chapter\n\n{{||ChapterOutlineTemplate}}"),
+  "human_title": _("Filtering and Formatting")
 }

@@ -1,8 +1,9 @@
 {
-  "title": _("Ex:InspectSquare/answer"),
+  "title": "Ex:InspectSquare/answer",
   "created": "20210121000943507",
   "modified": "20210121000855353",
   "tags": "Answer",
   "type": "text/vnd.tiddlywiki",
-  "text": _("The class is `bluuuuu`, and the hidden message, kept in a `span` element inside the `div` element that makes up the square, is \u201cHelp, I'm trapped in an HTML span!\u201d")
+  "text": _("The class is `bluuuuu`, and the hidden message, kept in a `span` element inside the `div` element that makes up the square, is \u201cHelp, I'm trapped in an HTML span!\u201d"),
+  "human_title": _("Ex:InspectSquare/answer")
 }

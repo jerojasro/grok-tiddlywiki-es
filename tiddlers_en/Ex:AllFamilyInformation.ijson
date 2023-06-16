@@ -1,5 +1,5 @@
 {
-  "title": _("Ex:AllFamilyInformation"),
+  "title": "Ex:AllFamilyInformation",
   "complete": "",
   "created": "20201122034146442",
   "length": "m",
@@ -7,5 +7,6 @@
   "origin": "Filters and Transclusions",
   "tags": "Exercise",
   "type": "text/vnd.tiddlywiki",
-  "text": _("Edit the `ContactInformationTemplate` so that a contact's family members each get their own bullet point, nested underneath the `Family` bullet point, listing their name and phone number, like this:\n\n* ''Family'':\n** JohnDoe: 888-555-9999\n** EmilyDoe: 888-555-1111\n\n//Tip:// You'll need to use [[HTML]] for the inner bulleted list, as wikitext lists can't be interleaved successfully with `$list` widgets. While it's possible to make everything show up correctly while still writing the outer bulleted list in wikitext, if you're struggling with the formatting, it may be easier to switch the outer list to an HTML list as well.\n\nAs a reminder, to nest lists in HTML, put another `<ul>` opening tag inside an `<li>` tag.")
+  "text": _("Edit the `ContactInformationTemplate` so that a contact's family members each get their own bullet point, nested underneath the `Family` bullet point, listing their name and phone number, like this:\n\n* ''Family'':\n** JohnDoe: 888-555-9999\n** EmilyDoe: 888-555-1111\n\n//Tip:// You'll need to use [[HTML]] for the inner bulleted list, as wikitext lists can't be interleaved successfully with `$list` widgets. While it's possible to make everything show up correctly while still writing the outer bulleted list in wikitext, if you're struggling with the formatting, it may be easier to switch the outer list to an HTML list as well.\n\nAs a reminder, to nest lists in HTML, put another `<ul>` opening tag inside an `<li>` tag."),
+  "human_title": _("Ex:AllFamilyInformation")
 }

@@ -1,5 +1,5 @@
 {
-  "title": _("Ta:20210107014315547"),
+  "title": "Ta:20210107014315547",
   "answer": "In the preview dropdown on the editor toolbar, you can select \"differences from shadow.\"",
   "created": "20210107014316562",
   "modified": "20210418134051585",
@@ -7,5 +7,6 @@
   "qtype": "rememberq",
   "question": "Where in a tiddler's interface can you look to see what differences it has to its corresponding shadow tiddler (if it has one)?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki"
+  "type": "text/vnd.tiddlywiki",
+  "human_title": _("Ta:20210107014315547")
 }

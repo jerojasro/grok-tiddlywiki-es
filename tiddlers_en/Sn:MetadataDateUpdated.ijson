@@ -1,8 +1,9 @@
 {
-  "title": _("Sn:MetadataDateUpdated"),
+  "title": "Sn:MetadataDateUpdated",
   "created": "20210207001648789",
   "modified": "20210207001547418",
   "tags": "",
   "type": "text/vnd.tiddlywiki",
-  "text": _("<$view tiddler=\"Metadata\" field=\"modified\" format=\"date\" template=\"DDD, MMM DDth, YYYY\"/>")
+  "text": _("<$view tiddler=\"Metadata\" field=\"modified\" format=\"date\" template=\"DDD, MMM DDth, YYYY\"/>"),
+  "human_title": _("Sn:MetadataDateUpdated")
 }

@@ -1,5 +1,5 @@
 {
-  "title": _("Ta:20210103173804424"),
+  "title": "Ta:20210103173804424",
   "answer": "`class:\"tc-vertical\"`",
   "created": "20210103173805655",
   "modified": "20210410192104364",
@@ -7,5 +7,6 @@
   "qtype": "rememberq",
   "question": "What parameter do you add to the `tabs` macro to show tabs vertically instead of horizontally?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki"
+  "type": "text/vnd.tiddlywiki",
+  "human_title": _("Ta:20210103173804424")
 }

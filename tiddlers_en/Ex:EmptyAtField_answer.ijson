@@ -1,8 +1,9 @@
 {
-  "title": _("Ex:EmptyAtField/answer"),
+  "title": "Ex:EmptyAtField/answer",
   "created": "20210207215123361",
   "modified": "20210502160129548",
   "tags": "Answer",
   "type": "text/vnd.tiddlywiki",
-  "text": _("```html\n| !Time|<$view field=\"at\">(no time specified)</$view>|\n| !Participants|{{!!participants}}|\n```\n\nYou might have also used a `$transclude` widget; in this case it's equivalent since there is no wikitext to wikify in the `at` field if we're using it normally. In [[Working with Dates]], we'll learn that the `$view` widget has some special features for dates that usually make it more useful than the `$transclude` widget.\n\nIt's worth noting that TiddlyWiki here makes a distinction between an empty `at` field and an `at` field that doesn't exist at all: if the `at` field exists but is empty, it won't use the fallback. If you don't want there to be a difference between these states, use a filter with the `has` operator instead.\n")
+  "text": _("```html\n| !Time|<$view field=\"at\">(no time specified)</$view>|\n| !Participants|{{!!participants}}|\n```\n\nYou might have also used a `$transclude` widget; in this case it's equivalent since there is no wikitext to wikify in the `at` field if we're using it normally. In [[Working with Dates]], we'll learn that the `$view` widget has some special features for dates that usually make it more useful than the `$transclude` widget.\n\nIt's worth noting that TiddlyWiki here makes a distinction between an empty `at` field and an `at` field that doesn't exist at all: if the `at` field exists but is empty, it won't use the fallback. If you don't want there to be a difference between these states, use a filter with the `has` operator instead.\n"),
+  "human_title": _("Ex:EmptyAtField/answer")
 }

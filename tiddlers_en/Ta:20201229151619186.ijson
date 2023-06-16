@@ -1,5 +1,5 @@
 {
-  "title": _("Ta:20201229151619186"),
+  "title": "Ta:20201229151619186",
   "answer": "The draft tiddler containing the new version replaces the original tiddler (and the draft tiddler is deleted).",
   "created": "20201229151625095",
   "modified": "20210409125211638",
@@ -7,5 +7,6 @@
   "qtype": "rememberq",
   "question": "What manipulations to tiddlers are carried out when you save (or //confirm//) changes to a tiddler?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki"
+  "type": "text/vnd.tiddlywiki",
+  "human_title": _("Ta:20201229151619186")
 }

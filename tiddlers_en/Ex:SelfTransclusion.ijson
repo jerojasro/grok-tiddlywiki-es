@@ -1,10 +1,11 @@
 {
-  "title": _("Ex:SelfTransclusion"),
+  "title": "Ex:SelfTransclusion",
   "created": "20200604022607997",
   "length": "s",
   "modified": "20210130174634327",
   "origin": "Transclusions",
   "tags": "Exercise",
   "type": "text/vnd.tiddlywiki",
-  "text": _("What happens if you transclude a tiddler into itself?")
+  "text": _("What happens if you transclude a tiddler into itself?"),
+  "human_title": _("Ex:SelfTransclusion")
 }

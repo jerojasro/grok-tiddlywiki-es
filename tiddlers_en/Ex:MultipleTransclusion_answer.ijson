@@ -1,8 +1,9 @@
 {
-  "title": _("Ex:MultipleTransclusion/answer"),
+  "title": "Ex:MultipleTransclusion/answer",
   "created": "20200604022456155",
   "modified": "20210409200940104",
   "tags": "Answer",
   "type": "text/vnd.tiddlywiki",
-  "text": _("Generally, this works the way you would hope -- first TiddlyWiki renders the \u201cfurthest down\u201d tiddler, then it moves one level up and includes that content in that tiddler, and so on until it comes to the \u201ctop-level\u201d transclusion.\n\nThere are some edge cases, which mostly involve the complexities of TiddlyWiki's concept of the //current tiddler//. We'll talk about the current tiddler in the [[next section|Templates and the Current Tiddler]].")
+  "text": _("Generally, this works the way you would hope -- first TiddlyWiki renders the \u201cfurthest down\u201d tiddler, then it moves one level up and includes that content in that tiddler, and so on until it comes to the \u201ctop-level\u201d transclusion.\n\nThere are some edge cases, which mostly involve the complexities of TiddlyWiki's concept of the //current tiddler//. We'll talk about the current tiddler in the [[next section|Templates and the Current Tiddler]]."),
+  "human_title": _("Ex:MultipleTransclusion/answer")
 }

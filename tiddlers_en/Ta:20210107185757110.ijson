@@ -1,5 +1,5 @@
 {
-  "title": _("Ta:20210107185757110"),
+  "title": "Ta:20210107185757110",
   "answer": "Place the fallback text/widgets within the body of a `$transclude` widget that attempts the transclusion.",
   "created": "20210107185759185",
   "modified": "20210418152222745",
@@ -7,5 +7,6 @@
   "qtype": "rememberq",
   "question": "How can you easily display some text or widgets only if a specific tiddler cannot be transcluded (e.g., because it does not exist)?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki"
+  "type": "text/vnd.tiddlywiki",
+  "human_title": _("Ta:20210107185757110")
 }

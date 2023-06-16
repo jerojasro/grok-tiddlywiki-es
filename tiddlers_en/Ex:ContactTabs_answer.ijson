@@ -1,8 +1,9 @@
 {
-  "title": _("Ex:ContactTabs/answer"),
+  "title": "Ex:ContactTabs/answer",
   "created": "20200717223559611",
   "modified": "20210103173121744",
   "tags": "Answer",
   "type": "text/vnd.tiddlywiki",
-  "text": _("You should have noticed that field transclusions don't work. This is because the `tabs` macro, surprisingly, doesn't change the current tiddler when rendering each tab.")
+  "text": _("You should have noticed that field transclusions don't work. This is because the `tabs` macro, surprisingly, doesn't change the current tiddler when rendering each tab."),
+  "human_title": _("Ex:ContactTabs/answer")
 }

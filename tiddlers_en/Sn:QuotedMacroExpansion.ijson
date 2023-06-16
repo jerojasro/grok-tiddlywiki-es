@@ -1,8 +1,9 @@
 {
-  "title": _("Sn:QuotedMacroExpansion"),
+  "title": "Sn:QuotedMacroExpansion",
   "created": "20210116210438040",
   "modified": "20210327155555215",
   "tags": "",
   "type": "text/vnd.tiddlywiki",
-  "text": _("\\define wikipediaLink(articleName, linkText)\n[[$linkText$|https://en.wikipedia.org/wiki/$articleName$]]\n\\end\n\n<$macrocall $name=\"wikipediaLink\" linkText=\"<<linktext>>\" articleName=\"Aardvark\" />")
+  "text": _("\\define wikipediaLink(articleName, linkText)\n[[$linkText$|https://en.wikipedia.org/wiki/$articleName$]]\n\\end\n\n<$macrocall $name=\"wikipediaLink\" linkText=\"<<linktext>>\" articleName=\"Aardvark\" />"),
+  "human_title": _("Sn:QuotedMacroExpansion")
 }

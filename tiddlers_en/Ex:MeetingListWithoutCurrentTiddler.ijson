@@ -1,5 +1,5 @@
 {
-  "title": _("Ex:MeetingListWithoutCurrentTiddler"),
+  "title": "Ex:MeetingListWithoutCurrentTiddler",
   "complete": "",
   "created": "20200605152806072",
   "length": "s",
@@ -7,5 +7,6 @@
   "origin": "Templates and the Current Tiddler",
   "tags": "Exercise",
   "type": "text/vnd.tiddlywiki",
-  "text": _("Modify the `MeetingList` so that it does not use the variable reference `<<currentTiddler>>` but has identical functionality.\n\n//Hint//: Try transcluding a field.")
+  "text": _("Modify the `MeetingList` so that it does not use the variable reference `<<currentTiddler>>` but has identical functionality.\n\n//Hint//: Try transcluding a field."),
+  "human_title": _("Ex:MeetingListWithoutCurrentTiddler")
 }

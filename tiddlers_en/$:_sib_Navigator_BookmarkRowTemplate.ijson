@@ -1,8 +1,9 @@
 {
-  "title": _("$:/sib/Navigator/BookmarkRowTemplate"),
+  "title": "$:/sib/Navigator/BookmarkRowTemplate",
   "created": "20210320200248115",
   "modified": "20210320203053743",
   "tags": "",
   "type": "text/vnd.tiddlywiki",
-  "text": _("<$button actions=<<unbookmark-tiddler>> class=\"tc-btn-invisible\">{{$:/core/images/delete-button}}</$button>&nbsp;<$link/>")
+  "text": _("<$button actions=<<unbookmark-tiddler>> class=\"tc-btn-invisible\">{{$:/core/images/delete-button}}</$button>&nbsp;<$link/>"),
+  "human_title": _("$:/sib/Navigator/BookmarkRowTemplate")
 }

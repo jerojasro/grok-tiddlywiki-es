@@ -1,5 +1,5 @@
 {
-  "title": _("Ta:20210207014108901"),
+  "title": "Ta:20210207014108901",
   "answer": "In a field called `draft.of`.",
   "created": "20210207014109677",
   "modified": "20210418163723652",
@@ -7,5 +7,6 @@
   "qtype": "rememberq",
   "question": "How does a draft tiddler store the name of the tiddler it is a draft of?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki"
+  "type": "text/vnd.tiddlywiki",
+  "human_title": _("Ta:20210207014108901")
 }

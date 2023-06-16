@@ -1,5 +1,5 @@
 {
-  "title": _("Ex:RaffapKnowledgeTiddler"),
+  "title": "Ex:RaffapKnowledgeTiddler",
   "autoinclude": "Reviewing the Basics",
   "created": "20200603025736756",
   "length": "s",
@@ -7,5 +7,6 @@
   "origin": "Reviewing the Basics",
   "tags": "Exercise",
   "type": "text/vnd.tiddlywiki",
-  "text": _("Return to the Employee Information System tiddler and create a new knowledge tiddler for the Really Annoying Five-Factor Authentication Process. Use your imagination on what's involved!")
+  "text": _("Return to the Employee Information System tiddler and create a new knowledge tiddler for the Really Annoying Five-Factor Authentication Process. Use your imagination on what's involved!"),
+  "human_title": _("Ex:RaffapKnowledgeTiddler")
 }

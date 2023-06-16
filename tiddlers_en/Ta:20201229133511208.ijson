@@ -1,5 +1,5 @@
 {
-  "title": _("Ta:20201229133511208"),
+  "title": "Ta:20201229133511208",
   "answer": "Ctrl+Shift+F",
   "created": "20201229133512754",
   "modified": "20210502174021449",
@@ -7,5 +7,6 @@
   "qtype": "rememberq",
   "question": "What keyboard shortcut puts the focus in the main search box?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki"
+  "type": "text/vnd.tiddlywiki",
+  "human_title": _("Ta:20201229133511208")
 }

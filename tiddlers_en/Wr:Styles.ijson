@@ -1,9 +1,10 @@
 {
-  "title": _("Wr:Styles"),
+  "title": "Wr:Styles",
   "caption": "Styles",
   "created": "20210131152547938",
   "modified": "20210131154106270",
   "tags": "[[Wikitext Reference]]",
   "type": "text/vnd.tiddlywiki",
-  "text": _("You can apply arbitrary CSS styles or classes to blocks of text.\n\n{{Sn:WikitextStyles||MagicSnippet}}\n\nSee [[Stylesheets]] for more information on styles and this syntax.")
+  "text": _("You can apply arbitrary CSS styles or classes to blocks of text.\n\n{{Sn:WikitextStyles||MagicSnippet}}\n\nSee [[Stylesheets]] for more information on styles and this syntax."),
+  "human_title": _("Wr:Styles")
 }
