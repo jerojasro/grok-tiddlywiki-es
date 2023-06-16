@@ -1,0 +1,11 @@
+{
+  "title": _("Ta:20210107014848744"),
+  "answer": "`all[tiddlers+shadows]`",
+  "created": "20210107014850336",
+  "modified": "20210418134225094",
+  "origin": "Shadow Tiddlers",
+  "qtype": "rememberq",
+  "question": "What filter constructor retrieves all shadow and non-shadow tiddlers?",
+  "tags": "Takeaway",
+  "type": "text/vnd.tiddlywiki"
+}

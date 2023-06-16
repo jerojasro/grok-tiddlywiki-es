@@ -1,0 +1,11 @@
+{
+  "title": _("Ta:20210103184640882"),
+  "answer": "`getindex`",
+  "created": "20210103184642288",
+  "modified": "20210418132009270",
+  "origin": "Data Tiddlers",
+  "qtype": "rememberq",
+  "question": "What filter operator retrieves the value at a given index from its input data tiddlers?",
+  "tags": "Takeaway",
+  "type": "text/vnd.tiddlywiki"
+}

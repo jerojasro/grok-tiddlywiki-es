@@ -1,0 +1,8 @@
+{
+  "title": _("$:/sib/GeneralMacros"),
+  "created": "20210320143048952",
+  "modified": "20210320143104510",
+  "tags": "$:/tags/Macro",
+  "type": "text/vnd.tiddlywiki",
+  "text": _("\\define textual-button(imageName) <span class=\"gtw-textual-button\">{{$:/core/images/$imageName$}}</span>")
+}

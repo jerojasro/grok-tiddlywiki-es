@@ -1,0 +1,11 @@
+{
+  "title": _("Ta:20201231201927944"),
+  "answer": "`<<list-links \"myfilter\">>`",
+  "created": "20201231201929127",
+  "modified": "20210409220125376",
+  "origin": "Filters and Transclusions",
+  "qtype": "rememberq",
+  "question": "What built-in macro creates a bulleted list of links to tiddlers that match a filter?",
+  "tags": "Takeaway",
+  "type": "text/vnd.tiddlywiki"
+}

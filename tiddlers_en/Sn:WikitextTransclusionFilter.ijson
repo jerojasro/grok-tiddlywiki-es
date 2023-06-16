@@ -1,0 +1,8 @@
+{
+  "title": _("Sn:WikitextTransclusionFilter"),
+  "created": "20210131145649553",
+  "modified": "20210521201836224",
+  "tags": "",
+  "type": "text/vnd.tiddlywiki",
+  "text": _("{{{ [all[tiddlers+shadows]!is[system]tag[Template]] }}}")
+}

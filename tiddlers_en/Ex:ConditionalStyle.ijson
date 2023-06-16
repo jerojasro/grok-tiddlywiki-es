@@ -1,0 +1,10 @@
+{
+  "title": _("Ex:ConditionalStyle"),
+  "created": "20210130034125288",
+  "length": "m",
+  "modified": "20210130174332213",
+  "origin": "Stylesheets",
+  "tags": "Exercise",
+  "type": "text/vnd.tiddlywiki",
+  "text": _("Modify the tiddler containing `my-funny-class` so that that class's styles apply only if the config tiddler `$:/config/ShowFunnyText` is set to `yes`.")
+}

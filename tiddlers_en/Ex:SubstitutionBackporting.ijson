@@ -1,0 +1,10 @@
+{
+  "title": _("Ex:SubstitutionBackporting"),
+  "created": "20210207224132602",
+  "length": "m",
+  "modified": "20210502184931512",
+  "origin": "Text Substitution",
+  "tags": "Exercise",
+  "type": "text/vnd.tiddlywiki",
+  "text": _("Go back through some of the macros you have written for previous exercises in this chapter and see if you can find any opportunities to switch from text substitution to `<<__parameter-transclusion__>>`.\n\n//Tip//: Try searching for the word `define` to find tiddlers that contain macro definitions.")
+}

@@ -1,0 +1,11 @@
+{
+  "title": _("Ta:20201230163141646"),
+  "answer": "`[[My Tiddler]]` (`[title[My Tiddler]]` would also work, among other options; but that's longer.)",
+  "created": "20201230163144011",
+  "modified": "20210409152351114",
+  "origin": "Using Filter Expressions",
+  "qtype": "rememberq",
+  "question": "What is the shortest filter expression that selects the single tiddler `My Tiddler`?",
+  "tags": "Takeaway",
+  "type": "text/vnd.tiddlywiki"
+}

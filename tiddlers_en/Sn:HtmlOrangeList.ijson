@@ -1,0 +1,8 @@
+{
+  "title": _("Sn:HtmlOrangeList"),
+  "created": "20210116193454704",
+  "modified": "20210116193404923",
+  "tags": "",
+  "type": "text/vnd.tiddlywiki",
+  "text": _("<ul style=\"color: orange;\">\n\t<li>Item 1</li>\n\t<li>Item 2</li>\n</ul>")
+}

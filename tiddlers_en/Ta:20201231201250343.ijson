@@ -1,0 +1,11 @@
+{
+  "title": _("Ta:20201231201250343"),
+  "answer": "The `$text` widget.",
+  "created": "20201231201251467",
+  "modified": "20210409220104772",
+  "origin": "Filters and Transclusions",
+  "qtype": "rememberq",
+  "question": "What widget can be used to prevent the result of a filter transclusion from becoming a link?",
+  "tags": "Takeaway",
+  "type": "text/vnd.tiddlywiki"
+}

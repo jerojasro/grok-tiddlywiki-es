@@ -1,0 +1,8 @@
+{
+  "title": _("Sn:CountWidget"),
+  "created": "20210206210742073",
+  "modified": "20210512022735796",
+  "tags": "",
+  "type": "text/vnd.tiddlywiki",
+  "text": _("There are <$text text={{{ [all[tiddlers+shadows]tag[Section]count[]] }}}/> sections in this book.\n\nThere are <$count filter=\"[all[tiddlers+shadows]tag[Section]]\"/> sections in this book.")
+}

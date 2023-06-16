@@ -1,0 +1,8 @@
+{
+  "title": _("Sn:HtmlCorrectlyNestedList"),
+  "created": "20210116193606277",
+  "modified": "20210116193550029",
+  "tags": "",
+  "type": "text/vnd.tiddlywiki",
+  "text": _("<ul>\n  <li>Item 1\n    <ul>\n      <li>Subitem 1</li>\n      <li>Subitem 2</li>\n    </ul>\n  </li>\n</ul>\n\nSome later text.")
+}

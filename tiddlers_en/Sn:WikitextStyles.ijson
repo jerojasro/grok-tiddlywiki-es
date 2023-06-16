@@ -1,0 +1,8 @@
+{
+  "title": _("Sn:WikitextStyles"),
+  "created": "20210131154145461",
+  "modified": "20210202190728899",
+  "tags": "",
+  "type": "text/vnd.tiddlywiki",
+  "text": _("@@color:red;\nHere is some red text.\n@@\n\n<style>\n.my-blue-bold-class {\n\tfont-weight: bold;\n\tcolor: blue;\n}\n</style>\n\n@@.my-blue-bold-class\nHere is some blue, bold text.\n@@")
+}

@@ -1,0 +1,10 @@
+{
+  "title": _("Ta:20201231005417476"),
+  "created": "20201231005419435",
+  "modified": "20210409193538135",
+  "origin": "Macros",
+  "qtype": "remembercz",
+  "question": "Using a macro is referred to as {calling} or {invoking} it.",
+  "tags": "Takeaway",
+  "type": "text/vnd.tiddlywiki"
+}

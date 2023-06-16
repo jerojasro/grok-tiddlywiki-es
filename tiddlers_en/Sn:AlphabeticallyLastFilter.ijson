@@ -1,0 +1,8 @@
+{
+  "title": _("Sn:AlphabeticallyLastFilter"),
+  "created": "20210131164939148",
+  "modified": "20210131164840963",
+  "tags": "",
+  "type": "text/vnd.tiddlywiki",
+  "text": _("{{{ [all[shadows]tag[$:/tags/EditorToolbar]get[description]split[{{]split[}}]get[text]!sort[]first[]] }}}")
+}

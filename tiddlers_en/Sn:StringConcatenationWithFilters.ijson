@@ -1,0 +1,8 @@
+{
+  "title": _("Sn:StringConcatenationWithFilters"),
+  "created": "20210818122739980",
+  "modified": "20210818123224153",
+  "tags": "",
+  "type": "text/vnd.tiddlywiki",
+  "text": _("<$set name=\"person\" value=\"Soren Bjornstad\">\n<$set name=\"role\" value=\"author of Grok TiddlyWiki\">\n\n<$text text={{{ [<role>addsuffix[, ]addsuffix<person>addsuffix[.]addprefix[This example is approved by the ]] }}}/>\n\n</$set>\n</$set>")
+}

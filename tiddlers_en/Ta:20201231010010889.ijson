@@ -1,0 +1,11 @@
+{
+  "title": _("Ta:20201231010010889"),
+  "answer": "With the text `\\end` on a separate line.",
+  "created": "20201231010012028",
+  "modified": "20210409193613036",
+  "origin": "Macros",
+  "qtype": "rememberq",
+  "question": "A macro definition that is more than one line long must be ended how?",
+  "tags": "Takeaway",
+  "type": "text/vnd.tiddlywiki"
+}

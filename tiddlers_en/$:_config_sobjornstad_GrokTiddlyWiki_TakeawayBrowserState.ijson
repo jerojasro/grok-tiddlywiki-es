@@ -1,0 +1,11 @@
+{
+  "title": _("$:/config/sobjornstad/GrokTiddlyWiki/TakeawayBrowserState"),
+  "answer": "no",
+  "created": "20210408142451078",
+  "invertsort": "!",
+  "modified": "20210511025650272",
+  "seen": ".*",
+  "sort": "question",
+  "type": "text/vnd.tiddlywiki",
+  "viewer": "table"
+}

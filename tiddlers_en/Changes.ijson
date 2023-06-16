@@ -1,0 +1,10 @@
+{
+  "title": _("Changes"),
+  "created": "20210521203810921",
+  "description": "What's new in recently released versions of //Grok TiddlyWiki//.",
+  "modified": "20210820160440800",
+  "parent": "Appendices",
+  "tags": "Section",
+  "type": "text/vnd.tiddlywiki",
+  "text": _("This section lists all changes made to //Grok TiddlyWiki// since the previous released version.\n\n<$list filter=\"[all[tiddlers+shadows]prefix[$:/plugins/sobjornstad/GrokTiddlyWiki/Changes/]!sort[date]]\">\n\n!! //Grok TiddlyWiki// {{!!version}}\n\n|!Release date |<$view format=\"date\" field=\"date\" template=\"DD MMM YYYY\"/>|\n|!Git commit |<code>{{!!commit}}</code>|\n\n<$transclude mode=\"block\"/>\n\n</$list>")
+}

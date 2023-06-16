@@ -1,0 +1,8 @@
+{
+  "title": _("Sn:AnimalLinkText"),
+  "created": "20210116210305365",
+  "modified": "20210327153631877",
+  "tags": "",
+  "type": "text/vnd.tiddlywiki",
+  "text": _("\\define wikipediaLink(articleName, linkText)\n[[$linkText$|https://en.wikipedia.org/wiki/$articleName$]]\n\\end\n\n\\define animalLinkText(initialLetter)\nAn animal which begins with $initialLetter$\n\\end\n\n* <$macrocall $name=\"wikipediaLink\" linkText=<<animalLinkText A>> articleName=\"Aardvark\" />\n* <$macrocall $name=\"wikipediaLink\" linkText=<<animalLinkText B>> articleName=\"Bee\" />\n* <$macrocall $name=\"wikipediaLink\" linkText=<<animalLinkText C>> articleName=\"Cow\" />")
+}

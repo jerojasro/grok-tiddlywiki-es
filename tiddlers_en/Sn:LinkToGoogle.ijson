@@ -1,0 +1,8 @@
+{
+  "title": _("Sn:LinkToGoogle"),
+  "created": "20210116234144219",
+  "modified": "20210116234350895",
+  "tags": "",
+  "type": "text/vnd.tiddlywiki",
+  "text": _("* https://www.google.com\n* [[Google|https://www.google.com]]")
+}

@@ -1,0 +1,8 @@
+{
+  "title": _("Ex:CurrentTiddlerAndListWidget/answer"),
+  "created": "20200605152719074",
+  "modified": "20210207221748314",
+  "tags": "Answer",
+  "type": "text/vnd.tiddlywiki",
+  "text": _("The `$list` widget changes the current tiddler to be each result of the filter in turn.")
+}

@@ -1,0 +1,8 @@
+{
+  "text": _("{\n\t\"version\": \"1.2.2\",\n\t\"tw-version\": \"5.2.1\",\n\t\"project-url\": \"https://groktiddlywiki.com\"\n}\n"),
+  "type": "application/json",
+  "created": "20210130180352000",
+  "modified": "20220103171717950",
+  "tags": "",
+  "title": _("Metadata")
+}

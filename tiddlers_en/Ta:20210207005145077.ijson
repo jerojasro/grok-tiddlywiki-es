@@ -1,0 +1,11 @@
+{
+  "title": _("Ta:20210207005145077"),
+  "answer": "12:00 noon.",
+  "created": "20210207005146102",
+  "modified": "20210502162348732",
+  "origin": "Working with Dates",
+  "qtype": "rememberq",
+  "question": "What time should you set a TiddlyWiki timestamp to if you care only about the date?",
+  "tags": "Takeaway",
+  "type": "text/vnd.tiddlywiki"
+}

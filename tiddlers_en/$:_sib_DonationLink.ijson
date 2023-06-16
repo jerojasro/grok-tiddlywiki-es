@@ -1,0 +1,8 @@
+{
+  "title": _("$:/sib/DonationLink"),
+  "created": "20210502224659290",
+  "modified": "20210503015514478",
+  "tags": "",
+  "type": "text/vnd.tiddlywiki",
+  "text": _("https://groktiddlywiki.com/donate")
+}

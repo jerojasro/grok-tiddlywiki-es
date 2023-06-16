@@ -1,0 +1,11 @@
+{
+  "title": _("Ta:20201229152806403"),
+  "answer": "The `caption` field of the tiddler is set to `A tiddler I don't like very much`.",
+  "created": "20201229152809724",
+  "modified": "20210418131758425",
+  "origin": "Creating Hierarchies with a Table of Contents",
+  "qtype": "rememberq",
+  "question": "A tiddler titled `MyFavoriteTiddler` appears in a table of contents as `A tiddler I don't like very much`. Why does the title not match?",
+  "tags": "Takeaway",
+  "type": "text/vnd.tiddlywiki"
+}

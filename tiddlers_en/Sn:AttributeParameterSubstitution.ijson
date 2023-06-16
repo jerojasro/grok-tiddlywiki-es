@@ -1,0 +1,8 @@
+{
+  "title": _("Sn:AttributeParameterSubstitution"),
+  "created": "20210502185915679",
+  "modified": "20210502185939977",
+  "tags": "",
+  "type": "text/vnd.tiddlywiki",
+  "text": _("\\define myText(text) Text: <<__text__>>\n\n* ''OK:'' <<myText \"test text\">>\n* ''Bad:'' <$text text=<<myText \"test text\">>>")
+}

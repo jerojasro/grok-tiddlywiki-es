@@ -1,0 +1,10 @@
+{
+  "title": _("Ta:20201231000307047"),
+  "created": "20201231000308534",
+  "modified": "20210409171624612",
+  "origin": "HTML",
+  "qtype": "remembercz",
+  "question": "The strings of text `<ul>` and `</li>` are examples of HTML {tag}s.",
+  "tags": "Takeaway",
+  "type": "text/vnd.tiddlywiki"
+}

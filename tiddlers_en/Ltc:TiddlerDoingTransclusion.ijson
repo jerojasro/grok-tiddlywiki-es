@@ -1,0 +1,9 @@
+{
+  "title": _("Ltc:TiddlerDoingTransclusion"),
+  "created": "20210206174218963",
+  "description": "in the tiddler doing the transclusion",
+  "modified": "20210206174246923",
+  "tags": "Lie",
+  "type": "text/vnd.tiddlywiki",
+  "text": _("Actually, as we'll see later in the section, a template can be made to refer to information in any tiddler you like. The tiddler containing the reference information is chosen at the time the transclusion is requested, and it defaults to the tiddler doing the transclusion.")
+}

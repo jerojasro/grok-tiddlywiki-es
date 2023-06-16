@@ -1,0 +1,9 @@
+{
+  "title": _("$:/sib/Snippet/TiddlerAsWikitext"),
+  "caption": "{{$:/core/images/file}} Wikitext",
+  "created": "20201231193531505",
+  "modified": "20210320140852289",
+  "tags": "",
+  "type": "text/vnd.tiddlywiki",
+  "text": _("<$codeblock code={{!!text}} language=\"html\"/>")
+}

@@ -1,0 +1,8 @@
+{
+  "title": _("Sn:SelectExample"),
+  "created": "20210206212257711",
+  "modified": "20210817225115804",
+  "tags": "",
+  "type": "text/vnd.tiddlywiki",
+  "text": _("What do you want to look at?\n\n<$select tiddler=\"$:/temp/SelectExample\" default=\"\">\n\t<option value=\"\">(choose an option)</option>\n\t<option value=\"Exercise\">Exercises</option>\n\t<option value=\"Section\">Sections</option>\n\t<option value=\"Takeaway\">Takeaways</option>\n</$select>\n\n<<list-links \"[all[tiddlers+shadows]tag{$:/temp/SelectExample}first[5]]\">>")
+}

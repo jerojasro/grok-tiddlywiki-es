@@ -1,0 +1,11 @@
+{
+  "title": _("Ta:20201231183519255"),
+  "answer": "`{{!!description}}`",
+  "created": "20201231183520841",
+  "modified": "20210409201552593",
+  "origin": "Transclusions",
+  "qtype": "rememberq",
+  "question": "What wikitext syntax would you use to transclude the `description` field of the current tiddler?",
+  "tags": "Takeaway",
+  "type": "text/vnd.tiddlywiki"
+}

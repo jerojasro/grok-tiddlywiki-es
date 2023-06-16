@@ -1,0 +1,11 @@
+{
+  "title": _("Ta:20210109214506860"),
+  "answer": "`actions`",
+  "created": "20210109214508545",
+  "modified": "20210418162313498",
+  "origin": "Creating Tiddlers With Predefined Fields",
+  "qtype": "rememberq",
+  "question": "What attribute of a `$button` widget do you use to specify action widgets that it can trigger?",
+  "tags": "Takeaway",
+  "type": "text/vnd.tiddlywiki"
+}

@@ -1,0 +1,10 @@
+{
+  "title": _("Ex:MeetingInformation"),
+  "created": "20200718032652074",
+  "length": "s",
+  "modified": "20210207183158296",
+  "origin": "The View Template",
+  "tags": "Exercise",
+  "type": "text/vnd.tiddlywiki",
+  "text": _("Put the `MeetingInformationTemplate` on meetings globally as well.")
+}

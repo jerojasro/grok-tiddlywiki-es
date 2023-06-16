@@ -1,0 +1,11 @@
+{
+  "title": _("Ta:20201231001054308"),
+  "answer": "`<li></li>`",
+  "created": "20201231001057693",
+  "modified": "20210409171708623",
+  "origin": "HTML",
+  "qtype": "rememberq",
+  "question": "The self-closing tag `<li />` is shorthand for what HTML?",
+  "tags": "Takeaway",
+  "type": "text/vnd.tiddlywiki"
+}

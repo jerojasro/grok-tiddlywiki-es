@@ -1,0 +1,8 @@
+{
+  "title": _("Sn:NestedComments"),
+  "created": "20210117012202295",
+  "modified": "20210117012305859",
+  "tags": "",
+  "type": "text/vnd.tiddlywiki",
+  "text": _("<!-- start of first comment\n\n<!-- an attempt at creating a comment within the comment -->\n\nbut the comment ends after the comment within the comment\n-->")
+}

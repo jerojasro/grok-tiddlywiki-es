@@ -1,0 +1,11 @@
+{
+  "title": _("Ex:CamelCaseKnowledgeTiddlers"),
+  "autoinclude": "Reviewing the Basics",
+  "created": "20200603030418783",
+  "length": "m",
+  "modified": "20210521201654599",
+  "origin": "Reviewing the Basics",
+  "tags": "Exercise",
+  "type": "text/vnd.tiddlywiki",
+  "text": _("Try changing the title of one of your knowledge tiddlers to not be in CamelCase (add some spaces to it, and/or change the capitalization).\n\n* Notice the drop-down showing you any links that will break when you rename the tiddler.\n* Visit the tiddlers those other links were contained in and update the links to match. You'll have to use the `[[square bracket syntax]]` now.\n* What are some of the advantages and disadvantages of camel-case linking? If you have a TiddlyWiki use case in mind for yourself, do you think camel-case links will be a good idea there?\n\n//Note:// If you rename tiddlers often, the [[Relink plugin|Useful Plugins]] can update the links automatically.")
+}

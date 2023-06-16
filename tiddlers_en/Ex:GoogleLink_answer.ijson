@@ -1,0 +1,8 @@
+{
+  "title": _("Ex:GoogleLink/answer"),
+  "created": "20210124040916272",
+  "modified": "20210124040825864",
+  "tags": "Answer",
+  "type": "text/vnd.tiddlywiki",
+  "text": _("```html\n<a href=\"https://www.google.com\">Google</a>\n```")
+}

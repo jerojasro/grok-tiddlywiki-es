@@ -1,0 +1,8 @@
+{
+  "title": _("Sn:NumDaysBack"),
+  "created": "20210123192157236",
+  "modified": "20210123200211178",
+  "tags": "",
+  "type": "text/vnd.tiddlywiki",
+  "text": _("<$set name=numDays value=\"-500\">\n<$list filter=\"[days<numDays>]\" emptyMessage=\"Nope.\">\n\tYep.\n</$list>\n</$set>")
+}

@@ -1,0 +1,10 @@
+{
+  "title": _("Ex:ImageHtml"),
+  "created": "20210124041040705",
+  "length": "s",
+  "modified": "20210130174430260",
+  "origin": "HTML",
+  "tags": "Exercise",
+  "type": "text/vnd.tiddlywiki",
+  "text": _("What HTML element is used to insert an image? You may wish to search the web to find the answer.")
+}

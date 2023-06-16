@@ -1,0 +1,11 @@
+{
+  "title": _("Ex:ViewSource"),
+  "complete": "",
+  "created": "20201125002209220",
+  "length": "m",
+  "modified": "20211129232456039",
+  "origin": "HTML",
+  "tags": "Exercise",
+  "type": "text/vnd.tiddlywiki",
+  "text": _("Try right-clicking on this web page and choosing \u201cView Page Source\u201d (this option might be called \u201cView Frame Source\u201d on some versions of TiddlyDesktop). This will show the HTML code behind the page. Scroll through some of it and see if you can find some tags and attributes, like we discussed above.\n\nIn addition to HTML, you will find some //JavaScript// (a programming language for web browsers that uses a lot of {curly braces}), some //CSS// (a language that defines the colors, spacing, and fonts used on the site), some TiddlyWiki wikitext, and probably a few other mysterious things. When you see something you don't understand, just keep scrolling -- you're not meant to understand it all, just to get a feel for how a website's HTML looks.\n\nFor fun, go try this on a couple of other websites, too.")
+}

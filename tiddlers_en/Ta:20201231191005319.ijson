@@ -1,0 +1,11 @@
+{
+  "title": _("Ta:20201231191005319"),
+  "answer": "`<<currentTiddler>>`",
+  "created": "20201231191006419",
+  "modified": "20210409212850132",
+  "origin": "Templates and the Current Tiddler",
+  "qtype": "rememberq",
+  "question": "What variable reference is equivalent to the transclusion `{{!!title}}`?",
+  "tags": "Takeaway",
+  "type": "text/vnd.tiddlywiki"
+}

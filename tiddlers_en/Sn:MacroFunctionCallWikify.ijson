@@ -1,0 +1,9 @@
+{
+  "title": _("Sn:MacroFunctionCallWikify"),
+  "created": "20210818004304404",
+  "description": "Macros are not functions",
+  "modified": "20210818004627750",
+  "tags": "",
+  "type": "text/vnd.tiddlywiki",
+  "text": _("\\define test-macro() {{{ [<currentTiddler>get[description]] }}}\n\nThe value of the `description` field of the current tiddler is \"<<test-macro>>\".\n\n<$wikify name=\"myResult\" text=<<test-macro>>>\n<$transclude tiddler=<<myResult>> field=\"description\"/>\n</$wikify>")
+}

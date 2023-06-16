@@ -1,0 +1,8 @@
+{
+  "title": _("Sn:MarksTheSpot"),
+  "created": "20210101173550409",
+  "modified": "20210101173506420",
+  "tags": "",
+  "type": "text/vnd.tiddlywiki",
+  "text": _("\\define findX()\nThe current value of X is \"<<X>>\".\n\\end\n\n<$set name=X value=\"marks the spot\">\n\t<<findX>>\n</$set>")
+}

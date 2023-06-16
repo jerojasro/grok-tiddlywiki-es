@@ -1,0 +1,11 @@
+{
+  "title": _("Ex:FriendlyViewsNames"),
+  "complete": "",
+  "created": "20200718044721309",
+  "length": "m",
+  "modified": "20210418141357078",
+  "origin": "Adding to the Sidebar",
+  "tags": "Exercise",
+  "type": "text/vnd.tiddlywiki",
+  "text": _("By default, all of the tabs will have ugly system-tiddler names on them, like `$:/yourname/Views`. Fix this so they have friendly names like we defined at the beginning of this section.")
+}

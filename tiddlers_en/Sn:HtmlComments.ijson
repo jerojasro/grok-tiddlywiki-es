@@ -1,0 +1,8 @@
+{
+  "title": _("Sn:HtmlComments"),
+  "created": "20210117012121365",
+  "modified": "20210117012853774",
+  "tags": "",
+  "type": "text/vnd.tiddlywiki",
+  "text": _("<!-- This is a comment. -->\n\nHere's some ordinary text that appears in the output. On the other hand, the <!-- secret --> word doesn't show up.\n\n<!--\nA comment can go on\nfor multiple lines\nif you like.\n-->\n\n<!--\nHTML and wikitext can be included in comments. It's ''easy as''\n\n<ul style=\"color: red;\">\n\t<li>one</li>\n\t<li>two</li>\n\t<li>three.</li>\n</ul>\n-->\n\nHere's an uncommented list:\n\n<!-- The * creates a wikitext list. -->\n* four\n* five\n* six")
+}

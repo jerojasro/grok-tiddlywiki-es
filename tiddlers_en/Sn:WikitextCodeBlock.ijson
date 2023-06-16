@@ -1,0 +1,8 @@
+{
+  "title": _("Sn:WikitextCodeBlock"),
+  "created": "20210131143343463",
+  "modified": "20210214171831138",
+  "tags": "",
+  "type": "text/vnd.tiddlywiki",
+  "text": _("Let's say hello to the world in Python, without syntax highlighting:\n\n```\nprint(\"Hello world!\")\n```\n\nLet's add syntax highlighting by specifying a language (Highlight plugin must be installed):\n\n```python\nprint(\"Hello world!\")\n```\n\nHow about in JavaScript?\n\n```javascript\nconsole.log(\"Hello world!\")\n```")
+}

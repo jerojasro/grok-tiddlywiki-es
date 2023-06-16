@@ -1,0 +1,10 @@
+{
+  "title": _("Ex:JaneMeetingList"),
+  "created": "20200603192759957",
+  "length": "m",
+  "modified": "20210130174444781",
+  "origin": "Your First Dynamic List",
+  "tags": "Exercise",
+  "type": "text/vnd.tiddlywiki",
+  "text": _("Modify the `MeetingList` so that only meetings that Jane attended are shown. Be careful not to exclude meetings that Jane attended along with other people.")
+}

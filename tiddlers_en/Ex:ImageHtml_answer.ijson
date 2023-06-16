@@ -1,0 +1,8 @@
+{
+  "title": _("Ex:ImageHtml/answer"),
+  "created": "20210124041101968",
+  "modified": "20210124041010621",
+  "tags": "Answer",
+  "type": "text/vnd.tiddlywiki",
+  "text": _("`<img>`, a void element with the `src` attribute containing the URL of the image.")
+}

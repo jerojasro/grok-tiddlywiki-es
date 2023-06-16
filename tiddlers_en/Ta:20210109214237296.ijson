@@ -1,0 +1,11 @@
+{
+  "title": _("Ta:20210109214237296"),
+  "answer": "`$action-sendmessage`",
+  "created": "20210109214238419",
+  "modified": "20210418161921567",
+  "origin": "Creating Tiddlers With Predefined Fields",
+  "qtype": "rememberq",
+  "question": "What action widget creates a message?",
+  "tags": "Takeaway",
+  "type": "text/vnd.tiddlywiki"
+}

@@ -1,0 +1,10 @@
+{
+  "title": _("Ex:WikiStatistics"),
+  "created": "20201122040301117",
+  "length": "M",
+  "modified": "20210130174643190",
+  "origin": "Filters and Transclusions",
+  "tags": "Exercise",
+  "type": "text/vnd.tiddlywiki",
+  "text": _("Create a tiddler called `WikiStatistics` that shows the following pieces of information in a bulleted list:\n\n* How many contacts are in the wiki.\n* How many unique tiddlers are linked from meetings. (It will be unique without having to do anything special, so don't panic if you think you don't know how to make it unique.)\n* What percentage of non-system tiddlers in the wiki are contacts, to three digits of precision (e.g., 10.2%, or 1.55%).\n\nTo complete the last one, you'll need to review the list of Mathematics Operators on the [[filter operators|https://tiddlywiki.com#Filter%20Operators]] manual page.")
+}

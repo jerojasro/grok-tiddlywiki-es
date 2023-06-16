@@ -1,0 +1,8 @@
+{
+  "title": _("Sn:MagicDateSnippet"),
+  "created": "20210207001005874",
+  "modified": "20210409024812722",
+  "tags": "",
+  "type": "text/vnd.tiddlywiki",
+  "text": _("<$view field=\"at\" format=\"date\" template=\"DD MMM YYYY hh12:0mm:0ss pm\"/>")
+}

@@ -1,0 +1,8 @@
+{
+  "title": _("Sn:WikitextBoldItalicBad"),
+  "created": "20210131045640394",
+  "modified": "20210131045709108",
+  "tags": "",
+  "type": "text/vnd.tiddlywiki",
+  "text": _("Here's how to do //''bold italics''// correctly.\n\nHere's the wrong way: //''bold italic//''.\n\nOops, now the rest of the tiddler is messed up!")
+}

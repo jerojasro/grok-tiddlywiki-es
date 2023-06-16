@@ -1,0 +1,11 @@
+{
+  "title": _("Ta:20201230235140455"),
+  "answer": "`firstname[Margaret]`, or `field:firstname[Margaret]`",
+  "created": "20201230235146110",
+  "modified": "20210409165407469",
+  "origin": "Common Filter Operators",
+  "qtype": "rememberq",
+  "question": "Write a filter step that finds all tiddlers which have a field `firstname` set to the exact value `Margaret`.",
+  "tags": "Takeaway",
+  "type": "text/vnd.tiddlywiki"
+}

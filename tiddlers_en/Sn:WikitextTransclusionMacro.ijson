@@ -1,0 +1,8 @@
+{
+  "title": _("Sn:WikitextTransclusionMacro"),
+  "created": "20210131145717485",
+  "modified": "20210314125402817",
+  "tags": "",
+  "type": "text/vnd.tiddlywiki",
+  "text": _("\\define mymacro(myName) Hi <<__myName__>>!\n\n<<mymacro Soren>>")
+}

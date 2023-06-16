@@ -1,0 +1,9 @@
+{
+  "title": _("$:/sib/Snippet/MagicSideBySide"),
+  "caption": "{{$:/core/images/full-screen-button}} Side-by-side",
+  "created": "20210116173017782",
+  "modified": "20210320140908903",
+  "tags": "",
+  "type": "text/vnd.tiddlywiki",
+  "text": _("<div class=\"msbs-snippet\">\n\n{{||$:/sib/Snippet/TiddlerAsWikitext}}\n\n</div>\n<div class=\"msbs-snippet\">\n\n{{||$:/sib/Snippet/TiddlerAsRendered}}\n\n</div>")
+}

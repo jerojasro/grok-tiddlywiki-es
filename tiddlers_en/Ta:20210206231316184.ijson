@@ -1,0 +1,11 @@
+{
+  "title": _("Ta:20210206231316184"),
+  "answer": "The `$count` widget.",
+  "created": "20210206231317022",
+  "modified": "20210502161012539",
+  "origin": "Miscellaneous Widgets",
+  "qtype": "rememberq",
+  "question": "What widget displays the number of tiddlers that match a filter?",
+  "tags": "Takeaway",
+  "type": "text/vnd.tiddlywiki"
+}

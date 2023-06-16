@@ -1,0 +1,11 @@
+{
+  "title": _("Ta:20210123231355355"),
+  "answer": "`all[current]`",
+  "created": "20210123231400916",
+  "modified": "20210409212949013",
+  "origin": "Templates and the Current Tiddler",
+  "qtype": "rememberq",
+  "question": "What filter step constructs one output tiddler, the title of the current tiddler?",
+  "tags": "Takeaway",
+  "type": "text/vnd.tiddlywiki"
+}

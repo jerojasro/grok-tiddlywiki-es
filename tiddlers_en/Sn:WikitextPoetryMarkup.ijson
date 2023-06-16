@@ -1,0 +1,8 @@
+{
+  "title": _("Sn:WikitextPoetryMarkup"),
+  "created": "20210131152021052",
+  "modified": "20210131155728546",
+  "tags": "",
+  "type": "text/vnd.tiddlywiki",
+  "text": _("<<<\n\"\"\"\nTo keep your text in perfect lines,\n&emsp; Just turn to triple quotes.\nFor this fine feature, all great minds\n&emsp; Give TiddlyWiki votes.\n\"\"\"\n<<< ---Soren (not that I'm proud of this stanza)")
+}

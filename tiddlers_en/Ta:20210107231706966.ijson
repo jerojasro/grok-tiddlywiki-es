@@ -1,0 +1,11 @@
+{
+  "title": _("Ta:20210107231706966"),
+  "answer": "Their names begin with `$:/temp/`.",
+  "created": "20210107231708431",
+  "modified": "20210418160748684",
+  "origin": "Buttons and Input Widgets",
+  "qtype": "rememberq",
+  "question": "Temporary tiddlers typically use what naming convention?",
+  "tags": "Takeaway",
+  "type": "text/vnd.tiddlywiki"
+}

@@ -1,0 +1,10 @@
+{
+  "title": _("Ex:FudgeAdviceReflection"),
+  "created": "20200603200049928",
+  "length": "m",
+  "modified": "20210130174418398",
+  "origin": "Creating Hierarchies with a Table of Contents",
+  "tags": "Exercise",
+  "type": "text/vnd.tiddlywiki",
+  "text": _("Revisit the tiddler you created in the previous exercise.\n\n* Logically, is it a child of that meeting? Or is it a separate idea that just happened to occur during that meeting?\n* Would it be better to use a different kind of relationship, like a link?\n* Think about the title you chose: does it [[serve as metacommentary on the idea|Tiddler Titles]]?")
+}

@@ -1,0 +1,10 @@
+{
+  "title": _("Ex:MoveContactInformation"),
+  "created": "20200718031841599",
+  "length": "m",
+  "modified": "20210130174521062",
+  "origin": "The View Template",
+  "tags": "Exercise",
+  "type": "text/vnd.tiddlywiki",
+  "text": _("Move the contact information above the rest of the tiddler's body, rather than below it.")
+}

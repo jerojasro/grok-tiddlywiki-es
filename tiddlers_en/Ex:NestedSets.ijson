@@ -1,0 +1,10 @@
+{
+  "title": _("Ex:NestedSets"),
+  "created": "20201121235627600",
+  "length": "s",
+  "modified": "20210130174538857",
+  "origin": "Variables",
+  "tags": "Exercise",
+  "type": "text/vnd.tiddlywiki",
+  "text": _("Consider the following code:\n\n```html\n<$set name=\"variable\" value=\"1\">\n    <<variable>>\n    <$set name=\"variable\" value=\"2\">\n        <<variable>>\n    </$set>\n    <<variable>>\n</$set>\n```\n\nWhat do you think happens at each reference to `<<variable>>`? Check your answers by pasting this into a new tiddler.")
+}

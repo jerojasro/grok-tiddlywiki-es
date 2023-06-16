@@ -1,0 +1,10 @@
+{
+  "title": _("Ex:EmptyMacroCall"),
+  "created": "20210409193632190",
+  "length": "s",
+  "modified": "20210409193808869",
+  "origin": "Macros",
+  "tags": "Exercise",
+  "type": "text/vnd.tiddlywiki",
+  "text": _("Try calling a macro that doesn't exist (say, one called `notamacro`). What happens?")
+}

@@ -1,0 +1,11 @@
+{
+  "title": _("Ta:20210107015900784"),
+  "answer": "Anytime it is displaying a tiddler in the story river (and that tiddler isn't being edited).",
+  "created": "20210107015902944",
+  "modified": "20210418140242543",
+  "origin": "The View Template",
+  "qtype": "rememberq",
+  "question": "Explain when TiddlyWiki uses the //view template//.",
+  "tags": "Takeaway",
+  "type": "text/vnd.tiddlywiki"
+}

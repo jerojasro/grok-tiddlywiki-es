@@ -1,0 +1,8 @@
+{
+  "title": _("Ex:PaletteInvestigation/answer"),
+  "created": "20200718202204205",
+  "modified": "20210418152036717",
+  "tags": "Answer",
+  "type": "text/vnd.tiddlywiki",
+  "text": _("The macro definition is found in `$:/core/macros/CSS`. (If you're American and don't appreciate the spelling `colour`, notice there is a `color` macro too that just calls `colour`!). The macro transcludes the tiddler named in `$:/palette` with this bit:\n\n```html\n<$transclude tiddler={{$:/palette}} index=\"$name$\">\n```\n\n`$:/palette` is a configuration tiddler managed by TiddlyWiki that contains the name of whichever palette you've currently selected in the control panel. If you then open up the palette named therein (e.g., `$:/palettes/GruvboxDark`), you'll see a [[data tiddler|Data Tiddlers]] listing the names of colors and their CSS values (or, sometimes, another substitution with the `<<colour>>` macro).\n\nIn the macro definition, you might wonder what's with all the other `$transclude` widgets:\n\n```html\n<$transclude tiddler={{$:/palette}} index=\"$name$\">\n  <$transclude tiddler=\"$:/palettes/Vanilla\" index=\"$name$\">\n    <$transclude tiddler=\"$:/config/DefaultColourMappings/$name$\"/>\n  </$transclude>\n</$transclude>\n```\n\nIn case the `$transclude` widget is not able to transclude the tiddler for some reason (e.g., it doesn't exist), then the contents of the widget are used as a //fallback// (more on this in [[Hiding and Showing Things]]). So if the palette isn't set, then the `Vanilla` palette is used, and if that's gone as well for some reason, a set of default mappings are used.")
+}

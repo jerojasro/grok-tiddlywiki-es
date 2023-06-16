@@ -1,0 +1,10 @@
+{
+  "title": _("Ta:20210109225556485"),
+  "created": "20210109225557968",
+  "modified": "20210502163242181",
+  "origin": "Stylesheets",
+  "qtype": "remembercz",
+  "question": "Inline stylesheets are not {scoped to} the tiddler containing them.",
+  "tags": "Takeaway",
+  "type": "text/vnd.tiddlywiki"
+}

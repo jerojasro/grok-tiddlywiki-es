@@ -1,0 +1,10 @@
+{
+  "title": _("Ex:ButtonDisplayTweaks"),
+  "created": "20200822192642714",
+  "length": "M",
+  "modified": "20210130174312240",
+  "origin": "Creating Tiddlers With Predefined Fields",
+  "tags": "Exercise",
+  "type": "text/vnd.tiddlywiki",
+  "text": _("Our buttons don't display very nicely:\n\n* They're absolutely gigantic on the toolbar and have text on them instead of an icon.\n* Their shape doesn't match that of the other tiddlers.\n* They don't have tooltips.\n* They don't have a description in the ''Tools'' tab of the sidebar.\n\nCorrect these issues. You'll want to refer to an existing tiddler on the toolbar to see how each of these things is done.\n\n//Tip//: The fastest way to choose an icon from the set that comes with TiddlyWiki is to open the tag manager and pretend to pick an icon from the drop-down. Each icon shows its full tiddler name, so you can then use that name elsewhere.")
+}

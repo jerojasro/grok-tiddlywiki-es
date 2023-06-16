@@ -1,0 +1,9 @@
+{
+  "title": _("Ltc:TwoWaysToConcatenate"),
+  "created": "20210818124538866",
+  "description": "two ways",
+  "modified": "20210818125040615",
+  "tags": "",
+  "type": "text/vnd.tiddlywiki",
+  "text": _("You could also use a `$wikify` widget, as explained in [[Wikification]]:\n\n{{Sn:WikifyConcatenation||MagicSnippet}}\n\nThis works because TiddlyWiki acts like `{{!!title}}.png` is directly within the text of a tiddler when you use the `$wikify` widget, and as we'll see in another example further along in the section, putting a transclusion adjacent to constant text works fine in running text.\n\nHowever, the `$wikify` widget unnecessarily complicates things here, and it tends to be slower than solutions that don't use it, so it's not normally a good solution for simple problems like this one.")
+}

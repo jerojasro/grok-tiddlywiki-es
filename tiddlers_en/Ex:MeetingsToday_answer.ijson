@@ -1,0 +1,8 @@
+{
+  "title": _("Ex:MeetingsToday/answer"),
+  "created": "20200717222830000",
+  "modified": "20210410190508516",
+  "tags": "Answer",
+  "type": "text/vnd.tiddlywiki",
+  "text": _("```html\n<$set name=today value=<<now YYYY0MM0DD0hh>>>\n  <<tabs \"[tag[Meeting]sameday:at<today>!is[draft]]\" class:\"tc-vertical\">>\n</$set>\n```")
+}

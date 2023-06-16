@@ -1,0 +1,11 @@
+{
+  "title": _("Ta:20210107231203818"),
+  "answer": "The `$button` widget.",
+  "created": "20210107231205603",
+  "modified": "20210418160742538",
+  "origin": "Buttons and Input Widgets",
+  "qtype": "rememberq",
+  "question": "What widget is used to create a button?",
+  "tags": "Takeaway",
+  "type": "text/vnd.tiddlywiki"
+}

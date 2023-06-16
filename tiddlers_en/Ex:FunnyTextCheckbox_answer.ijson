@@ -1,0 +1,8 @@
+{
+  "title": _("Ex:FunnyTextCheckbox/answer"),
+  "created": "20210130035112224",
+  "modified": "20210130035017840",
+  "tags": "Answer",
+  "type": "text/vnd.tiddlywiki",
+  "text": _("The tag to add a subtab to the //Settings// section of the control panel is `$:/tags/ControlPanel/SettingsTab`. A tiddler with this tag and a caption of `Styles` could look like:\n\n```html\n<$checkbox tag=\"input\" tiddler=\"$:/config/ShowFunnyText\" field=\"text\" checked=\"yes\" unchecked=\"no\" default=\"no\"> Show funny text</$checkbox>\n```")
+}

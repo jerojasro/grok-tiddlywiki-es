@@ -1,0 +1,8 @@
+{
+  "title": _("Sn:CaptionFieldTemplate"),
+  "created": "20210314125223866",
+  "modified": "20210314125233928",
+  "tags": "",
+  "type": "text/vnd.tiddlywiki",
+  "text": _("The caption of the current tiddler is \u201c{{!!caption}}\u201d.")
+}

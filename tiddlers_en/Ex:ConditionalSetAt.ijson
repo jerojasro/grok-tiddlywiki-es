@@ -1,0 +1,10 @@
+{
+  "title": _("Ex:ConditionalSetAt"),
+  "created": "20210207215704886",
+  "length": "m",
+  "modified": "20210502160207975",
+  "origin": "Hiding and Showing Things",
+  "tags": "Exercise",
+  "type": "text/vnd.tiddlywiki",
+  "text": _("Repeat the [[previous exercise|Ex:EmptyAtField]], but use a conditional `$set` widget. It's OK if the behavior when the `at` field is empty, rather than missing, differs from the previous exercise.")
+}

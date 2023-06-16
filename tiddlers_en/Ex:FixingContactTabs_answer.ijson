@@ -1,0 +1,8 @@
+{
+  "title": _("Ex:FixingContactTabs/answer"),
+  "created": "20200717224206811",
+  "modified": "20210410192040152",
+  "tags": "Answer",
+  "type": "text/vnd.tiddlywiki",
+  "text": _("Create a template tiddler called `ContactTabTemplate` with the following content:\n\n```html\n<$set name=currentTiddler value=<<currentTab>>>\n\n\t{{!!text}}\n\t\n</$set>\n```\n\nYou can use any method you like to set the current tiddler. Note the blank lines to force the text field to be transcluded in [[block mode|Block Mode and Inline Mode]].\n\nThen add a `template:ContactTabTemplate` parameter to the `tabs` macro used to render your contact tabs.\n\nThe TiddlyWiki documentation gives the following equivalent version using the `$transclude` widget, which we've so far mentioned only in passing, and the `$tiddler` widget, which we haven't seen at all:\n\n```html\n<$tiddler tiddler=<<currentTab>>>\n<$transclude mode=\"block\" />\n</$tiddler>\n```\n\nWe'll talk about both widgets in [[chapter 7|Tips and Tricks]].\n\nAnother way would be to transclude the tiddler named in the `currentTab` variable using double curly braces, since doing a transclusion this way sets the current tiddler as it does so. You have to use [[text substitution|Text Substitution]] to get the value of `currentTab` into the braces, though:\n\n```html\n\\define makeCurrentTiddler()\n\t{{$(currentTab)$}}\n\\end\n\n<<makeCurrentTiddler>>\n```\n\nBut when you reread this one later, it'll be much less obvious what you were trying to accomplish, so one of the preceding methods is probably preferable.")
+}

@@ -1,0 +1,10 @@
+{
+  "title": _("Ex:UnclosedMacroCall"),
+  "created": "20201231041607192",
+  "length": "m",
+  "modified": "20210130174703478",
+  "origin": "The Finer Points of Macros",
+  "tags": "Exercise",
+  "type": "text/vnd.tiddlywiki",
+  "text": _("Take the example //The $macrocall widget can take variables as parameters// and modify it so that the `$macrocall` tags are unclosed (no `/` before the `>`). What happens? Why do you think this happened?")
+}

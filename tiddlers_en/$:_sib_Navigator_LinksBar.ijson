@@ -1,0 +1,9 @@
+{
+  "title": _("$:/sib/Navigator/LinksBar"),
+  "created": "20210120005004574",
+  "list-after": "$:/core/ui/SideBarSegments/site-subtitle",
+  "modified": "20210503023308990",
+  "tags": "$:/tags/SideBarSegment",
+  "type": "text/vnd.tiddlywiki",
+  "text": _("<div class=\"gtw-sidebar-links\">\n[[home|Welcome to Grok TiddlyWiki]]&nbsp;\u00b7\n[[outline|Outline]]&nbsp;\u00b7\n[[exercises|Exercise Browser]]&nbsp;\u00b7\n[[takeaways|Takeaway Browser]]&nbsp;\u00b7\n<a href={{$:/sib/DonationLink}} class=\"tc-tiddlylink tc-tiddlylink-resolves\">donate</a>\n</div>\n<style>\n.gtw-sidebar-links a, .gtw-sidebar-links button {\n\tcolor: <<color sidebar-foreground>>;\n\ttext-decoration: underline;\n}\n</style>\n<!--\n<$button class=\"tc-btn-invisible tc-tiddlylink tc-tiddlylink-resolves\">\n\t<<startReviewSessionAction>>\n\ttakeaways\n</$button>&nbsp;\u00b7\n-->")
+}

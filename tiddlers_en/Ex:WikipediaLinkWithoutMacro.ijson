@@ -1,0 +1,10 @@
+{
+  "title": _("Ex:WikipediaLinkWithoutMacro"),
+  "created": "20201122165712594",
+  "length": "m",
+  "modified": "20210130175033254",
+  "origin": "Filters and Transclusions",
+  "tags": "Exercise",
+  "type": "text/vnd.tiddlywiki",
+  "text": _("In [[Ex:MacroAdjacency]] within the [[Macros]] section, we found that this attempt to use a simple variable instead of a macro to compose a Wikipedia link didn't work:\n\n```html\n<$set name=\"wikipedia\" value=\"https://en.wikipedia.org/wiki/\">\n    <<wikipedia>>Aardvark\n</$set>\n```\n\nWe now have the tools needed to accomplish this without a macro. Your solution should display a link to the Aardvark article which has been built from the `wikipedia` variable shown above and the constant part `Aardvark`, but without using a macro.\n\n* You will need the filter operator `addsuffix`.\n* You'll need to use the HTML tag `a`, which creates an //anchor//, including a link. The form of this tag is as follows:\n\n```html\n<a href=\"the URL\">the link text</a>\n```")
+}

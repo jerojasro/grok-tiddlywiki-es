@@ -1,0 +1,11 @@
+{
+  "title": _("Ta:20210103191403629"),
+  "answer": "The search bar and the \u201cAll\u201d section.",
+  "created": "20210103191405268",
+  "modified": "20210418133008144",
+  "origin": "System Tiddlers",
+  "qtype": "rememberq",
+  "question": "From which of the following places are system tiddlers hidden by default? Select all that apply.<br>The ''Explorer'' section of the ''More'' sidebar tab; the standard search bar; filters; the ''All'' section of the ''More'' sidebar tab",
+  "tags": "Takeaway",
+  "type": "text/vnd.tiddlywiki"
+}

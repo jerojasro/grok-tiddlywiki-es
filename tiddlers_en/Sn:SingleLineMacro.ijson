@@ -1,0 +1,8 @@
+{
+  "title": _("Sn:SingleLineMacro"),
+  "created": "20210116205742608",
+  "modified": "20210116205652782",
+  "tags": "",
+  "type": "text/vnd.tiddlywiki",
+  "text": _("\\define disclaimer() (This paragraph does not represent the formal opinion of my company.)\n\n<<disclaimer>>")
+}

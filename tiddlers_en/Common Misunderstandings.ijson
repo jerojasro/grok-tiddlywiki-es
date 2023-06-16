@@ -1,0 +1,12 @@
+{
+  "title": _("Common Misunderstandings"),
+  "caption": "Common Misunderstandings",
+  "created": "20210818000720603",
+  "description": "In which we clear up some common mistakes and mixed-up mental models.",
+  "list": "[[Macros are not functions]] [[Constant strings cannot be combined with transclusions]]",
+  "modified": "20210820160521867",
+  "parent": "Outline",
+  "tags": "Chapter",
+  "type": "text/vnd.tiddlywiki",
+  "text": _("Certain aspects of TiddlyWiki's behavior may be unintuitive or unexpected, particularly if you have prior experience with tools that do similar things to TiddlyWiki but function differently. This chapter calls out some of these potential confusions and explains why they're wrong and how you should think about them instead.\n\n!! In this chapter\n\n{{||ChapterOutlineTemplate}}")
+}

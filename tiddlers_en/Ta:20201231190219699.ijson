@@ -1,0 +1,11 @@
+{
+  "title": _("Ta:20201231190219699"),
+  "answer": "Some fields on the current tiddler.",
+  "created": "20201231190222568",
+  "modified": "20210409212753779",
+  "origin": "Templates and the Current Tiddler",
+  "qtype": "rememberq",
+  "question": "For a template to be useful, it should transclude or refer to what?",
+  "tags": "Takeaway",
+  "type": "text/vnd.tiddlywiki"
+}

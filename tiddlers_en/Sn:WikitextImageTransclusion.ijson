@@ -1,0 +1,8 @@
+{
+  "title": _("Sn:WikitextImageTransclusion"),
+  "created": "20210131153251089",
+  "modified": "20210131153152744",
+  "tags": "",
+  "type": "text/vnd.tiddlywiki",
+  "text": _("{{anki-config-screenshot.png}}")
+}

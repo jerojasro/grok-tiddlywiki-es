@@ -1,0 +1,8 @@
+{
+  "title": _("Sn:WikitextTransclusionField"),
+  "created": "20210131145607043",
+  "modified": "20210131145508786",
+  "tags": "",
+  "type": "text/vnd.tiddlywiki",
+  "text": _("{{Sn:IncludeMe!!caption}}")
+}

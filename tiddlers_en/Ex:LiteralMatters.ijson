@@ -1,0 +1,10 @@
+{
+  "title": _("Ex:LiteralMatters"),
+  "created": "20210208005356135",
+  "length": "m",
+  "modified": "20210410141803660",
+  "origin": "Wikification",
+  "tags": "Exercise",
+  "type": "text/vnd.tiddlywiki",
+  "text": _("Modify the answer to the [[previous exercise|Ex:WikifyWikipediaLink]] so that the value of the `text` attribute to the `$wikify` widget is in quotation marks. What happens? Why do you think this is?")
+}

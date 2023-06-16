@@ -1,0 +1,11 @@
+{
+  "title": _("Ex:TiddlersContainingWikiTitle"),
+  "complete": "",
+  "created": "20201122165557588",
+  "length": "m",
+  "modified": "20210409214506156",
+  "origin": "Filters and Transclusions",
+  "tags": "Exercise",
+  "type": "text/vnd.tiddlywiki",
+  "text": _("Create a list of all tiddlers that contain the title of the wiki.\n\n* The current title of the wiki can be found in the tiddler named `$:/SiteTitle`.\n* The `search` filter operator is used to find tiddlers that contain some arbitrary text.")
+}

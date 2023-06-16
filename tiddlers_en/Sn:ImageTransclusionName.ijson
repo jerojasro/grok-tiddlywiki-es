@@ -1,0 +1,8 @@
+{
+  "title": _("Sn:ImageTransclusionName"),
+  "created": "20210818121339333",
+  "modified": "20210818122148124",
+  "tags": "",
+  "type": "text/vnd.tiddlywiki",
+  "text": _("<$tiddler tiddler=\"Constant strings cannot be combined with transclusions\">\n\nThe image should be called \"{{!!title}}.png\".\n\n</$tiddler>")
+}

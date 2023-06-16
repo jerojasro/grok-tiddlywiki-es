@@ -1,0 +1,8 @@
+{
+  "title": _("Sn:WikitextTable"),
+  "created": "20210117010727707",
+  "modified": "20210117010637701",
+  "tags": "",
+  "type": "text/vnd.tiddlywiki",
+  "text": _("|!Header 1|!Header 2|\n|Cell 1|Cell 2|")
+}

@@ -1,0 +1,8 @@
+{
+  "title": _("Sn:UserWhoClicked"),
+  "created": "20210116212538921",
+  "modified": "20210117010338851",
+  "tags": "",
+  "type": "text/vnd.tiddlywiki",
+  "text": _("<$button set=\"!!userwhoclicked\" setTo=\"Soren\">\n  Big Red Button\n</$button>\n\nUser who clicked: \"{{!!userwhoclicked}}\"")
+}

@@ -1,0 +1,10 @@
+{
+  "title": _("Supplemental Exercises"),
+  "created": "20201122225852336",
+  "description": "In which are offered some optional challenges to improve your TiddlyWiki skills, should you choose to accept them.",
+  "modified": "20210207045751387",
+  "parent": "Outline",
+  "tags": "Chapter",
+  "type": "text/vnd.tiddlywiki",
+  "text": _("If you're looking for a challenge or some extra practice after finishing most or all of the book, here are some larger exercises you can try.\n\n{{Ex:TagColorGrouping||ExerciseTemplate}}\n{{Ex:HostingOptions||ExerciseTemplate}}\n{{Ex:MoreSidebarTabs||ExerciseTemplate}}\n{{Ex:StylesheetExperiments||ExerciseTemplate}}\n{{Ex:MailMerge||ExerciseTemplate}}\n{{Ex:StretchText||ExerciseTemplate}}\n{{Ex:NewWiki||ExerciseTemplate}}")
+}

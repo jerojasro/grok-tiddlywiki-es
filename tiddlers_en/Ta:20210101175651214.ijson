@@ -1,0 +1,12 @@
+{
+  "title": _("Ta:20210101175651214"),
+  "answer": "`$(myVariable)\u200b$`",
+  "created": "20210101175652476",
+  "modified": "20210410140537406",
+  "origin": "Using Variables in Macros",
+  "qtype": "rememberq",
+  "question": "What is the syntax to text-substitute a variable (not a parameter) called `myVariable` in the definition of a macro?",
+  "tags": "Takeaway",
+  "type": "text/vnd.tiddlywiki",
+  "text": _("<!--\n\nNote: there is a zero-width space between the ) and the `$`, because otherwise it triggers a real variable substitution somewhere in the bowels of the TiddlyRemember rendering!\n\n-->\n")
+}

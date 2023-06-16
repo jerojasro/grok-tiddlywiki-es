@@ -1,0 +1,11 @@
+{
+  "title": _("Ta:20210103183826775"),
+  "answer": "",
+  "created": "20210103183828819",
+  "modified": "20210410193143312",
+  "origin": "Data Tiddlers",
+  "qtype": "remembercz",
+  "question": "A {data} tiddler is one that stores a number of key-value pairs.",
+  "tags": "Takeaway",
+  "type": "text/vnd.tiddlywiki"
+}

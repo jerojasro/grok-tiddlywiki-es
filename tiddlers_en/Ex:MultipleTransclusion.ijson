@@ -1,0 +1,10 @@
+{
+  "title": _("Ex:MultipleTransclusion"),
+  "created": "20200604022429000",
+  "length": "s",
+  "modified": "20210130174533888",
+  "origin": "Transclusions",
+  "tags": "Exercise",
+  "type": "text/vnd.tiddlywiki",
+  "text": _("What happens if you transclude a tiddler that contains transclusions?")
+}

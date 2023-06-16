@@ -1,0 +1,8 @@
+{
+  "title": _("Sn:WikitextHorizontalRule"),
+  "created": "20210131151946604",
+  "modified": "20210131151848284",
+  "tags": "",
+  "type": "text/vnd.tiddlywiki",
+  "text": _("Text before the line\n\n----------\n\nText after the line")
+}

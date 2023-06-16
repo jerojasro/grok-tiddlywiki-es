@@ -1,0 +1,8 @@
+{
+  "title": _("Ex:DateFormatter/answer"),
+  "created": "20210207180211360",
+  "modified": "20210207180335891",
+  "tags": "Answer",
+  "type": "text/vnd.tiddlywiki",
+  "text": _("Here's my version. You presumably have something slightly different.\n\n```html\n\\define show-date(fmt) <$view tiddler={{!!selectedtiddler}} field={{!!selectedfield}} format=\"date\" template=<<__fmt__>>>(not a date)</$view>\n\n\\define date-row(name, fmt)\n<tr>\n  <td>$name$</td>\n  <td><$macrocall $name=\"show-date\" fmt=<<__fmt__>>/></td>\n</tr>\n\\end\n\nTiddler:\n<$select field=\"selectedtiddler\" default=\"\">\n    <option value=\"\">(choose a tiddler)</option>\n    <$list filter=\"[!is[system]]\">\n        <option value=<<currentTiddler>>><<currentTiddler>></option>\n    </$list>\n</$select>\n\n<!-- Don't show the field drop-down if no tiddler is selected, since it won't contain any options. -->\n<$reveal state=\"!!selectedtiddler\" type=\"nomatch\" text=\"\">\nField:\n<$select field=\"selectedfield\" default=\"created\">\n    <$list filter=\"[{!!selectedtiddler}fields[]]\">\n        <option value=<<currentTiddler>>><<currentTiddler>></option>\n    </$list>\n</$select>\n</$reveal>\n\n<$list filter=\"[all[current]has[selectedtiddler]has[selectedfield]]\">\n<table>\n    <tr>\n        <th>Format</th>\n        <th>Date</th>\n    </tr>\n    <$list filter=\"[prefix[$:/config/DateFormatter/Formats/]]\" variable=\"currentFormat\">\n        <$macrocall $name=\"date-row\"\n            name={{{ [<currentFormat>removeprefix[$:/config/DateFormatter/Formats/]] }}} \n            fmt={{{ [<currentFormat>get[text]] }}}/>\n    </$list>\n</table>\n</$list>\n```")
+}

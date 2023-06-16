@@ -1,0 +1,11 @@
+{
+  "title": _("Ta:20210109214205308"),
+  "answer": "An action widget.",
+  "created": "20210109214206247",
+  "modified": "20210418161916054",
+  "origin": "Creating Tiddlers With Predefined Fields",
+  "qtype": "rememberq",
+  "question": "What kind of widget makes something happen in the wiki, rather than displaying something?",
+  "tags": "Takeaway",
+  "type": "text/vnd.tiddlywiki"
+}

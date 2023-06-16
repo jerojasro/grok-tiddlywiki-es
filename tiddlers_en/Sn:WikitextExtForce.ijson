@@ -1,0 +1,8 @@
+{
+  "title": _("Sn:WikitextExtForce"),
+  "created": "20210131141859994",
+  "modified": "20210131143303668",
+  "tags": "",
+  "type": "text/vnd.tiddlywiki",
+  "text": _("attachments/my_image.png\n\nThat didn't work. How about [[attachments/my_image.png]]?\n\nNope! Here's the right way: [ext[attachments/my_image.png]]")
+}

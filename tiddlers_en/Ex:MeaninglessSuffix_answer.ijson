@@ -1,0 +1,8 @@
+{
+  "title": _("Ex:MeaninglessSuffix/answer"),
+  "created": "20201230213742844",
+  "modified": "20201230213812364",
+  "tags": "Answer",
+  "type": "text/vnd.tiddlywiki",
+  "text": _("Nothing -- if the filter operator doesn't support suffixes, or the suffix is optional, the unexpected suffix is simply ignored.")
+}

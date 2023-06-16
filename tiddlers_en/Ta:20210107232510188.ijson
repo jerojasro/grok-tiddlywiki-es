@@ -1,0 +1,11 @@
+{
+  "title": _("Ta:20210107232510188"),
+  "answer": "`<table>`",
+  "created": "20210107232511082",
+  "modified": "20210418160902671",
+  "origin": "Buttons and Input Widgets",
+  "qtype": "rememberq",
+  "question": "What HTML element creates a table?",
+  "tags": "Takeaway",
+  "type": "text/vnd.tiddlywiki"
+}

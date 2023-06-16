@@ -1,0 +1,11 @@
+{
+  "title": _("Ta:20201231000237015"),
+  "answer": "Wikitext is much less verbose, so it is faster to type and easier to work with.",
+  "created": "20201231000238971",
+  "modified": "20210409171622300",
+  "origin": "HTML",
+  "qtype": "rememberq",
+  "question": "Why do we usually use wikitext instead of HTML to write tiddlers?",
+  "tags": "Takeaway",
+  "type": "text/vnd.tiddlywiki"
+}

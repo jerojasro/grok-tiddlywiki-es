@@ -1,0 +1,9 @@
+{
+  "title": _("Ltc:TagsComeInPairs"),
+  "created": "20210124035422845",
+  "description": "Tags always come in pairs",
+  "modified": "20210124035402745",
+  "tags": "Lie",
+  "type": "text/vnd.tiddlywiki",
+  "text": _("A few HTML tags, called //void tags//, don't come in pairs. We'll talk about void tags later in the section.")
+}

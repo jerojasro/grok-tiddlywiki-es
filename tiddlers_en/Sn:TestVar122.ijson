@@ -1,0 +1,8 @@
+{
+  "title": _("Sn:TestVar122"),
+  "created": "20210101165917055",
+  "modified": "20210101170330926",
+  "tags": "",
+  "type": "text/vnd.tiddlywiki",
+  "text": _("<$set name=\"testVar1\" value=\"XYZ\">\n<$set name=\"testVar2\" value=\"<<testVar1>>\">\n  <$text text=<<testVar2>>/>\n</$set>\n</$set>")
+}

@@ -1,0 +1,8 @@
+{
+  "title": _("Sn:WikitextTransclusionTemplate"),
+  "created": "20210131145638915",
+  "modified": "20210131145540665",
+  "tags": "",
+  "type": "text/vnd.tiddlywiki",
+  "text": _("{{Sn:IncludeMe||Sn:BoldfaceTemplate}}")
+}

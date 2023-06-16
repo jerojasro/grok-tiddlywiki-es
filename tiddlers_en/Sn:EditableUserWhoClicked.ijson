@@ -1,0 +1,9 @@
+{
+  "title": _("Sn:EditableUserWhoClicked"),
+  "created": "20210116212617639",
+  "modified": "20210117010422482",
+  "tags": "",
+  "type": "text/vnd.tiddlywiki",
+  "userwhoclicked": "",
+  "text": _("<$edit-text tiddler=\"$:/temp/EditingUserName\" tag=\"input\" default=\"\"/>\n<$button set=\"!!userwhoclicked\" setTo={{$:/temp/EditingUserName}}>Save User Who Clicked</$button>\n\nThe `userwhoclicked` field is set to \"{{!!userwhoclicked}}\".")
+}

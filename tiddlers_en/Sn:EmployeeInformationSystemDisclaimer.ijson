@@ -1,0 +1,8 @@
+{
+  "title": _("Sn:EmployeeInformationSystemDisclaimer"),
+  "created": "20210116203503331",
+  "modified": "20210116203413436",
+  "tags": "",
+  "type": "text/vnd.tiddlywiki",
+  "text": _("<$set name=\"disclaimer\" value=\"(This paragraph does not represent the formal opinion of my company.)\">\n\nThe Employee Information System at this nice company allows employees to perform tasks such as:\n\n* update their names and other personal information (on the front page after signing in)\n* view pay stubs (\"remuneration\" tab)\n* request vacation dates (\"time off\" tab)\n<<disclaimer>>\n\nYou need to use the Really Annoying Five-Factor Authentication Process to get into the Employee Information System if it is a Tuesday, unless you have also purchased coffee (tea or pastries do not count) in the company cafeteria earlier in the day. <<disclaimer>>\n\nJaneDoe taught me about the EIS in our EmployeeProfileSetupMeeting. <<disclaimer>>\n\n</$set>")
+}

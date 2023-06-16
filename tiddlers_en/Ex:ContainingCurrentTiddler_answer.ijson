@@ -1,0 +1,8 @@
+{
+  "title": _("Ex:ContainingCurrentTiddler/answer"),
+  "created": "20200605153116452",
+  "modified": "20210521203020996",
+  "tags": "Answer",
+  "type": "text/vnd.tiddlywiki",
+  "text": _("```html\n<$set name=previousCurrentTiddler value=<<currentTiddler>> >\n<ul>\n\t<$list filter=\"[tag[Meeting]!sort[at]]\">\n\t\t<li>An item on <<previousCurrentTiddler>>: <$link to=<<currentTiddler>>/></li>\n\t</$list>\n</ul>\n</$set>\n```\n\nIt turns out this is a sufficiently common pattern that there's an attribute you can add to the `$list` widget to make it easier, called `variable`. This attribute defaults to `currentTiddler`, but if you set it to something else, the current tiddler will be unmodified and that other variable will contain the current item being listed:\n\n```html\n<ul>\n\t<$list filter=\"[tag[Meeting]!sort[at]]\" variable=\"meeting\">\n\t\t<li>An item on <<currentTiddler>>: <$link to=<<meeting>>/></li>\n\t</$list>\n</ul>\n```\n")
+}

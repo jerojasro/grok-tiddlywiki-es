@@ -1,0 +1,11 @@
+{
+  "title": _("Ta:20210103174222286"),
+  "answer": "`now`",
+  "created": "20210103174223555",
+  "modified": "20210418131806469",
+  "origin": "Tabs",
+  "qtype": "rememberq",
+  "question": "What built-in macro allows you to get today's date?",
+  "tags": "Takeaway",
+  "type": "text/vnd.tiddlywiki"
+}

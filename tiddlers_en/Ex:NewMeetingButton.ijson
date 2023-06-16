@@ -1,0 +1,10 @@
+{
+  "title": _("Ex:NewMeetingButton"),
+  "created": "20200822192223876",
+  "length": "m",
+  "modified": "20210418161437467",
+  "origin": "Creating Tiddlers With Predefined Fields",
+  "tags": "Exercise",
+  "type": "text/vnd.tiddlywiki",
+  "text": _("Create a similar button for a new meeting. The `at` field should be populated with the current time in the standard TiddlyWiki date/time format, down to the minute (i.e., the seconds and milliseconds should be zero).")
+}

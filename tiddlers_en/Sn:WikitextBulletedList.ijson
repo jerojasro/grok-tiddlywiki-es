@@ -1,0 +1,8 @@
+{
+  "title": _("Sn:WikitextBulletedList"),
+  "created": "20210131050047576",
+  "modified": "20210131045949776",
+  "tags": "",
+  "type": "text/vnd.tiddlywiki",
+  "text": _("* first item\n* second item\n** subitems use\n** a second star\n*** you\n**** can\n***** go\n****** as deep as you like\n* third item")
+}

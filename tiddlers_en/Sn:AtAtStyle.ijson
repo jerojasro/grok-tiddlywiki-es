@@ -1,0 +1,8 @@
+{
+  "title": _("Sn:AtAtStyle"),
+  "created": "20210116213756531",
+  "modified": "20210116213706727",
+  "tags": "",
+  "type": "text/vnd.tiddlywiki",
+  "text": _("@@background-color: red;\nHere is a red area.\n@@")
+}

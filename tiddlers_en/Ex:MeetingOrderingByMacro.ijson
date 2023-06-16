@@ -1,0 +1,10 @@
+{
+  "title": _("Ex:MeetingOrderingByMacro"),
+  "created": "20210327155150388",
+  "length": "m",
+  "modified": "20210327155144906",
+  "origin": "Ordering Tiddlers",
+  "tags": "Exercise",
+  "type": "text/vnd.tiddlywiki",
+  "text": _("Repeat the [[previous exercise|Ex:MeetingOrdering]] using a `<<list-links-draggable>>` macro of the form described in this section, inserted within the `OnboardingHr` tiddler.")
+}

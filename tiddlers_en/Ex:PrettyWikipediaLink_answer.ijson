@@ -1,0 +1,8 @@
+{
+  "title": _("Ex:PrettyWikipediaLink/answer"),
+  "created": "20200603203254646",
+  "modified": "20200603203639598",
+  "tags": "Answer",
+  "type": "text/vnd.tiddlywiki",
+  "text": _("```html\n\\define wikipediaLink(articleName)\n  [[Wikipedia: $articleName$|https://en.wikipedia.org/wiki/$articleName$]]\n\\end\n```")
+}

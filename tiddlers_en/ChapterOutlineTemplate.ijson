@@ -1,0 +1,8 @@
+{
+  "title": _("ChapterOutlineTemplate"),
+  "created": "20210110042913461",
+  "modified": "20210110045004066",
+  "tags": "Template",
+  "type": "text/vnd.tiddlywiki",
+  "text": _("<ul>\n<$list filter={{!!list}}>\n\t<li><$link to={{!!title}}/> -- {{!!description}}</li>\n</$list>\n</ul>\n")
+}

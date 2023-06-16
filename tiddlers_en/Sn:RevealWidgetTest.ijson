@@ -1,0 +1,9 @@
+{
+  "title": _("Sn:RevealWidgetTest"),
+  "created": "20210123192959878",
+  "modified": "20210123200233191",
+  "showtest": "no",
+  "tags": "",
+  "type": "text/vnd.tiddlywiki",
+  "text": _("<$checkbox field=\"showtest\" checked=\"yes\" unchecked=\"no\"> Show the text</$checkbox>\n\n<$reveal state=\"!!showtest\" type=\"match\" text=\"yes\">\n\tHere is the text!\n</$reveal>")
+}

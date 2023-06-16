@@ -1,0 +1,11 @@
+{
+  "title": _("Ta:20210207033253889"),
+  "answer": "`name`, `value`, `filter`, and `emptyValue`.",
+  "created": "20210207033254670",
+  "modified": "20210418165643151",
+  "origin": "Hiding and Showing Things",
+  "qtype": "rememberq",
+  "question": "What four attributes of `$set` are used to make its value conditional on whether a filter has results?",
+  "tags": "Takeaway",
+  "type": "text/vnd.tiddlywiki"
+}

@@ -1,0 +1,10 @@
+{
+  "title": _("Ex:LookAtBrowseOptions"),
+  "created": "20210130213759996",
+  "length": "m",
+  "modified": "20210130213723912",
+  "origin": "Browsing Your Tiddlers",
+  "tags": "Exercise",
+  "type": "text/vnd.tiddlywiki",
+  "text": _("If you haven't already done so, take a look at each of the tabs discussed above in your sample wiki.")
+}
