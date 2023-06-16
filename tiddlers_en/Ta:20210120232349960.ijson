@@ -7,6 +7,5 @@
   "qtype": "rememberq",
   "question": "What web browser feature can you use to inspect the HTML of a specific element within TiddlyWiki?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20210120232349960")
+  "type": "text/vnd.tiddlywiki"
 }

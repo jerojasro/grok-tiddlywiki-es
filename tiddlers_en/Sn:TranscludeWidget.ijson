@@ -5,6 +5,5 @@
   "modified": "20210206220012176",
   "tags": "",
   "type": "text/vnd.tiddlywiki",
-  "text": _("<$transclude tiddler=<<currentTiddler>> field=\"description\"/>\n\n-----\n\n<$transclude field=\"description\"/>\n\n-----\n\n{{!!description}}"),
-  "human_title": _("Sn:TranscludeWidget")
+  "text": "<$transclude tiddler=<<currentTiddler>> field=\"description\"/>\n\n-----\n\n<$transclude field=\"description\"/>\n\n-----\n\n{{!!description}}"
 }

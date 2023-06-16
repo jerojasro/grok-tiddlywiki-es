@@ -7,6 +7,5 @@
   "qtype": "rememberq",
   "question": "How do the results of the filter runs `[is[system]]` and `[!is[system]]` differ?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20201230213236939")
+  "type": "text/vnd.tiddlywiki"
 }

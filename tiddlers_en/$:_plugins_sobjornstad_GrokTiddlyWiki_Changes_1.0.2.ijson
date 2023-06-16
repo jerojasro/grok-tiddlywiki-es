@@ -8,6 +8,5 @@
   "tags": "",
   "type": "text/vnd.tiddlywiki",
   "version": "1.0.2",
-  "text": _("* Deleting any bookmark was causing all bookmarks to be deleted. This has been fixed and you can now safely delete bookmarks.\n* Fixed instructions for embedding a font in TW (if you're poking around in the system tiddlers wondering how I did it, you can now find the correct forum thread for reference).\n* Expanded the prompt for [[Ex:AlphabeticallyLastDescription]] to incorporate user feedback.\n* Fixed several more incorrect filters on live examples in [[Sn:RubberDucking]].\n* Fixed several more typos and confusingly worded sentences."),
-  "human_title": _("$:/plugins/sobjornstad/GrokTiddlyWiki/Changes/1.0.2")
+  "text": "* Deleting any bookmark was causing all bookmarks to be deleted. This has been fixed and you can now safely delete bookmarks.\n* Fixed instructions for embedding a font in TW (if you're poking around in the system tiddlers wondering how I did it, you can now find the correct forum thread for reference).\n* Expanded the prompt for [[Ex:AlphabeticallyLastDescription]] to incorporate user feedback.\n* Fixed several more incorrect filters on live examples in [[Sn:RubberDucking]].\n* Fixed several more typos and confusingly worded sentences."
 }

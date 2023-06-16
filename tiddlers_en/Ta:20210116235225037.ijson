@@ -6,6 +6,5 @@
   "qtype": "remembercz",
   "question": "In block mode, elements are stacked {vertically} (vertical/horizontal).",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20210116235225037")
+  "type": "text/vnd.tiddlywiki"
 }

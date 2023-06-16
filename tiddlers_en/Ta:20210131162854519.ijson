@@ -6,6 +6,5 @@
   "qtype": "remembercz",
   "question": "The color scheme used by a TiddlyWiki is called its {palette}.",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20210131162854519")
+  "type": "text/vnd.tiddlywiki"
 }

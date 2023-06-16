@@ -7,6 +7,5 @@
   "qtype": "rememberq",
   "question": "Action widgets are most commonly triggered by what other widget?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20210109214259585")
+  "type": "text/vnd.tiddlywiki"
 }

@@ -7,6 +7,5 @@
   "qtype": "rememberq",
   "question": "What is the best way to create opportunities for reuse of content in TiddlyWiki?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20210206163511138")
+  "type": "text/vnd.tiddlywiki"
 }

@@ -7,6 +7,5 @@
   "qtype": "rememberq",
   "question": "For a template to be useful, it should transclude or refer to what?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20201231190219699")
+  "type": "text/vnd.tiddlywiki"
 }

@@ -7,6 +7,5 @@
   "qtype": "rememberq",
   "question": "How can you provide fallback content to the `$view` widget to be used if the tiddler field it specifies does not exist?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20210207033930875")
+  "type": "text/vnd.tiddlywiki"
 }

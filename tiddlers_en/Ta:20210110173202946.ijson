@@ -7,6 +7,5 @@
   "qtype": "rememberq",
   "question": "Give an example of a type (classification) of tiddler you might invent in a TiddlyWiki that stores recipes and other cooking notes (try to pick a new one).",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20210110173202946")
+  "type": "text/vnd.tiddlywiki"
 }

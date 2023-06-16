@@ -4,6 +4,5 @@
   "modified": "20210110045004066",
   "tags": "Template",
   "type": "text/vnd.tiddlywiki",
-  "text": _("<ul>\n<$list filter={{!!list}}>\n\t<li><$link to={{!!title}}/> -- {{!!description}}</li>\n</$list>\n</ul>\n"),
-  "human_title": _("ChapterOutlineTemplate")
+  "text": "<ul>\n<$list filter={{!!list}}>\n\t<li><$link to={{!!title}}/> -- {{!!description}}</li>\n</$list>\n</ul>\n"
 }

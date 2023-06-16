@@ -7,6 +7,5 @@
   "qtype": "rememberq",
   "question": "The `qualify` macro is usually //not// needed when storing state used on a template where?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20210208023605710")
+  "type": "text/vnd.tiddlywiki"
 }

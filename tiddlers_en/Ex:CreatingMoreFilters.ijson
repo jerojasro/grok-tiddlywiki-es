@@ -6,6 +6,5 @@
   "origin": "Common Filter Operators",
   "tags": "Exercise",
   "type": "text/vnd.tiddlywiki",
-  "text": _("Compose and run filters to answer the following questions:\n\n# How many tiddlers are in the wiki?\n# How many of those are system tiddlers?\n# What meetings contain a link to `JaneDoe`?\n#* //Hint//: Work backwards.\n# Which contact has the alphabetically earliest phone number?\n# Which tiddlers have text in a field called `at`?\n# Which tiddlers contain the words `JaneDoe` and `help` somewhere in their text field? Use only a single filter step."),
-  "human_title": _("Ex:CreatingMoreFilters")
+  "text": "Compose and run filters to answer the following questions:\n\n# How many tiddlers are in the wiki?\n# How many of those are system tiddlers?\n# What meetings contain a link to `JaneDoe`?\n#* //Hint//: Work backwards.\n# Which contact has the alphabetically earliest phone number?\n# Which tiddlers have text in a field called `at`?\n# Which tiddlers contain the words `JaneDoe` and `help` somewhere in their text field? Use only a single filter step."
 }

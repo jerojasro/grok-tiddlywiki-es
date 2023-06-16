@@ -5,6 +5,5 @@
   "modified": "20210116213227195",
   "tags": "",
   "type": "text/vnd.tiddlywiki",
-  "text": _("\t<div class=\"twx-completion\">\n\t<$checkbox field=\"complete\" checked=\"yes\" unchecked=\"\" default=\"\" tooltip=\"Mark this exercise as complete in the exercise list.\">&nbsp;Complete</$checkbox>\n\t</div>"),
-  "human_title": _("$:/sib/Exercise/CompletionCheckbox")
+  "text": "\t<div class=\"twx-completion\">\n\t<$checkbox field=\"complete\" checked=\"yes\" unchecked=\"\" default=\"\" tooltip=\"Mark this exercise as complete in the exercise list.\">&nbsp;Complete</$checkbox>\n\t</div>"
 }

@@ -4,6 +4,5 @@
   "modified": "20210131150316213",
   "tags": "",
   "type": "text/vnd.tiddlywiki",
-  "text": _("You can read about links in the [[Links]] section.\n\nYou can [[read about links|Links]] if you want to learn more about them.\n\nIf you have questions that are not related to TiddlyWiki, let me point you to [[Google|https://google.com]], [[DuckDuckGo|https://duckduckgo.com]], or [[Wikipedia|https://en.wikipedia.org]]. (Or, if you prefer a language other than English, try visiting https://wikipedia.org and selecting a language.)"),
-  "human_title": _("Sn:WikitextLinksExample")
+  "text": "You can read about links in the [[Links]] section.\n\nYou can [[read about links|Links]] if you want to learn more about them.\n\nIf you have questions that are not related to TiddlyWiki, let me point you to [[Google|https://google.com]], [[DuckDuckGo|https://duckduckgo.com]], or [[Wikipedia|https://en.wikipedia.org]]. (Or, if you prefer a language other than English, try visiting https://wikipedia.org and selecting a language.)"
 }

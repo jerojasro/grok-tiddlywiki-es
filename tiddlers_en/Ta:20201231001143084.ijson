@@ -7,6 +7,5 @@
   "qtype": "rememberq",
   "question": "In HTML, what syntax distinguishes a //self-closing tag// from a normal one?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20201231001143084")
+  "type": "text/vnd.tiddlywiki"
 }

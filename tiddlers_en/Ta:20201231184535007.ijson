@@ -7,6 +7,5 @@
   "qtype": "rememberq",
   "question": "Explain the difference between a hard link and a soft link.",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20201231184535007")
+  "type": "text/vnd.tiddlywiki"
 }

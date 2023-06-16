@@ -6,6 +6,5 @@
   "origin": "Reviewing the Basics",
   "tags": "Exercise",
   "type": "text/vnd.tiddlywiki",
-  "text": _("We chose to use a field to keep track of employees' managers. List at least two other ways we could have chosen to do this, and some advantages and disadvantages of each."),
-  "human_title": _("Ex:ManagerField")
+  "text": "We chose to use a field to keep track of employees' managers. List at least two other ways we could have chosen to do this, and some advantages and disadvantages of each."
 }

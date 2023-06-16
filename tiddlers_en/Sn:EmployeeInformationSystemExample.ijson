@@ -4,6 +4,5 @@
   "modified": "20210504022048490",
   "tags": "",
   "type": "text/vnd.tiddlywiki",
-  "text": _("The Employee Information System at this nice company allows employees to perform tasks such as:\n\n* update their names and other personal information (on the front page after signing in)\n* view pay stubs (\u201cremuneration\u201d tab)\n* request vacation dates (\u201ctime off\u201d tab)\n\nYou need to use the Really Annoying Five-Factor Authentication Process to get into the Employee Information System if it is a Tuesday, unless you have also purchased coffee (tea or pastries do not count) in the company cafeteria earlier in the day."),
-  "human_title": _("Sn:EmployeeInformationSystemExample")
+  "text": "The Employee Information System at this nice company allows employees to perform tasks such as:\n\n* update their names and other personal information (on the front page after signing in)\n* view pay stubs (\u201cremuneration\u201d tab)\n* request vacation dates (\u201ctime off\u201d tab)\n\nYou need to use the Really Annoying Five-Factor Authentication Process to get into the Employee Information System if it is a Tuesday, unless you have also purchased coffee (tea or pastries do not count) in the company cafeteria earlier in the day."
 }

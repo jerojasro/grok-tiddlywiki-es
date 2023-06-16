@@ -7,6 +7,5 @@
   "qtype": "rememberq",
   "question": "What troubleshooting technique helps you to identify places where you believe your wikitext does one thing, but it actually does something else?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20210120233224812")
+  "type": "text/vnd.tiddlywiki"
 }

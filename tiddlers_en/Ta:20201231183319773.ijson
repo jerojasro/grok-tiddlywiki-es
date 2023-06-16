@@ -6,6 +6,5 @@
   "qtype": "remembercz",
   "question": "The value of a transclusion comes from a specified {field} of a tiddler.",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20201231183319773")
+  "type": "text/vnd.tiddlywiki"
 }

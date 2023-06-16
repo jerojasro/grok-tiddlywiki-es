@@ -7,6 +7,5 @@
   "qtype": "rememberq",
   "question": "Suggest a way to relate a meeting to a project (try to pick a new one).",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20210131212436299")
+  "type": "text/vnd.tiddlywiki"
 }

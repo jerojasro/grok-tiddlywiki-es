@@ -6,6 +6,5 @@
   "qtype": "remembercz",
   "question": "Dynamic lists use a {filter} (TiddlyWiki concept) to decide what items to include in the list.",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20201231002329965")
+  "type": "text/vnd.tiddlywiki"
 }

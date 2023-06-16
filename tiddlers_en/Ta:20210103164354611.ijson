@@ -7,6 +7,5 @@
   "qtype": "rememberq",
   "question": "What built-in macro allows you to drag and drop tiddlers that appear in a list field of a tiddler to reorder them?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20210103164354611")
+  "type": "text/vnd.tiddlywiki"
 }

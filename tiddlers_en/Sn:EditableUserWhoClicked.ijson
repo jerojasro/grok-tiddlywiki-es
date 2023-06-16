@@ -5,6 +5,5 @@
   "tags": "",
   "type": "text/vnd.tiddlywiki",
   "userwhoclicked": "",
-  "text": _("<$edit-text tiddler=\"$:/temp/EditingUserName\" tag=\"input\" default=\"\"/>\n<$button set=\"!!userwhoclicked\" setTo={{$:/temp/EditingUserName}}>Save User Who Clicked</$button>\n\nThe `userwhoclicked` field is set to \"{{!!userwhoclicked}}\"."),
-  "human_title": _("Sn:EditableUserWhoClicked")
+  "text": "<$edit-text tiddler=\"$:/temp/EditingUserName\" tag=\"input\" default=\"\"/>\n<$button set=\"!!userwhoclicked\" setTo={{$:/temp/EditingUserName}}>Save User Who Clicked</$button>\n\nThe `userwhoclicked` field is set to \"{{!!userwhoclicked}}\"."
 }

@@ -7,6 +7,5 @@
   "qtype": "rememberq",
   "question": "What happens if you call a macro that doesn't exist?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20201231010504984")
+  "type": "text/vnd.tiddlywiki"
 }

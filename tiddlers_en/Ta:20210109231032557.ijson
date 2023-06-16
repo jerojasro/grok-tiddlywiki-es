@@ -7,6 +7,5 @@
   "qtype": "rememberq",
   "question": "What is unusual about the `list` field in a `plugin.info` file?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20210109231032557")
+  "type": "text/vnd.tiddlywiki"
 }

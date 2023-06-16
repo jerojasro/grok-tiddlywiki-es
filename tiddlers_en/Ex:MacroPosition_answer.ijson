@@ -4,6 +4,5 @@
   "modified": "20210818172448412",
   "tags": "Answer",
   "type": "text/vnd.tiddlywiki",
-  "text": _("In either case, you get ugly and useless output:\n\n{{Sn:TextBeforeMacro||MagicSnippet}}\n\nPragmas, including `\\define`, have to be the very first thing in a tiddler (except for other pragmas). If anything else at all comes before them (except [[comments|Comments]]), they're treated as normal text."),
-  "human_title": _("Ex:MacroPosition/answer")
+  "text": "In either case, you get ugly and useless output:\n\n{{Sn:TextBeforeMacro||MagicSnippet}}\n\nPragmas, including `\\define`, have to be the very first thing in a tiddler (except for other pragmas). If anything else at all comes before them (except [[comments|Comments]]), they're treated as normal text."
 }

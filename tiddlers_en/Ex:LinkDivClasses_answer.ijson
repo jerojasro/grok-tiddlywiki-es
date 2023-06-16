@@ -4,6 +4,5 @@
   "modified": "20210418151529023",
   "tags": "Answer",
   "type": "text/vnd.tiddlywiki",
-  "text": _("```html\n\\define excerptify(title)\n  <$wikify name=wikitext text={{$title$}}>\n    <$text text={{{ [<wikitext>split[]first[200]join[]] }}} />...\n  </$wikify>\n\\end\n\n\\define linkDisplay(title, filterFragment, cssClass)\n<div class=<<__cssClass__>>>\n$title$:\n\n<ul>\n<$list filter=\"[all[current]$filterFragment$]\">\n  <li>\n    <$link />\n    <div class=\"sib-excerpt\">\n      <$macrocall $name=\"excerptify\" title={{!!title}}/>\n    </div>\n  </li>\n</$list>\n</ul>\n</div>\n\\end\n\n<div class=\"sib-link-display\">\n  <<linkDisplay \"Links\" \"links[]\" \"sib-links\">>\n  <<linkDisplay \"Backlinks\" \"backlinks[]\" \"sib-backlinks\">>\n</div>\n```\n"),
-  "human_title": _("Ex:LinkDivClasses/answer")
+  "text": "```html\n\\define excerptify(title)\n  <$wikify name=wikitext text={{$title$}}>\n    <$text text={{{ [<wikitext>split[]first[200]join[]] }}} />...\n  </$wikify>\n\\end\n\n\\define linkDisplay(title, filterFragment, cssClass)\n<div class=<<__cssClass__>>>\n$title$:\n\n<ul>\n<$list filter=\"[all[current]$filterFragment$]\">\n  <li>\n    <$link />\n    <div class=\"sib-excerpt\">\n      <$macrocall $name=\"excerptify\" title={{!!title}}/>\n    </div>\n  </li>\n</$list>\n</ul>\n</div>\n\\end\n\n<div class=\"sib-link-display\">\n  <<linkDisplay \"Links\" \"links[]\" \"sib-links\">>\n  <<linkDisplay \"Backlinks\" \"backlinks[]\" \"sib-backlinks\">>\n</div>\n```\n"
 }

@@ -8,6 +8,5 @@
   "parent": "Outline",
   "tags": "Chapter",
   "type": "text/vnd.tiddlywiki",
-  "text": _("In this chapter, we'll explore a handful of additional widgets and techniques that may be useful on your TiddlyWiki journey.\n\n!! In this chapter\n\n{{||ChapterOutlineTemplate}}"),
-  "human_title": _("Tips and Tricks")
+  "text": "In this chapter, we'll explore a handful of additional widgets and techniques that may be useful on your TiddlyWiki journey.\n\n!! In this chapter\n\n{{||ChapterOutlineTemplate}}"
 }

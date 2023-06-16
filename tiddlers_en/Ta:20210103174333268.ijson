@@ -7,6 +7,5 @@
   "qtype": "rememberq",
   "question": "When rendering each tab in a `tabs` macro call, what variable contains the title of the tiddler being rendered?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20210103174333268")
+  "type": "text/vnd.tiddlywiki"
 }

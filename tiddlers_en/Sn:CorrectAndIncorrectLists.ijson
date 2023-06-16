@@ -4,6 +4,5 @@
   "modified": "20210116190643884",
   "tags": "",
   "type": "text/vnd.tiddlywiki",
-  "text": _("A correct list:\n\n* Item 1\n* Item 2\n* Item 3\n\nText after the correct list.\n\nAn incorrect list:\n* Item 1\n* Item 2\n* Item 3\nText after the incorrect list."),
-  "human_title": _("Sn:CorrectAndIncorrectLists")
+  "text": "A correct list:\n\n* Item 1\n* Item 2\n* Item 3\n\nText after the correct list.\n\nAn incorrect list:\n* Item 1\n* Item 2\n* Item 3\nText after the incorrect list."
 }

@@ -8,6 +8,5 @@
   "question": "Give an example of a piece of information you might put in a tiddler field (try to pick a new one).",
   "tags": "Takeaway",
   "tiddler": "$:/config/sobjornstad/TakeAway/ContextualHelp/seen/creative-question",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20201229025804939")
+  "type": "text/vnd.tiddlywiki"
 }

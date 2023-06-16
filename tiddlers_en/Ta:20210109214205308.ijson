@@ -7,6 +7,5 @@
   "qtype": "rememberq",
   "question": "What kind of widget makes something happen in the wiki, rather than displaying something?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20210109214205308")
+  "type": "text/vnd.tiddlywiki"
 }

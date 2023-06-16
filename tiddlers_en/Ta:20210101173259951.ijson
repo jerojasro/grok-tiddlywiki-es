@@ -7,6 +7,5 @@
   "qtype": "rememberq",
   "question": "What widget can be used to wikify text and store the result in a variable, rather than waiting until it appears directly within the body of a tiddler?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20210101173259951")
+  "type": "text/vnd.tiddlywiki"
 }

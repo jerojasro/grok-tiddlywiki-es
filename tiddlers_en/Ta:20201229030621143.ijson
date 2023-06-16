@@ -6,6 +6,5 @@
   "qtype": "remembercz",
   "question": "The set of links to a specific tiddler from anywhere in the wiki are called that tiddler's {backlinks}.",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20201229030621143")
+  "type": "text/vnd.tiddlywiki"
 }

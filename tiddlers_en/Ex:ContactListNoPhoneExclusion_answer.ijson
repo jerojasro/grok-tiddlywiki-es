@@ -4,6 +4,5 @@
   "modified": "20200603210244780",
   "tags": "Answer",
   "type": "text/vnd.tiddlywiki",
-  "text": _("Add a `has[phone]` filter step:\n\n```html\n<$list filter=\"[tag[Contact]has[phone]sort[]]\">\n    <<currentTiddler>><br>\n</$list>\n```\n\nYou might also have put `has[phone]` before `tag[Contact]` or after `sort[]` -- the order doesn't matter in this case."),
-  "human_title": _("Ex:ContactListNoPhoneExclusion/answer")
+  "text": "Add a `has[phone]` filter step:\n\n```html\n<$list filter=\"[tag[Contact]has[phone]sort[]]\">\n    <<currentTiddler>><br>\n</$list>\n```\n\nYou might also have put `has[phone]` before `tag[Contact]` or after `sort[]` -- the order doesn't matter in this case."
 }

@@ -4,6 +4,5 @@
   "modified": "20210116205652782",
   "tags": "",
   "type": "text/vnd.tiddlywiki",
-  "text": _("\\define disclaimer() (This paragraph does not represent the formal opinion of my company.)\n\n<<disclaimer>>"),
-  "human_title": _("Sn:SingleLineMacro")
+  "text": "\\define disclaimer() (This paragraph does not represent the formal opinion of my company.)\n\n<<disclaimer>>"
 }

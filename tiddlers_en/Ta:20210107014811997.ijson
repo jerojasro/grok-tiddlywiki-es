@@ -7,6 +7,5 @@
   "qtype": "rememberq",
   "question": "What filter expression will display only shadow tiddlers that you have overridden?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20210107014811997")
+  "type": "text/vnd.tiddlywiki"
 }

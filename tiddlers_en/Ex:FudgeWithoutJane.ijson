@@ -6,6 +6,5 @@
   "origin": "Multi-Run Filters",
   "tags": "Exercise",
   "type": "text/vnd.tiddlywiki",
-  "text": _("Write a filter to find all tiddlers mentioning fudge that don't list Jane as a participant. Use two filter runs."),
-  "human_title": _("Ex:FudgeWithoutJane")
+  "text": "Write a filter to find all tiddlers mentioning fudge that don't list Jane as a participant. Use two filter runs."
 }

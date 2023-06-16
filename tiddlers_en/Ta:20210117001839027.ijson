@@ -7,6 +7,5 @@
   "qtype": "rememberq",
   "question": "If you need to take a break from learning TiddlyWiki, what should you do to avoid forgetting what you've learned in //Grok TiddlyWiki//?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20210117001839027")
+  "type": "text/vnd.tiddlywiki"
 }

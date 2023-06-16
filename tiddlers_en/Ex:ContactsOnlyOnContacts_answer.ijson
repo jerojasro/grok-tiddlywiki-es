@@ -4,6 +4,5 @@
   "modified": "20210418135402080",
   "tags": "Answer",
   "type": "text/vnd.tiddlywiki",
-  "text": _("```html\n<$list filter=\"[all[current]tag[Contact]]\">\n  {{||ContactInformationTemplate}}\n</$list>\n```\n\nAs usual, there's more than one way to do this. In particular, there are other filters you could use, for example `[<currentTiddler>tag[Contact]]`."),
-  "human_title": _("Ex:ContactsOnlyOnContacts/answer")
+  "text": "```html\n<$list filter=\"[all[current]tag[Contact]]\">\n  {{||ContactInformationTemplate}}\n</$list>\n```\n\nAs usual, there's more than one way to do this. In particular, there are other filters you could use, for example `[<currentTiddler>tag[Contact]]`."
 }

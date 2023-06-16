@@ -7,6 +7,5 @@
   "qtype": "rememberq",
   "question": "When does a macro defined at the top of a tiddler go out of scope?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20201231035841287")
+  "type": "text/vnd.tiddlywiki"
 }

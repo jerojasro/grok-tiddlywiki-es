@@ -7,6 +7,5 @@
   "qtype": "rememberq",
   "question": "How can you reopen tiddlers that you recently edited and then closed?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20201229031750518")
+  "type": "text/vnd.tiddlywiki"
 }

@@ -4,6 +4,5 @@
   "modified": "20210117012305859",
   "tags": "",
   "type": "text/vnd.tiddlywiki",
-  "text": _("<!-- start of first comment\n\n<!-- an attempt at creating a comment within the comment -->\n\nbut the comment ends after the comment within the comment\n-->"),
-  "human_title": _("Sn:NestedComments")
+  "text": "<!-- start of first comment\n\n<!-- an attempt at creating a comment within the comment -->\n\nbut the comment ends after the comment within the comment\n-->"
 }

@@ -6,6 +6,5 @@
   "origin": "Supplemental Exercises",
   "tags": "Exercise",
   "type": "text/vnd.tiddlywiki",
-  "text": _("Modify the display of tags in the `Tags` section of the `More` sidebar tab so that they are grouped by color."),
-  "human_title": _("Ex:TagColorGrouping")
+  "text": "Modify the display of tags in the `Tags` section of the `More` sidebar tab so that they are grouped by color."
 }

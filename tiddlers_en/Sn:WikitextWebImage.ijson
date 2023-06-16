@@ -4,6 +4,5 @@
   "modified": "20210131153336667",
   "tags": "",
   "type": "text/vnd.tiddlywiki",
-  "text": _("[img width=200 [https://upload.wikimedia.org/wikipedia/commons/b/bb/Kittyply_edit1.jpg?download]]"),
-  "human_title": _("Sn:WikitextWebImage")
+  "text": "[img width=200 [https://upload.wikimedia.org/wikipedia/commons/b/bb/Kittyply_edit1.jpg?download]]"
 }

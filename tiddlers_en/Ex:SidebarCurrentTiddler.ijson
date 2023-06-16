@@ -6,6 +6,5 @@
   "origin": "Adding to the Sidebar",
   "tags": "Exercise",
   "type": "text/vnd.tiddlywiki",
-  "text": _("You might be tempted to use `[tag<currentTiddler>]` within the `tabs` macro on the `$:/yourname/Views` tiddler, so that if you ever change the name of the tiddler you don't have to remember to update the filter. Try this. What happens? Why do you think this happened?"),
-  "human_title": _("Ex:SidebarCurrentTiddler")
+  "text": "You might be tempted to use `[tag<currentTiddler>]` within the `tabs` macro on the `$:/yourname/Views` tiddler, so that if you ever change the name of the tiddler you don't have to remember to update the filter. Try this. What happens? Why do you think this happened?"
 }

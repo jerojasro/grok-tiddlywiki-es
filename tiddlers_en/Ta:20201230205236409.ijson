@@ -7,6 +7,5 @@
   "qtype": "rememberq",
   "question": "In the filter step `field:participants[Jane]`, what is the //operator//?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20201230205236409")
+  "type": "text/vnd.tiddlywiki"
 }

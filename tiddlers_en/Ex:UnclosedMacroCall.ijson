@@ -6,6 +6,5 @@
   "origin": "The Finer Points of Macros",
   "tags": "Exercise",
   "type": "text/vnd.tiddlywiki",
-  "text": _("Take the example //The $macrocall widget can take variables as parameters// and modify it so that the `$macrocall` tags are unclosed (no `/` before the `>`). What happens? Why do you think this happened?"),
-  "human_title": _("Ex:UnclosedMacroCall")
+  "text": "Take the example //The $macrocall widget can take variables as parameters// and modify it so that the `$macrocall` tags are unclosed (no `/` before the `>`). What happens? Why do you think this happened?"
 }

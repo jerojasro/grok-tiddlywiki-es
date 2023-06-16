@@ -7,6 +7,5 @@
   "qtype": "rememberq",
   "question": "What field transclusion is equivalent to the variable reference `<<currentTiddler>>`?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20201231190945177")
+  "type": "text/vnd.tiddlywiki"
 }

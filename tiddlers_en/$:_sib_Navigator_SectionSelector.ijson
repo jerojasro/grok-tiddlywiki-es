@@ -4,6 +4,5 @@
   "modified": "20210209021626335",
   "tags": "",
   "type": "text/vnd.tiddlywiki",
-  "text": _("<$select tiddler=\"$:/temp/SelectedSection\" default=\"\">\n\t<option value=\"\">(any section)</option>\n\t<$list filter=<<selectorFilter>>>\n\t\t<option value=<<currentTiddler>>><<currentTiddler>></option>\n\t</$list>\n</$select>"),
-  "human_title": _("$:/sib/Navigator/SectionSelector")
+  "text": "<$select tiddler=\"$:/temp/SelectedSection\" default=\"\">\n\t<option value=\"\">(any section)</option>\n\t<$list filter=<<selectorFilter>>>\n\t\t<option value=<<currentTiddler>>><<currentTiddler>></option>\n\t</$list>\n</$select>"
 }

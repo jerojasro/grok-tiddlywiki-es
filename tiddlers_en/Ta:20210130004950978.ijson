@@ -7,6 +7,5 @@
   "qtype": "rememberq",
   "question": "How can you use text substitution with a template?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20210130004950978")
+  "type": "text/vnd.tiddlywiki"
 }

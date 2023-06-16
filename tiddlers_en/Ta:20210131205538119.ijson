@@ -6,6 +6,5 @@
   "qtype": "remembercz",
   "question": "While TiddlyWiki is doing text substitution, it stops processing {wikitext markup}.",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20210131205538119")
+  "type": "text/vnd.tiddlywiki"
 }

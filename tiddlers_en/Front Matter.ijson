@@ -8,6 +8,5 @@
   "parent": "Outline",
   "tags": "Chapter",
   "type": "text/vnd.tiddlywiki",
-  "text": _("//Grok TiddlyWiki//\u2019s front matter explains why you should care about TiddlyWiki, why you should care about this book, and how you can best use the book. If that sounds important, read on; if it sounds boring, proceed to the first chapter, [[The Shape of TiddlyWiki|The Shape of TiddlyWiki]].\n\n!! In this chapter\n\n{{||ChapterOutlineTemplate}}"),
-  "human_title": _("Front Matter")
+  "text": "//Grok TiddlyWiki//\u2019s front matter explains why you should care about TiddlyWiki, why you should care about this book, and how you can best use the book. If that sounds important, read on; if it sounds boring, proceed to the first chapter, [[The Shape of TiddlyWiki|The Shape of TiddlyWiki]].\n\n!! In this chapter\n\n{{||ChapterOutlineTemplate}}"
 }

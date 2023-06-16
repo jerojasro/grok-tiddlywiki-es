@@ -7,6 +7,5 @@
   "qtype": "rememberq",
   "question": "How can you tell that a link points to a tiddler that does not yet exist?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20200822211746148")
+  "type": "text/vnd.tiddlywiki"
 }

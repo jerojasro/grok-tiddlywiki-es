@@ -7,6 +7,5 @@
   "qtype": "rememberq",
   "question": "Explain when TiddlyWiki uses the //view template//.",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20210107015900784")
+  "type": "text/vnd.tiddlywiki"
 }

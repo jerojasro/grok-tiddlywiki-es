@@ -7,6 +7,5 @@
   "qtype": "rememberq",
   "question": "When a transclusion or macro call is included directly in the body of a tiddler, how many times does TiddlyWiki try to wikify it?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20210101172924122")
+  "type": "text/vnd.tiddlywiki"
 }

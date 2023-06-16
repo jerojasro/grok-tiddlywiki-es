@@ -7,6 +7,5 @@
   "origin": "Templates and the Current Tiddler",
   "tags": "Exercise",
   "type": "text/vnd.tiddlywiki",
-  "text": _("Modify the `MeetingList` so that it does not use the variable reference `<<currentTiddler>>` but has identical functionality.\n\n//Hint//: Try transcluding a field."),
-  "human_title": _("Ex:MeetingListWithoutCurrentTiddler")
+  "text": "Modify the `MeetingList` so that it does not use the variable reference `<<currentTiddler>>` but has identical functionality.\n\n//Hint//: Try transcluding a field."
 }

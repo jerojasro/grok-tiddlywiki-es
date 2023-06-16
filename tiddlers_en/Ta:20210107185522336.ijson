@@ -7,6 +7,5 @@
   "qtype": "rememberq",
   "question": "In TiddlyWiki, why is it a good idea to prefix your CSS class names with your initials or some similar prefix?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20210107185522336")
+  "type": "text/vnd.tiddlywiki"
 }

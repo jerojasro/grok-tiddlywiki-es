@@ -6,6 +6,5 @@
   "qtype": "remembercz",
   "question": "Both macros and variables are ways to define some wikitext in {c1::one} place and use it in {c1::many places}.",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20201231003941730")
+  "type": "text/vnd.tiddlywiki"
 }

@@ -7,6 +7,5 @@
   "qtype": "rememberq",
   "question": "What time zone are TiddlyWiki timestamps stored in?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20210110182159208")
+  "type": "text/vnd.tiddlywiki"
 }

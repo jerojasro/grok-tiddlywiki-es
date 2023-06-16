@@ -7,6 +7,5 @@
   "qtype": "rememberq",
   "question": "What type of editor shows a description of how the text should be formatted, rather than a visual representation of that formatting?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20210115212940187")
+  "type": "text/vnd.tiddlywiki"
 }

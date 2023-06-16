@@ -7,6 +7,5 @@
   "qtype": "rememberq",
   "question": "In HTML, how do you display an image that's stored at the URL `https://example.com/image.png`?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20210101172047033")
+  "type": "text/vnd.tiddlywiki"
 }

@@ -7,6 +7,5 @@
   "qtype": "rememberq",
   "question": "How can you use the `$list` widget to display some content only if a condition is true?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20210207032034836")
+  "type": "text/vnd.tiddlywiki"
 }

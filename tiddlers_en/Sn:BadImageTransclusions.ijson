@@ -4,6 +4,5 @@
   "modified": "20210818122128913",
   "tags": "",
   "type": "text/vnd.tiddlywiki",
-  "text": _("<!-- Set the current tiddler to this section, so it doesn't matter what tiddler the example snippet is stored in -->\n<$tiddler tiddler=\"Constant strings cannot be combined with transclusions\">\n\n1\n{{<<currentTiddler>>.png}}\n\n2\n[img [<<currentTiddler>>.png]]\n\n3\n[img [{{!!title}}.png]]\n\n4\n<$image source={{!!title}}.png/>\n\n5\n<$image source=\"{{!!title}}.png\"/>\n\n6\n<$image source={{!!title}}\".png\"/>\n\n7\n<img src=\"{{!!title}}.png\">\n\n</$tiddler>"),
-  "human_title": _("Sn:BadImageTransclusions")
+  "text": "<!-- Set the current tiddler to this section, so it doesn't matter what tiddler the example snippet is stored in -->\n<$tiddler tiddler=\"Constant strings cannot be combined with transclusions\">\n\n1\n{{<<currentTiddler>>.png}}\n\n2\n[img [<<currentTiddler>>.png]]\n\n3\n[img [{{!!title}}.png]]\n\n4\n<$image source={{!!title}}.png/>\n\n5\n<$image source=\"{{!!title}}.png\"/>\n\n6\n<$image source={{!!title}}\".png\"/>\n\n7\n<img src=\"{{!!title}}.png\">\n\n</$tiddler>"
 }

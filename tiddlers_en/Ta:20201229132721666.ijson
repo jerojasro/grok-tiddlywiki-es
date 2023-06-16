@@ -7,6 +7,5 @@
   "qtype": "rememberq",
   "question": "Why is creating too many general-purpose tags problematic?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20201229132721666")
+  "type": "text/vnd.tiddlywiki"
 }

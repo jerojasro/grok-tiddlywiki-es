@@ -7,6 +7,5 @@
   "qtype": "rememberq",
   "question": "What string of characters ends a comment in HTML or wikitext?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20210117013445546")
+  "type": "text/vnd.tiddlywiki"
 }

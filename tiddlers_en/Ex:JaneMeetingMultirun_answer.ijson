@@ -4,6 +4,5 @@
   "modified": "20210410180943780",
   "tags": "Answer",
   "type": "text/vnd.tiddlywiki",
-  "text": _("```\n[tag[OnboardingHr]] [tag[TopSecretHr]] +[contains:participants[JaneDoe]]\n```\n\nThis works fine too, but requires more typing and is a bit harder to understand:\n\n```\n[tag[OnboardingHr]contains:participants[JaneDoe]] [tag[TopSecretHr]contains:participants[JaneDoe]]\n```"),
-  "human_title": _("Ex:JaneMeetingMultirun/answer")
+  "text": "```\n[tag[OnboardingHr]] [tag[TopSecretHr]] +[contains:participants[JaneDoe]]\n```\n\nThis works fine too, but requires more typing and is a bit harder to understand:\n\n```\n[tag[OnboardingHr]contains:participants[JaneDoe]] [tag[TopSecretHr]contains:participants[JaneDoe]]\n```"
 }

@@ -7,6 +7,5 @@
   "qtype": "rememberq",
   "question": "Why does breaking up information into tiddlers make our notes and our thoughts more flexible?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20210207060709278")
+  "type": "text/vnd.tiddlywiki"
 }

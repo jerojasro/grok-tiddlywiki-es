@@ -6,6 +6,5 @@
   "origin": "Creating Hierarchies with a Table of Contents",
   "tags": "Exercise",
   "type": "text/vnd.tiddlywiki",
-  "text": _("Make up and create another meeting under one of the other subcategories, either `OnboardingPeople` or `OnboardingTraining`. Be sure to include at least one participant and a time as we did when we [[set up the initial meeting|Meeting Tiddlers]]. Check to make sure that it shows up in the table of contents."),
-  "human_title": _("Ex:TocAddition")
+  "text": "Make up and create another meeting under one of the other subcategories, either `OnboardingPeople` or `OnboardingTraining`. Be sure to include at least one participant and a time as we did when we [[set up the initial meeting|Meeting Tiddlers]]. Check to make sure that it shows up in the table of contents."
 }

@@ -7,6 +7,5 @@
   "qtype": "rememberq",
   "question": "Write a call to the `now` macro that displays the current four-digit year.",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20210207005537472")
+  "type": "text/vnd.tiddlywiki"
 }

@@ -6,6 +6,5 @@
   "origin": "Miscellaneous Widgets",
   "tags": "Exercise",
   "type": "text/vnd.tiddlywiki",
-  "text": _("Go to the `WikiStatistics` tiddler, originally created in the exercise [[Ex:WikiStatistics]], and replace any numbers that you can with an appropriate `$count` widget."),
-  "human_title": _("Ex:CountWidgetReplacement")
+  "text": "Go to the `WikiStatistics` tiddler, originally created in the exercise [[Ex:WikiStatistics]], and replace any numbers that you can with an appropriate `$count` widget."
 }

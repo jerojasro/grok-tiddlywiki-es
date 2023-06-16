@@ -6,6 +6,5 @@
   "qtype": "remembercz",
   "question": "Tiddlers are used to model {nouns} (language metaphor).",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20210206163646455")
+  "type": "text/vnd.tiddlywiki"
 }

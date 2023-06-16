@@ -4,6 +4,5 @@
   "modified": "20210409222040720",
   "tags": "Answer",
   "type": "text/vnd.tiddlywiki",
-  "text": _("Surprisingly, there aren't any, if you've been exactly following along with all the exercises. Hopefully you had fun looking though!\n\nWe'll be seeing more examples of situations in which we can use the `<<__parameter transclusion__>>` syntax later in the book."),
-  "human_title": _("Ex:SubstitutionBackporting/answer")
+  "text": "Surprisingly, there aren't any, if you've been exactly following along with all the exercises. Hopefully you had fun looking though!\n\nWe'll be seeing more examples of situations in which we can use the `<<__parameter transclusion__>>` syntax later in the book."
 }

@@ -7,6 +7,5 @@
   "qtype": "rememberq",
   "question": "Why might a template tiddler display errors when you look at it in the story river?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20201231190320069")
+  "type": "text/vnd.tiddlywiki"
 }

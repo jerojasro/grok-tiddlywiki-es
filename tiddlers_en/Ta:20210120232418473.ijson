@@ -7,6 +7,5 @@
   "qtype": "rememberq",
   "question": "Where do you find the option to open your web browser's HTML inspector?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20210120232418473")
+  "type": "text/vnd.tiddlywiki"
 }

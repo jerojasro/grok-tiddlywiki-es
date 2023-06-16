@@ -4,6 +4,5 @@
   "modified": "20200608014841522",
   "tags": "Answer",
   "type": "text/vnd.tiddlywiki",
-  "text": _("```html\n[color[#ff0000]tagging[]]\n```\n\nNote that, in theory, the first filter step `color[#ff0000]` could find other tiddlers that aren't tags and just so happen to have a `color` field set to `#ff0000`. However, this still gives the correct output because any tiddler that tags other tiddlers is by definition a tag, and `tagging[]` will ignore any input tiddler that doesn't tag at least one other tiddler."),
-  "human_title": _("Ex:RedTagsFilter/answer")
+  "text": "```html\n[color[#ff0000]tagging[]]\n```\n\nNote that, in theory, the first filter step `color[#ff0000]` could find other tiddlers that aren't tags and just so happen to have a `color` field set to `#ff0000`. However, this still gives the correct output because any tiddler that tags other tiddlers is by definition a tag, and `tagging[]` will ignore any input tiddler that doesn't tag at least one other tiddler."
 }

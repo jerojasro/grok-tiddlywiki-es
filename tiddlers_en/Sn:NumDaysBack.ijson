@@ -4,6 +4,5 @@
   "modified": "20210123200211178",
   "tags": "",
   "type": "text/vnd.tiddlywiki",
-  "text": _("<$set name=numDays value=\"-500\">\n<$list filter=\"[days<numDays>]\" emptyMessage=\"Nope.\">\n\tYep.\n</$list>\n</$set>"),
-  "human_title": _("Sn:NumDaysBack")
+  "text": "<$set name=numDays value=\"-500\">\n<$list filter=\"[days<numDays>]\" emptyMessage=\"Nope.\">\n\tYep.\n</$list>\n</$set>"
 }

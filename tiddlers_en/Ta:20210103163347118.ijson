@@ -7,6 +7,5 @@
   "qtype": "rememberq",
   "question": "What field on each tiddler contains a special tiddler list used to order any tiddlers tagged by that tiddler?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20210103163347118")
+  "type": "text/vnd.tiddlywiki"
 }

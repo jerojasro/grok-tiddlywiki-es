@@ -7,6 +7,5 @@
   "qtype": "rememberq",
   "question": "Even core UI elements like the search box store their contents where?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20210107231830085")
+  "type": "text/vnd.tiddlywiki"
 }

@@ -7,6 +7,5 @@
   "qtype": "rememberq",
   "question": "How many pipe characters are used when specifying a template transclusion?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20210115213943747")
+  "type": "text/vnd.tiddlywiki"
 }

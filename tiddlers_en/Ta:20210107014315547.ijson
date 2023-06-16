@@ -7,6 +7,5 @@
   "qtype": "rememberq",
   "question": "Where in a tiddler's interface can you look to see what differences it has to its corresponding shadow tiddler (if it has one)?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20210107014315547")
+  "type": "text/vnd.tiddlywiki"
 }

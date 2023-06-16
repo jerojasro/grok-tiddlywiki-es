@@ -6,6 +6,5 @@
   "origin": "Variables",
   "tags": "Exercise",
   "type": "text/vnd.tiddlywiki",
-  "text": _("What happens if you put a space in a variable name?"),
-  "human_title": _("Ex:SpacedVariable")
+  "text": "What happens if you put a space in a variable name?"
 }

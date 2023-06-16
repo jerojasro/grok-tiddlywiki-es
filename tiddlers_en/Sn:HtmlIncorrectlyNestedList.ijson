@@ -4,6 +4,5 @@
   "modified": "20210116193557083",
   "tags": "",
   "type": "text/vnd.tiddlywiki",
-  "text": _("<ul>\n  <li>Item 1\n    <ul>\n      <li>Subitem 1</li>\n      <li>Subitem 2</li>\n    </li>\n  </ul>\n</ul>\n\nSome later text."),
-  "human_title": _("Sn:HtmlIncorrectlyNestedList")
+  "text": "<ul>\n  <li>Item 1\n    <ul>\n      <li>Subitem 1</li>\n      <li>Subitem 2</li>\n    </li>\n  </ul>\n</ul>\n\nSome later text."
 }

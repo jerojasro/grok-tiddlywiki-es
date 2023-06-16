@@ -7,6 +7,5 @@
   "qtype": "rememberq",
   "question": "A tiddler is being used as a //template// when you do what with it?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20201231185924193")
+  "type": "text/vnd.tiddlywiki"
 }

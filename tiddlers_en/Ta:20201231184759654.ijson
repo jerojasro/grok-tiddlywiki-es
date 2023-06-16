@@ -7,6 +7,5 @@
   "qtype": "rememberq",
   "question": "A soft link does not appear when looking for links in what way?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20201231184759654")
+  "type": "text/vnd.tiddlywiki"
 }

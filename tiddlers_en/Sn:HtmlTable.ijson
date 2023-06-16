@@ -4,6 +4,5 @@
   "modified": "20210117010610097",
   "tags": "",
   "type": "text/vnd.tiddlywiki",
-  "text": _("<table>\n  <tr>\n    <th>Header 1</th>\n    <th>Header 2</th>\n  </tr>\n  <tr>\n    <td>Cell 1</td>\n    <td>Cell 2</td>\n  </tr>\n</table>"),
-  "human_title": _("Sn:HtmlTable")
+  "text": "<table>\n  <tr>\n    <th>Header 1</th>\n    <th>Header 2</th>\n  </tr>\n  <tr>\n    <td>Cell 1</td>\n    <td>Cell 2</td>\n  </tr>\n</table>"
 }

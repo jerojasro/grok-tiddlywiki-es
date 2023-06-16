@@ -6,6 +6,5 @@
   "qtype": "remembercz",
   "question": "Showing content only in certain circumstances is known as {conditional} inclusion.",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20210207032442467")
+  "type": "text/vnd.tiddlywiki"
 }

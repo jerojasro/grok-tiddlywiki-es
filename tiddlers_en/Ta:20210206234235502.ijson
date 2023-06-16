@@ -7,6 +7,5 @@
   "qtype": "rememberq",
   "question": "What three widgets/HTML elements must be nested together to produce a drop-down list with dynamically chosen elements in TiddlyWiki?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20210206234235502")
+  "type": "text/vnd.tiddlywiki"
 }

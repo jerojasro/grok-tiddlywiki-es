@@ -7,6 +7,5 @@
   "qtype": "rememberq",
   "question": "Why should you consider moving information that is of long-term importance out of your meeting notes into some other location after a meeting?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20210110173316061")
+  "type": "text/vnd.tiddlywiki"
 }

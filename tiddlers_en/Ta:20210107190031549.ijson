@@ -7,6 +7,5 @@
   "qtype": "rememberq",
   "question": "In the transclusion `{{MyTiddler!!myfield}}`, the part `MyTiddler!!myfield` is called what?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20210107190031549")
+  "type": "text/vnd.tiddlywiki"
 }

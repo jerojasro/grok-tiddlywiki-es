@@ -6,6 +6,5 @@
   "qtype": "remembercz",
   "question": "In inline mode, elements are stacked {horizontally} (vertical/horizontal).",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20210116235249040")
+  "type": "text/vnd.tiddlywiki"
 }

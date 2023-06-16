@@ -7,6 +7,5 @@
   "qtype": "rememberq",
   "question": "Where in TiddlyWiki can you quickly find a list of the default icons?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20210109222018175")
+  "type": "text/vnd.tiddlywiki"
 }

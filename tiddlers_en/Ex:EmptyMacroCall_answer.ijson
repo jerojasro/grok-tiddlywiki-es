@@ -4,6 +4,5 @@
   "modified": "20210409193742699",
   "tags": "Answer",
   "type": "text/vnd.tiddlywiki",
-  "text": _("There is no output at all, just like if you refer to a variable that has gone out of scope or was never created."),
-  "human_title": _("Ex:EmptyMacroCall/answer")
+  "text": "There is no output at all, just like if you refer to a variable that has gone out of scope or was never created."
 }

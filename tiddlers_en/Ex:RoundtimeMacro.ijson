@@ -6,6 +6,5 @@
   "origin": "JavaScript Macros",
   "tags": "Exercise",
   "type": "text/vnd.tiddlywiki",
-  "text": _("Create a JavaScript macro called `roundtime` that rounds a TiddlyWiki-formatted timestamp to the nearest 15 minutes."),
-  "human_title": _("Ex:RoundtimeMacro")
+  "text": "Create a JavaScript macro called `roundtime` that rounds a TiddlyWiki-formatted timestamp to the nearest 15 minutes."
 }

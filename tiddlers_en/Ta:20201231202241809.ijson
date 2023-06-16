@@ -7,6 +7,5 @@
   "qtype": "rememberq",
   "question": "What filter operator adds a string of text to the end of each of its inputs?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20201231202241809")
+  "type": "text/vnd.tiddlywiki"
 }

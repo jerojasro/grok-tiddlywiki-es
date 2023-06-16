@@ -7,6 +7,5 @@
   "qtype": "rememberq",
   "question": "Explain the difference between an //internal link// and an //external link//.",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20210116234645661")
+  "type": "text/vnd.tiddlywiki"
 }

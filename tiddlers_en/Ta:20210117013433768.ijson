@@ -7,6 +7,5 @@
   "qtype": "rememberq",
   "question": "What string of characters begins a comment in HTML or wikitext?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20210117013433768")
+  "type": "text/vnd.tiddlywiki"
 }

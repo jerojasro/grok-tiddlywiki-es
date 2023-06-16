@@ -7,6 +7,5 @@
   "qtype": "rememberq",
   "question": "Where in TiddlyWiki's stock interface can you find a list of missing tiddlers?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20201229042945472")
+  "type": "text/vnd.tiddlywiki"
 }

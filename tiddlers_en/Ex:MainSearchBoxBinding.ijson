@@ -6,6 +6,5 @@
   "origin": "Buttons and Input Widgets",
   "tags": "Exercise",
   "type": "text/vnd.tiddlywiki",
-  "text": _("Figure out what tiddler and field the main search box in the sidebar is bound to."),
-  "human_title": _("Ex:MainSearchBoxBinding")
+  "text": "Figure out what tiddler and field the main search box in the sidebar is bound to."
 }

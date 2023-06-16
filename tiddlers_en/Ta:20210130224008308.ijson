@@ -7,6 +7,5 @@
   "qtype": "rememberq",
   "question": "Explain how notes can create //serendipity// (one of their three functions).",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20210130224008308")
+  "type": "text/vnd.tiddlywiki"
 }

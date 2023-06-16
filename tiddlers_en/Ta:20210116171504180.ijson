@@ -7,6 +7,5 @@
   "qtype": "rememberq",
   "question": "Why does the filter expression `[!is[system] backlinks[]]` not retrieve a list of tiddlers that link to other non-system tiddlers?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20210116171504180")
+  "type": "text/vnd.tiddlywiki"
 }

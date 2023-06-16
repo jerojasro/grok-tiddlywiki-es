@@ -7,6 +7,5 @@
   "qtype": "rememberq",
   "question": "What suffix to the `search` operator causes it to find matches in any field of a tiddler?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20210206183227682")
+  "type": "text/vnd.tiddlywiki"
 }

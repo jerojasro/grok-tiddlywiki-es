@@ -7,6 +7,5 @@
   "qtype": "rememberq",
   "question": "When would you need to use a `$macrocall` widget rather than the `<<double-angle-bracket>>` wikitext syntax?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20201231042152289")
+  "type": "text/vnd.tiddlywiki"
 }

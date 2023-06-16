@@ -7,6 +7,5 @@
   "qtype": "rememberq",
   "question": "When rendering each tab in a `tabs` macro call, what does TiddlyWiki unexpectedly //not// do?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20210103174256315")
+  "type": "text/vnd.tiddlywiki"
 }

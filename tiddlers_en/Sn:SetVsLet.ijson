@@ -4,6 +4,5 @@
   "modified": "20220103165651799",
   "tags": "",
   "type": "text/vnd.tiddlywiki",
-  "text": _("<$set name=\"var1\" value=\"one\">\n<$set name=\"var2\" value=\"two\">\n\t<<var1>> <<var2>>\n</$set>\n</$set>\n\n<$let var1=\"one\" var2=\"two\">\n\t<<var1>> <<var2>>\n</$let>"),
-  "human_title": _("Sn:SetVsLet")
+  "text": "<$set name=\"var1\" value=\"one\">\n<$set name=\"var2\" value=\"two\">\n\t<<var1>> <<var2>>\n</$set>\n</$set>\n\n<$let var1=\"one\" var2=\"two\">\n\t<<var1>> <<var2>>\n</$let>"
 }

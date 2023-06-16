@@ -7,6 +7,5 @@
   "qtype": "rememberq",
   "question": "What widget would you use to sequentially display each of the outputs of a filter?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20201231002445816")
+  "type": "text/vnd.tiddlywiki"
 }

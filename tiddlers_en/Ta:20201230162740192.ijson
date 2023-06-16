@@ -6,6 +6,5 @@
   "qtype": "remembercz",
   "question": "A filter run consists of one or more filter {step}s.",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20201230162740192")
+  "type": "text/vnd.tiddlywiki"
 }

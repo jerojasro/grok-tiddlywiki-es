@@ -7,6 +7,5 @@
   "qtype": "rememberq",
   "question": "What special behavior do tiddlers whose names begin with `$:/temp` have?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20210107231758177")
+  "type": "text/vnd.tiddlywiki"
 }

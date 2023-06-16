@@ -7,6 +7,5 @@
   "qtype": "rememberq",
   "question": "What is the wikitext syntax to call the macro `wikipediaLink` with the single parameter `Aardvark`?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20201231005612226")
+  "type": "text/vnd.tiddlywiki"
 }

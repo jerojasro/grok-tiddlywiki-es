@@ -7,6 +7,5 @@
   "qtype": "rememberq",
   "question": "What filter expression selects all tiddlers that are tagged `Project`?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20201230163214398")
+  "type": "text/vnd.tiddlywiki"
 }

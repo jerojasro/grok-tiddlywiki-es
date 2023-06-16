@@ -7,6 +7,5 @@
   "qtype": "rememberq",
   "question": "What wikitext syntax would you use to display an image stored in the tiddler `image.png`, with a maximum width of 350 pixels?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20210103174916873")
+  "type": "text/vnd.tiddlywiki"
 }

@@ -7,6 +7,5 @@
   "qtype": "rememberq",
   "question": "What color is a purple cow?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20210214165634956")
+  "type": "text/vnd.tiddlywiki"
 }

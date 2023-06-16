@@ -4,6 +4,5 @@
   "modified": "20210327153554284",
   "tags": "",
   "type": "text/vnd.tiddlywiki",
-  "text": _("\\define wikipediaLink(articleName, linkText)\n[[$linkText$|https://en.wikipedia.org/wiki/$articleName$]]\n\\end\n\n<$macrocall $name=\"wikipediaLink\" linkText=\"Wikipedia on Aardvarks\" articleName=Aardvark />"),
-  "human_title": _("Sn:SimpleMacrocallWidget")
+  "text": "\\define wikipediaLink(articleName, linkText)\n[[$linkText$|https://en.wikipedia.org/wiki/$articleName$]]\n\\end\n\n<$macrocall $name=\"wikipediaLink\" linkText=\"Wikipedia on Aardvarks\" articleName=Aardvark />"
 }

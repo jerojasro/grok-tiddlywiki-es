@@ -6,6 +6,5 @@
   "origin": "Transclusions",
   "tags": "Exercise",
   "type": "text/vnd.tiddlywiki",
-  "text": _("What happens if you transclude a tiddler into itself?"),
-  "human_title": _("Ex:SelfTransclusion")
+  "text": "What happens if you transclude a tiddler into itself?"
 }

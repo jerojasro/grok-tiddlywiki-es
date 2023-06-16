@@ -7,6 +7,5 @@
   "qtype": "rememberq",
   "question": "In HTML, what differentiates the syntax of an opening tag from that of a closing tag?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20201231000355989")
+  "type": "text/vnd.tiddlywiki"
 }

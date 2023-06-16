@@ -7,6 +7,5 @@
   "qtype": "rememberq",
   "question": "What prefix can you add to a filter run to ignore it unless the accumulated results are empty?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20210206152454854")
+  "type": "text/vnd.tiddlywiki"
 }

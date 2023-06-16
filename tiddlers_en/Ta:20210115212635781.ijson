@@ -7,6 +7,5 @@
   "qtype": "rememberq",
   "question": "What tool does TiddlyWiki's editor provide to help you remember wikitext syntax?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20210115212635781")
+  "type": "text/vnd.tiddlywiki"
 }

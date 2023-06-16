@@ -7,6 +7,5 @@
   "qtype": "rememberq",
   "question": "In the context of evergreen notes, what is a //retrieval context//?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20210130224237554")
+  "type": "text/vnd.tiddlywiki"
 }

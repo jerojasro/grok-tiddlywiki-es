@@ -4,6 +4,5 @@
   "modified": "20201231200114825",
   "tags": "",
   "type": "text/vnd.tiddlywiki",
-  "text": _("| !Time|20200531013141000|\n| !Participants|JaneDoe|"),
-  "human_title": _("Sn:MeetingParticipants")
+  "text": "| !Time|20200531013141000|\n| !Participants|JaneDoe|"
 }

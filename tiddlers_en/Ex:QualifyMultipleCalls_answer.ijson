@@ -4,6 +4,5 @@
   "modified": "20210208022944809",
   "tags": "Answer",
   "type": "text/vnd.tiddlywiki",
-  "text": _("It still works fine. This is because `qualify` doesn't generate a random number -- it [[hashes|https://en.wikipedia.org/wiki/Hash_function]] a string of all of the tiddlers that are parents of this bit of wikitext in the tree of active transclusions."),
-  "human_title": _("Ex:QualifyMultipleCalls/answer")
+  "text": "It still works fine. This is because `qualify` doesn't generate a random number -- it [[hashes|https://en.wikipedia.org/wiki/Hash_function]] a string of all of the tiddlers that are parents of this bit of wikitext in the tree of active transclusions."
 }

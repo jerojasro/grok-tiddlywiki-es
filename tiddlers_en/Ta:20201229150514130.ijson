@@ -7,6 +7,5 @@
   "qtype": "rememberq",
   "question": "What confusion may result if you don't have consistent rules for how to capitalize the titles of tiddlers?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20201229150514130")
+  "type": "text/vnd.tiddlywiki"
 }

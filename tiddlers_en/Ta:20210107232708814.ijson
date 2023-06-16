@@ -7,6 +7,5 @@
   "qtype": "rememberq",
   "question": "What four basic HTML elements are used to construct tables?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20210107232708814")
+  "type": "text/vnd.tiddlywiki"
 }

@@ -7,6 +7,5 @@
   "qtype": "rememberq",
   "question": "The built-in table-of-contents macros in TiddlyWiki find hierarchies based on what TiddlyWiki concept?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20201229151835493")
+  "type": "text/vnd.tiddlywiki"
 }

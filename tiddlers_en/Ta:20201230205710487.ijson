@@ -7,6 +7,5 @@
   "qtype": "rememberq",
   "question": "What are the input tiddlers to the filter step `tag[Person]` in the filter run `[tag[Person]]`?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20201230205710487")
+  "type": "text/vnd.tiddlywiki"
 }

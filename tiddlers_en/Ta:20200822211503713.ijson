@@ -6,6 +6,5 @@
   "qtype": "remembercz",
   "question": "A tiddler is made up of a number of {fields}.",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20200822211503713")
+  "type": "text/vnd.tiddlywiki"
 }

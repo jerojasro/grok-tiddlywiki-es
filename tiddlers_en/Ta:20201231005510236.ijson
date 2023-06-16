@@ -6,6 +6,5 @@
   "qtype": "remembercz",
   "question": "The process of TiddlyWiki handling a call to a macro is called macro {expansion}.",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20201231005510236")
+  "type": "text/vnd.tiddlywiki"
 }

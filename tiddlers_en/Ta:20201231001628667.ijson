@@ -7,6 +7,5 @@
   "qtype": "rememberq",
   "question": "What exception does TiddlyWiki add to the standard rules of HTML whitespace?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20201231001628667")
+  "type": "text/vnd.tiddlywiki"
 }

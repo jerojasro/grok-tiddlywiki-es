@@ -6,6 +6,5 @@
   "origin": "Creating a List of Links and Backlinks",
   "tags": "Exercise",
   "type": "text/vnd.tiddlywiki",
-  "text": _("Create a tiddler called `$:/yourname/TiddlerLinkSummary`. Make this tiddler display a simple bulleted list of all backlinks of the current tiddler. (Since we will need to make this more complex momentarily, use a `$list` widget, not a `list-links` macro.) Then make this content included at the bottom of every tiddler."),
-  "human_title": _("Ex:BasicBacklinksList")
+  "text": "Create a tiddler called `$:/yourname/TiddlerLinkSummary`. Make this tiddler display a simple bulleted list of all backlinks of the current tiddler. (Since we will need to make this more complex momentarily, use a `$list` widget, not a `list-links` macro.) Then make this content included at the bottom of every tiddler."
 }

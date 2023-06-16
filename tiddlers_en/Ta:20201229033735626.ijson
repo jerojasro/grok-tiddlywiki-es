@@ -7,6 +7,5 @@
   "qtype": "rememberq",
   "question": "If you're unsure whether your wikitext markup is correct, how can you quickly check it without saving the tiddler?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20201229033735626")
+  "type": "text/vnd.tiddlywiki"
 }

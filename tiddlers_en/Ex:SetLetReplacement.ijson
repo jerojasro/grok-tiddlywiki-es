@@ -7,6 +7,5 @@
   "origin": "Miscellaneous Widgets",
   "tags": "Exercise",
   "type": "text/vnd.tiddlywiki",
-  "text": _("Locate several places in your sample wiki where you have used `$set` widgets and replace them with equivalent `$let` widgets."),
-  "human_title": _("Ex:SetLetReplacement")
+  "text": "Locate several places in your sample wiki where you have used `$set` widgets and replace them with equivalent `$let` widgets."
 }

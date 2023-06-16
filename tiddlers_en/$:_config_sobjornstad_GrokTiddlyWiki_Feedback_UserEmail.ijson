@@ -2,6 +2,5 @@
   "title": "$:/config/sobjornstad/GrokTiddlyWiki/Feedback/UserEmail",
   "created": "20210209022926391",
   "modified": "20210503030552661",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("$:/config/sobjornstad/GrokTiddlyWiki/Feedback/UserEmail")
+  "type": "text/vnd.tiddlywiki"
 }

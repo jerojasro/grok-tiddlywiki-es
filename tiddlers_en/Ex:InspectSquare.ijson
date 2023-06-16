@@ -7,6 +7,5 @@
   "origin": "When Things Go Wrong",
   "tags": "Exercise",
   "type": "text/vnd.tiddlywiki",
-  "text": _("Using your browser's element inspector, determine:\n\n# What the `class` attribute of the blue square below is.\n# What the hidden message in this exercise says.\n\n<div class=\"bluuuuu\" style=\"background-color: blue;\" width=24px>&nbsp;<span style=\"display: none;\">Help, I'm trapped in an HTML span!</span></div>\n\n<style>\n.bluuuuu {\n\tmargin: auto;\n\twidth: 10px;\n\theight: 10px;\n\tborder: 1px solid rgba(0, 0, 0, 0.2) }\n</style>"),
-  "human_title": _("Ex:InspectSquare")
+  "text": "Using your browser's element inspector, determine:\n\n# What the `class` attribute of the blue square below is.\n# What the hidden message in this exercise says.\n\n<div class=\"bluuuuu\" style=\"background-color: blue;\" width=24px>&nbsp;<span style=\"display: none;\">Help, I'm trapped in an HTML span!</span></div>\n\n<style>\n.bluuuuu {\n\tmargin: auto;\n\twidth: 10px;\n\theight: 10px;\n\tborder: 1px solid rgba(0, 0, 0, 0.2) }\n</style>"
 }

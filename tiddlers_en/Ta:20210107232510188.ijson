@@ -7,6 +7,5 @@
   "qtype": "rememberq",
   "question": "What HTML element creates a table?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20210107232510188")
+  "type": "text/vnd.tiddlywiki"
 }

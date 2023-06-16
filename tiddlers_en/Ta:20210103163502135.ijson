@@ -7,6 +7,5 @@
   "qtype": "rememberq",
   "question": "If you have a tag tiddler `T` and two tiddlers with that tag `A` and `B`, what is the effect of populating the `list` field of `T` with `B A`?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20210103163502135")
+  "type": "text/vnd.tiddlywiki"
 }

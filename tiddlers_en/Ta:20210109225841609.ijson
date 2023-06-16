@@ -7,6 +7,5 @@
   "qtype": "rememberq",
   "question": "What wikitext syntax can you use to apply the style attribute `text-align: center` to a block of wikitext?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20210109225841609")
+  "type": "text/vnd.tiddlywiki"
 }

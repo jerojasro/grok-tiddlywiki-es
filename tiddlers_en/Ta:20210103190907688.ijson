@@ -7,6 +7,5 @@
   "qtype": "rememberq",
   "question": "What section of the sidebar is usually the best way to browse for system tiddlers?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20210103190907688")
+  "type": "text/vnd.tiddlywiki"
 }

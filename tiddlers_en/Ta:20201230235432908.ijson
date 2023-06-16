@@ -7,6 +7,5 @@
   "qtype": "rememberq",
   "question": "Write a filter step that finds all tiddlers which have a list field `family` containing the tiddler `Tom Swift` (and possibly other tiddlers).",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20201230235432908")
+  "type": "text/vnd.tiddlywiki"
 }

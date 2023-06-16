@@ -7,6 +7,5 @@
   "qtype": "rememberq",
   "question": "You can do text substitution with `$moneyPlaceholders$` only within what context?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20210101175137457")
+  "type": "text/vnd.tiddlywiki"
 }

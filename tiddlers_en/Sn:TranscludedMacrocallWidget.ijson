@@ -4,6 +4,5 @@
   "modified": "20210327153738242",
   "tags": "",
   "type": "text/vnd.tiddlywiki",
-  "text": _("\\define wikipediaLink(articleName, linkText)\n[[$linkText$|https://en.wikipedia.org/wiki/$articleName$]]\n\\end\n\n<$set name=\"linktext\" value=\"An animal\">\n\n* <$macrocall $name=\"wikipediaLink\" linkText=<<linktext>> articleName=\"Aardvark\" />\n* <$macrocall $name=\"wikipediaLink\" linkText=<<linktext>> articleName=\"Bee\" />\n* <$macrocall $name=\"wikipediaLink\" linkText=<<linktext>> articleName=\"Cow\" />\n\t\n</$set>"),
-  "human_title": _("Sn:TranscludedMacrocallWidget")
+  "text": "\\define wikipediaLink(articleName, linkText)\n[[$linkText$|https://en.wikipedia.org/wiki/$articleName$]]\n\\end\n\n<$set name=\"linktext\" value=\"An animal\">\n\n* <$macrocall $name=\"wikipediaLink\" linkText=<<linktext>> articleName=\"Aardvark\" />\n* <$macrocall $name=\"wikipediaLink\" linkText=<<linktext>> articleName=\"Bee\" />\n* <$macrocall $name=\"wikipediaLink\" linkText=<<linktext>> articleName=\"Cow\" />\n\t\n</$set>"
 }

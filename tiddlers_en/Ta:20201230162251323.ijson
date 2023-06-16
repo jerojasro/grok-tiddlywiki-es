@@ -6,6 +6,5 @@
   "qtype": "remembercz",
   "question": "TiddlyWiki filters serve a similar function to {formulas} in Excel or other spreadsheet applications.",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20201230162251323")
+  "type": "text/vnd.tiddlywiki"
 }

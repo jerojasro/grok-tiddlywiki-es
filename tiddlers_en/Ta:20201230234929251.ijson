@@ -7,6 +7,5 @@
   "qtype": "rememberq",
   "question": "What filter operator outputs all tiddlers in the wiki that are //tagged by// one of its input tiddlers?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20201230234929251")
+  "type": "text/vnd.tiddlywiki"
 }

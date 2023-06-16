@@ -6,6 +6,5 @@
   "qtype": "remembercz",
   "question": "Using a macro is referred to as {calling} or {invoking} it.",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20201231005417476")
+  "type": "text/vnd.tiddlywiki"
 }

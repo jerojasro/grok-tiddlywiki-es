@@ -6,6 +6,5 @@
   "qtype": "remembercz",
   "question": "In TiddlyWiki, everything is {a tiddler}.",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20200822211313655")
+  "type": "text/vnd.tiddlywiki"
 }

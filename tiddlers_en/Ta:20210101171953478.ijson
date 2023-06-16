@@ -7,6 +7,5 @@
   "qtype": "rememberq",
   "question": "Always/Sometimes/Never: When you put a `{{transclusion}}` somewhere within the body of a tiddler, the wikitext at the other end of the transclusion will be wikified.",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20210101171953478")
+  "type": "text/vnd.tiddlywiki"
 }

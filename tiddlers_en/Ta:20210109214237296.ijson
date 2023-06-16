@@ -7,6 +7,5 @@
   "qtype": "rememberq",
   "question": "What action widget creates a message?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20210109214237296")
+  "type": "text/vnd.tiddlywiki"
 }

@@ -7,6 +7,5 @@
   "qtype": "rememberq",
   "question": "What mechanism does TiddlyWiki use to back most of the settings in the Control Panel, making it easy to restore the original settings if needed?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20210107014504752")
+  "type": "text/vnd.tiddlywiki"
 }

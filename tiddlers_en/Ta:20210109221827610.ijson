@@ -7,6 +7,5 @@
   "qtype": "rememberq",
   "question": "If a tiddler called `MyButton` is part of the page controls, what tiddler controls whether it is visible above the search box?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20210109221827610")
+  "type": "text/vnd.tiddlywiki"
 }

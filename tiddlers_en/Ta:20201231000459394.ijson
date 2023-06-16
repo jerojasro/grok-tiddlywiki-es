@@ -7,6 +7,5 @@
   "qtype": "rememberq",
   "question": "In the context of HTML tags, what are the characters `<` and `>` collectively called?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20201231000459394")
+  "type": "text/vnd.tiddlywiki"
 }

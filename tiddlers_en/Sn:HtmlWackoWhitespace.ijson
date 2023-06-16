@@ -4,6 +4,5 @@
   "modified": "20210116194420173",
   "tags": "",
   "type": "text/vnd.tiddlywiki",
-  "text": _("\t<ul      >\n\n<li>Item 1<ul >\n<li >Subitem     1</li>\n\n\n\t<li>\n\t\t\tSubitem 2</li></ul>\n\t\t\t</li>\n\n</ul>"),
-  "human_title": _("Sn:HtmlWackoWhitespace")
+  "text": "\t<ul      >\n\n<li>Item 1<ul >\n<li >Subitem     1</li>\n\n\n\t<li>\n\t\t\tSubitem 2</li></ul>\n\t\t\t</li>\n\n</ul>"
 }

@@ -7,6 +7,5 @@
   "qtype": "rememberq",
   "question": "What HTML element is used for a generic grouping of elements?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20210107185257971")
+  "type": "text/vnd.tiddlywiki"
 }

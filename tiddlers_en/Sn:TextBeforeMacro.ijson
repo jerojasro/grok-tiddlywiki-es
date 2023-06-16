@@ -4,6 +4,5 @@
   "modified": "20210124043431219",
   "tags": "",
   "type": "text/vnd.tiddlywiki",
-  "text": _("Text before a macro\n\n\\define wikipediaLink(articleName)\n[[Wikipedia: $articleName$|https://en.wikipedia.org/wiki/$articleName$]]\n\\end"),
-  "human_title": _("Sn:TextBeforeMacro")
+  "text": "Text before a macro\n\n\\define wikipediaLink(articleName)\n[[Wikipedia: $articleName$|https://en.wikipedia.org/wiki/$articleName$]]\n\\end"
 }

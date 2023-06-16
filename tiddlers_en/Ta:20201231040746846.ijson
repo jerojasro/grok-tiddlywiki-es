@@ -7,6 +7,5 @@
   "qtype": "rememberq",
   "question": "What widget can be used to call a macro?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20201231040746846")
+  "type": "text/vnd.tiddlywiki"
 }

@@ -7,6 +7,5 @@
   "qtype": "rememberq",
   "question": "What is the most common way to install a plugin in TiddlyWiki?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20210103191737048")
+  "type": "text/vnd.tiddlywiki"
 }

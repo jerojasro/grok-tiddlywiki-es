@@ -4,6 +4,5 @@
   "modified": "20210116201329418",
   "tags": "",
   "type": "text/vnd.tiddlywiki",
-  "text": _("<$link to=\"Filters\">a link to the Filters section</$link>"),
-  "human_title": _("Sn:WidgetLink")
+  "text": "<$link to=\"Filters\">a link to the Filters section</$link>"
 }

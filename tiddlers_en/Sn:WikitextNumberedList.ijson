@@ -4,6 +4,5 @@
   "modified": "20210207184440145",
   "tags": "",
   "type": "text/vnd.tiddlywiki",
-  "text": _("# one\n# two\n# three\n## three and a half\n## three and three-quarters"),
-  "human_title": _("Sn:WikitextNumberedList")
+  "text": "# one\n# two\n# three\n## three and a half\n## three and three-quarters"
 }

@@ -7,6 +7,5 @@
   "qtype": "rememberq",
   "question": "What is the simplest way to pass a parameter whose value contains double quotes to a macro?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20201231040243184")
+  "type": "text/vnd.tiddlywiki"
 }

@@ -4,6 +4,5 @@
   "modified": "20210116193444901",
   "tags": "",
   "type": "text/vnd.tiddlywiki",
-  "text": _("<ul>\n  <li>Item 1</li>\n  <li />\n</ul>"),
-  "human_title": _("Sn:HtmlSelfClosing")
+  "text": "<ul>\n  <li>Item 1</li>\n  <li />\n</ul>"
 }

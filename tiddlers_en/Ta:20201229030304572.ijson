@@ -6,6 +6,5 @@
   "qtype": "remembercz",
   "question": "The content of tiddlers is written in a markup language called {wikitext}.",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20201229030304572")
+  "type": "text/vnd.tiddlywiki"
 }

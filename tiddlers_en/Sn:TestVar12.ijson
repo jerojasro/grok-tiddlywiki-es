@@ -4,6 +4,5 @@
   "modified": "20210101165751139",
   "tags": "",
   "type": "text/vnd.tiddlywiki",
-  "text": _("<$set name=\"testVar1\" value=\"XYZ\">\n<$set name=\"testVar2\" value=\"<<testVar1>>\">\n  <<testVar2>>\n</$set>\n</$set>"),
-  "human_title": _("Sn:TestVar12")
+  "text": "<$set name=\"testVar1\" value=\"XYZ\">\n<$set name=\"testVar2\" value=\"<<testVar1>>\">\n  <<testVar2>>\n</$set>\n</$set>"
 }

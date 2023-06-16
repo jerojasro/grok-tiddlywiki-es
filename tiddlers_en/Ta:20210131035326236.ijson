@@ -6,6 +6,5 @@
   "qtype": "remembercz",
   "question": "Notes should be placed only in contexts in which they may actually be {useful} in the future.",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20210131035326236")
+  "type": "text/vnd.tiddlywiki"
 }

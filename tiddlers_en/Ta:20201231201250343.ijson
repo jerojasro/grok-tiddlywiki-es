@@ -7,6 +7,5 @@
   "qtype": "rememberq",
   "question": "What widget can be used to prevent the result of a filter transclusion from becoming a link?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20201231201250343")
+  "type": "text/vnd.tiddlywiki"
 }

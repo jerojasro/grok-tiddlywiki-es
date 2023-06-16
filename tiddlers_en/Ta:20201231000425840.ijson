@@ -7,6 +7,5 @@
   "qtype": "rememberq",
   "question": "Which of the following characters is a backslash, and which is a forward slash? `/` `\\`",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20201231000425840")
+  "type": "text/vnd.tiddlywiki"
 }

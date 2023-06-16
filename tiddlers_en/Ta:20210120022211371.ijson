@@ -7,6 +7,5 @@
   "qtype": "rememberq",
   "question": "Why should you split complicated problems into multiple chunks and solve each chunk by itself?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20210120022211371")
+  "type": "text/vnd.tiddlywiki"
 }

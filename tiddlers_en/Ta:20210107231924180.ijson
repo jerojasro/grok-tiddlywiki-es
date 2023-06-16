@@ -7,6 +7,5 @@
   "qtype": "rememberq",
   "question": "What attribute and value passed to the `$edit-text` widget causes it to accept only a single line of text?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20210107231924180")
+  "type": "text/vnd.tiddlywiki"
 }

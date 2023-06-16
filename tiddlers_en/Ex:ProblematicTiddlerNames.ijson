@@ -6,6 +6,5 @@
   "origin": "Naming Conventions",
   "tags": "Exercise",
   "type": "text/vnd.tiddlywiki",
-  "text": _("Explain what is potentially problematic about each of these tiddler names:\n\n# `Company Entry Doors`\n# `Windows`\n# `Tiddlywiki`\n# `VisitingTheDMV`\n# `Onboarding: Office chair selection`\n\nNone of these are necessarily //wrong// -- although they might be depending on your naming conventions -- but they each exhibit a possible danger we discussed above."),
-  "human_title": _("Ex:ProblematicTiddlerNames")
+  "text": "Explain what is potentially problematic about each of these tiddler names:\n\n# `Company Entry Doors`\n# `Windows`\n# `Tiddlywiki`\n# `VisitingTheDMV`\n# `Onboarding: Office chair selection`\n\nNone of these are necessarily //wrong// -- although they might be depending on your naming conventions -- but they each exhibit a possible danger we discussed above."
 }

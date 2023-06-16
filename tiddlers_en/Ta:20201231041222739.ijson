@@ -7,6 +7,5 @@
   "qtype": "rememberq",
   "question": "What is wrong with this macro call?: `<$macrocall name=wikipediaLink articleTitle=\"Philosophy\"/>`",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20201231041222739")
+  "type": "text/vnd.tiddlywiki"
 }

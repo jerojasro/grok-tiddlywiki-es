@@ -7,6 +7,5 @@
   "qtype": "rememberq",
   "question": "Write a filter expression that finds all tiddlers that link to the tiddler `LinkTarget`.",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20210101174948555")
+  "type": "text/vnd.tiddlywiki"
 }

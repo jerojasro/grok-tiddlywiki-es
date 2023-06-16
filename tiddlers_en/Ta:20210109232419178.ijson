@@ -7,6 +7,5 @@
   "qtype": "rememberq",
   "question": "How is the `text` field stored within a tiddler file in a folder wiki?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20210109232419178")
+  "type": "text/vnd.tiddlywiki"
 }

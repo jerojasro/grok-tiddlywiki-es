@@ -7,6 +7,5 @@
   "qtype": "rememberq",
   "question": "Write a filter step that finds all tiddlers which have a field `firstname` set to the exact value `Margaret`.",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20201230235140455")
+  "type": "text/vnd.tiddlywiki"
 }

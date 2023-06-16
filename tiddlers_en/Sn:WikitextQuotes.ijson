@@ -4,6 +4,5 @@
   "modified": "20210131143308457",
   "tags": "",
   "type": "text/vnd.tiddlywiki",
-  "text": _("> This is a quote.\n>> This is a quote within the quote.\n> But I don't like what was said in the quote within the quote\u2026\n\nThe quote ends when we start a new line that doesn't begin with `>`.\n\n<<<\nThis is a quote. The quote\n\nwill continue until we close it.\n\n> It's also possible to nest quotes by using the line form within the block form.\n\n<<< ---You can put a citation here if you like.\n\nThe quote ends after the closing `<<<`.\n"),
-  "human_title": _("Sn:WikitextQuotes")
+  "text": "> This is a quote.\n>> This is a quote within the quote.\n> But I don't like what was said in the quote within the quote\u2026\n\nThe quote ends when we start a new line that doesn't begin with `>`.\n\n<<<\nThis is a quote. The quote\n\nwill continue until we close it.\n\n> It's also possible to nest quotes by using the line form within the block form.\n\n<<< ---You can put a citation here if you like.\n\nThe quote ends after the closing `<<<`.\n"
 }

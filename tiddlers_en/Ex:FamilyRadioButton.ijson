@@ -6,6 +6,5 @@
   "origin": "Miscellaneous Widgets",
   "tags": "Exercise",
   "type": "text/vnd.tiddlywiki",
-  "text": _("Add a series of radio buttons on the `ContactInformationTemplate` that allow you to view some information about each family member of the current tiddler."),
-  "human_title": _("Ex:FamilyRadioButton")
+  "text": "Add a series of radio buttons on the `ContactInformationTemplate` that allow you to view some information about each family member of the current tiddler."
 }

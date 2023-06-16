@@ -4,6 +4,5 @@
   "modified": "20210131151848284",
   "tags": "",
   "type": "text/vnd.tiddlywiki",
-  "text": _("Text before the line\n\n----------\n\nText after the line"),
-  "human_title": _("Sn:WikitextHorizontalRule")
+  "text": "Text before the line\n\n----------\n\nText after the line"
 }

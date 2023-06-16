@@ -7,6 +7,5 @@
   "qtype": "rememberq",
   "question": "In a dominant append, TiddlyWiki does what to tiddlers that are already in the accumulated results?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20210206152557092")
+  "type": "text/vnd.tiddlywiki"
 }

@@ -6,6 +6,5 @@
   "origin": "Adding to the Sidebar",
   "tags": "Exercise",
   "type": "text/vnd.tiddlywiki",
-  "text": _("Place the new `$:/yourname/Views` tiddler onto the sidebar between the `Recent` and `Tools` tabs.\n\n//Hint//: You'll have to figure out how TiddlyWiki picks up tabs on the sidebar. A little bit of detective work right within your wiki should be sufficient; we've seen all the relevant mechanisms by now."),
-  "human_title": _("Ex:ViewsOnSidebar")
+  "text": "Place the new `$:/yourname/Views` tiddler onto the sidebar between the `Recent` and `Tools` tabs.\n\n//Hint//: You'll have to figure out how TiddlyWiki picks up tabs on the sidebar. A little bit of detective work right within your wiki should be sufficient; we've seen all the relevant mechanisms by now."
 }

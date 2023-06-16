@@ -7,6 +7,5 @@
   "qtype": "rememberq",
   "question": "Write wikitext to display a single-line textbox which is bound to the `description` field of the tiddler whose name is stored in the `describedTiddler` variable.",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20210107233516001")
+  "type": "text/vnd.tiddlywiki"
 }

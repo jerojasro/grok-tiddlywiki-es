@@ -6,6 +6,5 @@
   "qtype": "remembercz",
   "question": "In `\\define wikipediaLink(articleName)`, the part `(articleName)` is called the {parameter list} of the macro.",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20201231005812772")
+  "type": "text/vnd.tiddlywiki"
 }

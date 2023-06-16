@@ -4,6 +4,5 @@
   "modified": "20210123194504092",
   "tags": "",
   "type": "text/vnd.tiddlywiki",
-  "text": _("<$transclude field=\"nonexistentfield\">\n  The nonexistent field does not exist.\n</$transclude>"),
-  "human_title": _("Sn:TranscludeFallback")
+  "text": "<$transclude field=\"nonexistentfield\">\n  The nonexistent field does not exist.\n</$transclude>"
 }

@@ -7,6 +7,5 @@
   "qtype": "rememberq",
   "question": "How can you quickly display an image that is part of your wiki within another tiddler if you don't need to adjust its size or other parameters?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20210103174822368")
+  "type": "text/vnd.tiddlywiki"
 }

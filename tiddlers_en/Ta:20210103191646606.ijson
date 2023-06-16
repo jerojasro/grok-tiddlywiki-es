@@ -6,6 +6,5 @@
   "qtype": "remembercz",
   "question": "A plugin is a single tiddler that contains multiple {shadow} tiddlers (TiddlyWiki term for a type of tiddler).",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20210103191646606")
+  "type": "text/vnd.tiddlywiki"
 }

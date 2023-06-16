@@ -6,6 +6,5 @@
   "qtype": "remembercz",
   "question": "Rule of thumb for dividing tiddlers: create more tiddlers than {you think you should}.",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20210206163533246")
+  "type": "text/vnd.tiddlywiki"
 }

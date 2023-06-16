@@ -7,6 +7,5 @@
   "qtype": "rememberq",
   "question": "Explain the difference between the definition of a \"shadow tiddler\" used by the `is[shadow]` and `all[shadows]` filter steps.",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20210107014935575")
+  "type": "text/vnd.tiddlywiki"
 }

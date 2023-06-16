@@ -7,6 +7,5 @@
   "qtype": "rememberq",
   "question": "What filter operator outputs all the tiddlers that are linked within the `text` field of its input tiddlers?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20201230234852880")
+  "type": "text/vnd.tiddlywiki"
 }

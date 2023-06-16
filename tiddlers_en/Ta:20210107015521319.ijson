@@ -7,6 +7,5 @@
   "qtype": "rememberq",
   "question": "Give an example of something you might define a global macro to do (try to pick a new one).",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20210107015521319")
+  "type": "text/vnd.tiddlywiki"
 }

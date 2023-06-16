@@ -6,6 +6,5 @@
   "qtype": "remembercz",
   "question": "A tiddler that does not exist but has links pointing to it is said to be {missing}.",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20201229042909540")
+  "type": "text/vnd.tiddlywiki"
 }

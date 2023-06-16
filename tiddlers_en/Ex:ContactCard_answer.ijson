@@ -4,6 +4,5 @@
   "modified": "20210206220538164",
   "tags": "Answer",
   "type": "text/vnd.tiddlywiki",
-  "text": _("```html\n<$select tiddler=\"$:/temp/CurrentContactCard\" default=\"\">\n    <option value=\"\">(select a contact)</option>\n    <$list filter=\"[tag[Contact]]\">\n        <option value=<<currentTiddler>>><<currentTiddler>></option>\n    </$list>\n</$select>\n\n<$tiddler tiddler={{$:/temp/CurrentContactCard}}>\n    {{||ContactInformationTemplate}}\n</$tiddler>\n```"),
-  "human_title": _("Ex:ContactCard/answer")
+  "text": "```html\n<$select tiddler=\"$:/temp/CurrentContactCard\" default=\"\">\n    <option value=\"\">(select a contact)</option>\n    <$list filter=\"[tag[Contact]]\">\n        <option value=<<currentTiddler>>><<currentTiddler>></option>\n    </$list>\n</$select>\n\n<$tiddler tiddler={{$:/temp/CurrentContactCard}}>\n    {{||ContactInformationTemplate}}\n</$tiddler>\n```"
 }

@@ -7,6 +7,5 @@
   "qtype": "rememberq",
   "question": "What is the wikitext syntax to define a macro `myMacro` with three parameters, `a`, `b`, and `c`?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20201231040040541")
+  "type": "text/vnd.tiddlywiki"
 }

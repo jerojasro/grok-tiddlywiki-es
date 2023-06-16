@@ -7,6 +7,5 @@
   "qtype": "rememberq",
   "question": "The values of HTML attributes must be placed within quotation marks when what is true?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20201231000938714")
+  "type": "text/vnd.tiddlywiki"
 }

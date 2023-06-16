@@ -7,6 +7,5 @@
   "qtype": "rememberq",
   "question": "For editor keyboard shortcuts to work, such as those that insert italic markup, where must your cursor be positioned?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20201229033547873")
+  "type": "text/vnd.tiddlywiki"
 }

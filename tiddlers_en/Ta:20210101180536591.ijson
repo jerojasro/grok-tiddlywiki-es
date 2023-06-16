@@ -7,6 +7,5 @@
   "qtype": "rememberq",
   "question": "Why is it usually preferable to pass information to macros using parameters rather than defining variables and referring to them within the macro?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20210101180536591")
+  "type": "text/vnd.tiddlywiki"
 }

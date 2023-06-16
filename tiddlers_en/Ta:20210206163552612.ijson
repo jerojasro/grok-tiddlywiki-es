@@ -6,6 +6,5 @@
   "qtype": "remembercz",
   "question": "Rule of thumb for dividing tiddlers: a tiddler should not get so large that {it doesn't fit on your screen without scrolling}.",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20210206163552612")
+  "type": "text/vnd.tiddlywiki"
 }

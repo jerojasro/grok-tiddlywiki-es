@@ -6,6 +6,5 @@
   "qtype": "remembercz",
   "question": "The `$reveal` widget displays its contents only if a specified {c1::field} matches a {c1::value}.",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20210207032540788")
+  "type": "text/vnd.tiddlywiki"
 }

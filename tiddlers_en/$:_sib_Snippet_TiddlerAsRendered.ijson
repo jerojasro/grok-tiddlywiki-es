@@ -5,6 +5,5 @@
   "modified": "20210320140633946",
   "tags": "",
   "type": "text/vnd.tiddlywiki",
-  "text": _("{{!!text}}"),
-  "human_title": _("$:/sib/Snippet/TiddlerAsRendered")
+  "text": "{{!!text}}"
 }

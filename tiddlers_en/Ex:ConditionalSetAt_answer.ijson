@@ -4,6 +4,5 @@
   "modified": "20210207215634063",
   "tags": "Answer",
   "type": "text/vnd.tiddlywiki",
-  "text": _("```html\n<$set name=\"meetingTime\" filter=\"[all[current]has[at]]\" value={{!!at}} emptyValue=\"(no time specified)\">\n\n| !Time|<<meetingTime>>|\n| !Participants|{{!!participants}}|\n\n</$set>\n```\n\n(Note the need for an empty line after `$set` to make the table start in [[block mode|Block Mode and Inline Mode]].)"),
-  "human_title": _("Ex:ConditionalSetAt/answer")
+  "text": "```html\n<$set name=\"meetingTime\" filter=\"[all[current]has[at]]\" value={{!!at}} emptyValue=\"(no time specified)\">\n\n| !Time|<<meetingTime>>|\n| !Participants|{{!!participants}}|\n\n</$set>\n```\n\n(Note the need for an empty line after `$set` to make the table start in [[block mode|Block Mode and Inline Mode]].)"
 }

@@ -6,6 +6,5 @@
   "qtype": "remembercz",
   "question": "In a filter expression, you can include spaces between filter {runs} but not between filter {steps}.",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20210206151843430")
+  "type": "text/vnd.tiddlywiki"
 }

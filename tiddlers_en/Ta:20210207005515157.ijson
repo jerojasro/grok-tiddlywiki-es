@@ -7,6 +7,5 @@
   "qtype": "rememberq",
   "question": "What macro retrieves the current date and time and displays it in your chosen format?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20210207005515157")
+  "type": "text/vnd.tiddlywiki"
 }

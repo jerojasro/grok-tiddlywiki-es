@@ -7,6 +7,5 @@
   "qtype": "rememberq",
   "question": "What wikitext syntax can you use to apply the class `my-favorite-class` to a block of wikitext?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20210109225754963")
+  "type": "text/vnd.tiddlywiki"
 }

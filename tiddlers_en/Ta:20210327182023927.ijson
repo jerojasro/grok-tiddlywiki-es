@@ -7,6 +7,5 @@
   "qtype": "rememberq",
   "question": "Why does the filter expression `[tag[Contact]` not work?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20210327182023927")
+  "type": "text/vnd.tiddlywiki"
 }

@@ -7,6 +7,5 @@
   "qtype": "rememberq",
   "question": "What attribute of the `$macrocall` widget is used to supply the name of the macro to call?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20201231040803697")
+  "type": "text/vnd.tiddlywiki"
 }

@@ -7,6 +7,5 @@
   "qtype": "rememberq",
   "question": "What attribute of the `$button` widget allows you to make the button open and navigate to a specific tiddler?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20210107232428492")
+  "type": "text/vnd.tiddlywiki"
 }

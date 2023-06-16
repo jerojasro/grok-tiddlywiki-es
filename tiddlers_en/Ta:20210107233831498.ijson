@@ -7,6 +7,5 @@
   "qtype": "remembercz",
   "question": "When a text box is allowing the user to edit the value of a specific tiddler field, we say that the text box is {bound} to the field.",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20210107233831498")
+  "type": "text/vnd.tiddlywiki"
 }

@@ -6,6 +6,5 @@
   "qtype": "remembercz",
   "question": "The TiddlyWiki interface is divided into two sections: the {story river} on the left, and the {sidebar} on the right.",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20210110165551205")
+  "type": "text/vnd.tiddlywiki"
 }

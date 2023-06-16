@@ -8,6 +8,5 @@
   "qtype": "rememberq",
   "question": "How do you mark a tiddler as a data tiddler of the TiddlyWiki dictionary type?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20210103184459909")
+  "type": "text/vnd.tiddlywiki"
 }

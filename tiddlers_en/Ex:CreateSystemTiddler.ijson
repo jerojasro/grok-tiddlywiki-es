@@ -6,6 +6,5 @@
   "origin": "System Tiddlers",
   "tags": "Exercise",
   "type": "text/vnd.tiddlywiki",
-  "text": _("Create a new system tiddler, then close it and go locate it again."),
-  "human_title": _("Ex:CreateSystemTiddler")
+  "text": "Create a new system tiddler, then close it and go locate it again."
 }

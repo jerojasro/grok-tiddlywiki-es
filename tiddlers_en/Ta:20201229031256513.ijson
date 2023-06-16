@@ -7,6 +7,5 @@
   "qtype": "rememberq",
   "question": "Explain why tiddlers can be in multiple places within one hierarchy.",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20201229031256513")
+  "type": "text/vnd.tiddlywiki"
 }

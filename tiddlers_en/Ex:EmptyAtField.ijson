@@ -6,6 +6,5 @@
   "origin": "Hiding and Showing Things",
   "tags": "Exercise",
   "type": "text/vnd.tiddlywiki",
-  "text": _("Update the `MeetingInformationTemplate` to use a fallback to display the text `(no time specified)` if there is no `at` field on the tiddler."),
-  "human_title": _("Ex:EmptyAtField")
+  "text": "Update the `MeetingInformationTemplate` to use a fallback to display the text `(no time specified)` if there is no `at` field on the tiddler."
 }

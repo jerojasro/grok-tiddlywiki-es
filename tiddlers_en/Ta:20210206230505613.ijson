@@ -7,6 +7,5 @@
   "qtype": "rememberq",
   "question": "What widget allows you to collapse the setting of multiple variables into a single widget?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20210206230505613")
+  "type": "text/vnd.tiddlywiki"
 }

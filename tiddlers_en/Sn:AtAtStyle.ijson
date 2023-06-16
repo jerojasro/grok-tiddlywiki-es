@@ -4,6 +4,5 @@
   "modified": "20210116213706727",
   "tags": "",
   "type": "text/vnd.tiddlywiki",
-  "text": _("@@background-color: red;\nHere is a red area.\n@@"),
-  "human_title": _("Sn:AtAtStyle")
+  "text": "@@background-color: red;\nHere is a red area.\n@@"
 }

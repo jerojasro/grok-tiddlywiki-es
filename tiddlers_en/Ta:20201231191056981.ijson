@@ -7,6 +7,5 @@
   "qtype": "rememberq",
   "question": "What attribute of the `$list` widget causes it to place the title of the output tiddler being processed in a variable other than `currentTiddler`?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20201231191056981")
+  "type": "text/vnd.tiddlywiki"
 }

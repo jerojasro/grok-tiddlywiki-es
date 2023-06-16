@@ -7,6 +7,5 @@
   "qtype": "rememberq",
   "question": "Why are data tiddlers likely a poor choice for storing the email addresses of contacts?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20210103184741717")
+  "type": "text/vnd.tiddlywiki"
 }

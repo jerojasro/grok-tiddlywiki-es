@@ -7,6 +7,5 @@
   "qtype": "rememberq",
   "question": "How can you easily display some text or widgets only if a specific tiddler cannot be transcluded (e.g., because it does not exist)?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20210107185757110")
+  "type": "text/vnd.tiddlywiki"
 }

@@ -5,6 +5,5 @@
   "modified": "20210131144657032",
   "tags": "",
   "type": "text/vnd.tiddlywiki",
-  "text": _("Here is some text to be transcluded."),
-  "human_title": _("Sn:IncludeMe")
+  "text": "Here is some text to be transcluded."
 }

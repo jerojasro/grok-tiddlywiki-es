@@ -7,6 +7,5 @@
   "qtype": "rememberq",
   "question": "What naming technique may help organize a large number of tiddlers of the same type or on the same topic?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20210130213337117")
+  "type": "text/vnd.tiddlywiki"
 }

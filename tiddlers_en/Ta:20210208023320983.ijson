@@ -7,6 +7,5 @@
   "qtype": "rememberq",
   "question": "Describe a situation in which you would need to use the `qualify` macro (try to pick a new one).",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20210208023320983")
+  "type": "text/vnd.tiddlywiki"
 }

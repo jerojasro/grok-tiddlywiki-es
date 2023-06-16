@@ -4,6 +4,5 @@
   "modified": "20200603194755669",
   "tags": "Answer",
   "type": "text/vnd.tiddlywiki",
-  "text": _("```html\n<$list filter=\"[tag[Meeting]contains:participants[JaneDoe]!sort[at]]\">\n  <<currentTiddler>><br>\n</$list>\n```\n\nNote the use of the `contains:` operator rather than the `field:` operator. If we used `field:`, then a meeting whose `participants` field included both Jane and someone else, like `JaneDoe ChrisSmith`, would not match."),
-  "human_title": _("Ex:JaneMeetingList/answer")
+  "text": "```html\n<$list filter=\"[tag[Meeting]contains:participants[JaneDoe]!sort[at]]\">\n  <<currentTiddler>><br>\n</$list>\n```\n\nNote the use of the `contains:` operator rather than the `field:` operator. If we used `field:`, then a meeting whose `participants` field included both Jane and someone else, like `JaneDoe ChrisSmith`, would not match."
 }

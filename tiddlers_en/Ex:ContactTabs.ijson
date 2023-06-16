@@ -6,6 +6,5 @@
   "origin": "Tabs",
   "tags": "Exercise",
   "type": "text/vnd.tiddlywiki",
-  "text": _("Create a set of tabs to show all contacts in the wiki. Take a look through the tabs -- what isn't displaying right, and what might that mean?"),
-  "human_title": _("Ex:ContactTabs")
+  "text": "Create a set of tabs to show all contacts in the wiki. Take a look through the tabs -- what isn't displaying right, and what might that mean?"
 }

@@ -4,6 +4,5 @@
   "modified": "20210116175910453",
   "tags": "",
   "type": "text/vnd.tiddlywiki",
-  "text": _("<span>Here's an adjacent span.</span>\n<span style=\"color: orange;\">My first line, directly inside the span.\n<p>Here is a paragraph nested inside of the span.</p>\nHere is another line directly inside the span.</span>\n<span>Here's an adjacent span.</span>"),
-  "human_title": _("Sn:BlockInlineContextLtc")
+  "text": "<span>Here's an adjacent span.</span>\n<span style=\"color: orange;\">My first line, directly inside the span.\n<p>Here is a paragraph nested inside of the span.</p>\nHere is another line directly inside the span.</span>\n<span>Here's an adjacent span.</span>"
 }

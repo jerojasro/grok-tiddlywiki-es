@@ -1,9 +1,8 @@
 {
   "title": "$:/sib/SimpleAnalytics",
-  "text": _("<!--\nThis snippet sends pageviews to Simple Analytics, a privacy-friendly analytics service.\nIt records only aggregate statistics and cannot identify you.\n-->\n<script>window.sa_event=window.sa_event||function(){a=[].slice.call(arguments);sa_event.q?sa_event.q.push(a):sa_event.q=[a]};</script>\n<script async defer src=\"https://scripts.simpleanalyticscdn.com/latest.js\"></script>\n<noscript><img src=\"https://queue.simpleanalyticscdn.com/noscript.gif\" alt=\"\"\n/></noscript>"),
+  "text": "<!--\nThis snippet sends pageviews to Simple Analytics, a privacy-friendly analytics service.\nIt records only aggregate statistics and cannot identify you.\n-->\n<script>window.sa_event=window.sa_event||function(){a=[].slice.call(arguments);sa_event.q?sa_event.q.push(a):sa_event.q=[a]};</script>\n<script async defer src=\"https://scripts.simpleanalyticscdn.com/latest.js\"></script>\n<noscript><img src=\"https://queue.simpleanalyticscdn.com/noscript.gif\" alt=\"\"\n/></noscript>",
   "type": "text/html",
   "created": "20200913152403709",
   "modified": "20210507013622338",
-  "tags": "$:/tags/RawMarkup",
-  "human_title": _("$:/sib/SimpleAnalytics")
+  "tags": "$:/tags/RawMarkup"
 }

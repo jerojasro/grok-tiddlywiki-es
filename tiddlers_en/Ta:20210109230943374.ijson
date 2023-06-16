@@ -7,6 +7,5 @@
   "qtype": "rememberq",
   "question": "If you are creating a plugin called `MyPlugin`, and your `tiddlywiki.info` file is in the folder `/home/alice/myplugin-wiki`, in what folder should you place the tiddlers that make up your plugin?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20210109230943374")
+  "type": "text/vnd.tiddlywiki"
 }

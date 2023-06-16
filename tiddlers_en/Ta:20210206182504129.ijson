@@ -7,6 +7,5 @@
   "qtype": "rememberq",
   "question": "If a filter operator `myop` accepts multiple parameters, `one` and `two`, and has no suffix, what would the resulting filter step look like?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20210206182504129")
+  "type": "text/vnd.tiddlywiki"
 }

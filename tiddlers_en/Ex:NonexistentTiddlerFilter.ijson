@@ -6,6 +6,5 @@
   "origin": "Anatomy of Filter Steps",
   "tags": "Exercise",
   "type": "text/vnd.tiddlywiki",
-  "text": _("What do you think happens if you use the `title` constructor to add a tiddler that does not exist to the pipeline?\n\nCheck your answer by running a filter in TiddlyWiki."),
-  "human_title": _("Ex:NonexistentTiddlerFilter")
+  "text": "What do you think happens if you use the `title` constructor to add a tiddler that does not exist to the pipeline?\n\nCheck your answer by running a filter in TiddlyWiki."
 }

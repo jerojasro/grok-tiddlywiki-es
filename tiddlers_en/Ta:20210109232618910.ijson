@@ -7,6 +7,5 @@
   "qtype": "rememberq",
   "question": "What unusual syntax does the `tiddlywiki` CLI have?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20210109232618910")
+  "type": "text/vnd.tiddlywiki"
 }

@@ -6,6 +6,5 @@
   "origin": "Transclusions",
   "tags": "Exercise",
   "type": "text/vnd.tiddlywiki",
-  "text": _("What happens if you set a variable in one tiddler, and transclude a tiddler that references that variable within the scope of the `$set` widget? You can start with a Tiddler 1 that looks something like this:\n\n```html\n<$set name=\"myVariable\" value=\"test\">\n    {{Tiddler 2}}\n</$set>\n```"),
-  "human_title": _("Ex:VariableTransclusion")
+  "text": "What happens if you set a variable in one tiddler, and transclude a tiddler that references that variable within the scope of the `$set` widget? You can start with a Tiddler 1 that looks something like this:\n\n```html\n<$set name=\"myVariable\" value=\"test\">\n    {{Tiddler 2}}\n</$set>\n```"
 }

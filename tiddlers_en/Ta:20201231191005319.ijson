@@ -7,6 +7,5 @@
   "qtype": "rememberq",
   "question": "What variable reference is equivalent to the transclusion `{{!!title}}`?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20201231191005319")
+  "type": "text/vnd.tiddlywiki"
 }

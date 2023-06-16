@@ -4,6 +4,5 @@
   "modified": "20210131045337785",
   "tags": "",
   "type": "text/vnd.tiddlywiki",
-  "text": _("Here's an example of what not to do:\n!! Heading 2"),
-  "human_title": _("Sn:WikitextHeadingsRolledIn")
+  "text": "Here's an example of what not to do:\n!! Heading 2"
 }

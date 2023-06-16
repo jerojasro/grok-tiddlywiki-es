@@ -7,6 +7,5 @@
   "qtype": "rememberq",
   "question": "Why does the `$reveal` widget lead to incorrectly formatted output in some contexts?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20210207033024829")
+  "type": "text/vnd.tiddlywiki"
 }

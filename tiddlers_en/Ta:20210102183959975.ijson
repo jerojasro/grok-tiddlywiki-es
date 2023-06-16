@@ -7,6 +7,5 @@
   "qtype": "rememberq",
   "question": "What TiddlyWiki tool allows you to customize the colors and icons of tags?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20210102183959975")
+  "type": "text/vnd.tiddlywiki"
 }

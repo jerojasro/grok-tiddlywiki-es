@@ -8,6 +8,5 @@
   "parent": "Outline",
   "tags": "Chapter",
   "type": "text/vnd.tiddlywiki",
-  "text": _("{{||ChapterOutlineTemplate}}"),
-  "human_title": _("Resources")
+  "text": "{{||ChapterOutlineTemplate}}"
 }

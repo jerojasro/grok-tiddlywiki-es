@@ -7,6 +7,5 @@
   "qtype": "rememberq",
   "question": "How would you load macros found in all tiddlers that begin with the letter `W` into the context of the current tiddler?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20210107015423886")
+  "type": "text/vnd.tiddlywiki"
 }

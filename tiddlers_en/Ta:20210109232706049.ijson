@@ -7,6 +7,5 @@
   "qtype": "rememberq",
   "question": "Why is the TiddlyWiki CLI command `tiddlywiki --load SOURCE_WIKI` a no-op?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20210109232706049")
+  "type": "text/vnd.tiddlywiki"
 }

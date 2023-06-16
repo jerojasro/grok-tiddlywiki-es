@@ -4,6 +4,5 @@
   "modified": "20210131144753826",
   "tags": "",
   "type": "text/vnd.tiddlywiki",
-  "text": _("<strong><$transclude mode=\"block\"/></strong>"),
-  "human_title": _("Sn:BoldfaceTemplate")
+  "text": "<strong><$transclude mode=\"block\"/></strong>"
 }

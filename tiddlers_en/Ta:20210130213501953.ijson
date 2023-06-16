@@ -7,6 +7,5 @@
   "qtype": "rememberq",
   "question": "How can namespacing your tiddlers limit your thinking if the technique is used inappropriately?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20210130213501953")
+  "type": "text/vnd.tiddlywiki"
 }

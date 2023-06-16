@@ -6,6 +6,5 @@
   "qtype": "remembercz",
   "question": "In TiddlyWiki, tags are a special kind of {link} to another tiddler.",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20201229030422254")
+  "type": "text/vnd.tiddlywiki"
 }

@@ -6,6 +6,5 @@
   "qtype": "remembercz",
   "question": "It's helpful to be {consistent} when structuring a TiddlyWiki so that we don't struggle to find things that don't match conventions later.",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20210110172653534")
+  "type": "text/vnd.tiddlywiki"
 }

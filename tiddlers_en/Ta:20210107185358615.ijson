@@ -7,6 +7,5 @@
   "qtype": "rememberq",
   "question": "What does //CSS// stand for?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20210107185358615")
+  "type": "text/vnd.tiddlywiki"
 }

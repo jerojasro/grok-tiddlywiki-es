@@ -6,6 +6,5 @@
   "qtype": "remembercz",
   "question": "A knowledge tiddler should be focused on a single {idea}.",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20210130212746305")
+  "type": "text/vnd.tiddlywiki"
 }

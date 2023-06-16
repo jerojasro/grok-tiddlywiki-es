@@ -4,6 +4,5 @@
   "modified": "20210818004020939",
   "tags": "",
   "type": "text/vnd.tiddlywiki",
-  "text": _("\\define test-macro() Macros are not functions\n\nThe value of the `test-macro` variable is \"<<test-macro>>.\"\n\n<$transclude tiddler=<<test-macro>> field=\"description\"/>"),
-  "human_title": _("Sn:MacroFunctionCallOk")
+  "text": "\\define test-macro() Macros are not functions\n\nThe value of the `test-macro` variable is \"<<test-macro>>.\"\n\n<$transclude tiddler=<<test-macro>> field=\"description\"/>"
 }

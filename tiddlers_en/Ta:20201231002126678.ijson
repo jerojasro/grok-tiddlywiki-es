@@ -7,6 +7,5 @@
   "qtype": "rememberq",
   "question": "Widgets are a TiddlyWiki extension to what language?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20201231002126678")
+  "type": "text/vnd.tiddlywiki"
 }

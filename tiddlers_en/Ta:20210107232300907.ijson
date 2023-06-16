@@ -7,6 +7,5 @@
   "qtype": "rememberq",
   "question": "What attribute of the `$edit-text` widget allows you to choose what tiddler field the text box edits?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20210107232300907")
+  "type": "text/vnd.tiddlywiki"
 }

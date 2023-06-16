@@ -7,6 +7,5 @@
   "seen": ".*",
   "sort": "question",
   "type": "text/vnd.tiddlywiki",
-  "viewer": "table",
-  "human_title": _("$:/config/sobjornstad/GrokTiddlyWiki/TakeawayBrowserState")
+  "viewer": "table"
 }

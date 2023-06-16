@@ -7,6 +7,5 @@
   "qtype": "rememberq",
   "question": "What is the toolbar in the upper-right corner of each tiddler when viewing it called?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20210110165831811")
+  "type": "text/vnd.tiddlywiki"
 }

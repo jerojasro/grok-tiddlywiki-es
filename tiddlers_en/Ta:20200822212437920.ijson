@@ -7,6 +7,5 @@
   "qtype": "rememberq",
   "question": "Why will TiddlyWiki create a link to a tiddler called `MyTiddler` when `MyTiddler` is mentioned in wikitext, even though its name is not in double square brackets?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20200822212437920")
+  "type": "text/vnd.tiddlywiki"
 }

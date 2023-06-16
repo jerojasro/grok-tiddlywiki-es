@@ -7,6 +7,5 @@
   "qtype": "rememberq",
   "question": "What parameter do you add to the `tabs` macro to show tabs vertically instead of horizontally?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20210103173804424")
+  "type": "text/vnd.tiddlywiki"
 }

@@ -7,6 +7,5 @@
   "qtype": "rememberq",
   "question": "What limitation is placed on JSON documents being used as data tiddlers?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20210103184418750")
+  "type": "text/vnd.tiddlywiki"
 }

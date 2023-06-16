@@ -7,6 +7,5 @@
   "qtype": "rememberq",
   "question": "What wikitext syntax displays a table of contents that displays tiddlers in a collapsable and expandable hierarchy, beginning from the tiddler `My Start Tiddler`?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20201229152249751")
+  "type": "text/vnd.tiddlywiki"
 }

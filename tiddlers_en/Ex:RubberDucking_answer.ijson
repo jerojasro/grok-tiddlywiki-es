@@ -4,6 +4,5 @@
   "modified": "20210121001504559",
   "tags": "Answer",
   "type": "text/vnd.tiddlywiki",
-  "text": _("There were three problems with this snippet:\n\n# The final `]` to close the filter run was left off.\n# The `;` in `field:parent` should read `:`.\n# The `sort[]` needs to come after the `get[description]` operator to meet the goal proposed above, or the tiddler titles (which you never see) are sorted, rather than their descriptions/summaries.\n\nA corrected version:\n\n{{Sn:RubberDuckingCorrected||MagicSnippet}}"),
-  "human_title": _("Ex:RubberDucking/answer")
+  "text": "There were three problems with this snippet:\n\n# The final `]` to close the filter run was left off.\n# The `;` in `field:parent` should read `:`.\n# The `sort[]` needs to come after the `get[description]` operator to meet the goal proposed above, or the tiddler titles (which you never see) are sorted, rather than their descriptions/summaries.\n\nA corrected version:\n\n{{Sn:RubberDuckingCorrected||MagicSnippet}}"
 }

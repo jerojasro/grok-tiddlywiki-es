@@ -6,6 +6,5 @@
   "origin": "Supplemental Exercises",
   "tags": "Exercise",
   "type": "text/vnd.tiddlywiki",
-  "text": _("Try out another option for [[hosting and saving your TiddlyWiki|Options for Saving and Hosting Your Wiki]].\n"),
-  "human_title": _("Ex:HostingOptions")
+  "text": "Try out another option for [[hosting and saving your TiddlyWiki|Options for Saving and Hosting Your Wiki]].\n"
 }

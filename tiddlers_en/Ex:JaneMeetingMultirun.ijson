@@ -7,6 +7,5 @@
   "origin": "Multi-Run Filters",
   "tags": "Exercise",
   "type": "text/vnd.tiddlywiki",
-  "text": _("Write a filter to find all meetings that are part of the `OnboardingHr` project or the `TopSecretHr` project and were attended by Jane."),
-  "human_title": _("Ex:JaneMeetingMultirun")
+  "text": "Write a filter to find all meetings that are part of the `OnboardingHr` project or the `TopSecretHr` project and were attended by Jane."
 }

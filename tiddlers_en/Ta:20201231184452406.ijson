@@ -6,6 +6,5 @@
   "qtype": "remembercz",
   "question": "A //hard link// is one that can be detected by {a superficial examination} of wikitext.",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20201231184452406")
+  "type": "text/vnd.tiddlywiki"
 }

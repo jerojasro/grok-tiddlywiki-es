@@ -6,6 +6,5 @@
   "origin": "The View Template",
   "tags": "Exercise",
   "type": "text/vnd.tiddlywiki",
-  "text": _("Add the tiddlers under `$:/yourname/TiddlerTypeTemplates/` to the edit template as well. What do you notice about where they appear? Does it make sense to have them here?"),
-  "human_title": _("Ex:EditTemplateInformation")
+  "text": "Add the tiddlers under `$:/yourname/TiddlerTypeTemplates/` to the edit template as well. What do you notice about where they appear? Does it make sense to have them here?"
 }

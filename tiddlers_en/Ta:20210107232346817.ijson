@@ -7,6 +7,5 @@
   "qtype": "rememberq",
   "question": "Explain the process TiddlyWiki uses to ensure the screen is up to date after a tiddler is changed.",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20210107232346817")
+  "type": "text/vnd.tiddlywiki"
 }

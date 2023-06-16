@@ -7,6 +7,5 @@
   "qtype": "rememberq",
   "question": "Write a filter expression with two steps that outputs the value of the `description` field on the tiddler named `Awesome Tiddler`.",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20201230235837017")
+  "type": "text/vnd.tiddlywiki"
 }

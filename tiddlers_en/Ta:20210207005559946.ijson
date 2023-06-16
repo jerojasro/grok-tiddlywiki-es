@@ -7,6 +7,5 @@
   "qtype": "rememberq",
   "question": "What filter operator finds tiddlers with dates that are before or after a specific time?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20210207005559946")
+  "type": "text/vnd.tiddlywiki"
 }

@@ -6,6 +6,5 @@
   "origin": "Your First Dynamic List",
   "tags": "Exercise",
   "type": "text/vnd.tiddlywiki",
-  "text": _("Modify the `MeetingList` so that only meetings that Jane attended are shown. Be careful not to exclude meetings that Jane attended along with other people."),
-  "human_title": _("Ex:JaneMeetingList")
+  "text": "Modify the `MeetingList` so that only meetings that Jane attended are shown. Be careful not to exclude meetings that Jane attended along with other people."
 }

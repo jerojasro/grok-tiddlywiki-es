@@ -7,6 +7,5 @@
   "qtype": "rememberq",
   "question": "How does a draft tiddler store the name of the tiddler it is a draft of?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20210207014108901")
+  "type": "text/vnd.tiddlywiki"
 }

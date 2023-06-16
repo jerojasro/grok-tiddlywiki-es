@@ -7,6 +7,5 @@
   "qtype": "rememberq",
   "question": "Why should you (almost) always use a class name with any CSS that you intend to apply only to a single tiddler?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20210109225643059")
+  "type": "text/vnd.tiddlywiki"
 }

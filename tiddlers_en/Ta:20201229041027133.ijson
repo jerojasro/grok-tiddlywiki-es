@@ -7,6 +7,5 @@
   "qtype": "rememberq",
   "question": "When you are editing a tiddler and realize that a portion of its contents should be split into its own tiddler, what operation would you use?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20201229041027133")
+  "type": "text/vnd.tiddlywiki"
 }

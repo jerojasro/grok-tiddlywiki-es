@@ -4,6 +4,5 @@
   "modified": "20210320143104510",
   "tags": "$:/tags/Macro",
   "type": "text/vnd.tiddlywiki",
-  "text": _("\\define textual-button(imageName) <span class=\"gtw-textual-button\">{{$:/core/images/$imageName$}}</span>"),
-  "human_title": _("$:/sib/GeneralMacros")
+  "text": "\\define textual-button(imageName) <span class=\"gtw-textual-button\">{{$:/core/images/$imageName$}}</span>"
 }

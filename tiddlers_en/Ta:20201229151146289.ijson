@@ -7,6 +7,5 @@
   "qtype": "rememberq",
   "question": "How can you reorder the tiddlers currently displayed in the story river?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20201229151146289")
+  "type": "text/vnd.tiddlywiki"
 }

@@ -6,6 +6,5 @@
   "origin": "Supplemental Exercises",
   "tags": "Exercise",
   "type": "text/vnd.tiddlywiki",
-  "text": _("Create and customize a new wiki for some purpose, whether it's useful for you or not. Some ideas that might get you thinking about different ways to organize data:\n\n* A mini-encyclopedia for a topic you know a lot about.\n* A recipe book.\n* A place to plan a book or other large creative project.\n* A catalog for your music or book collection."),
-  "human_title": _("Ex:NewWiki")
+  "text": "Create and customize a new wiki for some purpose, whether it's useful for you or not. Some ideas that might get you thinking about different ways to organize data:\n\n* A mini-encyclopedia for a topic you know a lot about.\n* A recipe book.\n* A place to plan a book or other large creative project.\n* A catalog for your music or book collection."
 }

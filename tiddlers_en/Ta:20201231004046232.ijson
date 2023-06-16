@@ -7,6 +7,5 @@
   "qtype": "rememberq",
   "question": "What widget do you use to set a single variable to an arbitrary value?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20201231004046232")
+  "type": "text/vnd.tiddlywiki"
 }

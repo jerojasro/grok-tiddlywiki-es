@@ -7,6 +7,5 @@
   "qtype": "rememberq",
   "question": "What editor keyboard shortcut saves the changes to a tiddler and exits edit mode?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20201229034152108")
+  "type": "text/vnd.tiddlywiki"
 }

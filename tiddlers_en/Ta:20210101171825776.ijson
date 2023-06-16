@@ -6,6 +6,5 @@
   "qtype": "remembercz",
   "question": "Wikification is the process of taking wikitext and turning it into {HTML} for display.",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20210101171825776")
+  "type": "text/vnd.tiddlywiki"
 }

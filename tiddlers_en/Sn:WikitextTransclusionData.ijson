@@ -4,6 +4,5 @@
   "modified": "20210131150218103",
   "tags": "",
   "type": "text/vnd.tiddlywiki",
-  "text": _("//Grok TiddlyWiki// version {{Metadata##version}}"),
-  "human_title": _("Sn:WikitextTransclusionData")
+  "text": "//Grok TiddlyWiki// version {{Metadata##version}}"
 }

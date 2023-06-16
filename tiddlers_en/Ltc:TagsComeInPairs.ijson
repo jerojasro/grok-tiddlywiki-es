@@ -5,6 +5,5 @@
   "modified": "20210124035402745",
   "tags": "Lie",
   "type": "text/vnd.tiddlywiki",
-  "text": _("A few HTML tags, called //void tags//, don't come in pairs. We'll talk about void tags later in the section."),
-  "human_title": _("Ltc:TagsComeInPairs")
+  "text": "A few HTML tags, called //void tags//, don't come in pairs. We'll talk about void tags later in the section."
 }

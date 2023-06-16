@@ -7,6 +7,5 @@
   "qtype": "rememberq",
   "question": "Give an example of a full-text search that yields a false negative, including both the phrase you search for and the reason it doesn't work (try to pick a new example).",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20201229035422461")
+  "type": "text/vnd.tiddlywiki"
 }

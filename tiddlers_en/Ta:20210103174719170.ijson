@@ -7,6 +7,5 @@
   "qtype": "rememberq",
   "question": "What is the fastest way to import an image into your TiddlyWiki?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20210103174719170")
+  "type": "text/vnd.tiddlywiki"
 }

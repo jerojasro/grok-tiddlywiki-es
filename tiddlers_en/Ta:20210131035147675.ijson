@@ -7,6 +7,5 @@
   "qtype": "rememberq",
   "question": "Why is it valuable to relate a new note to as many relevant things as possible? Use the concept of a //retrieval context//.",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20210131035147675")
+  "type": "text/vnd.tiddlywiki"
 }

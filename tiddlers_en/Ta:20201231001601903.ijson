@@ -7,6 +7,5 @@
   "qtype": "rememberq",
   "question": "In HTML, what special thing happens if you put multiple spaces or newlines in a row?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20201231001601903")
+  "type": "text/vnd.tiddlywiki"
 }

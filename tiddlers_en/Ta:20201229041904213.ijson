@@ -7,6 +7,5 @@
   "qtype": "rememberq",
   "question": "Why does listing related tiddlers in a field, such as `participants`, provide more information to TiddlyWiki than linking to them in a tiddler's text?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20201229041904213")
+  "type": "text/vnd.tiddlywiki"
 }

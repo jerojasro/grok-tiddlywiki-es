@@ -4,6 +4,5 @@
   "modified": "20210327153046765",
   "tags": "Answer",
   "type": "text/vnd.tiddlywiki",
-  "text": _("```html\n\\define excerptify(title)\n  <$wikify name=wikitext text={{$title$}}>\n    <$text text={{{ [<wikitext>split[]first[200]join[]] }}} />...\n  </$wikify>\n\\end\n\n\\define linkDisplay(title, filterFragment)\n<div>\n$title$:\n\n<ul>\n<$list filter=\"[all[current]$filterFragment$]\">\n  <li>\n    <$link to=<<currentTiddler>>><<currentTiddler>></$link>\n    <div><$macrocall $name=\"excerptify\" title={{!!title}}/></div>\n  </li>\n</$list>\n</ul>\n</div>\n\\end\n\n<div>\n  <<linkDisplay \"Links\" \"links[]\">>\n  <<linkDisplay \"Backlinks\" \"backlinks[]\">>\n</div>\n```"),
-  "human_title": _("Ex:CreatingLinkDivs/answer")
+  "text": "```html\n\\define excerptify(title)\n  <$wikify name=wikitext text={{$title$}}>\n    <$text text={{{ [<wikitext>split[]first[200]join[]] }}} />...\n  </$wikify>\n\\end\n\n\\define linkDisplay(title, filterFragment)\n<div>\n$title$:\n\n<ul>\n<$list filter=\"[all[current]$filterFragment$]\">\n  <li>\n    <$link to=<<currentTiddler>>><<currentTiddler>></$link>\n    <div><$macrocall $name=\"excerptify\" title={{!!title}}/></div>\n  </li>\n</$list>\n</ul>\n</div>\n\\end\n\n<div>\n  <<linkDisplay \"Links\" \"links[]\">>\n  <<linkDisplay \"Backlinks\" \"backlinks[]\">>\n</div>\n```"
 }

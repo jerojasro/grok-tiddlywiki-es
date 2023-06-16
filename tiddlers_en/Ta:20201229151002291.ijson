@@ -6,6 +6,5 @@
   "qtype": "remembercz",
   "question": "Tiddlers that are currently being edited are called {drafts}.",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20201229151002291")
+  "type": "text/vnd.tiddlywiki"
 }

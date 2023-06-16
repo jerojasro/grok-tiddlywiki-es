@@ -6,6 +6,5 @@
   "origin": "Transclusions",
   "tags": "Exercise",
   "type": "text/vnd.tiddlywiki",
-  "text": _("What happens if you transclude tiddler A into tiddler B, and tiddler B into tiddler A?"),
-  "human_title": _("Ex:CircularTransclusion")
+  "text": "What happens if you transclude tiddler A into tiddler B, and tiddler B into tiddler A?"
 }

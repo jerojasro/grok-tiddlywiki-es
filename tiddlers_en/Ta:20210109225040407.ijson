@@ -6,6 +6,5 @@
   "qtype": "remembercz",
   "question": "A JavaScript macro should not have any {side effect}s when run.",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20210109225040407")
+  "type": "text/vnd.tiddlywiki"
 }

@@ -4,6 +4,5 @@
   "modified": "20210131153152744",
   "tags": "",
   "type": "text/vnd.tiddlywiki",
-  "text": _("{{anki-config-screenshot.png}}"),
-  "human_title": _("Sn:WikitextImageTransclusion")
+  "text": "{{anki-config-screenshot.png}}"
 }

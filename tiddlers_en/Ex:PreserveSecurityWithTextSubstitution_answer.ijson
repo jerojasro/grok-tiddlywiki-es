@@ -4,6 +4,5 @@
   "modified": "20210207224241431",
   "tags": "Answer",
   "type": "text/vnd.tiddlywiki",
-  "text": _("Here's one way:\n\n{{Sn:AuthorizationUnbypass||MagicSnippet}}"),
-  "human_title": _("Ex:PreserveSecurityWithTextSubstitution/answer")
+  "text": "Here's one way:\n\n{{Sn:AuthorizationUnbypass||MagicSnippet}}"
 }

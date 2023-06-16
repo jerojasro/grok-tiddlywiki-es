@@ -7,6 +7,5 @@
   "qtype": "rememberq",
   "question": "Plugins are typically distributed in what kind of container?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20210109230844101")
+  "type": "text/vnd.tiddlywiki"
 }

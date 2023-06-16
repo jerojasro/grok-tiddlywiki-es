@@ -6,6 +6,5 @@
   "origin": "Hiding and Showing Things",
   "tags": "Exercise",
   "type": "text/vnd.tiddlywiki",
-  "text": _("Change the ViewTemplate tiddler that displays the contact information template so that it does not display if the `hide-contactinfo` field on the contact tiddler has the value `yes`. Use a `$list` widget."),
-  "human_title": _("Ex:ViewTemplateExplicitHide")
+  "text": "Change the ViewTemplate tiddler that displays the contact information template so that it does not display if the `hide-contactinfo` field on the contact tiddler has the value `yes`. Use a `$list` widget."
 }

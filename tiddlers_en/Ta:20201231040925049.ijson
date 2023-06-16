@@ -7,6 +7,5 @@
   "qtype": "rememberq",
   "question": "Use a `$macrocall` widget to achieve the same effect as the following wikitext: `<<wikipediaLink name:\"Aardvark\">>`",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20201231040925049")
+  "type": "text/vnd.tiddlywiki"
 }

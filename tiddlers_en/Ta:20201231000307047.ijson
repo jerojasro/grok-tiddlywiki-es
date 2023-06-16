@@ -6,6 +6,5 @@
   "qtype": "remembercz",
   "question": "The strings of text `<ul>` and `</li>` are examples of HTML {tag}s.",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20201231000307047")
+  "type": "text/vnd.tiddlywiki"
 }

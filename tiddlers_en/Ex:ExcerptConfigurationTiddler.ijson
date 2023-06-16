@@ -6,6 +6,5 @@
   "origin": "Creating a List of Links and Backlinks",
   "tags": "Exercise",
   "type": "text/vnd.tiddlywiki",
-  "text": _("Make the size of the excerpt configurable via a configuration tiddler. Call the configuration tiddler `$:/config/LinkExcerptLength`."),
-  "human_title": _("Ex:ExcerptConfigurationTiddler")
+  "text": "Make the size of the excerpt configurable via a configuration tiddler. Call the configuration tiddler `$:/config/LinkExcerptLength`."
 }

@@ -7,6 +7,5 @@
   "qtype": "rememberq",
   "question": "If you change a JavaScript macro and the changes do not seem to be applying, what did you most likely forget?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20210109225359535")
+  "type": "text/vnd.tiddlywiki"
 }

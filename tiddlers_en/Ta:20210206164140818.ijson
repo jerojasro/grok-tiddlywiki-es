@@ -7,6 +7,5 @@
   "qtype": "rememberq",
   "question": "Give an example of a field you might use on a tiddler describing a book (try to pick a new one).",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20210206164140818")
+  "type": "text/vnd.tiddlywiki"
 }

@@ -7,6 +7,5 @@
   "qtype": "rememberq",
   "question": "Text substitution occurs only within what context? (TiddlyWiki concept)",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20210131205501655")
+  "type": "text/vnd.tiddlywiki"
 }

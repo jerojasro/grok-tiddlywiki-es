@@ -7,6 +7,5 @@
   "qtype": "rememberq",
   "question": "Why is //Apple// likely a problematic title for a tiddler?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20201229150107986")
+  "type": "text/vnd.tiddlywiki"
 }

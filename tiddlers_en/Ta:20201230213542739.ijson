@@ -7,6 +7,5 @@
   "qtype": "rememberq",
   "question": "If a filter run does not begin with a constructor, what are the input tiddlers of the first step in the run?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20201230213542739")
+  "type": "text/vnd.tiddlywiki"
 }

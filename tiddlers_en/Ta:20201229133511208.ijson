@@ -7,6 +7,5 @@
   "qtype": "rememberq",
   "question": "What keyboard shortcut puts the focus in the main search box?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20201229133511208")
+  "type": "text/vnd.tiddlywiki"
 }

@@ -7,6 +7,5 @@
   "qtype": "rememberq",
   "question": "Why might you choose to separate information in a tiddler into multiple fields, rather than placing it all in the `text` field?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20201229025230862")
+  "type": "text/vnd.tiddlywiki"
 }

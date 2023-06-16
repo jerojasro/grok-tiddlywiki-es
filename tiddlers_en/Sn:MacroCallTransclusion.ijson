@@ -4,6 +4,5 @@
   "modified": "20210818210256048",
   "tags": "",
   "type": "text/vnd.tiddlywiki",
-  "text": _("\\define partial-name(suffix) Tiddler $suffix$\n\n{{{ [<partial-name \"Forty-Two\">] }}}"),
-  "human_title": _("Sn:MacroCallTransclusion")
+  "text": "\\define partial-name(suffix) Tiddler $suffix$\n\n{{{ [<partial-name \"Forty-Two\">] }}}"
 }

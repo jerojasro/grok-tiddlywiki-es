@@ -5,6 +5,5 @@
   "modified": "20210206213445145",
   "tags": "Lie",
   "type": "text/vnd.tiddlywiki",
-  "text": _("Actually, a handful are so important that they have values right under `$:/`, such as [[$:/SiteTitle]]. And you or a plugin author could add items to the control panel that don't store configuration in `$:/config`."),
-  "human_title": _("Ltc:EverySetting")
+  "text": "Actually, a handful are so important that they have values right under `$:/`, such as [[$:/SiteTitle]]. And you or a plugin author could add items to the control panel that don't store configuration in `$:/config`."
 }

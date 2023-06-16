@@ -7,6 +7,5 @@
   "qtype": "rememberq",
   "question": "What happens if you use a closing tag for an HTML void element within a tiddler?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20201231001318622")
+  "type": "text/vnd.tiddlywiki"
 }

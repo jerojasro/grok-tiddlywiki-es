@@ -6,6 +6,5 @@
   "origin": "Ordering Tiddlers",
   "tags": "Exercise",
   "type": "text/vnd.tiddlywiki",
-  "text": _("Repeat the [[previous exercise|Ex:MeetingOrdering]] using a `<<list-links-draggable>>` macro of the form described in this section, inserted within the `OnboardingHr` tiddler."),
-  "human_title": _("Ex:MeetingOrderingByMacro")
+  "text": "Repeat the [[previous exercise|Ex:MeetingOrdering]] using a `<<list-links-draggable>>` macro of the form described in this section, inserted within the `OnboardingHr` tiddler."
 }

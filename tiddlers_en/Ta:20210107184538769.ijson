@@ -7,6 +7,5 @@
   "qtype": "rememberq",
   "question": "What field of a tiddler do you set to change the wording displayed on a tab rendered with the `tabs` macro?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20210107184538769")
+  "type": "text/vnd.tiddlywiki"
 }

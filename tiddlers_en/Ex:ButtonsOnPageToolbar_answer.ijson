@@ -4,6 +4,5 @@
   "modified": "20200822192450806",
   "tags": "Answer",
   "type": "text/vnd.tiddlywiki",
-  "text": _("The tag to use is `$:/tags/PageControls`."),
-  "human_title": _("Ex:ButtonsOnPageToolbar/answer")
+  "text": "The tag to use is `$:/tags/PageControls`."
 }

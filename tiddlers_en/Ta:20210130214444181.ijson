@@ -7,6 +7,5 @@
   "qtype": "rememberq",
   "question": "If you are looking at a tag in TiddlyWiki's interface, how can you obtain a list of all tiddlers with that tag?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20210130214444181")
+  "type": "text/vnd.tiddlywiki"
 }

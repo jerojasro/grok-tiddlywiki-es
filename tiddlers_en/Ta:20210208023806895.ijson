@@ -7,6 +7,5 @@
   "qtype": "rememberq",
   "question": "What parameters does the `qualify` macro have?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20210208023806895")
+  "type": "text/vnd.tiddlywiki"
 }

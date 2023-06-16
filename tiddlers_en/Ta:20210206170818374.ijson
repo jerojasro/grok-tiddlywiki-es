@@ -6,6 +6,5 @@
   "qtype": "remembercz",
   "question": "Templates behave like {lenses}, objects that modify the way we see other objects.",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20210206170818374")
+  "type": "text/vnd.tiddlywiki"
 }

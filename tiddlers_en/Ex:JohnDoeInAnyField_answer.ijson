@@ -4,6 +4,5 @@
   "modified": "20210409164849480",
   "tags": "Answer",
   "type": "text/vnd.tiddlywiki",
-  "text": _("```html\n[search:*[JohnDoe]]\n```\n\nTo prevent tiddlers related to $:/AdvancedSearch from appearing in your search results because you have typed text containing `JohnDoe` in the search box, you might want to use:\n\n```html\n[!is[system]search:*[JohnDoe]]\n```"),
-  "human_title": _("Ex:JohnDoeInAnyField/answer")
+  "text": "```html\n[search:*[JohnDoe]]\n```\n\nTo prevent tiddlers related to $:/AdvancedSearch from appearing in your search results because you have typed text containing `JohnDoe` in the search box, you might want to use:\n\n```html\n[!is[system]search:*[JohnDoe]]\n```"
 }

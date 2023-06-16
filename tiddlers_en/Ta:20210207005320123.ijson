@@ -7,6 +7,5 @@
   "qtype": "rememberq",
   "question": "Write a `$view` widget to display the four-digit year in which the current tiddler was last modified.",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20210207005320123")
+  "type": "text/vnd.tiddlywiki"
 }

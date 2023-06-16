@@ -7,6 +7,5 @@
   "qtype": "rememberq",
   "question": "Explain how a WYSIWYM editor differs from a WYSIWYG editor.",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20210115212301253")
+  "type": "text/vnd.tiddlywiki"
 }

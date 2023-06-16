@@ -4,6 +4,5 @@
   "modified": "20210327153247824",
   "tags": "Answer",
   "type": "text/vnd.tiddlywiki",
-  "text": _("In the `TicketNumberLink` tiddler:\n\n```html\n\\define ticketLink(ticketId)\n[[Ticket #$ticketId$|https://tix.example.com/ticket/$ticketId$]]\n\\end\n\n<$macrocall $name=\"ticketLink\" ticketId={{!!ticketnum}} />\n```\n\nIn the `OnboardingProcess` tiddler:\n\n```html\n{{||TicketNumberLink}}\n```"),
-  "human_title": _("Ex:TicketTrackingTemplate/answer")
+  "text": "In the `TicketNumberLink` tiddler:\n\n```html\n\\define ticketLink(ticketId)\n[[Ticket #$ticketId$|https://tix.example.com/ticket/$ticketId$]]\n\\end\n\n<$macrocall $name=\"ticketLink\" ticketId={{!!ticketnum}} />\n```\n\nIn the `OnboardingProcess` tiddler:\n\n```html\n{{||TicketNumberLink}}\n```"
 }

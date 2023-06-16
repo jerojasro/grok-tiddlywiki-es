@@ -7,6 +7,5 @@
   "qtype": "rememberq",
   "question": "What prefix can you add to a filter run to AND it with the accumulated results of previous runs?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20210206152409644")
+  "type": "text/vnd.tiddlywiki"
 }

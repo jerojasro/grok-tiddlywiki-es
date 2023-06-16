@@ -4,6 +4,5 @@
   "modified": "20210503015514478",
   "tags": "",
   "type": "text/vnd.tiddlywiki",
-  "text": _("https://groktiddlywiki.com/donate"),
-  "human_title": _("$:/sib/DonationLink")
+  "text": "https://groktiddlywiki.com/donate"
 }

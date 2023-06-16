@@ -6,6 +6,5 @@
   "origin": "The Finer Points of Macros",
   "tags": "Exercise",
   "type": "text/vnd.tiddlywiki",
-  "text": _("Take the example //The $macrocall widget can take variables as parameters// and modify it so that the inner macro calls are surrounded in quotation marks, like so:\n\n{{Sn:QuotedMacroExpansion||$:/sib/Snippet/TiddlerAsWikitext}}\n\nWhat happens? Why do you think this happened?"),
-  "human_title": _("Ex:QuotedMacroCall")
+  "text": "Take the example //The $macrocall widget can take variables as parameters// and modify it so that the inner macro calls are surrounded in quotation marks, like so:\n\n{{Sn:QuotedMacroExpansion||$:/sib/Snippet/TiddlerAsWikitext}}\n\nWhat happens? Why do you think this happened?"
 }

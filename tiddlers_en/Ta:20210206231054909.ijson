@@ -7,6 +7,5 @@
   "qtype": "rememberq",
   "question": "Unlike with the `$set` widget, variables set by the `$let` widget cannot have names specified how?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20210206231054909")
+  "type": "text/vnd.tiddlywiki"
 }

@@ -7,6 +7,5 @@
   "origin": "Slicing Up Content",
   "tags": "Exercise",
   "type": "text/vnd.tiddlywiki",
-  "text": _("Edit a few sections and tiddlers in the //Grok TiddlyWiki// wiki to get a feel for how it's divided into tiddlers and what fields are present on these tiddlers. Tiddlers are transcluded into other tiddlers using a syntax involving `{{double curly braces}}`; don't worry if you see things in the source that don't make sense yet."),
-  "human_title": _("Ex:SlicingInGtw")
+  "text": "Edit a few sections and tiddlers in the //Grok TiddlyWiki// wiki to get a feel for how it's divided into tiddlers and what fields are present on these tiddlers. Tiddlers are transcluded into other tiddlers using a syntax involving `{{double curly braces}}`; don't worry if you see things in the source that don't make sense yet."
 }

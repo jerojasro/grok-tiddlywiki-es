@@ -7,6 +7,5 @@
   "qtype": "rememberq",
   "question": "What filter step removes all system tiddlers from consideration?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20201230163300801")
+  "type": "text/vnd.tiddlywiki"
 }

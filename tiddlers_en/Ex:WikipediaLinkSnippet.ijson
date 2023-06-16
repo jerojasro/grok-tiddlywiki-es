@@ -6,6 +6,5 @@
   "origin": "Stamps",
   "tags": "Exercise",
   "type": "text/vnd.tiddlywiki",
-  "text": _("Create a snippet //Link to Wikipedia article// that inserts a call to the `wikipediaLink` global macro. Specifically, it should use the prefix/suffix feature so that if you highlight `Aardvark`, you get `<<wikipediaLink \"Aardvark\" linktext>>`."),
-  "human_title": _("Ex:WikipediaLinkSnippet")
+  "text": "Create a snippet //Link to Wikipedia article// that inserts a call to the `wikipediaLink` global macro. Specifically, it should use the prefix/suffix feature so that if you highlight `Aardvark`, you get `<<wikipediaLink \"Aardvark\" linktext>>`."
 }

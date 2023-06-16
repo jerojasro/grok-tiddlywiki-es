@@ -7,6 +7,5 @@
   "qtype": "rememberq",
   "question": "If you become frustrated at a TiddlyWiki problem, what is the fastest way to get back on track?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20210120232711407")
+  "type": "text/vnd.tiddlywiki"
 }

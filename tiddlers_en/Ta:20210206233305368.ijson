@@ -7,6 +7,5 @@
   "qtype": "rememberq",
   "question": "What widget is specifically designed to allow you to set the current tiddler?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20210206233305368")
+  "type": "text/vnd.tiddlywiki"
 }

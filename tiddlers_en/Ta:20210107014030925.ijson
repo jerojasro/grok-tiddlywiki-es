@@ -7,6 +7,5 @@
   "qtype": "rememberq",
   "question": "In what circumstances will a shadow tiddler provided by a plugin be ignored?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20210107014030925")
+  "type": "text/vnd.tiddlywiki"
 }

@@ -8,6 +8,5 @@
   "tags": "",
   "type": "text/vnd.tiddlywiki",
   "version": "1.2.0",
-  "text": _("This version of //Grok TiddlyWiki// contains content updates to align the text with the following improvements in TiddlyWiki 5.2.0:\n\n* Field names [[no longer have character restrictions|Contact Tiddlers]].\n* Images can now be [[directly inserted|Images and Attachments]] into tiddlers.\n* HTML [[comments|Comments]] can now [[appear before and between pragmas|Ex:MacroPosition/answer]].\n* The `$edit-text` widget can now [[edit the tiddler it's contained in|Ex:EditCurrentTiddler/answer]].\n* `:map` and `:sort` [[filter run prefixes|Multi-Run Filters]] were added.\n* Macro calls with parameters can now be [[transcluded into a filter|Filters and Transclusions]]."),
-  "human_title": _("$:/plugins/sobjornstad/GrokTiddlyWiki/Changes/1.2.0")
+  "text": "This version of //Grok TiddlyWiki// contains content updates to align the text with the following improvements in TiddlyWiki 5.2.0:\n\n* Field names [[no longer have character restrictions|Contact Tiddlers]].\n* Images can now be [[directly inserted|Images and Attachments]] into tiddlers.\n* HTML [[comments|Comments]] can now [[appear before and between pragmas|Ex:MacroPosition/answer]].\n* The `$edit-text` widget can now [[edit the tiddler it's contained in|Ex:EditCurrentTiddler/answer]].\n* `:map` and `:sort` [[filter run prefixes|Multi-Run Filters]] were added.\n* Macro calls with parameters can now be [[transcluded into a filter|Filters and Transclusions]]."
 }

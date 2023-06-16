@@ -4,6 +4,5 @@
   "modified": "20210817225459766",
   "tags": "",
   "type": "text/vnd.tiddlywiki",
-  "text": _("Section: \n<$select tiddler=\"$:/temp/SectionSelectorExample\" default=\"\">\n\t<option value=\"\">(choose a section)</option>\n\t<$list filter=\"[all[tiddlers+shadows]tag[Section]]\">\n\t\t<option value=<<currentTiddler>>>\n\t\t\t<<currentTiddler>>\n\t\t</option>\n\t</$list>\n</$select>\n\n<$list filter=\"[{$:/temp/SectionSelectorExample}!is[blank]]\" variable=\"selectedTiddler\" emptyMessage=\"Please choose a section.\">\n\tThe blurb of the section //<<selectedTiddler>>// is \u201c<$transclude tiddler=<<selectedTiddler>> field=\"description\"/>\u201d\n</$list>\n"),
-  "human_title": _("Sn:DynamicSelectExample")
+  "text": "Section: \n<$select tiddler=\"$:/temp/SectionSelectorExample\" default=\"\">\n\t<option value=\"\">(choose a section)</option>\n\t<$list filter=\"[all[tiddlers+shadows]tag[Section]]\">\n\t\t<option value=<<currentTiddler>>>\n\t\t\t<<currentTiddler>>\n\t\t</option>\n\t</$list>\n</$select>\n\n<$list filter=\"[{$:/temp/SectionSelectorExample}!is[blank]]\" variable=\"selectedTiddler\" emptyMessage=\"Please choose a section.\">\n\tThe blurb of the section //<<selectedTiddler>>// is \u201c<$transclude tiddler=<<selectedTiddler>> field=\"description\"/>\u201d\n</$list>\n"
 }

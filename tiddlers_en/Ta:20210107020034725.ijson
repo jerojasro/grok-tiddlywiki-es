@@ -7,6 +7,5 @@
   "qtype": "rememberq",
   "question": "What mechanism does TiddlyWiki's view template use to enable users to easily add additional components?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20210107020034725")
+  "type": "text/vnd.tiddlywiki"
 }

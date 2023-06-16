@@ -6,6 +6,5 @@
   "origin": "Creating Tiddlers With Predefined Fields",
   "tags": "Exercise",
   "type": "text/vnd.tiddlywiki",
-  "text": _("Create a button that creates a new contact. The created tiddler should contain the four fields we've been using, `email`, `family`, `manager`, and `phone`, but empty ready for the user to fill in; it should also have a title of `New Contact` and be tagged with `Contact`."),
-  "human_title": _("Ex:NewContactButton")
+  "text": "Create a button that creates a new contact. The created tiddler should contain the four fields we've been using, `email`, `family`, `manager`, and `phone`, but empty ready for the user to fill in; it should also have a title of `New Contact` and be tagged with `Contact`."
 }

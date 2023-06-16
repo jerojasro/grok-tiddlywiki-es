@@ -6,6 +6,5 @@
   "qtype": "remembercz",
   "question": "When tiddlers perform actions on other tiddlers, they act like {machines} (object in the physical world).",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20210206163910099")
+  "type": "text/vnd.tiddlywiki"
 }

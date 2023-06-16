@@ -7,6 +7,5 @@
   "qtype": "rememberq",
   "question": "In the context of full-text search, what is a //false positive//?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20201229034858232")
+  "type": "text/vnd.tiddlywiki"
 }

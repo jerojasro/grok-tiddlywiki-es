@@ -7,6 +7,5 @@
   "qtype": "rememberq",
   "question": "What is the wikitext syntax to create a link to Google (`https://www.google.com`) with the link text `a search engine`?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20210116234613487")
+  "type": "text/vnd.tiddlywiki"
 }

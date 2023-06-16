@@ -7,6 +7,5 @@
   "qtype": "rememberq",
   "question": "Write a `$let` widget that sets the variable `one` to `1` and the variable `two` to `2`.",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20210206230535658")
+  "type": "text/vnd.tiddlywiki"
 }

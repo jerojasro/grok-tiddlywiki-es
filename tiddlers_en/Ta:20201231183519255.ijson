@@ -7,6 +7,5 @@
   "qtype": "rememberq",
   "question": "What wikitext syntax would you use to transclude the `description` field of the current tiddler?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20201231183519255")
+  "type": "text/vnd.tiddlywiki"
 }

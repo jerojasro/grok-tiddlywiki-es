@@ -7,6 +7,5 @@
   "qtype": "rememberq",
   "question": "In the UTC-5 timezone, what date does the TiddlyWiki timestamp `20181210015823551` represent?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20201229041348365")
+  "type": "text/vnd.tiddlywiki"
 }

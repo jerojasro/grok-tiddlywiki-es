@@ -7,6 +7,5 @@
   "qtype": "rememberq",
   "question": "The various choices offered by a `$select` widget are defined using what nested HTML element?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20210206233859381")
+  "type": "text/vnd.tiddlywiki"
 }

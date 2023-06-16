@@ -7,6 +7,5 @@
   "qtype": "rememberq",
   "question": "What built-in macro allows you to get today's date?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20210103174222286")
+  "type": "text/vnd.tiddlywiki"
 }

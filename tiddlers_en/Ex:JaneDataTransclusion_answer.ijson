@@ -4,6 +4,5 @@
   "modified": "20200604013754220",
   "tags": "Answer",
   "type": "text/vnd.tiddlywiki",
-  "text": _("An easy version:\n\n```html\n!! Information about Jane\n\n* ''Email'': {{!!email}}\n* ''Phone'': {{!!phone}}\n* ''Family'': {{!!family}}\n* ''Manager'': {{!!manager}}\n```"),
-  "human_title": _("Ex:JaneDataTransclusion/answer")
+  "text": "An easy version:\n\n```html\n!! Information about Jane\n\n* ''Email'': {{!!email}}\n* ''Phone'': {{!!phone}}\n* ''Family'': {{!!family}}\n* ''Manager'': {{!!manager}}\n```"
 }

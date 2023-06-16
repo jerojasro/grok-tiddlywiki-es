@@ -7,6 +7,5 @@
   "qtype": "rememberq",
   "question": "What pattern can be used to allow logic depending on the name of the current tiddler to function in a side-by-side preview?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20210207014142455")
+  "type": "text/vnd.tiddlywiki"
 }

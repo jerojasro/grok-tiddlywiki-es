@@ -7,6 +7,5 @@
   "qtype": "rememberq",
   "question": "What wikitext syntax displays a table of contents that shows all tiddlers in a non-expandable hierarchy, beginning at the tiddler `TableOfContents`?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20201229152140871")
+  "type": "text/vnd.tiddlywiki"
 }

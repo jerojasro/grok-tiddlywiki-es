@@ -7,6 +7,5 @@
   "qtype": "rememberq",
   "question": "Where can you find a list of all plugins in your wiki?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20210103191957794")
+  "type": "text/vnd.tiddlywiki"
 }

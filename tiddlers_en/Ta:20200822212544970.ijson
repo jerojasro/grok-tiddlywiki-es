@@ -6,6 +6,5 @@
   "qtype": "remembercz",
   "question": "A phrase is in camel case when there are no {spaces} between words and the beginning of each word is {capitalized}.",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20200822212544970")
+  "type": "text/vnd.tiddlywiki"
 }

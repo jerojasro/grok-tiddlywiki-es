@@ -6,6 +6,5 @@
   "origin": "The View Template",
   "tags": "Exercise",
   "type": "text/vnd.tiddlywiki",
-  "text": _("Adjust the `$:/yourname/TiddlerTypeTemplates/Contact` component of the ViewTemplate so that the contact information template is used only on tiddlers tagged `Contact`."),
-  "human_title": _("Ex:ContactsOnlyOnContacts")
+  "text": "Adjust the `$:/yourname/TiddlerTypeTemplates/Contact` component of the ViewTemplate so that the contact information template is used only on tiddlers tagged `Contact`."
 }

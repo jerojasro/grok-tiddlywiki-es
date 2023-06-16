@@ -7,6 +7,5 @@
   "qtype": "rememberq",
   "question": "When viewing a tiddler, where can you look to find a list of its backlinks in stock TiddlyWiki?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20201229040227672")
+  "type": "text/vnd.tiddlywiki"
 }

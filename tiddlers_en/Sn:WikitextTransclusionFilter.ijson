@@ -4,6 +4,5 @@
   "modified": "20210521201836224",
   "tags": "",
   "type": "text/vnd.tiddlywiki",
-  "text": _("{{{ [all[tiddlers+shadows]!is[system]tag[Template]] }}}"),
-  "human_title": _("Sn:WikitextTransclusionFilter")
+  "text": "{{{ [all[tiddlers+shadows]!is[system]tag[Template]] }}}"
 }

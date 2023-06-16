@@ -7,6 +7,5 @@
   "qtype": "rememberq",
   "question": "Always/Sometimes/Never: It is OK to transclude a tiddler that itself transcludes other tiddlers.",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20201231184943853")
+  "type": "text/vnd.tiddlywiki"
 }

@@ -7,6 +7,5 @@
   "qtype": "rememberq",
   "question": "A macro definition that is more than one line long must be ended how?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20201231010010889")
+  "type": "text/vnd.tiddlywiki"
 }

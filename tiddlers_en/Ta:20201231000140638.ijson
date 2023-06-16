@@ -6,6 +6,5 @@
   "qtype": "remembercz",
   "question": "Wikitext is almost a perfect {superset} of HTML (mathematics term).",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20201231000140638")
+  "type": "text/vnd.tiddlywiki"
 }

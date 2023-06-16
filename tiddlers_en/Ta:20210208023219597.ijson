@@ -7,6 +7,5 @@
   "qtype": "rememberq",
   "question": "What macro creates a name that is unique among all places the call to the macro is transcluded?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20210208023219597")
+  "type": "text/vnd.tiddlywiki"
 }

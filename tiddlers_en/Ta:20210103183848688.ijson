@@ -7,6 +7,5 @@
   "qtype": "rememberq",
   "question": "Data tiddlers can be in what two formats?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki",
-  "human_title": _("Ta:20210103183848688")
+  "type": "text/vnd.tiddlywiki"
 }
