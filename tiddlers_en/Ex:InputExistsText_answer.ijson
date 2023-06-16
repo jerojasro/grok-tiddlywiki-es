@@ -4,5 +4,6 @@
   "modified": "20200718215113806",
   "tags": "Answer",
   "type": "text/vnd.tiddlywiki",
-  "text": "```html\nGo to Tiddler:\n<$edit-text tiddler=\"$:/temp/goto\" tag=\"input\" default=\"\"/>\n<$button to={{$:/temp/goto}}>Go</$button>\n<$list filter=\"[{$:/temp/goto}is[tiddler]]\"\n       emptyMessage=\"\"\"<span style=\"color: red;\">Not found.</span>\"\"\">\n  <span style=\"color:green;\">Exists!</span>\n</$list>\n```"
+  "text": "```html\nGo to Tiddler:\n<$edit-text tiddler=\"$:/temp/goto\" tag=\"input\" default=\"\"/>\n<$button to={{$:/temp/goto}}>Go</$button>\n<$list filter=\"[{$:/temp/goto}is[tiddler]]\"\n       emptyMessage=\"\"\"<span style=\"color: red;\">Not found.</span>\"\"\">\n  <span style=\"color:green;\">Exists!</span>\n</$list>\n```",
+  "human_title": "Ex:InputExistsText/answer"
 }

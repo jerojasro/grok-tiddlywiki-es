@@ -5,5 +5,6 @@
   "modified": "20210320140852289",
   "tags": "",
   "type": "text/vnd.tiddlywiki",
-  "text": "<$codeblock code={{!!text}} language=\"html\"/>"
+  "text": "<$codeblock code={{!!text}} language=\"html\"/>",
+  "human_title": "$:/sib/Snippet/TiddlerAsWikitext"
 }

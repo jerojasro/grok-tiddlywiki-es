@@ -4,5 +4,6 @@
   "modified": "20210314125559561",
   "tags": "",
   "type": "text/vnd.tiddlywiki",
-  "text": "\\define wikipediaLink() https://en.wikipedia.org/wiki/$(articleName)$\n\n<$set name=\"articleName\" value=\"TiddlyWiki\">\n  <<wikipediaLink>>\n</$set>"
+  "text": "\\define wikipediaLink() https://en.wikipedia.org/wiki/$(articleName)$\n\n<$set name=\"articleName\" value=\"TiddlyWiki\">\n  <<wikipediaLink>>\n</$set>",
+  "human_title": "Sn:MacroVariableTextSubstitution"
 }

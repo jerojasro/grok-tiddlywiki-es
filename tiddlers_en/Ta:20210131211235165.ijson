@@ -7,5 +7,6 @@
   "qtype": "rememberq",
   "question": "CamelCase linking can be turned off for a specific tiddler using what pragma?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki"
+  "type": "text/vnd.tiddlywiki",
+  "human_title": "Ta:20210131211235165"
 }

@@ -4,5 +4,6 @@
   "modified": "20210131140928496",
   "tags": "",
   "type": "text/vnd.tiddlywiki",
-  "text": "Here is some //italic text//.\n\nHere is some ''bold text''.\n\nHere is some `monospaced text`. `In here, further //TiddlyWiki markup// is ''ignored''.`\n\nHere is a ^^superscript^^ section.\n\nHere is a ,,subscript,, section.\n\nHere is a ~~struck-through~~ section.\n\nHere is an __underlined__ section.\n\nHere is some //''bold italic text''//.\n\nHere is some ''//__~~^^bold italic underlined superscripted struck-through^^~~__//'' text."
+  "text": "Here is some //italic text//.\n\nHere is some ''bold text''.\n\nHere is some `monospaced text`. `In here, further //TiddlyWiki markup// is ''ignored''.`\n\nHere is a ^^superscript^^ section.\n\nHere is a ,,subscript,, section.\n\nHere is a ~~struck-through~~ section.\n\nHere is an __underlined__ section.\n\nHere is some //''bold italic text''//.\n\nHere is some ''//__~~^^bold italic underlined superscripted struck-through^^~~__//'' text.",
+  "human_title": "Sn:WikitextInlineTextFormatting"
 }

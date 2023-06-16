@@ -4,5 +4,6 @@
   "modified": "20210409024812722",
   "tags": "",
   "type": "text/vnd.tiddlywiki",
-  "text": "<$view field=\"at\" format=\"date\" template=\"DD MMM YYYY hh12:0mm:0ss pm\"/>"
+  "text": "<$view field=\"at\" format=\"date\" template=\"DD MMM YYYY hh12:0mm:0ss pm\"/>",
+  "human_title": "Sn:MagicDateSnippet"
 }

@@ -6,5 +6,6 @@
   "origin": "Anatomy of Filter Steps",
   "tags": "Exercise",
   "type": "text/vnd.tiddlywiki",
-  "text": "What happens if you add a suffix that doesn't have any meaning to a filter operator, such as `tag` or `title`?"
+  "text": "What happens if you add a suffix that doesn't have any meaning to a filter operator, such as `tag` or `title`?",
+  "human_title": "Ex:MeaninglessSuffix"
 }

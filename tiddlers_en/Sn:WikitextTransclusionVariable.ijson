@@ -4,5 +4,6 @@
   "modified": "20210131145610787",
   "tags": "",
   "type": "text/vnd.tiddlywiki",
-  "text": "<$set name=\"myvariable\" value=\"Hello!\">\n  <<myvariable>>\n</$set>"
+  "text": "<$set name=\"myvariable\" value=\"Hello!\">\n  <<myvariable>>\n</$set>",
+  "human_title": "Sn:WikitextTransclusionVariable"
 }

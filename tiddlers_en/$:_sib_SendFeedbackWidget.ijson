@@ -5,5 +5,6 @@
   "module-type": "widget",
   "created": "20210102234204312",
   "modified": "20210103023121649",
-  "tags": ""
+  "tags": "",
+  "human_title": "$:/sib/SendFeedbackWidget"
 }

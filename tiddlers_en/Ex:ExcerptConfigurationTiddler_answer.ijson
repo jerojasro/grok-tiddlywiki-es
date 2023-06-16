@@ -4,5 +4,6 @@
   "modified": "20200718202122620",
   "tags": "Answer",
   "type": "text/vnd.tiddlywiki",
-  "text": "Your configuration tiddler itself just needs to contain the text `200` (or whatever number of characters you want to show). To use the value on your filter, the easiest method is:\n\n```html\n{{{ [<wikitext>split[]first{$:/config/LinkExcerptLength}join[]] }}}\n```"
+  "text": "Your configuration tiddler itself just needs to contain the text `200` (or whatever number of characters you want to show). To use the value on your filter, the easiest method is:\n\n```html\n{{{ [<wikitext>split[]first{$:/config/LinkExcerptLength}join[]] }}}\n```",
+  "human_title": "Ex:ExcerptConfigurationTiddler/answer"
 }

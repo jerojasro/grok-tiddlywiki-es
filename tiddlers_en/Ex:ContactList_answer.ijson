@@ -4,5 +4,6 @@
   "modified": "20210409172309774",
   "tags": "Answer",
   "type": "text/vnd.tiddlywiki",
-  "text": "```html\n<$list filter=\"[tag[Contact]sort[]]\">\n\t<<currentTiddler>><br>\n</$list>\n```\n\n(You might also have kept the bulleted-list version from the [[previous exercise|Ex:BulletedMeetingList]].)"
+  "text": "```html\n<$list filter=\"[tag[Contact]sort[]]\">\n\t<<currentTiddler>><br>\n</$list>\n```\n\n(You might also have kept the bulleted-list version from the [[previous exercise|Ex:BulletedMeetingList]].)",
+  "human_title": "Ex:ContactList/answer"
 }

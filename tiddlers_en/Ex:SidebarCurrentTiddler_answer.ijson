@@ -4,5 +4,6 @@
   "modified": "20200718044844812",
   "tags": "Answer",
   "type": "text/vnd.tiddlywiki",
-  "text": "No tabs show up at all, because there is no `currentTiddler` value defined in the sidebar! If you think about it, this makes good sense -- the sidebar is not rendered in the context of any particular tiddler."
+  "text": "No tabs show up at all, because there is no `currentTiddler` value defined in the sidebar! If you think about it, this makes good sense -- the sidebar is not rendered in the context of any particular tiddler.",
+  "human_title": "Ex:SidebarCurrentTiddler/answer"
 }

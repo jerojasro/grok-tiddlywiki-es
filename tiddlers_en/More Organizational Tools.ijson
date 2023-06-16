@@ -8,5 +8,6 @@
   "parent": "Outline",
   "tags": "Chapter",
   "type": "text/vnd.tiddlywiki",
-  "text": "At this point, we've covered most of the important features of TiddlyWiki. In the next chapter, we'll be exploring how we can use what we've learned to customize TiddlyWiki's interface and behavior. Before that, though, let's look at a few miscellaneous features that we haven't covered yet.\n\n!! In this chapter\n\n{{||ChapterOutlineTemplate}}"
+  "text": "At this point, we've covered most of the important features of TiddlyWiki. In the next chapter, we'll be exploring how we can use what we've learned to customize TiddlyWiki's interface and behavior. Before that, though, let's look at a few miscellaneous features that we haven't covered yet.\n\n!! In this chapter\n\n{{||ChapterOutlineTemplate}}",
+  "human_title": "More Organizational Tools"
 }

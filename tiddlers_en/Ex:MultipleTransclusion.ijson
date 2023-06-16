@@ -6,5 +6,6 @@
   "origin": "Transclusions",
   "tags": "Exercise",
   "type": "text/vnd.tiddlywiki",
-  "text": "What happens if you transclude a tiddler that contains transclusions?"
+  "text": "What happens if you transclude a tiddler that contains transclusions?",
+  "human_title": "Ex:MultipleTransclusion"
 }

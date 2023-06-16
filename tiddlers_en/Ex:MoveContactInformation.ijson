@@ -6,5 +6,6 @@
   "origin": "The View Template",
   "tags": "Exercise",
   "type": "text/vnd.tiddlywiki",
-  "text": "Move the contact information above the rest of the tiddler's body, rather than below it."
+  "text": "Move the contact information above the rest of the tiddler's body, rather than below it.",
+  "human_title": "Ex:MoveContactInformation"
 }

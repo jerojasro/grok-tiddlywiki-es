@@ -6,5 +6,6 @@
   "qtype": "remembercz",
   "question": "The two //modes// TiddlyWiki uses when reading wikitext are {block} mode and {inline} mode.",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki"
+  "type": "text/vnd.tiddlywiki",
+  "human_title": "Ta:20210116235201834"
 }

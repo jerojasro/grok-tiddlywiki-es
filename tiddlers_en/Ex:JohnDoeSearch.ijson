@@ -6,5 +6,6 @@
   "origin": "Searching",
   "tags": "Exercise",
   "type": "text/vnd.tiddlywiki",
-  "text": "Search for `JohnDoe`. Do you notice anything about the results? What's there, and what's missing?"
+  "text": "Search for `JohnDoe`. Do you notice anything about the results? What's there, and what's missing?",
+  "human_title": "Ex:JohnDoeSearch"
 }

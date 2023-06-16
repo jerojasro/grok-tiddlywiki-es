@@ -4,5 +4,6 @@
   "modified": "20210117010637701",
   "tags": "",
   "type": "text/vnd.tiddlywiki",
-  "text": "|!Header 1|!Header 2|\n|Cell 1|Cell 2|"
+  "text": "|!Header 1|!Header 2|\n|Cell 1|Cell 2|",
+  "human_title": "Sn:WikitextTable"
 }

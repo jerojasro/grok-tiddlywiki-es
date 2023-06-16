@@ -6,5 +6,6 @@
   "origin": "Classifying Tags",
   "tags": "Exercise",
   "type": "text/vnd.tiddlywiki",
-  "text": "Set the tags corresponding to tiddler types (`Contact`, `Journal`, `Meeting`, and `Project`) to solid red (`#ff0000`) and give them a tag icon (`$:/core/images/tag-button`)."
+  "text": "Set the tags corresponding to tiddler types (`Contact`, `Journal`, `Meeting`, and `Project`) to solid red (`#ff0000`) and give them a tag icon (`$:/core/images/tag-button`).",
+  "human_title": "Ex:TagColoring"
 }

@@ -7,5 +7,6 @@
   "qtype": "rememberq",
   "question": "Write a `$tiddler` widget with content that transcludes the tiddler specified in the `myTiddler` variable through the `Example Template` tiddler.",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki"
+  "type": "text/vnd.tiddlywiki",
+  "human_title": "Ta:20210206233413592"
 }

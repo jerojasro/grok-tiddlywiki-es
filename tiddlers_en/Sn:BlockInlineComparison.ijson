@@ -4,5 +4,6 @@
   "modified": "20210410142121440",
   "tags": "",
   "type": "text/vnd.tiddlywiki",
-  "text": "<div style=\"background-color: red;\">Element 1</div>\n<div style=\"background-color: yellow;\">Element 2</div>\n\n<hr>\n\n<span style=\"background-color: red;\">Element 1</span>\n<span style=\"background-color: yellow;\">Element 2</span>"
+  "text": "<div style=\"background-color: red;\">Element 1</div>\n<div style=\"background-color: yellow;\">Element 2</div>\n\n<hr>\n\n<span style=\"background-color: red;\">Element 1</span>\n<span style=\"background-color: yellow;\">Element 2</span>",
+  "human_title": "Sn:BlockInlineComparison"
 }

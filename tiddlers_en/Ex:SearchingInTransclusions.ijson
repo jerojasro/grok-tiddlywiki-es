@@ -6,5 +6,6 @@
   "origin": "Transclusions",
   "tags": "Exercise",
   "type": "text/vnd.tiddlywiki",
-  "text": "In an [[exercise|Ex:JohnDoeSearch]] in the previous chapter, we observed that tiddlers referenced in fields did not appear in search. Now, however, we have transcluded these fields directly into the JaneDoe tiddler. Try searching for some of the text again (e.g., `ChrisSmith`). Has anything changed?"
+  "text": "In an [[exercise|Ex:JohnDoeSearch]] in the previous chapter, we observed that tiddlers referenced in fields did not appear in search. Now, however, we have transcluded these fields directly into the JaneDoe tiddler. Try searching for some of the text again (e.g., `ChrisSmith`). Has anything changed?",
+  "human_title": "Ex:SearchingInTransclusions"
 }

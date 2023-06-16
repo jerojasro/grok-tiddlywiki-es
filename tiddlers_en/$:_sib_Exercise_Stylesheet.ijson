@@ -4,5 +4,6 @@
   "modified": "20210321002250427",
   "tags": "$:/tags/Stylesheet",
   "type": "text/vnd.tiddlywiki",
-  "text": "div.twx-completion {\n\tfloat: right;\n}\n\ntable.gtw-exercise-browser {\n\t\tfont-size: 12px;\n\t\ttable-layout: fixed;\n\t\twidth: 100%;\n}\n\ntable.gtw-exercise-browser td {\n\tvertical-align: top;\n}"
+  "text": "div.twx-completion {\n\tfloat: right;\n}\n\ntable.gtw-exercise-browser {\n\t\tfont-size: 12px;\n\t\ttable-layout: fixed;\n\t\twidth: 100%;\n}\n\ntable.gtw-exercise-browser td {\n\tvertical-align: top;\n}",
+  "human_title": "$:/sib/Exercise/Stylesheet"
 }

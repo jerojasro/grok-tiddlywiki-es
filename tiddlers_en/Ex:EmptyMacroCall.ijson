@@ -6,5 +6,6 @@
   "origin": "Macros",
   "tags": "Exercise",
   "type": "text/vnd.tiddlywiki",
-  "text": "Try calling a macro that doesn't exist (say, one called `notamacro`). What happens?"
+  "text": "Try calling a macro that doesn't exist (say, one called `notamacro`). What happens?",
+  "human_title": "Ex:EmptyMacroCall"
 }

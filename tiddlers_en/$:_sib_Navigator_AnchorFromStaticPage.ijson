@@ -4,5 +4,6 @@
   "modified": "20210819205654231",
   "tags": "",
   "type": "text/vnd.tiddlywiki",
-  "text": "<a href={{{ [all[current]encodeuri[]search-replace[/],[%2F]search-replace[:],[%3A]addprefix[https://groktiddlywiki.com/read/#]] }}}>the wiki version of this page</a>"
+  "text": "<a href={{{ [all[current]encodeuri[]search-replace[/],[%2F]search-replace[:],[%3A]addprefix[https://groktiddlywiki.com/read/#]] }}}>the wiki version of this page</a>",
+  "human_title": "$:/sib/Navigator/AnchorFromStaticPage"
 }

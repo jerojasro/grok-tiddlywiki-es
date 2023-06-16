@@ -7,5 +7,6 @@
   "origin": "Journal Tiddlers",
   "tags": "Exercise",
   "type": "text/vnd.tiddlywiki",
-  "text": "Close your new journal tiddler and open it again."
+  "text": "Close your new journal tiddler and open it again.",
+  "human_title": "Ex:CloseAndReopen"
 }

@@ -7,5 +7,6 @@
   "qtype": "rememberq",
   "question": "Write a filter step that finds all tiddlers which have a field `has` set to the exact value `money`.",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki"
+  "type": "text/vnd.tiddlywiki",
+  "human_title": "Ta:20201230235250718"
 }

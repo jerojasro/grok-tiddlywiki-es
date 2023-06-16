@@ -5,5 +5,6 @@
   "modified": "20210320140908903",
   "tags": "",
   "type": "text/vnd.tiddlywiki",
-  "text": "<div class=\"msbs-snippet\">\n\n{{||$:/sib/Snippet/TiddlerAsWikitext}}\n\n</div>\n<div class=\"msbs-snippet\">\n\n{{||$:/sib/Snippet/TiddlerAsRendered}}\n\n</div>"
+  "text": "<div class=\"msbs-snippet\">\n\n{{||$:/sib/Snippet/TiddlerAsWikitext}}\n\n</div>\n<div class=\"msbs-snippet\">\n\n{{||$:/sib/Snippet/TiddlerAsRendered}}\n\n</div>",
+  "human_title": "$:/sib/Snippet/MagicSideBySide"
 }

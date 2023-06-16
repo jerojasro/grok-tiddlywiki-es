@@ -7,5 +7,6 @@
   "qtype": "rememberq",
   "question": "Write a filter expression that shows all tiddlers that are tagged `Journal`, but do not both contain the word `fudge` in their `text` field and have the tag `Meeting` (having one of the latter two conditions is OK).",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki"
+  "type": "text/vnd.tiddlywiki",
+  "human_title": "Ta:20210206152939201"
 }

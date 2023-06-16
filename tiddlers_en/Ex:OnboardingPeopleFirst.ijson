@@ -6,5 +6,6 @@
   "origin": "Ordering Tiddlers",
   "tags": "Exercise",
   "type": "text/vnd.tiddlywiki",
-  "text": "Use the `list-before` field to make the `OnboardingPeople` tiddler appear first in the table of contents you created within the `OnboardingProcess` tiddler in the previous section."
+  "text": "Use the `list-before` field to make the `OnboardingPeople` tiddler appear first in the table of contents you created within the `OnboardingProcess` tiddler in the previous section.",
+  "human_title": "Ex:OnboardingPeopleFirst"
 }

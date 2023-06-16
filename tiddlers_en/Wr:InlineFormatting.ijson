@@ -5,5 +5,6 @@
   "modified": "20210322015851587",
   "tags": "[[Wikitext Reference]]",
   "type": "text/vnd.tiddlywiki",
-  "text": "{{Sn:WikitextInlineTextFormatting||MagicSnippet}}\n\nUsing backticks to create monospaced text also inhibits further parsing of wikitext inside the backticks, so you can use this to talk about TiddlyWiki markup or prevent TiddlyWiki from treating computer code or other punctuation-heavy text as wiki markup.\n\nWhen creating bold italics (or any other combination of formatting), be sure to close the bold and italic in the opposite order you opened them, or you will [[get stuck in inline mode|Block Mode and Inline Mode]] and the remainder of the tiddler will be formatted incorrectly:\n\n{{Sn:WikitextBoldItalicBad||MagicSnippet}}"
+  "text": "{{Sn:WikitextInlineTextFormatting||MagicSnippet}}\n\nUsing backticks to create monospaced text also inhibits further parsing of wikitext inside the backticks, so you can use this to talk about TiddlyWiki markup or prevent TiddlyWiki from treating computer code or other punctuation-heavy text as wiki markup.\n\nWhen creating bold italics (or any other combination of formatting), be sure to close the bold and italic in the opposite order you opened them, or you will [[get stuck in inline mode|Block Mode and Inline Mode]] and the remainder of the tiddler will be formatted incorrectly:\n\n{{Sn:WikitextBoldItalicBad||MagicSnippet}}",
+  "human_title": "Wr:InlineFormatting"
 }

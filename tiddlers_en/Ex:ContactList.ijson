@@ -7,5 +7,6 @@
   "origin": "Your First Dynamic List",
   "tags": "Exercise",
   "type": "text/vnd.tiddlywiki",
-  "text": "Create a `ContactList`, similar to our `MeetingList`, that shows all contacts in alphabetical order by their first name.\n\n//Tip//: To create a new tiddler and start it with the contents of an existing tiddler, click the \"more\" drop-down on the existing tiddler's toolbar and choose ''Clone''."
+  "text": "Create a `ContactList`, similar to our `MeetingList`, that shows all contacts in alphabetical order by their first name.\n\n//Tip//: To create a new tiddler and start it with the contents of an existing tiddler, click the \"more\" drop-down on the existing tiddler's toolbar and choose ''Clone''.",
+  "human_title": "Ex:ContactList"
 }

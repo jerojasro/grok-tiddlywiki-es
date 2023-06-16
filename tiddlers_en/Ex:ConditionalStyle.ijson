@@ -6,5 +6,6 @@
   "origin": "Stylesheets",
   "tags": "Exercise",
   "type": "text/vnd.tiddlywiki",
-  "text": "Modify the tiddler containing `my-funny-class` so that that class's styles apply only if the config tiddler `$:/config/ShowFunnyText` is set to `yes`."
+  "text": "Modify the tiddler containing `my-funny-class` so that that class's styles apply only if the config tiddler `$:/config/ShowFunnyText` is set to `yes`.",
+  "human_title": "Ex:ConditionalStyle"
 }

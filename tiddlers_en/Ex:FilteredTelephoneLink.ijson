@@ -6,5 +6,6 @@
   "origin": "Using Variables in Macros",
   "tags": "Exercise",
   "type": "text/vnd.tiddlywiki",
-  "text": "Repeat the [[previous exercise|Ex:TelephoneLink]], but this time use a filter rather than a macro to combine the `tel:` part and the phone number. You may need to visit the TiddlyWiki documentation to find an appropriate filter operator."
+  "text": "Repeat the [[previous exercise|Ex:TelephoneLink]], but this time use a filter rather than a macro to combine the `tel:` part and the phone number. You may need to visit the TiddlyWiki documentation to find an appropriate filter operator.",
+  "human_title": "Ex:FilteredTelephoneLink"
 }

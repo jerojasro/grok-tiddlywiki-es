@@ -4,5 +4,6 @@
   "modified": "20220103165840926",
   "tags": "",
   "type": "text/vnd.tiddlywiki",
-  "text": "<$let var1=\"one\" var2=<<var1>>>\n\tvar2: <<var2>>\n</$let>"
+  "text": "<$let var1=\"one\" var2=<<var1>>>\n\tvar2: <<var2>>\n</$let>",
+  "human_title": "Sn:LetPreviousVariableReferencing"
 }

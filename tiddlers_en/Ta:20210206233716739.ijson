@@ -7,5 +7,6 @@
   "qtype": "rememberq",
   "question": "Write a `$radio` widget that sets the value of the `color` field of the current tiddler to `teal`. The label on the button should say \u201cTeal\u201d.",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki"
+  "type": "text/vnd.tiddlywiki",
+  "human_title": "Ta:20210206233716739"
 }

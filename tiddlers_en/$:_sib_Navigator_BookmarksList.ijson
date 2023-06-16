@@ -6,5 +6,6 @@
   "modified": "20210407151442059",
   "tags": "$:/tags/SideBar",
   "type": "text/vnd.tiddlywiki",
-  "text": "<$list filter=\"[{$:/config/sobjornstad/GrokTiddlyWiki/Bookmarks}is[blank]]\">\n\t<div style=\"max-width: 300px;\">\n\t\tYou have no bookmarks at the moment. To bookmark a section, click the star icon <<textual-button \"star-filled\">> in the upper-right of that section's tiddler.\n\t</div>\n</$list>\n<<list-links-draggable \"$:/config/sobjornstad/GrokTiddlyWiki/Bookmarks\" field:\"text\" itemTemplate:\"$:/sib/Navigator/BookmarkRowTemplate\" class:\"gtw-bookmarks-list\">>"
+  "text": "<$list filter=\"[{$:/config/sobjornstad/GrokTiddlyWiki/Bookmarks}is[blank]]\">\n\t<div style=\"max-width: 300px;\">\n\t\tYou have no bookmarks at the moment. To bookmark a section, click the star icon <<textual-button \"star-filled\">> in the upper-right of that section's tiddler.\n\t</div>\n</$list>\n<<list-links-draggable \"$:/config/sobjornstad/GrokTiddlyWiki/Bookmarks\" field:\"text\" itemTemplate:\"$:/sib/Navigator/BookmarkRowTemplate\" class:\"gtw-bookmarks-list\">>",
+  "human_title": "$:/sib/Navigator/BookmarksList"
 }

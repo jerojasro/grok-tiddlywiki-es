@@ -6,5 +6,6 @@
   "origin": "Searching",
   "tags": "Exercise",
   "type": "text/vnd.tiddlywiki",
-  "text": "Try searching for a few more tiddlers you've created, both with keywords found in the title and keywords found in the body text."
+  "text": "Try searching for a few more tiddlers you've created, both with keywords found in the title and keywords found in the body text.",
+  "human_title": "Ex:SearchExploration"
 }

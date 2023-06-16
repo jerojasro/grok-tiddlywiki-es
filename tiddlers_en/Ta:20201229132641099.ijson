@@ -6,5 +6,6 @@
   "qtype": "remembercz",
   "question": "Lean towards relating two tiddlers with a tag if one is {part of} the other, and towards relating them with a link if one is merely {related to} the other.",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki"
+  "type": "text/vnd.tiddlywiki",
+  "human_title": "Ta:20201229132641099"
 }

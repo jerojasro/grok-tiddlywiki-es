@@ -4,5 +4,6 @@
   "modified": "20210314125233928",
   "tags": "",
   "type": "text/vnd.tiddlywiki",
-  "text": "The caption of the current tiddler is \u201c{{!!caption}}\u201d."
+  "text": "The caption of the current tiddler is \u201c{{!!caption}}\u201d.",
+  "human_title": "Sn:CaptionFieldTemplate"
 }

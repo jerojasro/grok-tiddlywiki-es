@@ -7,5 +7,6 @@
   "qtype": "rememberq",
   "question": "What are the names and functions of the first two parameters to the `tabs` macro?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki"
+  "type": "text/vnd.tiddlywiki",
+  "human_title": "Ta:20210103173645450"
 }

@@ -4,5 +4,6 @@
   "modified": "20210502185939977",
   "tags": "",
   "type": "text/vnd.tiddlywiki",
-  "text": "\\define myText(text) Text: <<__text__>>\n\n* ''OK:'' <<myText \"test text\">>\n* ''Bad:'' <$text text=<<myText \"test text\">>>"
+  "text": "\\define myText(text) Text: <<__text__>>\n\n* ''OK:'' <<myText \"test text\">>\n* ''Bad:'' <$text text=<<myText \"test text\">>>",
+  "human_title": "Sn:AttributeParameterSubstitution"
 }

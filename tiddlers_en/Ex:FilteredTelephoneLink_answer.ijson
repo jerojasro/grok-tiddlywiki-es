@@ -4,5 +4,6 @@
   "modified": "20210410140457181",
   "tags": "Answer",
   "type": "text/vnd.tiddlywiki",
-  "text": "```html\n<a href={{{ [[tel:]addsuffix{!!phone}] }}}>Call {{!!title}}</a>\n```\n\nOr alternatively:\n\n```html\n<a href={{{ [{!!phone}addprefix[tel:]] }}}>Call {{!!title}}</a>\n```\n\nThis suggests a general fact: most anything you can do with [[text substitution|Text Substitution]] in a macro, you can also achieve with a [[filtered transclusion|Filters and Transclusions]]. Which you choose is largely personal preference, although sometimes one might be significantly clearer and easier than the other, in which case you should probably choose that one."
+  "text": "```html\n<a href={{{ [[tel:]addsuffix{!!phone}] }}}>Call {{!!title}}</a>\n```\n\nOr alternatively:\n\n```html\n<a href={{{ [{!!phone}addprefix[tel:]] }}}>Call {{!!title}}</a>\n```\n\nThis suggests a general fact: most anything you can do with [[text substitution|Text Substitution]] in a macro, you can also achieve with a [[filtered transclusion|Filters and Transclusions]]. Which you choose is largely personal preference, although sometimes one might be significantly clearer and easier than the other, in which case you should probably choose that one.",
+  "human_title": "Ex:FilteredTelephoneLink/answer"
 }

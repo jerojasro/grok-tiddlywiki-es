@@ -5,5 +5,6 @@
   "modified": "20210123200150412",
   "tags": "",
   "type": "text/vnd.tiddlywiki",
-  "text": "<$button set=\"!!adate\" setTo={{!!created}}>Show Created Date</$button>\n<$button set=\"!!adate\" setTo=\"\">Hide Created Date</$button>\n\n<$view field=\"adate\" format=\"date\" template=\"This tiddler was created on MMM DD, YYYY.\">\n\tThe date is not currently set.\n</$view>"
+  "text": "<$button set=\"!!adate\" setTo={{!!created}}>Show Created Date</$button>\n<$button set=\"!!adate\" setTo=\"\">Hide Created Date</$button>\n\n<$view field=\"adate\" format=\"date\" template=\"This tiddler was created on MMM DD, YYYY.\">\n\tThe date is not currently set.\n</$view>",
+  "human_title": "Sn:ViewFallback"
 }

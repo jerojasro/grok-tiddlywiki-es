@@ -6,5 +6,6 @@
   "origin": "Macros",
   "tags": "Exercise",
   "type": "text/vnd.tiddlywiki",
-  "text": "Try referring to the `wikipediaLink` macro //before// defining it. What happens? What about if you put some arbitrary text before the macro definition that doesn't include a call to `wikipediaLink`?"
+  "text": "Try referring to the `wikipediaLink` macro //before// defining it. What happens? What about if you put some arbitrary text before the macro definition that doesn't include a call to `wikipediaLink`?",
+  "human_title": "Ex:MacroPosition"
 }

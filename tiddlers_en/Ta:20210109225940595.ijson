@@ -7,5 +7,6 @@
   "qtype": "rememberq",
   "question": "What tag is used to make a tiddler part of the global stylesheet in a wiki?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki"
+  "type": "text/vnd.tiddlywiki",
+  "human_title": "Ta:20210109225940595"
 }

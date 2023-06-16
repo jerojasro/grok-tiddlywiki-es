@@ -4,5 +4,6 @@
   "modified": "20210101173506420",
   "tags": "",
   "type": "text/vnd.tiddlywiki",
-  "text": "\\define findX()\nThe current value of X is \"<<X>>\".\n\\end\n\n<$set name=X value=\"marks the spot\">\n\t<<findX>>\n</$set>"
+  "text": "\\define findX()\nThe current value of X is \"<<X>>\".\n\\end\n\n<$set name=X value=\"marks the spot\">\n\t<<findX>>\n</$set>",
+  "human_title": "Sn:MarksTheSpot"
 }

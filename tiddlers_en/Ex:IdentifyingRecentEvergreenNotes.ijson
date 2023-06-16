@@ -7,5 +7,6 @@
   "origin": "Creating Evergreen Notes",
   "tags": "Exercise",
   "type": "text/vnd.tiddlywiki",
-  "text": "Find some notes you've recently taken, in any format, and review them to see if there are any ideas that would be well served by being developed as evergreen notes. These might be part of a journal, annotations you made in a book, ideas for a project, or scribbles about a lecture you attended. Write down what contexts these ideas would belong in and what other ideas they would be related to."
+  "text": "Find some notes you've recently taken, in any format, and review them to see if there are any ideas that would be well served by being developed as evergreen notes. These might be part of a journal, annotations you made in a book, ideas for a project, or scribbles about a lecture you attended. Write down what contexts these ideas would belong in and what other ideas they would be related to.",
+  "human_title": "Ex:IdentifyingRecentEvergreenNotes"
 }

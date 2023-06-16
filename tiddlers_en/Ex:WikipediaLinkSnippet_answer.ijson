@@ -4,5 +4,6 @@
   "modified": "20210418141917530",
   "tags": "Answer",
   "type": "text/vnd.tiddlywiki",
-  "text": "You need three tiddlers.\n\n* `WikipediaLinkSnippet`: tagged `$:/tags/TextEditor/Snippet` and with a caption `Link to Wikipedia article`. No content.\n* `WikipediaLinkSnippet/prefix`: body text `<<wikipediaLink \"`\n* `WikipediaLinkSnippet/suffix`: body text `\" linktext>>`"
+  "text": "You need three tiddlers.\n\n* `WikipediaLinkSnippet`: tagged `$:/tags/TextEditor/Snippet` and with a caption `Link to Wikipedia article`. No content.\n* `WikipediaLinkSnippet/prefix`: body text `<<wikipediaLink \"`\n* `WikipediaLinkSnippet/suffix`: body text `\" linktext>>`",
+  "human_title": "Ex:WikipediaLinkSnippet/answer"
 }

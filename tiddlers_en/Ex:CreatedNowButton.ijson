@@ -6,5 +6,6 @@
   "origin": "Working with Dates",
   "tags": "Exercise",
   "type": "text/vnd.tiddlywiki",
-  "text": "Make a button labeled //Created Now// that resets the `created` date of the current tiddler to the current time. Place the button on a template, or simply on a test tiddler, and try resetting the created time of the tiddler."
+  "text": "Make a button labeled //Created Now// that resets the `created` date of the current tiddler to the current time. Place the button on a template, or simply on a test tiddler, and try resetting the created time of the tiddler.",
+  "human_title": "Ex:CreatedNowButton"
 }

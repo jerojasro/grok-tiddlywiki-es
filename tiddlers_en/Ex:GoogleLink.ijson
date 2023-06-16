@@ -7,5 +7,6 @@
   "origin": "HTML",
   "tags": "Exercise",
   "type": "text/vnd.tiddlywiki",
-  "text": "In a new tiddler in your wiki, create a link to Google using HTML, with `Google` as the link text. The element used to create links is `<a>`; the `href` attribute contains the URL of the link, and the content is the text of the link."
+  "text": "In a new tiddler in your wiki, create a link to Google using HTML, with `Google` as the link text. The element used to create links is `<a>`; the `href` attribute contains the URL of the link, and the content is the text of the link.",
+  "human_title": "Ex:GoogleLink"
 }

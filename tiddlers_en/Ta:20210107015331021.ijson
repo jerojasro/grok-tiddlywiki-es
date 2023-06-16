@@ -7,5 +7,6 @@
   "qtype": "rememberq",
   "question": "What pragma loads macros that are defined in another tiddler but are not global, so that they can be called from within the current tiddler?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki"
+  "type": "text/vnd.tiddlywiki",
+  "human_title": "Ta:20210107015331021"
 }

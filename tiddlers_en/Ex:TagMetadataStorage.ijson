@@ -6,5 +6,6 @@
   "origin": "Classifying Tags",
   "tags": "Exercise",
   "type": "text/vnd.tiddlywiki",
-  "text": "How do you think the color and icon of tags are stored?"
+  "text": "How do you think the color and icon of tags are stored?",
+  "human_title": "Ex:TagMetadataStorage"
 }

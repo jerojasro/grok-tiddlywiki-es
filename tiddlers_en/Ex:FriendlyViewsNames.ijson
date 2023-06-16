@@ -7,5 +7,6 @@
   "origin": "Adding to the Sidebar",
   "tags": "Exercise",
   "type": "text/vnd.tiddlywiki",
-  "text": "By default, all of the tabs will have ugly system-tiddler names on them, like `$:/yourname/Views`. Fix this so they have friendly names like we defined at the beginning of this section."
+  "text": "By default, all of the tabs will have ugly system-tiddler names on them, like `$:/yourname/Views`. Fix this so they have friendly names like we defined at the beginning of this section.",
+  "human_title": "Ex:FriendlyViewsNames"
 }

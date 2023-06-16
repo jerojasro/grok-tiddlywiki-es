@@ -4,5 +4,6 @@
   "modified": "20210407165201863",
   "tags": "$:/tags/Macro",
   "type": "text/vnd.tiddlywiki",
-  "text": "\\define bookmark-tiddler()\n<$action-listops \n  $tiddler=\"$:/config/sobjornstad/GrokTiddlyWiki/Bookmarks\"\n\t$field=\"text\"\n\t$subfilter=\"[[]addsuffix<currentTiddler>]\"/>\n\\end\n\n\\define unbookmark-tiddler()\n\t<$action-listops $tiddler=\"$:/config/sobjornstad/GrokTiddlyWiki/Bookmarks\" $field=\"text\" $filter=\"[enlist{$:/config/sobjornstad/GrokTiddlyWiki/Bookmarks}] -[all[current]]\"/>\n\\end\n"
+  "text": "\\define bookmark-tiddler()\n<$action-listops \n  $tiddler=\"$:/config/sobjornstad/GrokTiddlyWiki/Bookmarks\"\n\t$field=\"text\"\n\t$subfilter=\"[[]addsuffix<currentTiddler>]\"/>\n\\end\n\n\\define unbookmark-tiddler()\n\t<$action-listops $tiddler=\"$:/config/sobjornstad/GrokTiddlyWiki/Bookmarks\" $field=\"text\" $filter=\"[enlist{$:/config/sobjornstad/GrokTiddlyWiki/Bookmarks}] -[all[current]]\"/>\n\\end\n",
+  "human_title": "$:/sib/Navigator/BookmarkMacros"
 }

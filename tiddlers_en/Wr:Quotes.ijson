@@ -5,5 +5,6 @@
   "modified": "20210320145248231",
   "tags": "[[Wikitext Reference]]",
   "type": "text/vnd.tiddlywiki",
-  "text": "There are two forms of block quotes. The line form uses a single `>`, like plain-text email. This form can be nested. The block form opens and closes with `<<<` on a separate line.\n\n{{Sn:WikitextQuotes||MagicSnippet}}"
+  "text": "There are two forms of block quotes. The line form uses a single `>`, like plain-text email. This form can be nested. The block form opens and closes with `<<<` on a separate line.\n\n{{Sn:WikitextQuotes||MagicSnippet}}",
+  "human_title": "Wr:Quotes"
 }

@@ -4,5 +4,6 @@
   "modified": "20210116210131168",
   "tags": "",
   "type": "text/vnd.tiddlywiki",
-  "text": "\\define ticketLink(ticketId)\n[[Ticket #$ticketId$|https://tix.example.com/ticket/$ticketId$]]\n\\end\n\n<<ticketLink 245188>>"
+  "text": "\\define ticketLink(ticketId)\n[[Ticket #$ticketId$|https://tix.example.com/ticket/$ticketId$]]\n\\end\n\n<<ticketLink 245188>>",
+  "human_title": "Sn:TicketLinkMacro"
 }

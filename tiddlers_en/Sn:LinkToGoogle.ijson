@@ -4,5 +4,6 @@
   "modified": "20210116234350895",
   "tags": "",
   "type": "text/vnd.tiddlywiki",
-  "text": "* https://www.google.com\n* [[Google|https://www.google.com]]"
+  "text": "* https://www.google.com\n* [[Google|https://www.google.com]]",
+  "human_title": "Sn:LinkToGoogle"
 }

@@ -4,5 +4,6 @@
   "modified": "20210206211016565",
   "tags": "",
   "type": "text/vnd.tiddlywiki",
-  "text": "<$set name=\"currentTiddler\" value=\"New Current Tiddler\">\n\t<<currentTiddler>>\n</$set>\n\n<$tiddler tiddler=\"New Current Tiddler\">\n\t<<currentTiddler>>\n</$tiddler>"
+  "text": "<$set name=\"currentTiddler\" value=\"New Current Tiddler\">\n\t<<currentTiddler>>\n</$set>\n\n<$tiddler tiddler=\"New Current Tiddler\">\n\t<<currentTiddler>>\n</$tiddler>",
+  "human_title": "Sn:TiddlerWidget"
 }

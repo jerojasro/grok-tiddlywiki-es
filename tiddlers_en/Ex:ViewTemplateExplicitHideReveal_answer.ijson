@@ -4,5 +4,6 @@
   "modified": "20210207214502838",
   "tags": "Answer",
   "type": "text/vnd.tiddlywiki",
-  "text": "```html\n<$reveal state=\"!!hide-contactinfo\" type=\"nomatch\" text=\"yes\">\n\t\u2026the rest of the template\n</$reveal>\n```\n"
+  "text": "```html\n<$reveal state=\"!!hide-contactinfo\" type=\"nomatch\" text=\"yes\">\n\t\u2026the rest of the template\n</$reveal>\n```\n",
+  "human_title": "Ex:ViewTemplateExplicitHideReveal/answer"
 }

@@ -6,5 +6,6 @@
   "origin": "Common Filter Operators",
   "tags": "Exercise",
   "type": "text/vnd.tiddlywiki",
-  "text": "In an [[exercise|Ex:JohnDoeSearch]] in the [[Searching]] section, we noted that a search for `JohnDoe` did not find places where John was mentioned somewhere other than the `text` field. Write and test a filter that finds mentions of John in any field."
+  "text": "In an [[exercise|Ex:JohnDoeSearch]] in the [[Searching]] section, we noted that a search for `JohnDoe` did not find places where John was mentioned somewhere other than the `text` field. Write and test a filter that finds mentions of John in any field.",
+  "human_title": "Ex:JohnDoeInAnyField"
 }

@@ -6,5 +6,6 @@
   "origin": "Macros",
   "tags": "Exercise",
   "type": "text/vnd.tiddlywiki",
-  "text": "Rather than create a macro for the first version of the Wikipedia link functionality, one might think we could simply use a variable and stick the variable reference immediately next to the article name:\n\n```html\n<$set name=\"wikipedia\" value=\"https://en.wikipedia.org/wiki/\">\n\t<<wikipedia>>Aardvark\n</$set>\n```\n\nTry putting this snippet in a tiddler. What happens? Why do you think this might happen?"
+  "text": "Rather than create a macro for the first version of the Wikipedia link functionality, one might think we could simply use a variable and stick the variable reference immediately next to the article name:\n\n```html\n<$set name=\"wikipedia\" value=\"https://en.wikipedia.org/wiki/\">\n\t<<wikipedia>>Aardvark\n</$set>\n```\n\nTry putting this snippet in a tiddler. What happens? Why do you think this might happen?",
+  "human_title": "Ex:MacroAdjacency"
 }

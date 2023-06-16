@@ -6,5 +6,6 @@
   "qtype": "remembercz",
   "question": "It's better for tiddlers to indicate that they're {c1::a part of a whole}, rather than the whole listing {c1::all of its parts}.",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki"
+  "type": "text/vnd.tiddlywiki",
+  "human_title": "Ta:20201229042226193"
 }

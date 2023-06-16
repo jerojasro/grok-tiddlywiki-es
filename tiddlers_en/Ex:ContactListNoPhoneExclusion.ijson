@@ -7,5 +7,6 @@
   "origin": "Your First Dynamic List",
   "tags": "Exercise",
   "type": "text/vnd.tiddlywiki",
-  "text": "Modify the `ContactList` so that contacts with no phone number are excluded."
+  "text": "Modify the `ContactList` so that contacts with no phone number are excluded.",
+  "human_title": "Ex:ContactListNoPhoneExclusion"
 }

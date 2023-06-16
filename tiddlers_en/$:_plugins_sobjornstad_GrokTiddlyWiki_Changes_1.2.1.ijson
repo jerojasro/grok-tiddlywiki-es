@@ -8,5 +8,6 @@
   "tags": "",
   "type": "text/vnd.tiddlywiki",
   "version": "1.2.1",
-  "text": "* Fixed the Takeaway Export List showing an ID of \u201cPreview\u201d for all takeaways under certain circumstances, resulting in broken syncing to Anki.\n* Fixed several typos and minor wording mistakes.\n"
+  "text": "* Fixed the Takeaway Export List showing an ID of \u201cPreview\u201d for all takeaways under certain circumstances, resulting in broken syncing to Anki.\n* Fixed several typos and minor wording mistakes.\n",
+  "human_title": "$:/plugins/sobjornstad/GrokTiddlyWiki/Changes/1.2.1"
 }

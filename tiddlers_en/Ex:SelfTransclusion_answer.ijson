@@ -4,5 +4,6 @@
   "modified": "20210409201530771",
   "tags": "Answer",
   "type": "text/vnd.tiddlywiki",
-  "text": "A large red banner appears that says \u201cRecursive transclusion error in transclude widget.\u201d (If you're in preview mode creating a new tiddler, the error won't appear until you save the tiddler under some conditions.) This is a rather cryptic error message, but if you remember what it means, the cause of the error is usually obvious once you start looking.\n\nAs we move forward into [[templates|Templates and the Current Tiddler]], you will sometimes see this error on a template -- in that case, it does not necessarily mean you did anything wrong. More to come."
+  "text": "A large red banner appears that says \u201cRecursive transclusion error in transclude widget.\u201d (If you're in preview mode creating a new tiddler, the error won't appear until you save the tiddler under some conditions.) This is a rather cryptic error message, but if you remember what it means, the cause of the error is usually obvious once you start looking.\n\nAs we move forward into [[templates|Templates and the Current Tiddler]], you will sometimes see this error on a template -- in that case, it does not necessarily mean you did anything wrong. More to come.",
+  "human_title": "Ex:SelfTransclusion/answer"
 }

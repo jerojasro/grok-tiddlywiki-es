@@ -5,5 +5,6 @@
   "modified": "20210207060523909",
   "tags": "Lie",
   "type": "text/vnd.tiddlywiki",
-  "text": "While almost all of the core code of TiddlyWiki is stored in tiddlers, there is a small [[component|https://tiddlywiki.com/dev/#Microkernel]] called the //microkernel// that is not. This component is needed to \u201cbootstrap\u201d TiddlyWiki to the point that it is capable of reading the rest of its code from tiddlers."
+  "text": "While almost all of the core code of TiddlyWiki is stored in tiddlers, there is a small [[component|https://tiddlywiki.com/dev/#Microkernel]] called the //microkernel// that is not. This component is needed to \u201cbootstrap\u201d TiddlyWiki to the point that it is capable of reading the rest of its code from tiddlers.",
+  "human_title": "Ltc:CoreCodeTiddlers"
 }

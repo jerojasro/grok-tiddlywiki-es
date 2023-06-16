@@ -4,5 +4,6 @@
   "modified": "20210116203320466",
   "tags": "",
   "type": "text/vnd.tiddlywiki",
-  "text": "<$set name=\"disclaimer\" value=\"(This paragraph does not represent the formal opinion of my company.)\">\n\t\u2026insert the text of your tiddler here\n</$set>\n"
+  "text": "<$set name=\"disclaimer\" value=\"(This paragraph does not represent the formal opinion of my company.)\">\n\t\u2026insert the text of your tiddler here\n</$set>\n",
+  "human_title": "Sn:SetDisclaimer"
 }

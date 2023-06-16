@@ -4,5 +4,6 @@
   "modified": "20210116205328896",
   "tags": "",
   "type": "text/vnd.tiddlywiki",
-  "text": "\\define wikipediaLink(articleName, linkText)\n[[$linkText$|https://en.wikipedia.org/wiki/$articleName$]]\n\\end\n\n<<wikipediaLink linkText:\"Wikipedia on Aardvarks\" articleName:Aardvark>>"
+  "text": "\\define wikipediaLink(articleName, linkText)\n[[$linkText$|https://en.wikipedia.org/wiki/$articleName$]]\n\\end\n\n<<wikipediaLink linkText:\"Wikipedia on Aardvarks\" articleName:Aardvark>>",
+  "human_title": "Sn:MacroParameterNames"
 }

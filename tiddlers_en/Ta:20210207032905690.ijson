@@ -7,5 +7,6 @@
   "qtype": "rememberq",
   "question": "Write a `$reveal` widget that displays its contents when the field `show` of the current tiddler contains the word `yes`.",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki"
+  "type": "text/vnd.tiddlywiki",
+  "human_title": "Ta:20210207032905690"
 }

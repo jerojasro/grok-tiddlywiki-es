@@ -6,5 +6,6 @@
   "origin": "Stylesheets",
   "tags": "Exercise",
   "type": "text/vnd.tiddlywiki",
-  "text": "Add `my-funny-class` from above (or any styling you like, as long as it is distinctive) to a global stylesheet in your wiki and apply the class to some text."
+  "text": "Add `my-funny-class` from above (or any styling you like, as long as it is distinctive) to a global stylesheet in your wiki and apply the class to some text.",
+  "human_title": "Ex:FunnyClass"
 }

@@ -4,5 +4,6 @@
   "modified": "20210314125402817",
   "tags": "",
   "type": "text/vnd.tiddlywiki",
-  "text": "\\define mymacro(myName) Hi <<__myName__>>!\n\n<<mymacro Soren>>"
+  "text": "\\define mymacro(myName) Hi <<__myName__>>!\n\n<<mymacro Soren>>",
+  "human_title": "Sn:WikitextTransclusionMacro"
 }

@@ -6,5 +6,6 @@
   "origin": "Hiding and Showing Things",
   "tags": "Exercise",
   "type": "text/vnd.tiddlywiki",
-  "text": "Repeat the [[previous exercise|Ex:EmptyAtField]], but use a conditional `$set` widget. It's OK if the behavior when the `at` field is empty, rather than missing, differs from the previous exercise."
+  "text": "Repeat the [[previous exercise|Ex:EmptyAtField]], but use a conditional `$set` widget. It's OK if the behavior when the `at` field is empty, rather than missing, differs from the previous exercise.",
+  "human_title": "Ex:ConditionalSetAt"
 }

@@ -7,5 +7,6 @@
   "origin": "Filters and Transclusions",
   "tags": "Exercise",
   "type": "text/vnd.tiddlywiki",
-  "text": "Create a list of all tiddlers that contain the title of the wiki.\n\n* The current title of the wiki can be found in the tiddler named `$:/SiteTitle`.\n* The `search` filter operator is used to find tiddlers that contain some arbitrary text."
+  "text": "Create a list of all tiddlers that contain the title of the wiki.\n\n* The current title of the wiki can be found in the tiddler named `$:/SiteTitle`.\n* The `search` filter operator is used to find tiddlers that contain some arbitrary text.",
+  "human_title": "Ex:TiddlersContainingWikiTitle"
 }

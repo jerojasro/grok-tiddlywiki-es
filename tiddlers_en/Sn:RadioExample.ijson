@@ -4,5 +4,6 @@
   "modified": "20210817225402878",
   "tags": "",
   "type": "text/vnd.tiddlywiki",
-  "text": "What do you want to look at?\n\n<$radio tiddler=\"$:/temp/RadioExample\" value=\"Exercise\">&nbsp;Exercises</$radio>&ensp;\n<$radio tiddler=\"$:/temp/RadioExample\" value=\"Section\">&nbsp;Sections</$radio>&ensp;\n<$radio tiddler=\"$:/temp/RadioExample\" value=\"Takeaway\">&nbsp;Takeaways</$radio>\n\n<<list-links \"[all[tiddlers+shadows]tag{$:/temp/RadioExample}first[5]]\">>"
+  "text": "What do you want to look at?\n\n<$radio tiddler=\"$:/temp/RadioExample\" value=\"Exercise\">&nbsp;Exercises</$radio>&ensp;\n<$radio tiddler=\"$:/temp/RadioExample\" value=\"Section\">&nbsp;Sections</$radio>&ensp;\n<$radio tiddler=\"$:/temp/RadioExample\" value=\"Takeaway\">&nbsp;Takeaways</$radio>\n\n<<list-links \"[all[tiddlers+shadows]tag{$:/temp/RadioExample}first[5]]\">>",
+  "human_title": "Sn:RadioExample"
 }

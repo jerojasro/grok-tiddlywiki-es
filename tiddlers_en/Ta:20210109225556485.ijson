@@ -6,5 +6,6 @@
   "qtype": "remembercz",
   "question": "Inline stylesheets are not {scoped to} the tiddler containing them.",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki"
+  "type": "text/vnd.tiddlywiki",
+  "human_title": "Ta:20210109225556485"
 }

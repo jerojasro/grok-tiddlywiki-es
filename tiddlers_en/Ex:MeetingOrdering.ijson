@@ -6,5 +6,6 @@
   "origin": "Ordering Tiddlers",
   "tags": "Exercise",
   "type": "text/vnd.tiddlywiki",
-  "text": "Create several more meeting tiddlers under the `OnboardingHr` tag, then try dragging and dropping them around using the tag pill list. Have the `OnboardingProcess` tiddler open as you do so, so you can see the effects on the table of contents."
+  "text": "Create several more meeting tiddlers under the `OnboardingHr` tag, then try dragging and dropping them around using the tag pill list. Have the `OnboardingProcess` tiddler open as you do so, so you can see the effects on the table of contents.",
+  "human_title": "Ex:MeetingOrdering"
 }

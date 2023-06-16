@@ -6,5 +6,6 @@
   "parent": "Appendices",
   "tags": "Section",
   "type": "text/vnd.tiddlywiki",
-  "text": "This section lists all changes made to //Grok TiddlyWiki// since the previous released version.\n\n<$list filter=\"[all[tiddlers+shadows]prefix[$:/plugins/sobjornstad/GrokTiddlyWiki/Changes/]!sort[date]]\">\n\n!! //Grok TiddlyWiki// {{!!version}}\n\n|!Release date |<$view format=\"date\" field=\"date\" template=\"DD MMM YYYY\"/>|\n|!Git commit |<code>{{!!commit}}</code>|\n\n<$transclude mode=\"block\"/>\n\n</$list>"
+  "text": "This section lists all changes made to //Grok TiddlyWiki// since the previous released version.\n\n<$list filter=\"[all[tiddlers+shadows]prefix[$:/plugins/sobjornstad/GrokTiddlyWiki/Changes/]!sort[date]]\">\n\n!! //Grok TiddlyWiki// {{!!version}}\n\n|!Release date |<$view format=\"date\" field=\"date\" template=\"DD MMM YYYY\"/>|\n|!Git commit |<code>{{!!commit}}</code>|\n\n<$transclude mode=\"block\"/>\n\n</$list>",
+  "human_title": "Changes"
 }

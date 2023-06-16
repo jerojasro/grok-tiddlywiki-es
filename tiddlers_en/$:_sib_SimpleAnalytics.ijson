@@ -4,5 +4,6 @@
   "type": "text/html",
   "created": "20200913152403709",
   "modified": "20210507013622338",
-  "tags": "$:/tags/RawMarkup"
+  "tags": "$:/tags/RawMarkup",
+  "human_title": "$:/sib/SimpleAnalytics"
 }

@@ -6,5 +6,6 @@
   "qtype": "remembercz",
   "question": "The TiddlyWiki table-of-contents macros display the value of the {`caption`} field instead of the tiddler's title, if such a field exists.",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki"
+  "type": "text/vnd.tiddlywiki",
+  "human_title": "Ta:20201229152725707"
 }

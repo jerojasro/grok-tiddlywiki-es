@@ -4,5 +4,6 @@
   "modified": "20210117010022389",
   "tags": "",
   "type": "text/vnd.tiddlywiki",
-  "text": "\\define wikipediaLink(articleName)\nhttps://en.wikipedia.org/wiki/$articleName$\n\\end\n\n<<wikipediaLink Aardvark>>"
+  "text": "\\define wikipediaLink(articleName)\nhttps://en.wikipedia.org/wiki/$articleName$\n\\end\n\n<<wikipediaLink Aardvark>>",
+  "human_title": "Sn:InitialAardvarkWikipediaLink"
 }

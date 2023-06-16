@@ -7,5 +7,6 @@
   "qtype": "rememberq",
   "question": "The `qualify` macro //is// needed when storing the state of a template in what kind of tiddler?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki"
+  "type": "text/vnd.tiddlywiki",
+  "human_title": "Ta:20210208023626366"
 }

@@ -6,5 +6,6 @@
   "origin": "Hiding and Showing Things",
   "tags": "Exercise",
   "type": "text/vnd.tiddlywiki",
-  "text": "Update your template that [[displays a list of links and backlinks|Creating a List of Links and Backlinks]] so that the list doesn't appear if there are no links or backlinks."
+  "text": "Update your template that [[displays a list of links and backlinks|Creating a List of Links and Backlinks]] so that the list doesn't appear if there are no links or backlinks.",
+  "human_title": "Ex:BacklinksConditionalDisplay"
 }

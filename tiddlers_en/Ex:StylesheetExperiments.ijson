@@ -6,5 +6,6 @@
   "origin": "Supplemental Exercises",
   "tags": "Exercise",
   "type": "text/vnd.tiddlywiki",
-  "text": "If you know a little bit of CSS, read about [[Stylesheets]] in TiddlyWiki and make some design changes to your wiki, like changing the text color or the shape of some buttons."
+  "text": "If you know a little bit of CSS, read about [[Stylesheets]] in TiddlyWiki and make some design changes to your wiki, like changing the text color or the shape of some buttons.",
+  "human_title": "Ex:StylesheetExperiments"
 }

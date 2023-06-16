@@ -5,5 +5,6 @@
   "modified": "20210320145050316",
   "tags": "[[Wikitext Reference]]",
   "type": "text/vnd.tiddlywiki",
-  "text": "You can put a horizontal rule in your tiddler to mark a new, unnamed section by putting at least three hyphens on a line by themselves after a blank line:\n\n{{Sn:WikitextHorizontalRule||MagicSnippet}}"
+  "text": "You can put a horizontal rule in your tiddler to mark a new, unnamed section by putting at least three hyphens on a line by themselves after a blank line:\n\n{{Sn:WikitextHorizontalRule||MagicSnippet}}",
+  "human_title": "Wr:HorizontalRules"
 }

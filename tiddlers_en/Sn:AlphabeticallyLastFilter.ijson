@@ -4,5 +4,6 @@
   "modified": "20210131164840963",
   "tags": "",
   "type": "text/vnd.tiddlywiki",
-  "text": "{{{ [all[shadows]tag[$:/tags/EditorToolbar]get[description]split[{{]split[}}]get[text]!sort[]first[]] }}}"
+  "text": "{{{ [all[shadows]tag[$:/tags/EditorToolbar]get[description]split[{{]split[}}]get[text]!sort[]first[]] }}}",
+  "human_title": "Sn:AlphabeticallyLastFilter"
 }

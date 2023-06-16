@@ -4,5 +4,6 @@
   "modified": "20210130220004631",
   "tags": "Answer",
   "type": "text/vnd.tiddlywiki",
-  "text": "Set `list-before` on `OnboardingPeople` to `OnboardingHr`. (Note that the appropriate value is not `HR`, even though if you did [[one of the last exercises|Ex:TocCaptions]] in the previous section, that's what shows up in the table of contents. The caption is only used for display; you still have to specify the title in all other contexts.)"
+  "text": "Set `list-before` on `OnboardingPeople` to `OnboardingHr`. (Note that the appropriate value is not `HR`, even though if you did [[one of the last exercises|Ex:TocCaptions]] in the previous section, that's what shows up in the table of contents. The caption is only used for display; you still have to specify the title in all other contexts.)",
+  "human_title": "Ex:OnboardingPeopleFirst/answer"
 }

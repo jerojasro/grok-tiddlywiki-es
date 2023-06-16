@@ -6,5 +6,6 @@
   "origin": "Creating Tiddlers With Predefined Fields",
   "tags": "Exercise",
   "type": "text/vnd.tiddlywiki",
-  "text": "Add these new buttons (created in [[Ex:NewContactButton]] and [[Ex:NewMeetingButton]]) to the toolbar above the search box in the sidebar. This will require applying a tag to their tiddlers."
+  "text": "Add these new buttons (created in [[Ex:NewContactButton]] and [[Ex:NewMeetingButton]]) to the toolbar above the search box in the sidebar. This will require applying a tag to their tiddlers.",
+  "human_title": "Ex:ButtonsOnPageToolbar"
 }

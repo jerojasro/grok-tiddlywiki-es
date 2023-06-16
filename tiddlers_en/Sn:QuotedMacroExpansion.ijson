@@ -4,5 +4,6 @@
   "modified": "20210327155555215",
   "tags": "",
   "type": "text/vnd.tiddlywiki",
-  "text": "\\define wikipediaLink(articleName, linkText)\n[[$linkText$|https://en.wikipedia.org/wiki/$articleName$]]\n\\end\n\n<$macrocall $name=\"wikipediaLink\" linkText=\"<<linktext>>\" articleName=\"Aardvark\" />"
+  "text": "\\define wikipediaLink(articleName, linkText)\n[[$linkText$|https://en.wikipedia.org/wiki/$articleName$]]\n\\end\n\n<$macrocall $name=\"wikipediaLink\" linkText=\"<<linktext>>\" articleName=\"Aardvark\" />",
+  "human_title": "Sn:QuotedMacroExpansion"
 }

@@ -6,5 +6,6 @@
   "origin": "Templates and the Current Tiddler",
   "tags": "Exercise",
   "type": "text/vnd.tiddlywiki",
-  "text": "Create a new tiddler called `JaneTransclusion`. Transclude the content of the `JaneDoe` tiddler here -- but without writing the text `{{JaneDoe}}` anywhere in the tiddler. Once you do this successfully, find at least one other way to do it. (The answer will show you seven ways that use only tools we've already seen, so there is no shortage of options.)\n\n//Tip//: If the information about Jane ends up all in one line, try adding some blank lines to your wikitext."
+  "text": "Create a new tiddler called `JaneTransclusion`. Transclude the content of the `JaneDoe` tiddler here -- but without writing the text `{{JaneDoe}}` anywhere in the tiddler. Once you do this successfully, find at least one other way to do it. (The answer will show you seven ways that use only tools we've already seen, so there is no shortage of options.)\n\n//Tip//: If the information about Jane ends up all in one line, try adding some blank lines to your wikitext.",
+  "human_title": "Ex:MethodsOfTransclusion"
 }

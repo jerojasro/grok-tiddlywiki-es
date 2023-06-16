@@ -4,5 +4,6 @@
   "modified": "20210521201912850",
   "tags": "",
   "type": "text/vnd.tiddlywiki",
-  "text": "{{{ [all[tiddlers+shadows]tag[Exercise]first[]] || Sn:BoldfaceTemplate }}}"
+  "text": "{{{ [all[tiddlers+shadows]tag[Exercise]first[]] || Sn:BoldfaceTemplate }}}",
+  "human_title": "Sn:WikitextTransclusionFilterTemplate"
 }

@@ -6,5 +6,6 @@
   "origin": "Buttons and Input Widgets",
   "tags": "Exercise",
   "type": "text/vnd.tiddlywiki",
-  "text": "Create a tiddler `JumpToTiddler` that has an input field and a `Go` button. When the button is clicked, the tiddler named in the input field should open.\n\n//Hint//: One of the attributes of the `button` widget we didn't discuss here will help."
+  "text": "Create a tiddler `JumpToTiddler` that has an input field and a `Go` button. When the button is clicked, the tiddler named in the input field should open.\n\n//Hint//: One of the attributes of the `button` widget we didn't discuss here will help.",
+  "human_title": "Ex:JumpToTiddler"
 }

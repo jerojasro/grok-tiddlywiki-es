@@ -4,5 +4,6 @@
   "modified": "20210207223543160",
   "tags": "",
   "type": "text/vnd.tiddlywiki",
-  "text": "\\define checkAuthorization(password)\n<$list filter=\"[[$password$]match{$:/config/SecretPasswordExample}]\">\n  The user is authorized.\n</$list>\n\\end\n\n<<checkAuthorization \"\">>"
+  "text": "\\define checkAuthorization(password)\n<$list filter=\"[[$password$]match{$:/config/SecretPasswordExample}]\">\n  The user is authorized.\n</$list>\n\\end\n\n<<checkAuthorization \"\">>",
+  "human_title": "Sn:AuthorizationBypass"
 }

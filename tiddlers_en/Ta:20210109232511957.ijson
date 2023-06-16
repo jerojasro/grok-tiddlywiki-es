@@ -7,5 +7,6 @@
   "qtype": "rememberq",
   "question": "How are tiddlers containing binary data (e.g., images) stored in a folder wiki?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki"
+  "type": "text/vnd.tiddlywiki",
+  "human_title": "Ta:20210109232511957"
 }

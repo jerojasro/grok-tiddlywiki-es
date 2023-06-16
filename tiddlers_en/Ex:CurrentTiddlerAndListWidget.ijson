@@ -7,5 +7,6 @@
   "origin": "Templates and the Current Tiddler",
   "tags": "Exercise",
   "type": "text/vnd.tiddlywiki",
-  "text": "In the section on [[dynamic lists|Your First Dynamic List]], we used the value of the variable `<<currentTiddler>>`, without knowing exactly what it was. Review the use of that variable in the dynamic lists section. What does this usage tell you about the interaction of the current tiddler and the `$list` widget?"
+  "text": "In the section on [[dynamic lists|Your First Dynamic List]], we used the value of the variable `<<currentTiddler>>`, without knowing exactly what it was. Review the use of that variable in the dynamic lists section. What does this usage tell you about the interaction of the current tiddler and the `$list` widget?",
+  "human_title": "Ex:CurrentTiddlerAndListWidget"
 }

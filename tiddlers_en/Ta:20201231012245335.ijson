@@ -6,5 +6,6 @@
   "qtype": "remembercz",
   "question": "The two attributes used in the most basic form of the `$set` widget are {c1::`name`} and {c1::`value`}.",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki"
+  "type": "text/vnd.tiddlywiki",
+  "human_title": "Ta:20201231012245335"
 }

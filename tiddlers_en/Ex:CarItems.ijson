@@ -7,5 +7,6 @@
   "origin": "Project Tiddlers",
   "tags": "Exercise",
   "type": "text/vnd.tiddlywiki",
-  "text": "Suppose you have a tiddler `MyCar`, along with a series of tiddlers describing the items you keep in your car. Why should each item state that it belongs in your car, rather than the car listing out all of the items it contains?\n\nCreate the car tiddler in your example wiki and relate several items to it, using each of the four methods discussed in this section. What methods do you like best?"
+  "text": "Suppose you have a tiddler `MyCar`, along with a series of tiddlers describing the items you keep in your car. Why should each item state that it belongs in your car, rather than the car listing out all of the items it contains?\n\nCreate the car tiddler in your example wiki and relate several items to it, using each of the four methods discussed in this section. What methods do you like best?",
+  "human_title": "Ex:CarItems"
 }

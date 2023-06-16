@@ -4,5 +4,6 @@
   "modified": "20210116213407934",
   "tags": "",
   "type": "text/vnd.tiddlywiki",
-  "text": "<$button>\n  <$action-sendmessage\n    $message=\"tm-new-tiddler\"\n    title=\"My New Tiddler\"\n    tags=\"[[My First Tag]] [[My Second Tag]]\" />\n  New Tiddler\n</$button>"
+  "text": "<$button>\n  <$action-sendmessage\n    $message=\"tm-new-tiddler\"\n    title=\"My New Tiddler\"\n    tags=\"[[My First Tag]] [[My Second Tag]]\" />\n  New Tiddler\n</$button>",
+  "human_title": "Sn:NewTiddlerActionWidgetText"
 }

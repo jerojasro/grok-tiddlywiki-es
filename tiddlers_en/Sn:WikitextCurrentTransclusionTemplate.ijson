@@ -5,5 +5,6 @@
   "modified": "20210314125222415",
   "tags": "",
   "type": "text/vnd.tiddlywiki",
-  "text": "{{||Sn:CaptionFieldTemplate}}"
+  "text": "{{||Sn:CaptionFieldTemplate}}",
+  "human_title": "Sn:WikitextCurrentTransclusionTemplate"
 }

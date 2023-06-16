@@ -6,5 +6,6 @@
   "origin": "Qualification",
   "tags": "Exercise",
   "type": "text/vnd.tiddlywiki",
-  "text": "What happens if you remove the `$let` widget and the `stateTiddlerName` variable from the above example and call `qualify` once every time that the name of the tiddler is needed?"
+  "text": "What happens if you remove the `$let` widget and the `stateTiddlerName` variable from the above example and call `qualify` once every time that the name of the tiddler is needed?",
+  "human_title": "Ex:QualifyMultipleCalls"
 }

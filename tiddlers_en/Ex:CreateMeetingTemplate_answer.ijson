@@ -4,5 +4,6 @@
   "modified": "20200605153830195",
   "tags": "Answer",
   "type": "text/vnd.tiddlywiki",
-  "text": "In the `MeetingInformationTemplate` tiddler:\n\n```html\n| !Time|{{!!at}}|\n| !Participants|{{!!participants}}|\n```\n\nThen in each meeting tiddler:\n\n```html\n{{||MeetingInformationTemplate}}\n```"
+  "text": "In the `MeetingInformationTemplate` tiddler:\n\n```html\n| !Time|{{!!at}}|\n| !Participants|{{!!participants}}|\n```\n\nThen in each meeting tiddler:\n\n```html\n{{||MeetingInformationTemplate}}\n```",
+  "human_title": "Ex:CreateMeetingTemplate/answer"
 }

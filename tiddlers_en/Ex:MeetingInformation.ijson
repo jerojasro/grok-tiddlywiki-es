@@ -6,5 +6,6 @@
   "origin": "The View Template",
   "tags": "Exercise",
   "type": "text/vnd.tiddlywiki",
-  "text": "Put the `MeetingInformationTemplate` on meetings globally as well."
+  "text": "Put the `MeetingInformationTemplate` on meetings globally as well.",
+  "human_title": "Ex:MeetingInformation"
 }

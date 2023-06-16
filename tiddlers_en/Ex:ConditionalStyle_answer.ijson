@@ -4,5 +4,6 @@
   "modified": "20210130034510385",
   "tags": "Answer",
   "type": "text/vnd.tiddlywiki",
-  "text": "To accomplish this, simply wrap the class in a `$list` widget so that the CSS doesn't show up if the config tiddler isn't set appropriately:\n\n```html\n<$list filter=\"[[$:/config/ShowFunnyText]text[yes]]\">\n.my-funny-class2 {\n  background-color: blue;\n  color: yellow;\n  font-size: 150%;\n  border: 3px dotted orange;\n  text-align: right;\n}\n</$list>\n```\n\nThe filter can be written in several ways; for instance, you could equivalently use:\n\n```html\n<$list filter=\"[{$:/config/ShowFunnyText}match[yes]]\">\n```"
+  "text": "To accomplish this, simply wrap the class in a `$list` widget so that the CSS doesn't show up if the config tiddler isn't set appropriately:\n\n```html\n<$list filter=\"[[$:/config/ShowFunnyText]text[yes]]\">\n.my-funny-class2 {\n  background-color: blue;\n  color: yellow;\n  font-size: 150%;\n  border: 3px dotted orange;\n  text-align: right;\n}\n</$list>\n```\n\nThe filter can be written in several ways; for instance, you could equivalently use:\n\n```html\n<$list filter=\"[{$:/config/ShowFunnyText}match[yes]]\">\n```",
+  "human_title": "Ex:ConditionalStyle/answer"
 }

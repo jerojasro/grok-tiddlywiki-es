@@ -7,5 +7,6 @@
   "origin": "Miscellaneous Widgets",
   "tags": "Exercise",
   "type": "text/vnd.tiddlywiki",
-  "text": "Locate several places in your sample wiki where you have used `$set` widgets and replace them with equivalent `$vars` widgets."
+  "text": "Locate several places in your sample wiki where you have used `$set` widgets and replace them with equivalent `$vars` widgets.",
+  "human_title": "Ex:SetVarsReplacement"
 }

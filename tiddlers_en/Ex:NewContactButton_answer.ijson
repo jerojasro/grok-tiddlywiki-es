@@ -4,5 +4,6 @@
   "modified": "20210109215025269",
   "tags": "Answer",
   "type": "text/vnd.tiddlywiki",
-  "text": "```html\n\\define newContact()\n\t<$action-sendmessage\n\t\t$message=\"tm-new-tiddler\"\n\t\ttitle=\"New Contact\"\n\t\ttags=\"Contact\"\n\t\temail=\"\"\n\t\tfamily=\"\"\n\t\tphone=\"\"\n\t\tmanager=\"\"/>\n\\end\n\n<$button actions=<<newContact>>>\n  New Contact\n</$button>\n```"
+  "text": "```html\n\\define newContact()\n\t<$action-sendmessage\n\t\t$message=\"tm-new-tiddler\"\n\t\ttitle=\"New Contact\"\n\t\ttags=\"Contact\"\n\t\temail=\"\"\n\t\tfamily=\"\"\n\t\tphone=\"\"\n\t\tmanager=\"\"/>\n\\end\n\n<$button actions=<<newContact>>>\n  New Contact\n</$button>\n```",
+  "human_title": "Ex:NewContactButton/answer"
 }

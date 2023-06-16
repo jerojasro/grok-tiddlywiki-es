@@ -6,5 +6,6 @@
   "origin": "Variables",
   "tags": "Exercise",
   "type": "text/vnd.tiddlywiki",
-  "text": "What happens if you refer to a variable after the `</$set>`?"
+  "text": "What happens if you refer to a variable after the `</$set>`?",
+  "human_title": "Ex:VariableAfterSet"
 }

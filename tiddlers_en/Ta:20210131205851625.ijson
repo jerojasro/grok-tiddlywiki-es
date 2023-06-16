@@ -7,5 +7,6 @@
   "qtype": "rememberq",
   "question": "A macro using text substitution is able to accomplish the equivalent of `{{ {{!!manager}}!!phone }}` because it results in what?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki"
+  "type": "text/vnd.tiddlywiki",
+  "human_title": "Ta:20210131205851625"
 }

@@ -6,5 +6,6 @@
   "origin": "Wikification",
   "tags": "Exercise",
   "type": "text/vnd.tiddlywiki",
-  "text": "Modify the answer to the [[previous exercise|Ex:WikifyWikipediaLink]] so that the value of the `text` attribute to the `$wikify` widget is in quotation marks. What happens? Why do you think this is?"
+  "text": "Modify the answer to the [[previous exercise|Ex:WikifyWikipediaLink]] so that the value of the `text` attribute to the `$wikify` widget is in quotation marks. What happens? Why do you think this is?",
+  "human_title": "Ex:LiteralMatters"
 }

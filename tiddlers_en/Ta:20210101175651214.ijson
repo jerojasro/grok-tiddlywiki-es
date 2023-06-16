@@ -8,5 +8,6 @@
   "question": "What is the syntax to text-substitute a variable (not a parameter) called `myVariable` in the definition of a macro?",
   "tags": "Takeaway",
   "type": "text/vnd.tiddlywiki",
-  "text": "<!--\n\nNote: there is a zero-width space between the ) and the `$`, because otherwise it triggers a real variable substitution somewhere in the bowels of the TiddlyRemember rendering!\n\n-->\n"
+  "text": "<!--\n\nNote: there is a zero-width space between the ) and the `$`, because otherwise it triggers a real variable substitution somewhere in the bowels of the TiddlyRemember rendering!\n\n-->\n",
+  "human_title": "Ta:20210101175651214"
 }

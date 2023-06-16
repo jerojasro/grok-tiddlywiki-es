@@ -4,5 +4,6 @@
   "modified": "20210130005243333",
   "tags": "",
   "type": "text/vnd.tiddlywiki",
-  "text": "<$set name=myvar1 value=\"xyz\">\n<$set name=myvar2 value={{!!field}}>\n\t{{||MyTemplate}}\n\t<<myMacro>>\n</$set>\n</$set>"
+  "text": "<$set name=myvar1 value=\"xyz\">\n<$set name=myvar2 value={{!!field}}>\n\t{{||MyTemplate}}\n\t<<myMacro>>\n</$set>\n</$set>",
+  "human_title": "Sn:MacroInTemplate"
 }

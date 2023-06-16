@@ -5,5 +5,6 @@
   "showtest": "no",
   "tags": "",
   "type": "text/vnd.tiddlywiki",
-  "text": "<$checkbox field=\"showtest\" checked=\"yes\" unchecked=\"no\"> Show an extra column</$checkbox>\n<table>\n<tr>\n\t<th>Column 1</th>\n\t<$reveal state=\"!!showtest\" type=\"match\" text=\"yes\">\n\t<th>Extra column</th>\n\t</$reveal>\n\t<th>Column 2</th>\n</tr>\n<tr>\n\t<td>Data 1</td>\n\t<$reveal state=\"!!showtest\" type=\"match\" text=\"yes\">\n\t<td>Magic extra data</td>\n\t</$reveal>\n\t<td>Data 2</td>\n</tr>\n</table>"
+  "text": "<$checkbox field=\"showtest\" checked=\"yes\" unchecked=\"no\"> Show an extra column</$checkbox>\n<table>\n<tr>\n\t<th>Column 1</th>\n\t<$reveal state=\"!!showtest\" type=\"match\" text=\"yes\">\n\t<th>Extra column</th>\n\t</$reveal>\n\t<th>Column 2</th>\n</tr>\n<tr>\n\t<td>Data 1</td>\n\t<$reveal state=\"!!showtest\" type=\"match\" text=\"yes\">\n\t<td>Magic extra data</td>\n\t</$reveal>\n\t<td>Data 2</td>\n</tr>\n</table>",
+  "human_title": "Sn:BrokenRevealTable"
 }

@@ -4,5 +4,6 @@
   "modified": "20210131150117161",
   "tags": "",
   "type": "text/vnd.tiddlywiki",
-  "text": "{{Sn:IncludeMe}}\n{{Sn:IncludeMe!!text}}"
+  "text": "{{Sn:IncludeMe}}\n{{Sn:IncludeMe!!text}}",
+  "human_title": "Sn:WikitextTransclusionBasic"
 }

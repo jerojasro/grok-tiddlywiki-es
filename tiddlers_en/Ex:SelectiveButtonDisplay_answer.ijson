@@ -4,5 +4,6 @@
   "modified": "20200822192625562",
   "tags": "Answer",
   "type": "text/vnd.tiddlywiki",
-  "text": "The template `$:/core/ui/PageTemplate/pagecontrols` is responsible for actually rendering these controls. In here, you'll find, among other lines:\n\n```html\n\\define config-title()\n$:/config/PageControlButtons/Visibility/$(listItem)$\n\\end\n[...]\n<$set name=\"hidden\" value=<<config-title>>>\n<$list filter=\"[<hidden>!text[hide]]\" storyview=\"pop\" variable=\"ignore\">\n[...]\n```\n\nThus, if the tiddler `$:/config/PageControlButtons/Visibility/NameOfYourButtonTiddler` has content of `hide`, the button isn't transcluded onto the toolbar. Toggling the checkbox next to your button on the ''Tools'' tab of the sidebar will change the contents of this tiddler, thus hiding or showing it."
+  "text": "The template `$:/core/ui/PageTemplate/pagecontrols` is responsible for actually rendering these controls. In here, you'll find, among other lines:\n\n```html\n\\define config-title()\n$:/config/PageControlButtons/Visibility/$(listItem)$\n\\end\n[...]\n<$set name=\"hidden\" value=<<config-title>>>\n<$list filter=\"[<hidden>!text[hide]]\" storyview=\"pop\" variable=\"ignore\">\n[...]\n```\n\nThus, if the tiddler `$:/config/PageControlButtons/Visibility/NameOfYourButtonTiddler` has content of `hide`, the button isn't transcluded onto the toolbar. Toggling the checkbox next to your button on the ''Tools'' tab of the sidebar will change the contents of this tiddler, thus hiding or showing it.",
+  "human_title": "Ex:SelectiveButtonDisplay/answer"
 }

@@ -4,5 +4,6 @@
   "modified": "20210121000855353",
   "tags": "Answer",
   "type": "text/vnd.tiddlywiki",
-  "text": "The class is `bluuuuu`, and the hidden message, kept in a `span` element inside the `div` element that makes up the square, is \u201cHelp, I'm trapped in an HTML span!\u201d"
+  "text": "The class is `bluuuuu`, and the hidden message, kept in a `span` element inside the `div` element that makes up the square, is \u201cHelp, I'm trapped in an HTML span!\u201d",
+  "human_title": "Ex:InspectSquare/answer"
 }

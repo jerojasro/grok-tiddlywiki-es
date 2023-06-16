@@ -6,5 +6,6 @@
   "origin": "HTML",
   "tags": "Exercise",
   "type": "text/vnd.tiddlywiki",
-  "text": "What HTML element is used to insert an image? You may wish to search the web to find the answer."
+  "text": "What HTML element is used to insert an image? You may wish to search the web to find the answer.",
+  "human_title": "Ex:ImageHtml"
 }

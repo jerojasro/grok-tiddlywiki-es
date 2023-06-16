@@ -4,5 +4,6 @@
   "modified": "20210327153324227",
   "tags": "Answer",
   "type": "text/vnd.tiddlywiki",
-  "text": "```html\n\\define wikipediaLink(articleName)\nhttps://en.wikipedia.org/wiki/$articleName$\n\\end\n\n<$wikify name=\"article\" text={{!!wikipedia-article}}>\n\t<$macrocall $name=\"wikipediaLink\" articleName=<<article>>/>\n</$wikify>\n```"
+  "text": "```html\n\\define wikipediaLink(articleName)\nhttps://en.wikipedia.org/wiki/$articleName$\n\\end\n\n<$wikify name=\"article\" text={{!!wikipedia-article}}>\n\t<$macrocall $name=\"wikipediaLink\" articleName=<<article>>/>\n</$wikify>\n```",
+  "human_title": "Ex:WikifyWikipediaLink/answer"
 }

@@ -6,5 +6,6 @@
   "origin": "Text Substitution",
   "tags": "Exercise",
   "type": "text/vnd.tiddlywiki",
-  "text": "Suppose that the following macro is being used to validate whether the user is authorized to access something:\n\n{{Sn:AuthorizationBypass||MagicSnippet}}\n\nWithout looking up the password, figure out what you can fill in between the quotation marks in the macro call to bypass the password check. Check your answer by editing the live example above."
+  "text": "Suppose that the following macro is being used to validate whether the user is authorized to access something:\n\n{{Sn:AuthorizationBypass||MagicSnippet}}\n\nWithout looking up the password, figure out what you can fill in between the quotation marks in the macro call to bypass the password check. Check your answer by editing the live example above.",
+  "human_title": "Ex:BypassSecurityWithTextSubstitution"
 }

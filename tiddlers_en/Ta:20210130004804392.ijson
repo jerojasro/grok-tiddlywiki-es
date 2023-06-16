@@ -7,5 +7,6 @@
   "qtype": "rememberq",
   "question": "If you intend to transclude many tiddlers using the same formatting, would you likely choose a macro or a template?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki"
+  "type": "text/vnd.tiddlywiki",
+  "human_title": "Ta:20210130004804392"
 }

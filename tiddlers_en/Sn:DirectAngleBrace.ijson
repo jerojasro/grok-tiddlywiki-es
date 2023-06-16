@@ -4,5 +4,6 @@
   "modified": "20210120032639775",
   "tags": "",
   "type": "text/vnd.tiddlywiki",
-  "text": "{{{ [[abc]addsuffix[def]] }}}\n\n<$set name=\"myVariable\" value=\"abc\">\n\t{{{ [<myVariable>addsuffix[def]] }}}\n</$set>"
+  "text": "{{{ [[abc]addsuffix[def]] }}}\n\n<$set name=\"myVariable\" value=\"abc\">\n\t{{{ [<myVariable>addsuffix[def]] }}}\n</$set>",
+  "human_title": "Sn:DirectAngleBrace"
 }

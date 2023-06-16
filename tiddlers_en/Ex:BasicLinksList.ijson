@@ -6,5 +6,6 @@
   "origin": "Creating a List of Links and Backlinks",
   "tags": "Exercise",
   "type": "text/vnd.tiddlywiki",
-  "text": "Edit `$:/yourname/TiddlerLinkSummary` to show a list of the forward links as well. We don't want the wikitext to get too repetitive, so create a macro to hold the bits that are the same in both."
+  "text": "Edit `$:/yourname/TiddlerLinkSummary` to show a list of the forward links as well. We don't want the wikitext to get too repetitive, so create a macro to hold the bits that are the same in both.",
+  "human_title": "Ex:BasicLinksList"
 }

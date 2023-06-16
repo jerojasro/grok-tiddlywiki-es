@@ -7,5 +7,6 @@
   "qtype": "rememberq",
   "question": "Write a filter expression that finds all tiddlers that are either tagged `Contact` or contain the word `JaneDoe` in their `text` field. The list should be sorted alphabetically.",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki"
+  "type": "text/vnd.tiddlywiki",
+  "human_title": "Ta:20210206153058234"
 }

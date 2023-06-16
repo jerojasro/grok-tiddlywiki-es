@@ -7,5 +7,6 @@
   "qtype": "rememberq",
   "question": "What file at the root of a plugin's folder contains metadata about the plugin?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki"
+  "type": "text/vnd.tiddlywiki",
+  "human_title": "Ta:20210109231513717"
 }

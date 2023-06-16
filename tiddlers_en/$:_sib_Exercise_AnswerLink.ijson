@@ -4,5 +4,6 @@
   "modified": "20210206145709509",
   "tags": "$:/tags/EditTemplate $:/tags/ViewTemplate",
   "type": "text/vnd.tiddlywiki",
-  "text": "<$list filter=\"[all[current]tag[Exercise]]\">\n  Go to answer: {{{ [all[current]has[draft.of]get[draft.of]addsuffix[/answer]] ~[all[current]addsuffix[/answer]] }}}\n\t{{||$:/sib/Exercise/CompletionCheckbox}}\n\t\n</$list>\n\n<$list filter=\"[all[current]tag[Answer]]\">\n  Go to question: {{{ [all[current]has[draft.of]get[draft.of]removesuffix[/answer]] ~[all[current]removesuffix[/answer]] }}}\n</$list>"
+  "text": "<$list filter=\"[all[current]tag[Exercise]]\">\n  Go to answer: {{{ [all[current]has[draft.of]get[draft.of]addsuffix[/answer]] ~[all[current]addsuffix[/answer]] }}}\n\t{{||$:/sib/Exercise/CompletionCheckbox}}\n\t\n</$list>\n\n<$list filter=\"[all[current]tag[Answer]]\">\n  Go to question: {{{ [all[current]has[draft.of]get[draft.of]removesuffix[/answer]] ~[all[current]removesuffix[/answer]] }}}\n</$list>",
+  "human_title": "$:/sib/Exercise/AnswerLink"
 }

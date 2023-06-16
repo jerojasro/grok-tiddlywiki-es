@@ -4,5 +4,6 @@
   "modified": "20210116213859544",
   "tags": "",
   "type": "text/vnd.tiddlywiki",
-  "text": "<style>\n.my-funny-class {\n  background-color: blue;\n  color: yellow;\n  font-size: 150%;\n  border: 3px dotted orange;\n  text-align: right;\n}\n</style>\n\n@@.my-funny-class\nHere is some funny-looking text.\n@@"
+  "text": "<style>\n.my-funny-class {\n  background-color: blue;\n  color: yellow;\n  font-size: 150%;\n  border: 3px dotted orange;\n  text-align: right;\n}\n</style>\n\n@@.my-funny-class\nHere is some funny-looking text.\n@@",
+  "human_title": "Sn:AtAtClass"
 }

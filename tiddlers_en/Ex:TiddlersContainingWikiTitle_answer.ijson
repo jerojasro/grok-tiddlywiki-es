@@ -4,5 +4,6 @@
   "modified": "20210409214445233",
   "tags": "Answer",
   "type": "text/vnd.tiddlywiki",
-  "text": "```html\n<ul>\n  <$list filter=\"[search{$:/SiteTitle}]\">\n    <li><$link to=<<currentTiddler>>><<currentTiddler>></$link></li>\n  </$list>\n</ul>\n```\n\nNow might be a good time to point out that there's a faster way to create a bulleted list of links to tiddlers that match a filter. I didn't tell you about this macro earlier so you would have to learn to use the more general `$list` widget, but now that you've learned, the `list-links` built-in macro is a handy shortcut. We can rewrite the above as simply:\n\n```html\n<<list-links \"[search{$:/SiteTitle}]\">>\n```"
+  "text": "```html\n<ul>\n  <$list filter=\"[search{$:/SiteTitle}]\">\n    <li><$link to=<<currentTiddler>>><<currentTiddler>></$link></li>\n  </$list>\n</ul>\n```\n\nNow might be a good time to point out that there's a faster way to create a bulleted list of links to tiddlers that match a filter. I didn't tell you about this macro earlier so you would have to learn to use the more general `$list` widget, but now that you've learned, the `list-links` built-in macro is a handy shortcut. We can rewrite the above as simply:\n\n```html\n<<list-links \"[search{$:/SiteTitle}]\">>\n```",
+  "human_title": "Ex:TiddlersContainingWikiTitle/answer"
 }

@@ -7,5 +7,6 @@
   "qtype": "rememberq",
   "question": "What happens if you delete a tiddler that is overriding a shadow tiddler?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki"
+  "type": "text/vnd.tiddlywiki",
+  "human_title": "Ta:20210107014146889"
 }

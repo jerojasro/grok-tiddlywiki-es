@@ -3,5 +3,6 @@
   "complete": ".*",
   "created": "20210408142624562",
   "modified": "20210408142547720",
-  "type": "text/vnd.tiddlywiki"
+  "type": "text/vnd.tiddlywiki",
+  "human_title": "$:/config/sobjornstad/GrokTiddlyWiki/ExerciseBrowserState"
 }

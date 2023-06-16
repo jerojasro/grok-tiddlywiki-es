@@ -6,5 +6,6 @@
   "origin": "Buttons and Input Widgets",
   "tags": "Exercise",
   "type": "text/vnd.tiddlywiki",
-  "text": "Add a little bit of text to the right of the `Go` button in [[Ex:JumpToTiddler]] that displays \"Exists!\" in green if the tiddler name currently entered into the input field exists, and \"Not found.\" in red if it doesn't. This text should immediately update as you type.\n\n//Hint//: To quickly change the color of some text, you can wrap it with a span, like `<span style=\"color:blue;\">the text</span>`."
+  "text": "Add a little bit of text to the right of the `Go` button in [[Ex:JumpToTiddler]] that displays \"Exists!\" in green if the tiddler name currently entered into the input field exists, and \"Not found.\" in red if it doesn't. This text should immediately update as you type.\n\n//Hint//: To quickly change the color of some text, you can wrap it with a span, like `<span style=\"color:blue;\">the text</span>`.",
+  "human_title": "Ex:InputExistsText"
 }

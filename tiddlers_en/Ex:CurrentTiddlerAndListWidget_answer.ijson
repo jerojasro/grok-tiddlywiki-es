@@ -4,5 +4,6 @@
   "modified": "20210207221748314",
   "tags": "Answer",
   "type": "text/vnd.tiddlywiki",
-  "text": "The `$list` widget changes the current tiddler to be each result of the filter in turn."
+  "text": "The `$list` widget changes the current tiddler to be each result of the filter in turn.",
+  "human_title": "Ex:CurrentTiddlerAndListWidget/answer"
 }

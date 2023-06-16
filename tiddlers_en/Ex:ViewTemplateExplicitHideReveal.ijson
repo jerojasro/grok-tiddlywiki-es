@@ -6,5 +6,6 @@
   "origin": "Hiding and Showing Things",
   "tags": "Exercise",
   "type": "text/vnd.tiddlywiki",
-  "text": "Repeat the [[previous exercise|Ex:ViewTemplateExplicitHide]], but use a `$reveal` widget instead of a `$list` widget."
+  "text": "Repeat the [[previous exercise|Ex:ViewTemplateExplicitHide]], but use a `$reveal` widget instead of a `$list` widget.",
+  "human_title": "Ex:ViewTemplateExplicitHideReveal"
 }

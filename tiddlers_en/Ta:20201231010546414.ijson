@@ -7,5 +7,6 @@
   "qtype": "rememberq",
   "question": "What restriction is placed on the location of pragmas, such as `\\define`, within a tiddler?",
   "tags": "Takeaway",
-  "type": "text/vnd.tiddlywiki"
+  "type": "text/vnd.tiddlywiki",
+  "human_title": "Ta:20201231010546414"
 }
