@@ -1,0 +1,95 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Javier Rojas
+# This file is distributed under the same license as the Grok TiddlyWiki package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Grok TiddlyWiki VERSION\n"
+"POT-Creation-Date: 2023-06-17 20:00-0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: text
+#: tiddlers_en/Ex:JaneManagerPhone_answer.json:7
+#, no-wrap
+msgid "Here's the obvious and straightforward way, which has the major disadvantage of silently not updating if the manager changes and perhaps making you call the wrong number at an inopportune time:"
+msgstr ""
+
+#. type: text
+#: tiddlers_en/Ex:JaneManagerPhone_answer.json:7
+#, no-wrap
+msgid "```html\\nJane's manager's phone number is {{ChrisSmith!!phone}}.\\n```"
+msgstr ""
+
+#. type: text
+#: tiddlers_en/Ex:JaneManagerPhone_answer.json:7
+#, no-wrap
+msgid "Now for trying to make it grab the manager's name from the `manager` field on the fly. You may have been tempted to try:"
+msgstr ""
+
+#. type: text
+#: tiddlers_en/Ex:JaneManagerPhone_answer.json:7
+#, no-wrap
+msgid "\\n```html\\n{{ {{!!manager}}!!phone }}\\n```"
+msgstr ""
+
+#. type: text
+#: tiddlers_en/Ex:JaneManagerPhone_answer.json:7
+#, no-wrap
+msgid "\\u2026but unfortunately this does not work."
+msgstr ""
+
+#. type: text
+#: tiddlers_en/Ex:JaneManagerPhone_answer.json:7
+#, no-wrap
+msgid "There are actually two separate reasons it doesn't work. First, TiddlyWiki doesn't parse other wikitext within `{{double curly braces}}`, it only looks for a tiddler name/field. Second, even if it did, it would fail for the same reason that this didn't work in an [[exercise|Ex:MacroAdjacency]] in [[Macros]]:"
+msgstr ""
+
+#. type: text
+#: tiddlers_en/Ex:JaneManagerPhone_answer.json:7
+#, no-wrap
+msgid "```html\\n<<wikipediaLink>>Aardvark\\n```"
+msgstr ""
+
+#. type: text
+#: tiddlers_en/Ex:JaneManagerPhone_answer.json:7
+#, no-wrap
+msgid "If you need a refresher, TiddlyWiki processes the contents of transclusions (of variables and macros, as we saw before, as well as of fields) separately from the surrounding content, so the result of `{{!!manager}}` (namely, `ChrisSmith`) is an entirely separate piece of wikitext to TiddlyWiki. Thus, what it would see would be three separate, unconnected pieces: `{{`, `ChrisSmith`, and `!!phone }}`."
+msgstr ""
+
+#. type: text
+#: tiddlers_en/Ex:JaneManagerPhone_answer.json:7
+#, no-wrap
+msgid "Here's a method that works and uses only tools we've already seen. If you worked at it long enough, you might have gotten this or something similar:"
+msgstr ""
+
+#. type: text
+#: tiddlers_en/Ex:JaneManagerPhone_answer.json:7
+#, no-wrap
+msgid "```html\\n\\\\define getPhone(person)\\n{{$person$!!phone}}\\n\\\\end"
+msgstr ""
+
+#. type: text
+#: tiddlers_en/Ex:JaneManagerPhone_answer.json:7
+#, no-wrap
+msgid "Jane's manager's phone number is: <$macrocall $name=\\\"getPhone\\\" person={{!!manager}} />\\n```"
+msgstr ""
+
+#. type: text
+#: tiddlers_en/Ex:JaneManagerPhone_answer.json:7
+#, no-wrap
+msgid "That said, understanding //why// this works when `{{ {{!!manager}}!!phone }}` doesn't is likely beyond your TiddlyWiki knowledge at this point, so don't feel too bad if you didn't get it. We'll see the explanation in [[Text Substitution]].\\n"
+msgstr ""
+
+#. type: human_title
+#: tiddlers_en/Ex:JaneManagerPhone_answer.json:8
+#, no-wrap
+msgid "Ex:JaneManagerPhone/answer"
+msgstr ""

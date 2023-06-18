@@ -1,0 +1,29 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Javier Rojas
+# This file is distributed under the same license as the Grok TiddlyWiki package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Grok TiddlyWiki VERSION\n"
+"POT-Creation-Date: 2023-06-17 20:49-0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: text
+#: tiddlers_en/Ex:PrettyWikipediaLink_answer.json:7
+#, no-wrap
+msgid "```html\\n\\\\define wikipediaLink(articleName)\\n  [[Wikipedia: $articleName$|https://en.wikipedia.org/wiki/$articleName$]]\\n\\\\end\\n```"
+msgstr ""
+
+#. type: human_title
+#: tiddlers_en/Ex:PrettyWikipediaLink_answer.json:8
+#, no-wrap
+msgid "Ex:PrettyWikipediaLink/answer"
+msgstr ""

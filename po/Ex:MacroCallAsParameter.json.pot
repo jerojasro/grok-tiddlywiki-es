@@ -1,0 +1,35 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Javier Rojas
+# This file is distributed under the same license as the Grok TiddlyWiki package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Grok TiddlyWiki VERSION\n"
+"POT-Creation-Date: 2023-06-17 20:02-0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: text
+#: tiddlers_en/Ex:MacroCallAsParameter.json:10
+#, no-wrap
+msgid "Rewrite the example in //The `$macrocall` widget can take variables as parameters// to call a macro `animalLinkText` to get the value of the `linkText` parameter to the `wikipediaLink` macro. In other words, replace the `<<linktext>>` variable that's currently there with a macro."
+msgstr ""
+
+#. type: text
+#: tiddlers_en/Ex:MacroCallAsParameter.json:10
+#, no-wrap
+msgid "The `animalLinkText` macro should take a letter as a parameter and output the text `An animal which begins with {LETTER}`, where `{LETTER}` is the parameter passed. Update the example to display the appropriate link text for each of the three animals."
+msgstr ""
+
+#. type: human_title
+#: tiddlers_en/Ex:MacroCallAsParameter.json:11
+#, no-wrap
+msgid "Ex:MacroCallAsParameter"
+msgstr ""

@@ -1,0 +1,29 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Javier Rojas
+# This file is distributed under the same license as the Grok TiddlyWiki package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Grok TiddlyWiki VERSION\n"
+"POT-Creation-Date: 2023-06-17 20:46-0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: text
+#: tiddlers_en/Ex:PrettyWikipediaLink.json:10
+#, no-wrap
+msgid "To create a pretty external link where the text differs from the URL, we can use the syntax `[[text|http://example.com]]`. Update the `wikipediaLink` macro to output a link that looks like [[Wikipedia: Aardvark|https://en.wikipedia.org/wiki/Aardvark]]."
+msgstr ""
+
+#. type: human_title
+#: tiddlers_en/Ex:PrettyWikipediaLink.json:11
+#, no-wrap
+msgid "Ex:PrettyWikipediaLink"
+msgstr ""
