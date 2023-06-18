@@ -1,0 +1,29 @@
+# Spanish translations for Grok TiddlyWiki package
+# Copyright (C) 2023 Javier Rojas
+# This file is distributed under the same license as the Grok TiddlyWiki package.
+# Automatically generated, 2023.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Grok TiddlyWiki VERSION\n"
+"POT-Creation-Date: 2023-06-18 13:04-0500\n"
+"PO-Revision-Date: 2023-06-18 13:28-0500\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. type: question
+#: tiddlers_en/Ta:20201231005245149.json:7
+#, no-wrap
+msgid "The parts of a macro's output that change depending on how the macro is called are known as {c1::parameters} or {c1::arguments}."
+msgstr "Las partes que cambian en la salida de una macro dependiendo de cómo se invoca a la macro son los {c1::parámetros} o {c1::argumentos}."
+
+#. type: human_title
+#: tiddlers_en/Ta:20201231005245149.json:10
+#, no-wrap
+msgid "Ta:20201231005245149"
+msgstr "Ta:20201231005245149"

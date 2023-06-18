@@ -1,0 +1,29 @@
+# Spanish translations for Grok TiddlyWiki package
+# Copyright (C) 2023 Javier Rojas
+# This file is distributed under the same license as the Grok TiddlyWiki package.
+# Automatically generated, 2023.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Grok TiddlyWiki VERSION\n"
+"POT-Creation-Date: 2023-06-18 13:04-0500\n"
+"PO-Revision-Date: 2023-06-18 13:40-0500\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. type: question
+#: tiddlers_en/Ta:20201231005732263.json:7
+#, no-wrap
+msgid "In TiddlyWiki, a declaration beginning with a backslash at the beginning of a tiddler that explains how TiddlyWiki should read the rest of the tiddler is called a {pragma}."
+msgstr "En TiddlyWiki, una declaración que empieza con una contrabarra al principio de un tiddler que le explica a TiddlyWiki cómo debe procesar el resto del tiddler se conoce como un {pragma}."
+
+#. type: human_title
+#: tiddlers_en/Ta:20201231005732263.json:10
+#, no-wrap
+msgid "Ta:20201231005732263"
+msgstr "Ta:20201231005732263"

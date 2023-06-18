@@ -1,0 +1,35 @@
+# Spanish translations for Grok TiddlyWiki package
+# Copyright (C) 2023 Javier Rojas
+# This file is distributed under the same license as the Grok TiddlyWiki package.
+# Automatically generated, 2023.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Grok TiddlyWiki VERSION\n"
+"POT-Creation-Date: 2023-06-18 13:04-0500\n"
+"PO-Revision-Date: 2023-06-18 13:51-0500\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. type: answer
+#: tiddlers_en/Ta:20201231010546414.json:3
+#, no-wrap
+msgid "All pragmas must come at the top of a tiddler, before anything that is not a pragma."
+msgstr "Todos los pragmas deben aparecer al comienzo del tiddler, antes de cualquier texto que no sea un pragma."
+
+#. type: question
+#: tiddlers_en/Ta:20201231010546414.json:8
+#, no-wrap
+msgid "What restriction is placed on the location of pragmas, such as `\\\\define`, within a tiddler?"
+msgstr "¿Qué restricción tiene la ubicación de los pragmas , como `\\\\define`, dentro de un tiddler?"
+
+#. type: human_title
+#: tiddlers_en/Ta:20201231010546414.json:11
+#, no-wrap
+msgid "Ta:20201231010546414"
+msgstr "Ta:20201231010546414"

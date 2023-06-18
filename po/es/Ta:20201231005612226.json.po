@@ -1,0 +1,35 @@
+# Spanish translations for Grok TiddlyWiki package
+# Copyright (C) 2023 Javier Rojas
+# This file is distributed under the same license as the Grok TiddlyWiki package.
+# Automatically generated, 2023.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Grok TiddlyWiki VERSION\n"
+"POT-Creation-Date: 2023-06-18 13:04-0500\n"
+"PO-Revision-Date: 2023-06-18 14:01-0500\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. type: answer
+#: tiddlers_en/Ta:20201231005612226.json:3
+#, no-wrap
+msgid "`<<wikipediaLink Aardvark>>` (quotation marks around the value `Aardvark` are optional, since it contains no spaces)"
+msgstr "`<<enlaceWikipedia Guanaco>>` (las comillas alrededor de `Guanaco` son opcionales, ya que esa expresión no tiene espacios)"
+
+#. type: question
+#: tiddlers_en/Ta:20201231005612226.json:8
+#, no-wrap
+msgid "What is the wikitext syntax to call the macro `wikipediaLink` with the single parameter `Aardvark`?"
+msgstr "¿Cuál es la sintaxis wikitexto para llamar la macro `enlaceWikipedia` con el parámetro `Guanaco`?"
+
+#. type: human_title
+#: tiddlers_en/Ta:20201231005612226.json:11
+#, no-wrap
+msgid "Ta:20201231005612226"
+msgstr "Ta:20201231005612226"

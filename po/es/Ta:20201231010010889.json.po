@@ -1,0 +1,35 @@
+# Spanish translations for Grok TiddlyWiki package
+# Copyright (C) 2023 Javier Rojas
+# This file is distributed under the same license as the Grok TiddlyWiki package.
+# Automatically generated, 2023.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Grok TiddlyWiki VERSION\n"
+"POT-Creation-Date: 2023-06-18 13:04-0500\n"
+"PO-Revision-Date: 2023-06-18 13:46-0500\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. type: answer
+#: tiddlers_en/Ta:20201231010010889.json:3
+#, no-wrap
+msgid "With the text `\\\\end` on a separate line."
+msgstr "Con el texto `\\\\end` en una línea aparte."
+
+#. type: question
+#: tiddlers_en/Ta:20201231010010889.json:8
+#, no-wrap
+msgid "A macro definition that is more than one line long must be ended how?"
+msgstr "¿Cómo debe terminar la definición de una macro que ocupa más de una línea?"
+
+#. type: human_title
+#: tiddlers_en/Ta:20201231010010889.json:11
+#, no-wrap
+msgid "Ta:20201231010010889"
+msgstr "Ta:20201231010010889"
