@@ -1,0 +1,41 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Javier Rojas
+# This file is distributed under the same license as the Grok TiddlyWiki package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Grok TiddlyWiki VERSION\n"
+"POT-Creation-Date: 2023-06-18 11:32-0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: text
+#: tiddlers_en/Ex:MacroPosition_answer.json:7
+#, no-wrap
+msgid "In either case, you get ugly and useless output:"
+msgstr ""
+
+#. type: text
+#: tiddlers_en/Ex:MacroPosition_answer.json:7
+#, no-wrap
+msgid "{{Sn:TextBeforeMacro||MagicSnippet}}"
+msgstr ""
+
+#. type: text
+#: tiddlers_en/Ex:MacroPosition_answer.json:7
+#, no-wrap
+msgid "Pragmas, including `\\\\define`, have to be the very first thing in a tiddler (except for other pragmas). If anything else at all comes before them (except [[comments|Comments]]), they're treated as normal text."
+msgstr ""
+
+#. type: human_title
+#: tiddlers_en/Ex:MacroPosition_answer.json:8
+#, no-wrap
+msgid "Ex:MacroPosition/answer"
+msgstr ""

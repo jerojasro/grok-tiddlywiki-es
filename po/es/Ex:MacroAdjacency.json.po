@@ -1,0 +1,41 @@
+# Spanish translations for Grok TiddlyWiki package
+# Copyright (C) 2023 Javier Rojas
+# This file is distributed under the same license as the Grok TiddlyWiki package.
+# Automatically generated, 2023.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Grok TiddlyWiki VERSION\n"
+"POT-Creation-Date: 2023-06-18 11:07-0500\n"
+"PO-Revision-Date: 2023-06-18 11:13-0500\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. type: text
+#: tiddlers_en/Ex:MacroAdjacency.json:9
+#, no-wrap
+msgid "Rather than create a macro for the first version of the Wikipedia link functionality, one might think we could simply use a variable and stick the variable reference immediately next to the article name:"
+msgstr "En vez de crear una macro para enlaces de Wikipedia como la de la primera versión mostrada, se podría pensar que podemos simplemente usar una variable y ponerla junto al nombre del artículo:"
+
+#. type: text
+#: tiddlers_en/Ex:MacroAdjacency.json:9
+#, fuzzy, no-wrap
+msgid "```html\\n<$set name=\\\"wikipedia\\\" value=\\\"https://en.wikipedia.org/wiki/\\\">\\n\\t<<wikipedia>>Aardvark\\n</$set>\\n```"
+msgstr "```html\\n<$set name=\\\"wikipedia\\\" value=\\\"https://es.wikipedia.org/wiki/\\\">\\n\\t<<wikipedia>>Guanaco\\n</$set>\\n```"
+
+#. type: text
+#: tiddlers_en/Ex:MacroAdjacency.json:9
+#, no-wrap
+msgid "Try putting this snippet in a tiddler. What happens? Why do you think this might happen?"
+msgstr "Intente usar este fragmento en un tiddler. ¿Qué sucede? ¿Por qué cree que sucede esto?"
+
+#. type: human_title
+#: tiddlers_en/Ex:MacroAdjacency.json:10
+#, no-wrap
+msgid "Ex:MacroAdjacency"
+msgstr "Ex:AdyacenciaEnMacro"

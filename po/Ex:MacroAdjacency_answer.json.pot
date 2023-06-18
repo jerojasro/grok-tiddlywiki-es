@@ -1,0 +1,47 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Javier Rojas
+# This file is distributed under the same license as the Grok TiddlyWiki package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Grok TiddlyWiki VERSION\n"
+"POT-Creation-Date: 2023-06-18 11:07-0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: text
+#: tiddlers_en/Ex:MacroAdjacency_answer.json:7
+#, no-wrap
+msgid "You get:"
+msgstr ""
+
+#. type: text
+#: tiddlers_en/Ex:MacroAdjacency_answer.json:7
+#, no-wrap
+msgid "<$set name=\\\"wikipedia\\\" value=\\\"https://en.wikipedia.org/wiki/\\\">\\n\\t<<wikipedia>>Aardvark\\n</$set>"
+msgstr ""
+
+#. type: text
+#: tiddlers_en/Ex:MacroAdjacency_answer.json:7
+#, no-wrap
+msgid "The reason this doesn't work is somewhat technical, but essentially, when TiddlyWiki is reading your wikitext and figuring out what output to produce, it processes the value of the variable in isolation, without its surrounding context. First, it looks at the contents of the variable `wikipedia` and sees that there's a complete link within it, so it displays the link. Then it comes back to processing the rest of the tiddler, where it sees the text `Aardvark`, so it displays that text. It never looks at them together, the way you might with your sensible human eyes, so it never realizes this could form one link. We'll discuss this in detail in [[Text Substitution]]."
+msgstr ""
+
+#. type: text
+#: tiddlers_en/Ex:MacroAdjacency_answer.json:7
+#, no-wrap
+msgid "This applies not only to variables but also to macros (and [[transclusions|Transclusions]], when we get to those)."
+msgstr ""
+
+#. type: human_title
+#: tiddlers_en/Ex:MacroAdjacency_answer.json:8
+#, no-wrap
+msgid "Ex:MacroAdjacency/answer"
+msgstr ""

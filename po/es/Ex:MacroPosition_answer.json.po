@@ -1,0 +1,41 @@
+# Spanish translations for Grok TiddlyWiki package
+# Copyright (C) 2023 Javier Rojas
+# This file is distributed under the same license as the Grok TiddlyWiki package.
+# Automatically generated, 2023.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Grok TiddlyWiki VERSION\n"
+"POT-Creation-Date: 2023-06-18 11:32-0500\n"
+"PO-Revision-Date: 2023-06-18 11:36-0500\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. type: text
+#: tiddlers_en/Ex:MacroPosition_answer.json:7
+#, no-wrap
+msgid "In either case, you get ugly and useless output:"
+msgstr "En ambos casos, obtendrá una salida fea e inútil:"
+
+#. type: text
+#: tiddlers_en/Ex:MacroPosition_answer.json:7
+#, no-wrap
+msgid "{{Sn:TextBeforeMacro||MagicSnippet}}"
+msgstr "{{Sn:TextBeforeMacro||MagicSnippet}}"
+
+#. type: text
+#: tiddlers_en/Ex:MacroPosition_answer.json:7
+#, no-wrap
+msgid "Pragmas, including `\\\\define`, have to be the very first thing in a tiddler (except for other pragmas). If anything else at all comes before them (except [[comments|Comments]]), they're treated as normal text."
+msgstr "Los pragmas, incluyendo `\\\\define`, deben ser lo primero en aparecer en un tiddler (además de otros pragmas). Si hay cualquier otra cosa antes de ellos (excepto [[comentarios|Comments]]), son tratados como texto normal."
+
+#. type: human_title
+#: tiddlers_en/Ex:MacroPosition_answer.json:8
+#, no-wrap
+msgid "Ex:MacroPosition/answer"
+msgstr "Ex:PosicionMacro/respuesta"

@@ -1,0 +1,29 @@
+# Spanish translations for Grok TiddlyWiki package
+# Copyright (C) 2023 Javier Rojas
+# This file is distributed under the same license as the Grok TiddlyWiki package.
+# Automatically generated, 2023.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Grok TiddlyWiki VERSION\n"
+"POT-Creation-Date: 2023-06-18 11:24-0500\n"
+"PO-Revision-Date: 2023-06-18 11:32-0500\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. type: text
+#: tiddlers_en/Ex:EmptyMacroCall_answer.json:7
+#, no-wrap
+msgid "There is no output at all, just like if you refer to a variable that has gone out of scope or was never created."
+msgstr "No hay salida de ningún tipo, tal como si usted usara una variable que ha salido de alcance o que nunca fue creada."
+
+#. type: human_title
+#: tiddlers_en/Ex:EmptyMacroCall_answer.json:8
+#, no-wrap
+msgid "Ex:EmptyMacroCall/answer"
+msgstr "Ex:LlamadaMacroVacia/respuesta"

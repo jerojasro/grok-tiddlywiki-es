@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Grok TiddlyWiki VERSION\n"
 "POT-Creation-Date: 2023-06-17 20:11-0500\n"
-"PO-Revision-Date: 2023-06-17 20:28-0500\n"
+"PO-Revision-Date: 2023-06-18 11:34-0500\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: es\n"
@@ -20,10 +20,10 @@ msgstr ""
 #: tiddlers_en/Ex:MacroPosition.json:9
 #, no-wrap
 msgid "Try referring to the `wikipediaLink` macro //before// defining it. What happens? What about if you put some arbitrary text before the macro definition that doesn't include a call to `wikipediaLink`?"
-msgstr "Trate de mencionar la macro `enlaceWikipedia` //antes// de definirla. ¿Qué sucede? ¿Y qué pasa si pone algo de texto arbitrario antes de la deinición de la macro, que no incluye una llamada a `enlaceWikipedia`?"
+msgstr "Trate de mencionar la macro `enlaceWikipedia` //antes// de definirla. ¿Qué sucede? ¿Y qué pasa si pone algo de texto arbitrario antes de la definición de la macro, que no incluya llamadas a `enlaceWikipedia`?"
 
 #. type: human_title
 #: tiddlers_en/Ex:MacroPosition.json:10
 #, no-wrap
 msgid "Ex:MacroPosition"
-msgstr "Ex:MacroPosition"
+msgstr "Ex:PosicionMacro"

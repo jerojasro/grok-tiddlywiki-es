@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Grok TiddlyWiki VERSION\n"
 "POT-Creation-Date: 2023-06-17 20:46-0500\n"
-"PO-Revision-Date: 2023-06-17 20:49-0500\n"
+"PO-Revision-Date: 2023-06-18 11:13-0500\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: es\n"
@@ -26,4 +26,4 @@ msgstr "Para crear un enlace externo agradable, en el que el texto sea distinto 
 #: tiddlers_en/Ex:PrettyWikipediaLink.json:11
 #, no-wrap
 msgid "Ex:PrettyWikipediaLink"
-msgstr "Ex:PrettyWikipediaLink"
+msgstr "Ex:EnlaceWikipediaAgradable"

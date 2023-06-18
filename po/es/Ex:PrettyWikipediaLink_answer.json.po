@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Grok TiddlyWiki VERSION\n"
 "POT-Creation-Date: 2023-06-17 20:49-0500\n"
-"PO-Revision-Date: 2023-06-17 20:51-0500\n"
+"PO-Revision-Date: 2023-06-18 11:21-0500\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: es\n"
@@ -26,4 +26,4 @@ msgstr "```html\\n\\\\define enlaceWikipedia(nombreArticulo)\\n  [[Wikipedia: $n
 #: tiddlers_en/Ex:PrettyWikipediaLink_answer.json:8
 #, no-wrap
 msgid "Ex:PrettyWikipediaLink/answer"
-msgstr "Ex:PrettyWikipediaLink/answer"
+msgstr "Ex:EnlaceWikipediaAgradable/respuesta"
