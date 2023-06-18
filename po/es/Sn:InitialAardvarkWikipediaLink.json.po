@@ -1,0 +1,35 @@
+# Spanish translations for Grok Tiddlywiki package
+# Copyright (C) 2023 Javier Rojas.
+# This file is distributed under the same license as the Grok Tiddlywiki package.
+# Automatically generated, 2023.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.2.2\n"
+"POT-Creation-Date: 2023-06-16 21:01-0500\n"
+"PO-Revision-Date: 2023-06-17 19:54-0500\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. type: text
+#: tiddlers_en/Sn:InitialAardvarkWikipediaLink.json:7
+#, no-wrap
+msgid "\\\\define wikipediaLink(articleName)\\nhttps://en.wikipedia.org/wiki/$articleName$\\n\\\\end"
+msgstr "\\\\define enlaceWikipedia(nombreArticulo)\\nhttps://es.wikipedia.org/wiki/$nombreArticulo$\\n\\\\end"
+
+#. type: text
+#: tiddlers_en/Sn:InitialAardvarkWikipediaLink.json:7
+#, no-wrap
+msgid "<<wikipediaLink Aardvark>>"
+msgstr "<<enlaceWikipedia Guanaco>>"
+
+#. type: human_title
+#: tiddlers_en/Sn:InitialAardvarkWikipediaLink.json:8
+#, no-wrap
+msgid "Sn:InitialAardvarkWikipediaLink"
+msgstr "Sn:InitialAardvarkWikipediaLink"

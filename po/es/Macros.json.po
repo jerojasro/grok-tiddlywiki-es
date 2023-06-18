@@ -1,0 +1,180 @@
+# Spanish translations for Grok Tiddlywiki package
+# Copyright (C) 2023 Javier Rojas.
+# This file is distributed under the same license as the Grok Tiddlywiki package.
+# Automatically generated, 2023.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.2.2\n"
+"POT-Creation-Date: 2023-06-16 20:18-0500\n"
+"PO-Revision-Date: 2023-06-17 19:58-0500\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.2.2\n"
+
+#. type: text
+#: tiddlers_en/Macros.json:9
+#, no-wrap
+msgid "Sometimes we repeat text which is exactly the same, and [[variables|Variables]] let us eliminate that repetition. But often, we want to repeat some text which is //mostly// the same, but which ''varies in a small part or two''."
+msgstr "Algunas veces tenemos repeticiones de un texto que son exactamente iguales, y las [[variables|Variables]] nos permiten eliminar esa repetición. Pero a menudo queremos repetir textos que son //casi// iguales, pero que ''varían en una o dos cosas''."
+
+#. type: text
+#: tiddlers_en/Macros.json:9
+#, no-wrap
+msgid "For instance, suppose we are linking to Wikipedia articles over and over again, and we're getting tired of copying and pasting the URLs. Wikipedia article URLs have a very predictable format: for an article named `Article Name` in the English encyclopedia, the URL looks like `https://en.wikipedia.org/wiki/Article Name`. The only part that ever changes is the name of the article."
+msgstr "Por ejemplo, suponga que estamos creando enlaces de artículos de Wikipedia una y otra vez, y nos estamos cansando de copiar y pegar las URLs. Las URLs de los artículos de Wikipedia tienen un formato muy predecible: un artículo llamado `Nombre de Artículo` tendrá una URL como `https://es.wikipedia.org/wiki/Nombre de Artículo`. La única parte que varía es el nombre del artículo."
+
+#. type: text
+#: tiddlers_en/Macros.json:9
+#, no-wrap
+msgid "In situations like this, we can use a ''macro''. A macro is simply a variable with some bits that change depending on how you refer to it; the bits that change are called ''parameters'' or ''arguments''. A macro definition for creating Wikipedia links could look like this:"
+msgstr "En estas situaciones, podemos usar una ''macro''. Una macro es simplemente una variable con algunas partes que varían dependiendo de cómo las use; las partes que cambian se llaman ''parámetros'' o ''argumentos''. La definición de una macro para crear enlaces de Wikipedia se vería así:"
+
+#. type: text
+#: tiddlers_en/Macros.json:9
+#, no-wrap
+msgid "```html\\n\\\\define wikipediaLink(articleName)\\nhttps://en.wikipedia.org/wiki/$articleName$\\n\\\\end\\n```"
+msgstr "```html\\n\\\\define enlaceWikipedia(nombreArticulo)\\nhttps://es.wikipedia.org/wiki/$nombreArticulo$\\n\\\\end\\n```"
+
+#. type: text
+#: tiddlers_en/Macros.json:9
+#, no-wrap
+msgid "To get the value of the macro (this is referred to as ''calling'' or ''invoking'' it), we use the same double angle brackets that we would for a variable, but we include the values of the parameters as well (this is called ''passing'' the parameters to the macro). Specifically, we place them inside the double angle brackets after the macro name, separated from the macro name and from each other by a space:"
+msgstr "Para obtener el valor de una macro (a esto se lo llama ''llamarla'' o ''invocarla''), usamos los mismos paréntesis angulares dobles que usaríamos para una variable, pero también incluímos los valores de los parámetros (a esto se lo llama ''pasar'' los parámetros a la macro). Específicamente, los ponemos dentro de los paréntesis angulares dobles, luego del nombre de la macro, separados del nombre de la macro con un espacio:"
+
+#. type: text
+#: tiddlers_en/Macros.json:9
+#, no-wrap
+msgid "```html\\n<<wikipediaLink Aardvark>>\\n```"
+msgstr "```html\\n<<enlaceWikipedia Guanaco>>\\n```"
+
+#. type: text
+#: tiddlers_en/Macros.json:9
+#, no-wrap
+msgid "Let's put it together:"
+msgstr "Apliquemos lo aprendido:"
+
+#. type: text
+#: tiddlers_en/Macros.json:9
+#, no-wrap
+msgid "{{Sn:InitialAardvarkWikipediaLink||MagicSnippet}}"
+msgstr "{{Sn:InitialAardvarkWikipediaLink||MagicSnippet}}"
+
+#. type: text
+#: tiddlers_en/Macros.json:9
+#, no-wrap
+msgid "Let's get this example in your wiki: create a new tiddler called `WikipediaLinks` and type this snippet in. (Careful: unlike in [[HTML]], `\\\\define` and `\\\\end` use a //backslash//, not a forward slash. Review the linked section if you can't remember which is which.) You should see the link appear, as it does in the preview above."
+msgstr "Pongamos este ejemplo en su wiki: cree un nuevo tiddler llamado `EnlacesWikipedia` y digite este fragmento de texto. (Cuidado: a diferencia de [[HTML]], `\\\\define` y `\\\\end` usan //contrabarras//, no barras. Revise la sección enlazada si no recuerda cuál es cuál.) Debería ver que aparece un enlace, como ocurre en la vista previa aquí arriba."
+
+#. type: text
+#: tiddlers_en/Macros.json:9
+#, no-wrap
+msgid "The process of TiddlyWiki handling a call to your macro is called ''macro expansion'', and we say that the macro has been ''expanded'' when the result shows up in our formatted tiddler, and that the result is the ''expansion'' of the macro call."
+msgstr "El proceso mediante el cual TiddlyWiki procesa una llamada a su macro se llama ''expansión de la macro'', y decimos que la macro ha sido ''expandida'' cuando el resultado aparece en nuestro tiddler procesado, y el resultado es la ''expansión'' de la llamada a la macro."
+
+#. type: text
+#: tiddlers_en/Macros.json:9
+#, no-wrap
+msgid "!! Anatomy of a macro"
+msgstr "!! Anatomía de una macro"
+
+#. type: text
+#: tiddlers_en/Macros.json:9
+#, no-wrap
+msgid "Let's take a closer look at what's going on here. Our macro started with this line:"
+msgstr "Miremos más de cerca qué está ocurriendo aquí. Nuestra macro empieza con esta línea:"
+
+#. type: text
+#: tiddlers_en/Macros.json:9
+#, no-wrap
+msgid "```html\\n\\\\define wikipediaLink(articleName)\\n```"
+msgstr "```html\\n\\\\define enlaceWikipedia(nombreArticulo)\\n```"
+
+#. type: text
+#: tiddlers_en/Macros.json:9
+#, no-wrap
+msgid "The word starting with a backslash indicates a kind of ''pragma'', which is a really fancy name for an instruction that comes at the top of a tiddler and changes the way TiddlyWiki reads the rest of the tiddler. Specifically, the `\\\\define` pragma tells TiddlyWiki that every time it sees a reference to `wikipediaLink`, it should follow the instructions in this macro."
+msgstr "La palabra que empieza con una contrabarra se conoce como ''pragma'', lo que no es más que un tecnicismo para una instrucción que aparece al comienzo de un tiddler y cambia la manera en que TiddlyWiki lee el resto del tiddler. Específicamente, el pragma `\\\\define` le dice a TiddlyWiki que cada vez que vea una referencia a `enlaceWikipedia` debe seguir las instrucciones en esa macro."
+
+#. type: text
+#: tiddlers_en/Macros.json:9
+#, no-wrap
+msgid "`wikipediaLink`, of course, is the name of the macro."
+msgstr "`enlaceWikipedia` es, por supuesto, el nombre de la macro."
+
+#. type: text
+#: tiddlers_en/Macros.json:9
+#, no-wrap
+msgid "The part in parentheses, called the ''parameter list'', describes the parameters of the macro. When TiddlyWiki sees a macro call, it will look at each of the parameters passed and match them up to the names in the parentheses, based on what order they come in. In our example, it concludes that `articleName` should be `Aardvark` within the macro. (In the [[next section|The Finer Points of Macros]], we'll see an example with more than one parameter.)"
+msgstr "La parte entre paréntesis, llamada la ''lista de parámetros'', describe los parámetros de la macro. Cuando TiddlyWiki ve la llamada a una macro, hará coincidir cada uno de los parámetros recibidos y los emparejará con los nombres en los paréntesis, de acuerdo al orden en que se encuentren.  En nuestro ejemplo, determina que dentro de la macro `nombreArticulo` debe ser `Guanaco`. (En la [[próxima sección|The Finer Points of Macros]], veremos un ejemplo que usa varios parámetros.)"
+
+#. type: text
+#: tiddlers_en/Macros.json:9
+#, no-wrap
+msgid "Everything between the line beginning with `\\\\define` and the line beginning with `\\\\end` is called the ''body'' of the macro. When we call the macro, TiddlyWiki will stop processing wikitext and rendering your tiddler for a moment, read the body of the macro, and see:"
+msgstr "Todo lo que se encuentra entre la línea que empieza con `\\\\define` y la línea que empieza con `\\\\end` se denomina el ''cuerpo'' de la macro. Cuando llamamos la macro, TiddlyWiki detiene momentáneamente el procesamiento de wikitexto y la generación del tiddler, lee el cuerpo de la macro, y ve lo siguiente::"
+
+#. type: text
+#: tiddlers_en/Macros.json:9
+#, no-wrap
+msgid "```html\\nhttps://en.wikipedia.org/wiki/$articleName$\\n```"
+msgstr "```html\\nhttps://es.wikipedia.org/wiki/$nombreArticulo$\\n```"
+
+#. type: text
+#: tiddlers_en/Macros.json:9
+#, no-wrap
+msgid "It will spot the bit between the dollar signs, notice that we said `articleName` represented `Aardvark` in this case, and substitute in the word `Aardvark`, yielding an expansion of `https://en.wikipedia.org/wiki/Aardvark`. Finally, it will go back to processing wikitext, starting with the expansion of the macro, at which point it will notice that this is a web URL, which should be turned into a link, and display the link on-screen."
+msgstr "Notará lo que hay entre los signos de peso, y que dijimos que `nombreArticulo` es `Guanaco` en este caso, y pondrá la palabra `Guanaco`, dando como resultado para la expansión de la macro `https://es.wikipedia.org/wiki/Guanaco`. Finalmente, continuará con el procesamiento de wikitexto, considerando ahora la expansión de la macro; en este punto notará que es una URL, que debe convertir en un enlace para mostrarlo en pantalla."
+
+#. type: text
+#: tiddlers_en/Macros.json:9
+#, no-wrap
+msgid "Lastly, there's the line:"
+msgstr "Finalmente, está la línea:"
+
+#. type: text
+#: tiddlers_en/Macros.json:9
+#, no-wrap
+msgid "```html\\n\\\\end\\n```"
+msgstr "```html\\n\\\\end\\n```"
+
+#. type: text
+#: tiddlers_en/Macros.json:9
+#, no-wrap
+msgid "This indicates that we've come to the end of the macro. A macro can go on for as many lines as we want it to, until we come to the `\\\\end`."
+msgstr "Ésta indica que hemos llegado al final de la macro. Una macro puede extenderse por tantas líneas como deseemos, hasta que pongamos el texto `\\\\end` (en inglés, «fin»)."
+
+#. type: text
+#: tiddlers_en/Macros.json:9
+#, no-wrap
+msgid "!! Exercises"
+msgstr "!! Ejercicios"
+
+#. type: text
+#: tiddlers_en/Macros.json:9
+#, no-wrap
+msgid "{{Ex:PrettyWikipediaLink||ExerciseTemplate}}\\n{{Ex:MacroAdjacency||ExerciseTemplate}}\\n{{Ex:EmptyMacroCall||ExerciseTemplate}}\\n{{Ex:MacroPosition||ExerciseTemplate}}"
+msgstr "{{Ex:PrettyWikipediaLink||ExerciseTemplate}}\\n{{Ex:MacroAdjacency||ExerciseTemplate}}\\n{{Ex:EmptyMacroCall||ExerciseTemplate}}\\n{{Ex:MacroPosition||ExerciseTemplate}}"
+
+#. type: text
+#: tiddlers_en/Macros.json:9
+#, no-wrap
+msgid "!! Takeaways"
+msgstr "!! Para recordar"
+
+#. type: text
+#: tiddlers_en/Macros.json:9
+#, no-wrap
+msgid "{{||TakeawaysTemplate}}"
+msgstr "{{||TakeawaysTemplate}}"
+
+#. type: human_title
+#: tiddlers_en/Macros.json:10
+#, no-wrap
+msgid "Macros"
+msgstr "Macros"
