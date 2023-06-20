@@ -23,7 +23,7 @@ def generate_book_plugin(tiddlers_dir: str, orig_plugin_file: str):
 
 
 def fs_sanitize(filename_raw: str):
-    return re.sub("[^a-zA-Z0-9$,?_.: -]", "_", filename_raw)
+    return re.sub("[^a-zA-Z0-9$,?_.:-]", "_", filename_raw)
 
 
 def extract_plugin_tiddlers(plugin_text: str):
