@@ -1,0 +1,47 @@
+# Spanish translations for Grok TiddlyWiki package
+# Copyright (C) 2023 Javier Rojas
+# This file is distributed under the same license as the Grok TiddlyWiki package.
+# Automatically generated, 2023.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Grok TiddlyWiki VERSION\n"
+"POT-Creation-Date: 2023-06-22 09:15-0500\n"
+"PO-Revision-Date: 2023-06-22 09:35-0500\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. type: text
+#: tiddlers_en/SavingProgress.json:7
+#, no-wrap
+msgid "If you're currently viewing this page on the web, you should download a copy now by clicking the save icon at the end of this paragraph: {{$:/core/ui/Buttons/save-wiki}}"
+msgstr "Si está viendo esta página desde la red, debe descargar una copia, presionando el botón de guardar al final de este párrafo: {{$:/core/ui/Buttons/save-wiki}}"
+
+#. type: text
+#: tiddlers_en/SavingProgress.json:7
+#, no-wrap
+msgid "You are free to modify your saved copy for personal use, and to share unmodified copies with others, but not to redistribute modified versions or earn money from redistribution. See the [[copyright notice|Copyright]] for details."
+msgstr "Usted puede modificar esta copia para su uso personal, y también compartir copias sin cambios a otros, pero no puede redistribuir versiones modificadas o ganar dinero mediante su redistribución. Revise el [[aviso de copyright|Copyright]] para más detalles."
+
+#. type: text
+#: tiddlers_en/SavingProgress.json:7
+#, no-wrap
+msgid "Since the point of having your own copy is being able to edit the wiki to save your progress, you'll also need a way to save changes to the file. The most convenient way is to [[load the file up in TiddlyDesktop|Installing TiddlyWiki]], just like the wiki you'll be doing exercises in. Once you've done that, close out of //Grok TiddlyWiki// in your web browser and pick up where you left off in TiddlyDesktop (you can use the //Outline// link in the upper-right to quickly find your spot again). In the future, open the book in TiddlyDesktop rather than on the web."
+msgstr "Como el objetivo de tener una copia propia es poder editar el wiki para guardar sus avances, también necesitará de algún mecanismo para guardar los cambios al wiki. La forma más conveniente de hacerlo es [[abrir el archivo en TiddlyDesktop|Installing TiddlyWiki]], tal como hizo con el wiki en el que hará sus ejercicios. Una vez haya hecho esto, cierre el //Grok TiddlyWiki// en su navegador y reanude desde donde estaba, en TiddlyDesktop (Puede usar el enlace al //Sumario// arriba a la derecha para ubicarse rápidamente en donde estaba.) A partir de ahora, abra el libro en TiddlyDesktop en lugar de la versión web."
+
+#. type: text
+#: tiddlers_en/SavingProgress.json:7
+#, no-wrap
+msgid "Be sure to save your changes when you close the book for a while; TiddlyDesktop will prompt you to do so when you close the window."
+msgstr "Asegúrese de guardar sus cambios cuando cierre el libro; TiddlyDesktop le pedirá hacerlo cuando cierre la ventana."
+
+#. type: human_title
+#: tiddlers_en/SavingProgress.json:8
+#, no-wrap
+msgid "SavingProgress"
+msgstr "GuardarAvances"

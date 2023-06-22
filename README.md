@@ -43,6 +43,7 @@ Traducciones usuales:
   * journal: bitácora
   * meeting notes: minutas
   * saver: mecanismo de guardado
+  * outline: sumario; de acuerdo a la RAE: «Resumen, compendio o suma.»
   * cambie las comillas dobles (\\u201c: “ y \\u201d ”) por comillas francesas:
     «», cuando las vea en alguna frase.
 

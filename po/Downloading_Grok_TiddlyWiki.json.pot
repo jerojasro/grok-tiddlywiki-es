@@ -1,0 +1,41 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Javier Rojas
+# This file is distributed under the same license as the Grok TiddlyWiki package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Grok TiddlyWiki VERSION\n"
+"POT-Creation-Date: 2023-06-22 09:07-0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: description
+#: tiddlers_en/Downloading_Grok_TiddlyWiki.json:4
+#, no-wrap
+msgid "How to make a copy of this book so you can save your progress."
+msgstr ""
+
+#. type: text
+#: tiddlers_en/Downloading_Grok_TiddlyWiki.json:9
+#, no-wrap
+msgid "//Grok TiddlyWiki// is a TiddlyWiki itself, as you may have noticed or suspected by now. To get the full value out of GTW, you'll want to create your own copy of this wiki; this will allow GTW to save information about your progress and personalize the book for you. If you don't create a copy, you won't be able to keep track of which exercises you've completed, review takeaways, create bookmarks, or save your place when you stop reading."
+msgstr ""
+
+#. type: text
+#: tiddlers_en/Downloading_Grok_TiddlyWiki.json:9
+#, no-wrap
+msgid "{{SavingProgress}}"
+msgstr ""
+
+#. type: human_title
+#: tiddlers_en/Downloading_Grok_TiddlyWiki.json:10
+#, no-wrap
+msgid "Downloading Grok TiddlyWiki"
+msgstr ""

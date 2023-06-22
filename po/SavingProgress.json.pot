@@ -1,0 +1,47 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Javier Rojas
+# This file is distributed under the same license as the Grok TiddlyWiki package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Grok TiddlyWiki VERSION\n"
+"POT-Creation-Date: 2023-06-22 09:15-0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: text
+#: tiddlers_en/SavingProgress.json:7
+#, no-wrap
+msgid "If you're currently viewing this page on the web, you should download a copy now by clicking the save icon at the end of this paragraph: {{$:/core/ui/Buttons/save-wiki}}"
+msgstr ""
+
+#. type: text
+#: tiddlers_en/SavingProgress.json:7
+#, no-wrap
+msgid "You are free to modify your saved copy for personal use, and to share unmodified copies with others, but not to redistribute modified versions or earn money from redistribution. See the [[copyright notice|Copyright]] for details."
+msgstr ""
+
+#. type: text
+#: tiddlers_en/SavingProgress.json:7
+#, no-wrap
+msgid "Since the point of having your own copy is being able to edit the wiki to save your progress, you'll also need a way to save changes to the file. The most convenient way is to [[load the file up in TiddlyDesktop|Installing TiddlyWiki]], just like the wiki you'll be doing exercises in. Once you've done that, close out of //Grok TiddlyWiki// in your web browser and pick up where you left off in TiddlyDesktop (you can use the //Outline// link in the upper-right to quickly find your spot again). In the future, open the book in TiddlyDesktop rather than on the web."
+msgstr ""
+
+#. type: text
+#: tiddlers_en/SavingProgress.json:7
+#, no-wrap
+msgid "Be sure to save your changes when you close the book for a while; TiddlyDesktop will prompt you to do so when you close the window."
+msgstr ""
+
+#. type: human_title
+#: tiddlers_en/SavingProgress.json:8
+#, no-wrap
+msgid "SavingProgress"
+msgstr ""
