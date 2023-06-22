@@ -40,6 +40,11 @@ Traducciones usuales:
 
   * dollar sign: signo de peso
   * takeaways: para recordar
+  * journal: bitácora
+  * meeting notes: minutas
+  * saver: mecanismo de guardado
+  * cambie las comillas dobles (\\u201c: “ y \\u201d ”) por comillas francesas:
+    «», cuando las vea en alguna frase.
 
 # about po4a and the custom TiddlyWiki parser
 

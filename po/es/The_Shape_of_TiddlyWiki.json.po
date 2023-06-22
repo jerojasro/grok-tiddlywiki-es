@@ -1,0 +1,65 @@
+# Spanish translations for Grok TiddlyWiki package
+# Copyright (C) 2023 Javier Rojas
+# This file is distributed under the same license as the Grok TiddlyWiki package.
+# Automatically generated, 2023.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Grok TiddlyWiki VERSION\n"
+"POT-Creation-Date: 2023-06-20 08:58-0500\n"
+"PO-Revision-Date: 2023-06-20 11:20-0500\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. type: text
+#: tiddlers_en/The_Shape_of_TiddlyWiki.json:11
+#, no-wrap
+msgid "Welcome to TiddlyWiki! This first chapter will help you get your bearings. At the end of it, you will have a fully functional and useful sample wiki; it just won't take advantage of many of the features that [[make TiddlyWiki special|Why TiddlyWiki?]]."
+msgstr "¡Bienvenide a TiddlyWiki! Este primer capítulo le ayudará a ubicarse. Al finalizarlo tendrá un wiki de ejemplo completamente funcional y útil; aunque aún no hará uso de muchas de las características que [[hacen de TiddlyWiki algo especial|Why TiddlyWiki?]]."
+
+#. type: text
+#: tiddlers_en/The_Shape_of_TiddlyWiki.json:11
+#, no-wrap
+msgid "The chapter has three phases:"
+msgstr "Este capítulo tiene tres etapas:"
+
+#. type: text
+#: tiddlers_en/The_Shape_of_TiddlyWiki.json:11
+#, no-wrap
+msgid "# First, we'll ''set up a sample wiki'' for use in the rest of the book, by [[installing TiddlyWiki|Installing TiddlyWiki]], [[downloading a copy of this book|Downloading Grok TiddlyWiki]], [[exploring the TiddlyWiki interface|The TiddlyWiki Interface]], and [[tweaking settings|Tweaking Your Settings]].\\n# Second, we'll learn about ''five basic concepts'' in TiddlyWiki: [[tiddlers|Tiddlers]], [[fields|Fields]], [[wikitext|Wikitext]], [[links|Links]], and [[tags|Tags]].\\n# Last, we'll go through a ''seven-section tutorial'' to set up the basic structure of the sample wiki, [[gathering requirements|Requirements for the Sample Wiki]], [[outlining the structure of the wiki|Structuring Our Wiki]], and then creating [[journal entries|Journal Tiddlers]], [[contacts|Contact Tiddlers]], [[meeting notes|Meeting Tiddlers]], [[projects|Project Tiddlers]], and [[miscellaneous notes|Knowledge Tiddlers]] in accordance with the requirements and structure. Along the way, you'll learn how to navigate TiddlyWiki's interface, use the basic features of [[wikitext|Wikitext]], and model data in TiddlyWiki."
+msgstr "# Primero, ''armaremos un wiki de ejemplo'' que usaremos durante el resto del libro, [[instalando TiddlyWiki|Installing TiddlyWiki]], [[descargando una copia de este libro|Downloading Grok TiddlyWiki]], [[explorando la interfaz de TiddlyWiki|The TiddlyWiki Interface]], y [[ajustando su configuración|Tweaking Your Settings]].\\n# Luego, aprenderemos ''cinco conceptos básicos'' de TiddlyWiki: [[tiddlers|Tiddlers]], [[campos|Fields]], [[wikitexto|Wikitext]], [[enlaces|Links]], y [[etiquetas|Tags]].\\n# Finalmente, completaremos un ''tutorial de siete partes'' para montar la estructura básica del wiki de ejemplo, [[definiendo qué requerimos|Requirements for the Sample Wiki]], [[delineando la estructura del wiki|Structuring Our Wiki]], y creando [[registros de bitácora|Journal Tiddlers]], [[contactos|Contact Tiddlers]], [[minutas de reunión|Meeting Tiddlers]], [[proyectos|Project Tiddlers]], y [[notas misceláneas|Knowledge Tiddlers]] de acuerdo a los requerimientos y estructura. Sobre la marcha, usted aprenderá a navegar la inferfaz de TiddlyWiki, usar las características básicas del [[wikitexto|Wikitext]], y a estructurar datos en TiddlyWiki."
+
+#. type: text
+#: tiddlers_en/The_Shape_of_TiddlyWiki.json:11
+#, no-wrap
+msgid "This chapter will be unusual in that it will include few exercises. Instead, you'll be working nonstop in your sample wiki as you read. Once we move into chapter 2, we'll switch to discussing some concepts and then turning you loose to try them out on your own."
+msgstr "Este capítulo es atípico, porque incluye pocos ejercicios. En lugar de ellos, usted trabajará continuamente en su wiki de ejemplo a medida que avance. Una vez lleguemos al capítulo 2, empezaremos a discutir conceptos y permitirle a usted aplicarlos por sí mismo."
+
+#. type: text
+#: tiddlers_en/The_Shape_of_TiddlyWiki.json:11
+#, no-wrap
+msgid "If you haven't yet read [[How to Use This Book]] or watched the video tour there, you may wish to do so now. If you're feeling impatient, you can figure out how it works as you go along and return to that section later if needed."
+msgstr "Si aún no ha leído [[Cómo Usar Este Libro|How to Use This Book]] o no ha visto el video //tour// mencionado allí, tal vez quiera hacerlo ahora. Si tiene impaciencia, puede ir descubriendo cómo funciona todo a medida que avance aquí y visitar esa sección luego si es necesario."
+
+#. type: text
+#: tiddlers_en/The_Shape_of_TiddlyWiki.json:11
+#, no-wrap
+msgid "!! In this chapter"
+msgstr "!! En este capítulo"
+
+#. type: text
+#: tiddlers_en/The_Shape_of_TiddlyWiki.json:11
+#, no-wrap
+msgid "{{||ChapterOutlineTemplate}}"
+msgstr "{{||ChapterOutlineTemplate}}"
+
+#. type: human_title
+#: tiddlers_en/The_Shape_of_TiddlyWiki.json:12
+#, no-wrap
+msgid "The Shape of TiddlyWiki"
+msgstr "Un Vistazo a TiddlyWiki"
