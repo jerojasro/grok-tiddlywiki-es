@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Grok TiddlyWiki VERSION\n"
-"POT-Creation-Date: 2023-06-20 11:21-0500\n"
-"PO-Revision-Date: 2023-06-22 08:30-0500\n"
+"POT-Creation-Date: 2023-06-22 08:37-0500\n"
+"PO-Revision-Date: 2023-06-22 08:39-0500\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: es\n"
@@ -15,6 +15,12 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. type: description
+#: tiddlers_en/Installing_TiddlyWiki.json:4
+#, no-wrap
+msgid "How to get TiddlyWiki set up on your computer."
+msgstr "Cómo configurar TiddlyWiki en su computador."
 
 #. type: text
 #: tiddlers_en/Installing_TiddlyWiki.json:9

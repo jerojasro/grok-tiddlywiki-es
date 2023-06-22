@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.2.2\n"
-"POT-Creation-Date: 2023-06-16 20:18-0500\n"
-"PO-Revision-Date: 2023-06-17 19:58-0500\n"
+"POT-Creation-Date: 2023-06-22 08:37-0500\n"
+"PO-Revision-Date: 2023-06-22 08:46-0500\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: es\n"
@@ -16,6 +16,12 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Poedit 3.2.2\n"
+
+#. type: description
+#: tiddlers_en/Macros.json:4
+#, no-wrap
+msgid "Macros extend the concept of variables by allowing portions of the value to change each time the macro is referenced."
+msgstr "Las macros extienden el concepto de variables permitiendo que algunas partes de la salida cambien cada vez que se usa la macro."
 
 #. type: text
 #: tiddlers_en/Macros.json:9

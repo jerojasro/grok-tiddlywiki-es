@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Grok TiddlyWiki VERSION\n"
-"POT-Creation-Date: 2023-06-20 08:58-0500\n"
+"POT-Creation-Date: 2023-06-22 08:37-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -15,6 +15,12 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+
+#. type: description
+#: tiddlers_en/The_Shape_of_TiddlyWiki.json:5
+#, no-wrap
+msgid "In which we download and install TiddlyWiki, learn the basics of TiddlyWiki's data model, and begin creating some tiddlers in a sample wiki."
+msgstr ""
 
 #. type: text
 #: tiddlers_en/The_Shape_of_TiddlyWiki.json:11

@@ -47,6 +47,14 @@ sub parse {
             $par = $self->translate( $quoted_text, $ref, "human_title" );
             $self->pushline('  "human_title": ' . '"' . $par . '"' . $post_text . "\n" );
 
+        } elsif ( $line =~ /^  "description": "/ ) {
+            $line =~ m/^  "description": "(.*)"(,?)$/;
+            my $quoted_text = $1;
+            my $post_text = $2;
+
+            $par = $self->translate( $quoted_text, $ref, "description" );
+            $self->pushline('  "description": ' . '"' . $par . '"' . $post_text . "\n" );
+
         } elsif ( $line =~ /^  "answer": "/ ) {
             $line =~ m/^  "answer": "(.*)"(,?)$/;
             my $quoted_text = $1;

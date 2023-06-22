@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Grok TiddlyWiki VERSION\n"
-"POT-Creation-Date: 2023-06-17 19:51-0500\n"
+"POT-Creation-Date: 2023-06-22 08:37-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -15,6 +15,12 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+
+#. type: description
+#: tiddlers_en/Macros.json:4
+#, no-wrap
+msgid "Macros extend the concept of variables by allowing portions of the value to change each time the macro is referenced."
+msgstr ""
 
 #. type: text
 #: tiddlers_en/Macros.json:9
