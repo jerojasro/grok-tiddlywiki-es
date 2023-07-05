@@ -56,3 +56,12 @@ translatable strings: that resides in the `Tiddlywiki.pm` file in this repo.
 
 To let po4a use it, copy `Tiddlywiki.pm` to the directory where po4a searches
 for its parsers; in a Debian system, this is `/usr/share/perl5/Locale/Po4a/`.
+
+# po4a and alpine linux
+
+```
+apk add po4a diffutils perl-json
+cd /usr/local/lib/perl5/site_perl/
+mkdir -p Locale/Po4a/
+cp Tiddlywiki.pm /usr/local/lib/perl5/site_perl/Locale/Po4a/
+```
