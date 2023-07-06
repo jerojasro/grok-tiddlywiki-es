@@ -43,9 +43,10 @@ Traducciones usuales:
   * journal: bitácora
   * meeting notes: minutas
   * saver: mecanismo de guardado
+  * story river: sección principal
   * sidebar: barra lateral
   * outline: sumario; de acuerdo a la RAE: «Resumen, compendio o suma.»
-  * cambie las comillas dobles (\\u201c: “ y \\u201d ”) por comillas francesas:
+  * cambie las comillas dobles (\\u201c “ y \\u201d ”) por comillas francesas:
     «», cuando las vea en alguna frase.
 
 Para traducir enlaces que usen el título literal de un tiddler ---por ejemplo
