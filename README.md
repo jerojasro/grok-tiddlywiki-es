@@ -43,9 +43,16 @@ Traducciones usuales:
   * journal: bitácora
   * meeting notes: minutas
   * saver: mecanismo de guardado
+  * sidebar: barra lateral
   * outline: sumario; de acuerdo a la RAE: «Resumen, compendio o suma.»
   * cambie las comillas dobles (\\u201c: “ y \\u201d ”) por comillas francesas:
     «», cuando las vea en alguna frase.
+
+Para traducir enlaces que usen el título literal de un tiddler ---por ejemplo
+[[Looking Under the Hood]]---, use la macro `ttlink`; en el ejemplo dado,
+`<<ttlink 'Looking Under the Hood'>>`; esa macro pone el título traducido
+(`human_title`) si ya está definido, y en su defecto pone el link con el título
+normal del tiddler.
 
 # about po4a and the custom TiddlyWiki parser
 

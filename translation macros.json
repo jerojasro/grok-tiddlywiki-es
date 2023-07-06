@@ -1,0 +1,1 @@
+[{"created":"20230705171333065","text":"\\define ttlink(tidName)\n<$link to=\"$tidName$\"><$text text={{{[[$tidName$]get[human_title]else[$tidName$]]}}}/></$link>\n\\end","tags":"$:/tags/Macro","title":"translation macros","modified":"20230706171515664"}]

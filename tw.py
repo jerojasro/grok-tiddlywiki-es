@@ -4,6 +4,8 @@ import re
 
 from pathlib import Path
 
+extra_tiddlers = ['translation macros.json']
+
 
 def generate_book_plugin(tiddlers_dir: str, orig_plugin_file: str):
     with open(orig_plugin_file) as pf:
@@ -13,6 +15,13 @@ def generate_book_plugin(tiddlers_dir: str, orig_plugin_file: str):
 
     for translated_tiddler in Path(tiddlers_dir).glob("*.json"):
         tiddler = json.load(translated_tiddler.open())
+        tiddlers['tiddlers'][tiddler["title"]] = tiddler
+        print('added ' + tiddler["title"])
+
+    global extra_tiddlers
+    for plugin_tiddler in extra_tiddlers:
+        t = open(plugin_tiddler)
+        tiddler = json.load(t)[0]
         tiddlers['tiddlers'][tiddler["title"]] = tiddler
         print('added ' + tiddler["title"])
 
