@@ -1,0 +1,83 @@
+# Spanish translations for Grok TiddlyWiki package
+# Copyright (C) 2023 Javier Rojas
+# This file is distributed under the same license as the Grok TiddlyWiki package.
+# Automatically generated, 2023.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Grok TiddlyWiki VERSION\n"
+"POT-Creation-Date: 2023-07-05 16:03+0000\n"
+"PO-Revision-Date: 2023-07-05 16:03+0000\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. type: description
+#: tiddlers_en/The_TiddlyWiki_Interface.json:4
+#, no-wrap
+msgid "Study an annotated screenshot of TiddlyWiki's interface to help you put names to what you're seeing."
+msgstr "Revise una captura de pantalla de la interfaz de Tiddlywiki para ayudarle a nombrar lo que ve en ella."
+
+#. type: text
+#: tiddlers_en/The_TiddlyWiki_Interface.json:9
+#, no-wrap
+msgid "Let's take a quick look at the interface of a brand-new TiddlyWiki, in annotated form:"
+msgstr "Demos una mirada rápida a la interfaz de un TiddlyWiki completamente nuevo, con la ayuda de algunas indicaciones:"
+
+#. type: text
+#: tiddlers_en/The_TiddlyWiki_Interface.json:9
+#, no-wrap
+msgid "<$link to=\\\"interface.png\\\">{{interface.png}}</$link>"
+msgstr "<$link to=\\\"interface.png\\\">{{interface.png}}</$link>"
+
+#. type: text
+#: tiddlers_en/The_TiddlyWiki_Interface.json:9
+#, no-wrap
+msgid "Before we get started, it's worth pointing out that the interface of TiddlyWiki is highly customizable and extensible, as we will learn in chapter 6, [[Looking Under the Hood]]. If you carefully compare the screenshot above to the interface of //Grok TiddlyWiki//, you'll notice some differences -- for instance, many toolbars will have a different set of buttons, and the tabs in the sidebar will be different. The interface described in this section and in the remainder of the book is that of a stock `empty.html` TiddlyWiki downloaded from https://tiddlywiki.com, except where we change it during the course of the exercises. To avoid confusion, use the example wiki you created in [[Installing TiddlyWiki]] anytime you want to study the interface or see how TiddlyWiki behaves by default."
+msgstr "Antes de que empecemos, vale la pena mencionar que la interfaz de TiddlyWiki es altamente personalizable y extensible, como veremos en detalle en el capítulo 6, <<ttlink 'Looking Under the Hood'>>. Si compara detalladamente la captura de pantalla mostrada con la interfaz de //Grok TiddlyWiki//, notará algunas diferencias -- por ejemplo, muchas barras de herramientas tienen botones diferentes, y las pestañas en la barra lateral serán diferentes. La interfaz descrita en esta sección y en el resto del libro será la de un TiddlyWiki `empty.html` «de fábrica» descargado desde https://tiddlywiki.com, descontando los cambios que hagamos como parte de nuestros ejercicios. Para evitar cualquier confusión, use el wiki de ejemplo que creó en <<ttlink 'Installing TiddlyWiki'>> siempre que desee estudiar la interfaz de TiddlyWiki o ver cómo se comporta TiddlyWiki de manera predeterminada."
+
+#. type: text
+#: tiddlers_en/The_TiddlyWiki_Interface.json:9
+#, no-wrap
+msgid "With that out of the way, take a look at the screenshot again. You can see that the screen is divided into two parts, the ''story river'' (red highlight) and the ''sidebar'' (magenta highlight). If your screen is too narrow to show both side-by-side (for instance, if you're viewing the wiki on a smartphone), the sidebar will come at the top of the page and the story river below it."
+msgstr "Dicho eso, revisemos de nuevo esa captura de pantalla. Puede ver que la pantalla está dividida en dos partes, la ''sección principal'' (resaltada en rojo) y la ''barra lateral'' (resaltada en magenta). Si la pantalla es demasiado estrecha para mostrar ambas secciones una al lado de la otra (como sucede usualmente con un teléfono inteligente), la barra lateral aparecerá en la parte superior de la pantalla y la sección principal debajo de ella."
+
+#. type: text
+#: tiddlers_en/The_TiddlyWiki_Interface.json:9
+#, no-wrap
+msgid "The story river shows the tiddlers which are currently open. We'll talk more about [[tiddlers|Tiddlers]] and their function in a moment; for now, just think of them as containers for the content of your wiki, like files or sheets of paper. When you open a new tiddler, it gets a new \\u201ccard\\u201d over in the story river and leaves existing tiddlers open, so you can easily work with several tiddlers at once. The toolbar in the upper-right corner of each tiddler (the ''view toolbar'') lets you edit it, close it, delete it, get a link to it, collapse it, and so on."
+msgstr "La sección principal muestra los tiddlers abiertos. Hablaremos más acerca de [[tiddlers|Tiddlers]] y sus funciones en breve; por ahora, simplemente considérelos contenedores para el contenido en su wiki, como archivos u hojas de papel. Cuando usted crea un nuevo tiddler, éste aparece en una nueva «tarjeta» en la sección principal, conservando los tiddlers que ya se encontraban abiertos, permitiendo así trabajar con varios tiddlers simultáneamente. La barra de herramientas en la esquina superior derecha de cada tiddler (la ''barra de herramientas'' de vista) le permite editarlo, cerrarlo, borrarlo, obtener un enlace directo al tiddler, colapsarlo, etc."
+
+#. type: text
+#: tiddlers_en/The_TiddlyWiki_Interface.json:9
+#, no-wrap
+msgid "The sidebar allows you to navigate to tiddlers that you don't have open and take various system actions. The toolbar at the top-right (the ''page toolbar'') lets you create new tiddlers, adjust options, and save your wiki by default, but it's possible to customize what buttons show up here. Then there is a fast full-text search for all tiddlers in the wiki; we'll discuss this in the [[Searching]] section. Last come four tabs which contain the majority of the sidebar's functionality:"
+msgstr "La barra lateral le permite navegar a otros tiddlers que no están abiertos actualmente, y realizar varias acciones de sistema. La barra de herramientas en la esquina superior derecha (la ''barra de herramientas de página'') le permite ---de manera predeterminada--- crear nuevos tiddlers, ajustar opciones, y guardar su wiki, aunque es posible personalizar qué botones aparecen aquí. Luego está la interfaz de búsqueda sobre todos los tiddlers en el wiki; la discutiremos en la sección <<ttlink 'Searching'>>. Finalmente están cuatro pestañas que contienen la mayor parte de la funcionalidad de la barra lateral:"
+
+#. type: text
+#: tiddlers_en/The_TiddlyWiki_Interface.json:9
+#, no-wrap
+msgid "; Open\\n: A concise list of the tiddlers in the story river, useful if you have a ton of them open at once or you want to reorder them (just drag and drop).\\n; Recent\\n: A list of tiddlers you've changed recently.\\n; Tools\\n: A list of system actions like importing content, advanced search, changing the colors, and so on. You can place the tools you use most frequently on the page toolbar by checking or unchecking the box next to each tool.\\n; More\\n: A variety of other ways to find tiddlers, which we'll discuss in detail in [[Browsing Your Tiddlers]]."
+msgstr "; Open (Abiertos)\\n: Un listado de los tiddlers en la sección principal, útil si tiene muchos abiertos o si quiere reorganizarlos (arrastre y suéltelos).\\n; Recent (Recientes)\\n: Listado de tiddlers que usted ha modificado recientemente.\\n; Tools (Herramientas)\\n: Listado de acciones del sistema, como importar contenido, búsqueda avanzada, ajustar colores y otras. Puede ubicar las herramientas que use con frecuencia en la barra de herramientas de la página marcando o desmarcando la casilla de verificación frente a cada una.\\n; More (Más)\\n: Varias formar de ubicar tiddlers, que discutiremos en detalle en <<ttlink 'Browsing Your Tiddlers'>>."
+
+#. type: text
+#: tiddlers_en/The_TiddlyWiki_Interface.json:9
+#, no-wrap
+msgid "\\n!! Takeaways"
+msgstr "\\n!! Para recordar"
+
+#. type: text
+#: tiddlers_en/The_TiddlyWiki_Interface.json:9
+#, no-wrap
+msgid "{{||TakeawaysTemplate}}\\n"
+msgstr "{{||TakeawaysTemplate}}\\n"
+
+#. type: human_title
+#: tiddlers_en/The_TiddlyWiki_Interface.json:10
+#, no-wrap
+msgid "The TiddlyWiki Interface"
+msgstr "La Interfaz de TiddlyWiki"
