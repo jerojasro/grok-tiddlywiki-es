@@ -1,0 +1,35 @@
+# Spanish translations for Grok TiddlyWiki package
+# Copyright (C) 2023 Javier Rojas
+# This file is distributed under the same license as the Grok TiddlyWiki package.
+# Automatically generated, 2023.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Grok TiddlyWiki VERSION\n"
+"POT-Creation-Date: 2023-07-06 23:14+0000\n"
+"PO-Revision-Date: 2023-07-06 23:14+0000\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. type: answer
+#: tiddlers_en/Ta:20210110165730167.json:3
+#, no-wrap
+msgid "The double right arrow in the far upper-right corner."
+msgstr "En la flecha doble que apunta a la derecha, en la esquina superior derecha."
+
+#. type: question
+#: tiddlers_en/Ta:20210110165730167.json:8
+#, no-wrap
+msgid "Where in TiddlyWiki would you click to hide the sidebar if you wanted more horizontal space?"
+msgstr "¿En dónde debe hacer clic en TiddlyWiki si quiere ocultar la barra lateral para tener más espacio horizontal?"
+
+#. type: human_title
+#: tiddlers_en/Ta:20210110165730167.json:11
+#, no-wrap
+msgid "Ta:20210110165730167"
+msgstr "Ta:20210110165730167"

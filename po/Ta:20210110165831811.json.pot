@@ -1,0 +1,35 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Javier Rojas
+# This file is distributed under the same license as the Grok TiddlyWiki package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Grok TiddlyWiki VERSION\n"
+"POT-Creation-Date: 2023-07-06 23:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: answer
+#: tiddlers_en/Ta:20210110165831811.json:3
+#, no-wrap
+msgid "The //view toolbar//."
+msgstr ""
+
+#. type: question
+#: tiddlers_en/Ta:20210110165831811.json:8
+#, no-wrap
+msgid "What is the toolbar in the upper-right corner of each tiddler when viewing it called?"
+msgstr ""
+
+#. type: human_title
+#: tiddlers_en/Ta:20210110165831811.json:11
+#, no-wrap
+msgid "Ta:20210110165831811"
+msgstr ""
