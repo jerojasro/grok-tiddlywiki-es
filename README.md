@@ -32,19 +32,7 @@ So, to resolve this, I will:
   * Adjust the tiddlywiki templates in the translated version of the book, to
     use the human title in places where humans will see them.
 
-# Notas para traductores
-
-El lector/a es «usted»; no lo tutee.
-
-Traducciones usuales:
-
-  * dollar sign: signo de peso
-  * takeaways: para recordar
-  * journal: bitácora
-  * meeting notes: minutas
-  * saver: mecanismo de guardado
-  * story river: sección principal
-  * sidebar: barra lateral
+a
   * outline: sumario; de acuerdo a la RAE: «Resumen, compendio o suma.»
   * cambie las comillas dobles (\\u201c “ y \\u201d ”) por comillas francesas:
     «», cuando las vea en alguna frase.

@@ -1,0 +1,36 @@
+# Spanish translations for Grok TiddlyWiki package
+# Copyright (C) 2023 Javier Rojas
+# This file is distributed under the same license as the Grok TiddlyWiki package.
+# Automatically generated, 2023.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Grok TiddlyWiki VERSION\n"
+"POT-Creation-Date: 2023-07-06 23:14+0000\n"
+"PO-Revision-Date: 2023-07-06 23:14+0000\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. type: answer
+#: tiddlers_en/Ta:20210110165952850.json:3
+#, no-wrap
+msgid "The //Tools// tab (check or uncheck items to control their placement on the toolbar)."
+msgstr "La pestaña //Herramientas// ()"
+
+#. type: question
+#: tiddlers_en/Ta:20210110165952850.json:8
+#, no-wrap
+msgid "Where in the sidebar can you choose which tools appear on the page toolbar?"
+msgstr ""
+
+#. type: human_title
+#: tiddlers_en/Ta:20210110165952850.json:11
+#, fuzzy, no-wrap
+#| msgid "Ta:20201231005359085"
+msgid "Ta:20210110165952850"
+msgstr "Ta:20201231005359085"
